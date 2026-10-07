@@ -1,0 +1,35 @@
+# v2: cbis_ddsm_roi.yaml's val_auc-selected checkpoint scored below the
+# majority-class baseline (61%) on test accuracy -- class-weighted loss was
+# trading accuracy for balanced sensitivity. This version drops class
+# weighting and lowers dropout/increases patience so the model can actually
+# fit the (mildly imbalanced, 58/42) patch data.
+dataset_name: cbis_ddsm_roi
+data_dir: data/processed/cbis_ddsm_roi
+class_names: ["benign", "malignant"]
+num_classes: 2
+image_size: 224
+
+model:
+  arch: resnet18
+  pretrained: true
+  dropout: 0.2
+
+train:
+  batch_size: 32
+  epochs: 60
+  lr: 0.0003
+  weight_decay: 0.0002
+  num_workers: 0
+  use_class_weights: false
+  early_stopping_patience: 15
+  seed: 42
+  freeze_backbone_epochs: 3
+  label_smoothing: 0.0
+  amp: true
+
+output:
+  checkpoint_dir: outputs/checkpoints
+  log_dir: outputs/logs
+  run_name: cbis_ddsm_roi_v2
+
+decision_threshold: 0.5

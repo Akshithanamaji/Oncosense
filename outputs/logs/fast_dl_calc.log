@@ -1,0 +1,80 @@
+FAILED Calc-Training_P_00683_RIGHT_MLO: ("Connection broken: ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None)", ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+FAILED Calc-Training_P_00729_LEFT_CC: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+FAILED Calc-Training_P_00658_LEFT_CC: ("Connection broken: ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None)", ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+FAILED Calc-Training_P_00713_LEFT_CC: ("Connection broken: ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None)", ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+FAILED Calc-Training_P_00725_LEFT_MLO: ("Connection broken: ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None)", ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+FAILED Calc-Training_P_00655_RIGHT_CC: ("Connection broken: ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None)", ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+FAILED Calc-Training_P_00725_LEFT_CC: ("Connection broken: ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None)", ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+FAILED Calc-Training_P_00666_LEFT_CC: ("Connection broken: ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None)", ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+FAILED Calc-Training_P_00705_LEFT_MLO: ("Connection broken: ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None)", ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+FAILED Calc-Training_P_00693_LEFT_MLO: ("Connection broken: ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None)", ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+FAILED Calc-Training_P_00639_RIGHT_MLO: ("Connection broken: ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None)", ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+FAILED Calc-Training_P_00712_RIGHT_MLO: ("Connection broken: ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None)", ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+FAILED Calc-Training_P_00712_RIGHT_CC: ("Connection broken: ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None)", ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+FAILED Calc-Training_P_00674_RIGHT_CC: ("Connection broken: ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None)", ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+1265 total series for tag(s) Calc-Training,Calc-Test; 1265 remaining to download
+progress: 20/1265 (20 ok, 0 failed) in 36s
+progress: 40/1265 (40 ok, 0 failed) in 56s
+progress: 60/1265 (60 ok, 0 failed) in 80s
+progress: 80/1265 (80 ok, 0 failed) in 110s
+progress: 100/1265 (100 ok, 0 failed) in 143s
+progress: 120/1265 (120 ok, 0 failed) in 163s
+progress: 140/1265 (140 ok, 0 failed) in 193s
+progress: 160/1265 (160 ok, 0 failed) in 219s
+progress: 180/1265 (180 ok, 0 failed) in 243s
+progress: 200/1265 (200 ok, 0 failed) in 266s
+progress: 220/1265 (220 ok, 0 failed) in 296s
+progress: 240/1265 (240 ok, 0 failed) in 322s
+progress: 260/1265 (260 ok, 0 failed) in 348s
+progress: 280/1265 (280 ok, 0 failed) in 379s
+progress: 300/1265 (300 ok, 0 failed) in 404s
+progress: 320/1265 (320 ok, 0 failed) in 428s
+progress: 340/1265 (340 ok, 0 failed) in 446s
+progress: 360/1265 (360 ok, 0 failed) in 467s
+progress: 380/1265 (380 ok, 0 failed) in 491s
+progress: 400/1265 (400 ok, 0 failed) in 510s
+progress: 420/1265 (420 ok, 0 failed) in 531s
+progress: 440/1265 (440 ok, 0 failed) in 551s
+progress: 460/1265 (460 ok, 0 failed) in 572s
+progress: 480/1265 (469 ok, 11 failed) in 583s
+progress: 500/1265 (486 ok, 14 failed) in 614s
+progress: 520/1265 (506 ok, 14 failed) in 631s
+progress: 540/1265 (526 ok, 14 failed) in 645s
+progress: 560/1265 (546 ok, 14 failed) in 666s
+progress: 580/1265 (566 ok, 14 failed) in 685s
+progress: 600/1265 (586 ok, 14 failed) in 702s
+progress: 620/1265 (606 ok, 14 failed) in 721s
+progress: 640/1265 (626 ok, 14 failed) in 743s
+progress: 660/1265 (646 ok, 14 failed) in 765s
+progress: 680/1265 (666 ok, 14 failed) in 782s
+progress: 700/1265 (686 ok, 14 failed) in 805s
+progress: 720/1265 (706 ok, 14 failed) in 827s
+progress: 740/1265 (726 ok, 14 failed) in 851s
+progress: 760/1265 (746 ok, 14 failed) in 875s
+progress: 780/1265 (766 ok, 14 failed) in 899s
+progress: 800/1265 (786 ok, 14 failed) in 914s
+progress: 820/1265 (806 ok, 14 failed) in 935s
+progress: 840/1265 (826 ok, 14 failed) in 956s
+progress: 860/1265 (846 ok, 14 failed) in 976s
+progress: 880/1265 (866 ok, 14 failed) in 997s
+progress: 900/1265 (886 ok, 14 failed) in 1025s
+progress: 920/1265 (906 ok, 14 failed) in 1042s
+progress: 940/1265 (926 ok, 14 failed) in 1063s
+progress: 960/1265 (946 ok, 14 failed) in 1084s
+progress: 980/1265 (966 ok, 14 failed) in 1101s
+progress: 1000/1265 (986 ok, 14 failed) in 1120s
+progress: 1020/1265 (1006 ok, 14 failed) in 1149s
+progress: 1040/1265 (1026 ok, 14 failed) in 1175s
+progress: 1060/1265 (1046 ok, 14 failed) in 1196s
+progress: 1080/1265 (1066 ok, 14 failed) in 1212s
+progress: 1100/1265 (1086 ok, 14 failed) in 1238s
+progress: 1120/1265 (1106 ok, 14 failed) in 1260s
+progress: 1140/1265 (1126 ok, 14 failed) in 1281s
+progress: 1160/1265 (1146 ok, 14 failed) in 1303s
+progress: 1180/1265 (1166 ok, 14 failed) in 1322s
+progress: 1200/1265 (1186 ok, 14 failed) in 1343s
+progress: 1220/1265 (1206 ok, 14 failed) in 1366s
+progress: 1240/1265 (1226 ok, 14 failed) in 1389s
+progress: 1260/1265 (1246 ok, 14 failed) in 1408s
+progress: 1265/1265 (1251 ok, 14 failed) in 1422s
+ALL_DOWNLOADED (failed: 14)

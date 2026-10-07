@@ -1,0 +1,41 @@
+# Experiment v3: improved fine-tuning recipe over cbis_ddsm.yaml / _v2.yaml.
+# Changes vs v2 (see src/model.py, src/train.py, src/datasets.py):
+#   - image_size 512 -> 384 (less overfitting room on ~2k images, faster epochs)
+#   - freeze_backbone_epochs: warm up the classifier head for 3 epochs before
+#     touching pretrained ResNet weights, then fine-tune everything with the
+#     backbone at 0.1x the head's LR (discriminative fine-tuning)
+#   - dropout in the classifier head + label smoothing + RandomResizedCrop/
+#     RandomErasing augmentation, all to fight overfitting on a small dataset
+#   - AdamW + mixed precision (amp) so batch_size can go 8 -> 16
+dataset_name: cbis_ddsm
+data_dir: data/processed/cbis_ddsm
+class_names: ["benign", "malignant"]
+num_classes: 2
+image_size: 384
+
+model:
+  arch: resnet18
+  pretrained: true
+  dropout: 0.4
+
+train:
+  batch_size: 16
+  epochs: 50
+  lr: 0.0003
+  weight_decay: 0.0002
+  num_workers: 0
+  use_class_weights: true
+  early_stopping_patience: 12
+  seed: 42
+  freeze_backbone_epochs: 3
+  label_smoothing: 0.05
+  amp: true
+
+output:
+  checkpoint_dir: outputs/checkpoints
+  log_dir: outputs/logs
+  run_name: cbis_ddsm_v3
+
+# Retune after training via:
+#   python src/evaluate.py --config configs/cbis_ddsm_v3.yaml --split val --find-best-threshold
+decision_threshold: 0.5

@@ -1,0 +1,4 @@
+  (34 already converted, skipped)
+train: 1014 images written (0 rows had no downloaded DICOM yet)
+val:   183 images written (0 rows had no downloaded DICOM yet)
+test:  skipped (no --test-csvs given). Download the Mass-Test / Calc-Test full-mammogram-image manifests and re-run with --test-csvs to fill this in before reporting final numbers.

@@ -1,0 +1,9 @@
+data/raw/
+data/processed/
+outputs/checkpoints/*.pth
+outputs/logs/*.csv
+outputs/gradcam/*.png
+__pycache__/
+*.pyc
+.venv/
+venv/

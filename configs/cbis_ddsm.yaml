@@ -1,0 +1,33 @@
+# Config for CBIS-DDSM full mammogram images (benign vs malignant)
+# Produced by src/prepare_cbis_ddsm.py from your TCIA DICOM download + case CSVs
+dataset_name: cbis_ddsm
+data_dir: data/processed/cbis_ddsm
+class_names: ["benign", "malignant"]
+num_classes: 2
+image_size: 512        # full mammograms need more resolution than histopathology patches
+
+model:
+  arch: resnet18        # adaptive-pool backbone handles 512x512 input fine
+  pretrained: true
+
+train:
+  batch_size: 8          # keep small -- 512x512 RGB batches are heavy on a 4GB laptop GPU
+  epochs: 30
+  lr: 0.0001
+  weight_decay: 0.0001
+  num_workers: 0         # >0 hit a recurring Windows shared-memory DataLoader crash; training is GPU-bound anyway so this costs little
+  use_class_weights: true
+  early_stopping_patience: 7
+  seed: 42
+
+output:
+  checkpoint_dir: outputs/checkpoints
+  log_dir: outputs/logs
+  run_name: cbis_ddsm_resnet18
+
+# Decision threshold for the malignant class, tuned on the VAL split only
+# (never on test) via: python src/evaluate.py --split val --find-best-threshold
+# Measured performance at this threshold (see README for full numbers):
+#   val:  accuracy 0.680, ROC-AUC 0.742
+#   test: accuracy 0.596, ROC-AUC 0.718
+decision_threshold: 0.565

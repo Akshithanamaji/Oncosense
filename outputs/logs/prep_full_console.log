@@ -1,0 +1,4 @@
+  (1728 already converted, skipped)
+train: 349 images written (0 rows had no downloaded DICOM yet)
+val:   381 images written (0 rows had no downloaded DICOM yet)
+test:  399 images written (246 rows had no downloaded DICOM yet)

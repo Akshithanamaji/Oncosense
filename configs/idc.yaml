@@ -1,0 +1,26 @@
+# Config for the IDC (Breast Histopathology Images) dataset
+# Kaggle: paultimothymooney/breast-histopathology-images
+dataset_name: idc
+data_dir: data/processed/idc      # produced by src/prepare_idc.py
+class_names: ["0", "1"]           # 0 = IDC negative, 1 = IDC positive
+num_classes: 2
+image_size: 50
+
+model:
+  arch: simple_cnn                # simple_cnn | resnet18 | efficientnet_b0
+  pretrained: false
+
+train:
+  batch_size: 128
+  epochs: 20
+  lr: 0.001
+  weight_decay: 0.0001
+  num_workers: 4
+  use_class_weights: true         # IDC is ~72/28 imbalanced, weight the loss
+  early_stopping_patience: 5
+  seed: 42
+
+output:
+  checkpoint_dir: outputs/checkpoints
+  log_dir: outputs/logs
+  run_name: idc_simple_cnn

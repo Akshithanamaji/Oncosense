@@ -1,0 +1,15 @@
+# Note: install torch/torchvision separately with the CUDA index for GPU support, e.g.:
+#   pip install torch torchvision --index-url https://download.pytorch.org/whl/cu130
+torch>=2.2.0
+torchvision>=0.17.0
+numpy>=1.26.0
+pandas>=2.2.0
+scikit-learn>=1.4.0
+matplotlib>=3.8.0
+pillow>=10.2.0
+pyyaml>=6.0.1
+tqdm>=4.66.0
+opencv-python>=4.9.0
+pydicom>=2.4.0
+streamlit>=1.30.0
+idc-index>=0.6.0
