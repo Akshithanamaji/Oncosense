@@ -1,5 +1,9 @@
 # Breast Cancer Detection (Major Project)
 
+| Project Overview | Dashboard Preview |
+| --- | --- |
+| Image-based breast cancer classification using deep learning, supporting three interchangeable datasets: CBIS-DDSM, IDC, and BreakHis. Designed for mammogram analysis, patient-wise data splitting, and explainable AI for clinical interpretation. | <img src="assets/oncosense-dashboard.png" alt="Oncosense dashboard preview" width="780" /> |
+
 Image-based breast cancer classification using deep learning, supporting three
 interchangeable datasets:
 
@@ -31,6 +35,7 @@ src/
   train.py            Training loop, early stopping, best-checkpoint saving
   evaluate.py         Test-set metrics: accuracy, F1, ROC-AUC, confusion matrix
   gradcam.py           Grad-CAM heatmaps for interpretability (good for the report/viva)
+  quality.py           Mammogram quality checker: detects corrupted, blurred, or unsuitable inputs
   utils.py             Seeding, checkpoint I/O, running-average helper
 outputs/             Checkpoints, training logs (CSV), Grad-CAM images (gitignored)
 ```
@@ -56,6 +61,19 @@ pip install -r requirements.txt
 # install the CUDA build of torch instead of the default CPU-only wheel:
 pip install torch torchvision --index-url https://download.pytorch.org/whl/cu130
 ```
+
+## Run the web app
+
+From the repository root, start Streamlit with the project environment:
+
+```powershell
+.\.venv\Scripts\python.exe -m streamlit run app.py
+```
+
+Using the environment's Python explicitly avoids starting a different global
+Streamlit version, whose frontend assets may not match the ones cached by the
+browser. After changing Streamlit versions, restart the server and hard-refresh
+the browser (`Ctrl+Shift+R`).
 
 ## 1. Get a dataset
 
@@ -205,14 +223,40 @@ python src/evaluate.py --config configs/cbis_ddsm.yaml
 
 Prints precision/recall/F1 per class, confusion matrix, and ROC-AUC.
 
-## 4. Grad-CAM (interpretability)
+## 4. Grad-CAM (Explainable AI & Interpretability)
 
-```bash
-python src/gradcam.py --config configs/cbis_ddsm.yaml --num-samples 8
-```
+Visualizes which mammographic tissue regions influenced ResNet18's prediction, and evaluates whether highlighted areas correspond to annotated parenchymal lesions versus background/scanner artifacts.
 
-Saves side-by-side original + heatmap-overlay images to `outputs/gradcam/`.
+> **Research Value & Clinical Caveat:**
+> *A heatmap alone does not prove the model is correct.* High classification confidence can arise from shortcut learning (e.g. DICOM text, scanner border lines, chest wall margins). Genuine clinical interpretability requires verifying whether Grad-CAM peak activations localize within authentic parenchymal lesion boundaries.
 
+`ash
+# Evaluate test samples with automated tissue alignment and risk scoring
+python src/gradcam.py --config configs/cbis_ddsm_v3.yaml --num-samples 8 --target-class auto --evaluate-correspondence
+
+# Single image analysis with custom scientific colormap (turbo, jet, viridis, inferno)
+python src/gradcam.py --config configs/cbis_ddsm_v3.yaml --image path/to/mammogram.png --colormap turbo
+`
+
+Outputs:
+- Side-by-side mammogram + Grad-CAM overlays saved to outputs/gradcam/.
+- Quantitative tissue correspondence evaluation CSV saved to outputs/gradcam/gradcam_evaluation_summary.csv.
+- Interactive multi-class attribution, thresholding, and lesion alignment tabs directly inside the **OncoSense Screening Workspace** (pages/Screening.py).
+
+## 5. Mammogram Quality Checker
+
+Screen files before inference for corruption, unsuitable dimensions, poor contrast, blur, and insufficient breast tissue coverage:
+
+> **Research Value:**
+> Tests whether automated pre-inference quality screening successfully filters unsuitable, corrupted, and degraded inputs, preventing diagnostic errors, false positives, and hallucinations on invalid radiological data.
+
+\\ash
+# Check single scan
+python src/quality.py --image path/to/mammogram.png
+
+# Run research benchmark evaluating error reduction on corrupted/unsuitable inputs
+python src/quality.py --benchmark --dataset-dir data/processed/cbis_ddsm/test
+\
 ## Ideas for making this your own (not just a copy of the reference repo)
 
 - Compare `simple_cnn` vs `resnet18` vs `efficientnet_b0` on the same split
@@ -225,3 +269,4 @@ Saves side-by-side original + heatmap-overlay images to `outputs/gradcam/`.
   and returns a prediction + Grad-CAM overlay.
 - Report metrics beyond accuracy (F1, AUC, confusion matrix) — these datasets
   are imbalanced, so accuracy alone is misleading.
+

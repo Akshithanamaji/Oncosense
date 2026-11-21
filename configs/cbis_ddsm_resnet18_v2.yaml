@@ -15,7 +15,7 @@ train:
   epochs: 60
   lr: 0.0001
   weight_decay: 0.0001
-  num_workers: 0
+  num_workers: 4
   use_class_weights: true
   early_stopping_patience: 15
   seed: 42

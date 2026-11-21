@@ -1,0 +1,9 @@
+[client]
+# OncoSense has its own floating pill navbar (and a custom sidebar inside
+# pages/Screening.py). Streamlit's automatic "app / Screening" page list in
+# the sidebar is redundant with it and otherwise flashes briefly on load
+# before the app's injected CSS can hide it. Turning it off here (server
+# config, applied before first paint) removes the flash entirely, instead
+# of hiding it after the fact with CSS.
+showSidebarNavigation = false
+toolbarMode = "minimal"

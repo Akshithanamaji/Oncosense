@@ -10,8 +10,16 @@ def set_seed(seed: int):
     torch.cuda.manual_seed_all(seed)
 
 
-def get_device():
-    return torch.device("cuda" if torch.cuda.is_available() else "cpu")
+def get_device(prefer_cpu: bool = False):
+    if not prefer_cpu and torch.cuda.is_available():
+        try:
+            # Verify CUDA context is alive and current to the thread
+            _t = torch.zeros(1, device="cuda")
+            del _t
+            return torch.device("cuda")
+        except Exception:
+            pass
+    return torch.device("cpu")
 
 
 class AverageMeter:

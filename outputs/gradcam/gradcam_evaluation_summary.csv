@@ -1,0 +1,3 @@
+image,pred_class,p_benign,p_malignant,explained_target,tissue_alignment_pct,peak_inside_tissue,artifact_risk,saved_overlay
+Mass-Test_P_00198_LEFT_CC.png,malignant,0.4599,0.5401,malignant,72.2,True,Moderate Risk (Border / Margin Influence),outputs\gradcam\Mass-Test_P_00198_LEFT_CC_pred_malignant_pMal0.54.png
+Calc-Test_P_00202_RIGHT_CC.png,malignant,0.0038,0.9962,malignant,91.6,True,Low Risk (Strong Tissue Alignment),outputs\gradcam\Calc-Test_P_00202_RIGHT_CC_pred_malignant_pMal1.00.png

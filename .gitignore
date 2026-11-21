@@ -7,3 +7,14 @@ __pycache__/
 *.pyc
 .venv/
 venv/
+
+# Patient screening records (history CSV, saved reports/images) -- never
+# committed, since they can carry real patient-identifiable data.
+outputs/screening_history.csv
+outputs/reports/
+outputs/images/
+outputs/appointments.csv
+outputs/patients.csv
+
+# Local secrets (API keys) -- never committed.
+.env

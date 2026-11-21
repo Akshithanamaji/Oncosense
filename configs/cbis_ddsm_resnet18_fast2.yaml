@@ -1,0 +1,34 @@
+# Second fast iteration: closes some of the gap to cbis_ddsm_v3 (66%/0.73)
+# while staying much faster than v3's 384px/50-epoch recipe. Bumps resolution
+# 224->320 and borrows v3's anti-overfitting tricks (frozen-backbone warmup,
+# dropout, label smoothing) on top of the fast run's batch size / num_workers=0
+# (memory-safe on this machine).
+dataset_name: cbis_ddsm
+data_dir: data/processed/cbis_ddsm
+class_names: ["benign", "malignant"]
+num_classes: 2
+image_size: 320
+
+model:
+  arch: resnet18
+  pretrained: true
+  dropout: 0.3
+
+train:
+  batch_size: 16
+  epochs: 25
+  lr: 0.0003
+  weight_decay: 0.0002
+  num_workers: 0
+  use_class_weights: true
+  early_stopping_patience: 8
+  seed: 42
+  freeze_backbone_epochs: 3
+  label_smoothing: 0.05
+
+output:
+  checkpoint_dir: outputs/checkpoints
+  log_dir: outputs/logs
+  run_name: cbis_ddsm_resnet18_fast2
+
+decision_threshold: 0.5
