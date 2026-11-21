@@ -1,0 +1,341 @@
+- generic [active] [ref=f99e1]:
+  - generic [ref=f99e3]:
+    - navigation [ref=f99e6]:
+      - link [ref=f99e8] [cursor=pointer]:
+        - /url: /
+      - search [ref=f99e13]:
+        - generic [ref=f99e14]:
+          - button "Photos" [ref=f99e16] [cursor=pointer]
+          - searchbox "Search for free photos" [ref=f99e24]
+          - button [ref=f99e26] [cursor=pointer]
+      - generic [ref=f99e30]:
+        - link "Explore" [ref=f99e32] [cursor=pointer]:
+          - /url: /discover/
+        - link "License" [ref=f99e36] [cursor=pointer]:
+          - /url: /license/
+        - button [ref=f99e39] [cursor=pointer]
+        - button "Join" [ref=f99e42] [cursor=pointer]
+    - main [ref=f99e45]:
+      - separator [ref=f99e46]
+      - generic [ref=f99e47]:
+        - main [ref=f99e48]:
+          - separator [ref=f99e49]
+          - generic [ref=f99e50]:
+            - generic [ref=f99e51]:
+              - link [ref=f99e52] [cursor=pointer]:
+                - /url: /@pavel-danilyuk/
+                - img "Pavel Danilyuk" [ref=f99e56]
+              - generic [ref=f99e57]:
+                - link [ref=f99e58] [cursor=pointer]:
+                  - /url: /@pavel-danilyuk/
+                  - heading "Pavel Danilyuk" [level=5] [ref=f99e59]
+                - paragraph [ref=f99e60]:
+                  - text: 15.7B views
+                  - generic [ref=f99e61]: •
+                  - text: 52.8M downloads
+            - generic [ref=f99e62]:
+              - generic [ref=f99e63]:
+                - link "Add Text" [ref=f99e64] [cursor=pointer]:
+                  - /url: https://www.canva.com/content-partner/?utm_medium=acquisitions&utm_source=pexels&utm_campaign=predownload%20button&utm_content=edit%20in%20canva%20action%3Dadd_text_video&file-url=https%3A%2F%2Fvideos.pexels.com%2Fvideo-files%2F6998092%2F6998092-hd_1920_1080_25fps.mp4&external-id=6998092&onboarding-flow=add-text-to-photo
+                - link "Convert to GIF" [ref=f99e69] [cursor=pointer]:
+                  - /url: https://www.canva.com/content-partner/?utm_medium=acquisitions&utm_source=pexels&utm_campaign=predownload%20button&utm_content=edit%20in%20canva%20action%3Dconvert_to_gif&file-url=https%3A%2F%2Fvideos.pexels.com%2Fvideo-files%2F6998092%2F6998092-hd_1920_1080_25fps.mp4&external-id=6998092&onboarding-flow=convert-to-gif
+                - link "Edit" [ref=f99e76] [cursor=pointer]:
+                  - /url: https://www.canva.com/content-partner/?utm_medium=acquisitions&utm_source=pexels&utm_campaign=predownload%20button&utm_content=edit%20in%20canva&file-url=https%3A%2F%2Fvideos.pexels.com%2Fvideo-files%2F6998092%2F6998092-hd_1920_1080_25fps.mp4&external-id=6998092
+              - generic [ref=f99e83]:
+                - button [ref=f99e84] [cursor=pointer]
+                - button "10" [ref=f99e88] [cursor=pointer]
+                - generic [ref=f99e93]:
+                  - link "Free download" [ref=f99e94] [cursor=pointer]:
+                    - /url: https://www.pexels.com/download/video/6998092/
+                  - button [ref=f99e98] [cursor=pointer]
+          - separator [ref=f99e103]
+        - generic [ref=f99e104]:
+          - region "video player" [ref=f99e113]:
+            - generic:
+              - generic:
+                - generic:
+                  - button "pause"
+              - generic:
+                - generic [ref=f99e118] [cursor=pointer]:
+                  - slider "seek" [ref=f99e124]: "0.204710625"
+                  - generic: en 0:00
+                - generic [ref=f99e125]:
+                  - generic:
+                    - button "pause" [ref=f99e126] [cursor=pointer]:
+                      - generic [ref=f99e134]:
+                        - generic [aria-hidden]:
+                          - generic: Pause
+                    - button "playback time" [ref=f99e135]: 0:01 / 0:08
+                    - button "Playback rate 1" [ref=f99e137] [cursor=pointer]:
+                      - generic: 1x
+                      - generic [ref=f99e138]:
+                        - generic [aria-hidden]: Playback rate
+                    - button "enter fullscreen mode" [ref=f99e139] [cursor=pointer]:
+                      - generic [ref=f99e146]:
+                        - generic [aria-hidden]:
+                          - generic: Enter fullscreen mode
+          - generic [ref=f99e148]:
+            - link "Pavel Danilyuk Pavel Danilyuk Thank you for donations and feedback ;)" [ref=f99e149] [cursor=pointer]:
+              - /url: /@pavel-danilyuk/
+              - img "Pavel Danilyuk" [ref=f99e153]
+              - generic [ref=f99e154]:
+                - heading "Pavel Danilyuk" [level=5] [ref=f99e155]
+                - paragraph [ref=f99e157]:
+                  - generic [ref=f99e158]: Thank you for donations and feedback ;)
+            - generic [ref=f99e159]:
+              - button "Follow" [ref=f99e160] [cursor=pointer]
+              - link "Donate" [ref=f99e165] [cursor=pointer]:
+                - /url: https://www.paypal.com/cgi-bin/webscr?business=rocketmann.prod%40gmail.com&cmd=_donations&currency_code=USD&item_name=Pavel+Danilyuk+-+Pexels&lc=US&return=https://pexels.com/video/a-doctor-operating-the-machine-6998092/
+          - generic [ref=f99e169]:
+            - generic [ref=f99e171]:
+              - generic [ref=f99e173]:
+                - paragraph [ref=f99e174]: License
+                - link [ref=f99e175] [cursor=pointer]:
+                  - /url: /license/
+                  - paragraph [ref=f99e176]: Free
+              - generic [ref=f99e179]:
+                - paragraph [ref=f99e180]: Dimensions
+                - paragraph [ref=f99e181]: 1920x1080
+              - generic [ref=f99e182]:
+                - paragraph [ref=f99e183]: Aspect Ratio
+                - paragraph [ref=f99e184]: 16:9
+              - generic [ref=f99e185]:
+                - paragraph [ref=f99e186]: Duration
+                - paragraph [ref=f99e187]: 30:08
+              - generic [ref=f99e188]:
+                - paragraph [ref=f99e189]: Date
+                - paragraph [ref=f99e190]: Mar 1, 2021
+              - generic [ref=f99e191]:
+                - paragraph [ref=f99e192]: Downloads
+                - paragraph [ref=f99e193]: 2.2K
+              - generic [ref=f99e194]:
+                - paragraph [ref=f99e195]: Views
+                - paragraph [ref=f99e196]: 503.9K
+              - generic [ref=f99e197]:
+                - paragraph [ref=f99e198]: Likes
+                - paragraph [ref=f99e199]: "10"
+            - generic [ref=f99e202]:
+              - button "More info" [ref=f99e203] [cursor=pointer]
+              - button "Share" [ref=f99e207] [cursor=pointer]
+              - link "Report media" [ref=f99e211] [cursor=pointer]:
+                - /url: /report/?slug=a-doctor-operating-the-machine-6998092
+          - generic [ref=f99e215]:
+            - paragraph [ref=f99e216]: Description
+            - heading "Close view of a medical professional using ultrasound equipment in a clinic." [level=1] [ref=f99e217]
+          - separator [ref=f99e218]
+          - heading "More like this" [level=3] [ref=f99e219]
+          - generic [ref=f99e221]:
+            - link "Ultrasound" [ref=f99e223] [cursor=pointer]:
+              - /url: /search/videos/ultrasound/
+            - link "Mammogram" [ref=f99e226] [cursor=pointer]:
+              - /url: /search/videos/mammogram/
+            - link "Gynecologist" [ref=f99e229] [cursor=pointer]:
+              - /url: /search/videos/gynecologist/
+            - link "Radiology" [ref=f99e232] [cursor=pointer]:
+              - /url: /search/videos/radiology/
+            - link "Gynecology" [ref=f99e235] [cursor=pointer]:
+              - /url: /search/videos/gynecology/
+            - link "Check Up" [ref=f99e238] [cursor=pointer]:
+              - /url: /search/videos/check%20up/
+            - link "Diagnosis" [ref=f99e241] [cursor=pointer]:
+              - /url: /search/videos/diagnosis/
+            - link "Medical Technology" [ref=f99e244] [cursor=pointer]:
+              - /url: /search/videos/medical%20technology/
+            - link "Healthcare Technology" [ref=f99e247] [cursor=pointer]:
+              - /url: /search/videos/healthcare%20technology/
+            - link "Fertility" [ref=f99e250] [cursor=pointer]:
+              - /url: /search/videos/fertility/
+            - img [ref=f99e253] [cursor=pointer]
+          - generic [ref=f99e256]:
+            - generic [ref=f99e258]:
+              - generic [ref=f99e259]:
+                - article [ref=f99e263]:
+                  - link [ref=f99e264] [cursor=pointer]:
+                    - /url: /video/a-person-controlling-the-ultrasound-procedure-7089951/
+                  - button "Play video preview" [ref=f99e269] [cursor=pointer]
+                - article [ref=f99e277]:
+                  - link [ref=f99e278] [cursor=pointer]:
+                    - /url: /video/the-ultra-sound-machine-control-board-7089953/
+                  - button "Play video preview" [ref=f99e283] [cursor=pointer]
+                - article [ref=f99e291]:
+                  - link [ref=f99e292] [cursor=pointer]:
+                    - /url: /video/ultrasound-computer-being-operated-6234575/
+                  - button "Play video preview" [ref=f99e297] [cursor=pointer]
+                - article [ref=f99e305]:
+                  - link [ref=f99e306] [cursor=pointer]:
+                    - /url: /video/video-of-a-woman-getting-ultrasound-6998079/
+                  - button "Play video preview" [ref=f99e311] [cursor=pointer]
+              - generic [ref=f99e316]:
+                - article [ref=f99e320]:
+                  - link [ref=f99e321] [cursor=pointer]:
+                    - /url: /video/a-woman-laying-on-a-bed-with-a-remote-control-14939818/
+                  - button "Play video preview" [ref=f99e326] [cursor=pointer]
+                - article [ref=f99e334]:
+                  - link [ref=f99e335] [cursor=pointer]:
+                    - /url: /video/gynecologist-doing-an-ultrasound-6997940/
+                  - button "Play video preview" [ref=f99e340] [cursor=pointer]
+                - article [ref=f99e348]:
+                  - link [ref=f99e349] [cursor=pointer]:
+                    - /url: /video/a-pregnant-woman-undergoing-ultrasound-procedure-7088516/
+                  - button "Play video preview" [ref=f99e354] [cursor=pointer]
+                - article [ref=f99e362]:
+                  - link [ref=f99e363] [cursor=pointer]:
+                    - /url: /video/a-female-doctor-giving-ultrasound-testing-to-her-patient-7089943/
+                  - button "Play video preview" [ref=f99e368] [cursor=pointer]
+              - generic [ref=f99e373]:
+                - generic [ref=f99e375]:
+                  - generic [ref=f99e377]:
+                    - link "Create your own video content with Canva" [ref=f99e378] [cursor=pointer]:
+                      - /url: https://www.canva.com/features/ai-video-generator/?utm_source=pexels&utm_campaign=aigc_pexelscampaign&utm_medium=partner
+                    - link "Create your own video content with Canva" [ref=f99e380] [cursor=pointer]:
+                      - /url: https://www.canva.com/features/ai-video-generator/?utm_source=pexels&utm_campaign=aigc_pexelscampaign&utm_medium=partner
+                    - link "Create your own video content with Canva" [ref=f99e382] [cursor=pointer]:
+                      - /url: https://www.canva.com/features/ai-video-generator/?utm_source=pexels&utm_campaign=aigc_pexelscampaign&utm_medium=partner
+                    - link "Create your own video content with Canva" [ref=f99e384] [cursor=pointer]:
+                      - /url: https://www.canva.com/features/ai-video-generator/?utm_source=pexels&utm_campaign=aigc_pexelscampaign&utm_medium=partner
+                  - link [ref=f99e386] [cursor=pointer]:
+                    - /url: https://www.canva.com/features/ai-video-generator/?utm_source=pexels&utm_campaign=aigc_pexelscampaign&utm_medium=partner
+                    - paragraph [ref=f99e389]: Bring your ideas to life with Canva AI
+                  - link "Get started for free" [ref=f99e390] [cursor=pointer]:
+                    - /url: https://www.canva.com/features/ai-video-generator/?utm_source=pexels&utm_campaign=aigc_pexelscampaign&utm_medium=partner
+                - article [ref=f99e396]:
+                  - link [ref=f99e397] [cursor=pointer]:
+                    - /url: /video/image-of-a-baby-in-the-ultrasound-machine-monitor-7088946/
+                  - button "Play video preview" [ref=f99e402] [cursor=pointer]
+              - generic [ref=f99e407]:
+                - article [ref=f99e411]:
+                  - link [ref=f99e412] [cursor=pointer]:
+                    - /url: /video/a-pregnant-woman-undergoing-ultrasound-scanning-7088514/
+                  - button "Play video preview" [ref=f99e417] [cursor=pointer]
+                - article [ref=f99e425]:
+                  - link [ref=f99e426] [cursor=pointer]:
+                    - /url: /video/doctor-using-an-ultrasound-machine-14939817/
+                  - button "Play video preview" [ref=f99e431] [cursor=pointer]
+                - article [ref=f99e439]:
+                  - link [ref=f99e440] [cursor=pointer]:
+                    - /url: /video/pregnant-woman-having-an-ultrasound-14939809/
+                  - button "Play video preview" [ref=f99e445] [cursor=pointer]
+            - button "Load More" [ref=f99e451] [cursor=pointer]
+      - separator [ref=f99e454]
+    - contentinfo [ref=f99e455]:
+      - separator [ref=f99e456]
+      - generic [ref=f99e457]:
+        - generic [ref=f99e458]:
+          - heading "Where stories come together." [level=2] [ref=f99e459]
+          - generic [ref=f99e460]:
+            - link "Download on iOS" [ref=f99e461] [cursor=pointer]:
+              - /url: https://itunes.apple.com/us/app/pexels/id1434330413/
+            - link "Download on Android" [ref=f99e464] [cursor=pointer]:
+              - /url: https://play.google.com/store/apps/details?id=com.pexels.app
+          - list [ref=f99e467]:
+            - listitem [ref=f99e468]:
+              - link "Instagram" [ref=f99e469] [cursor=pointer]:
+                - /url: https://www.instagram.com/pexels/
+            - listitem [ref=f99e472]:
+              - link "Threads" [ref=f99e473] [cursor=pointer]:
+                - /url: https://www.threads.net/@pexels/
+            - listitem [ref=f99e476]:
+              - link "YouTube" [ref=f99e477] [cursor=pointer]:
+                - /url: https://www.youtube.com/pexelsphotos/
+            - listitem [ref=f99e480]:
+              - link "TikTok" [ref=f99e481] [cursor=pointer]:
+                - /url: https://www.tiktok.com/@pexels/
+            - listitem [ref=f99e484]:
+              - link "LinkedIn" [ref=f99e485] [cursor=pointer]:
+                - /url: https://www.linkedin.com/company/pexels/
+            - listitem [ref=f99e488]:
+              - link "X" [ref=f99e489] [cursor=pointer]:
+                - /url: https://x.com/pexels/
+        - generic [ref=f99e492]:
+          - list [ref=f99e493]:
+            - heading "Pexels" [level=3] [ref=f99e494]
+            - listitem [ref=f99e495]:
+              - link "Free Stock Photos" [ref=f99e496] [cursor=pointer]:
+                - /url: /
+            - listitem [ref=f99e497]:
+              - link "Free Videos" [ref=f99e498] [cursor=pointer]:
+                - /url: /videos/
+            - listitem [ref=f99e499]:
+              - link "Popular searches" [ref=f99e500] [cursor=pointer]:
+                - /url: /popular-searches/
+            - listitem [ref=f99e501]:
+              - link "Collections" [ref=f99e502] [cursor=pointer]:
+                - /url: /discover/
+            - listitem [ref=f99e503]:
+              - link "Challenges" [ref=f99e504] [cursor=pointer]:
+                - /url: /challenges/
+            - listitem [ref=f99e505]:
+              - link "Leaderboard" [ref=f99e506] [cursor=pointer]:
+                - /url: /leaderboard/
+            - listitem [ref=f99e507]:
+              - link "Other plugins & apps" [ref=f99e508] [cursor=pointer]:
+                - /url: /pro/
+          - list [ref=f99e509]:
+            - heading "Company" [level=3] [ref=f99e510]
+            - listitem [ref=f99e511]:
+              - link "About" [ref=f99e512] [cursor=pointer]:
+                - /url: /about/
+            - listitem [ref=f99e513]:
+              - link "Blog" [ref=f99e514] [cursor=pointer]:
+                - /url: /blog/
+            - listitem [ref=f99e515]:
+              - link "Help Center" [ref=f99e516] [cursor=pointer]:
+                - /url: https://help.pexels.com/hc/en-us
+            - listitem [ref=f99e517]:
+              - link "Report content" [ref=f99e518] [cursor=pointer]:
+                - /url: /report/
+            - listitem [ref=f99e519]:
+              - link "Become a Hero" [ref=f99e520] [cursor=pointer]:
+                - /url: /hero/
+            - listitem [ref=f99e521]:
+              - link "Partner with Pexels" [ref=f99e522] [cursor=pointer]:
+                - /url: /become-a-partner/
+            - listitem [ref=f99e523]:
+              - link "Image & Video API" [ref=f99e524] [cursor=pointer]:
+                - /url: /api/
+            - listitem [ref=f99e525]: Sign Up
+        - list [ref=f99e526]:
+          - listitem [ref=f99e527]:
+            - heading "Free Stock Photos" [level=3] [ref=f99e528]
+          - listitem [ref=f99e529]:
+            - generic [ref=f99e531]:
+              - link "4K wallpaper" [ref=f99e533] [cursor=pointer]:
+                - /url: /search/4k%20wallpaper/
+              - link "Nature photos" [ref=f99e534] [cursor=pointer]:
+                - /url: /search/nature/
+              - link "Desktop wallpaper" [ref=f99e535] [cursor=pointer]:
+                - /url: /search/desktop%20wallpaper/
+              - link "Flower photos" [ref=f99e536] [cursor=pointer]:
+                - /url: /search/flowers/
+              - link "HD wallpaper" [ref=f99e537] [cursor=pointer]:
+                - /url: /search/hd%20wallpaper/
+              - link "Mobile wallpaper" [ref=f99e538] [cursor=pointer]:
+                - /url: /search/mobile%20wallpaper/
+              - link "Dark photos" [ref=f99e539] [cursor=pointer]:
+                - /url: /search/dark/
+              - link "Black and white photography" [ref=f99e540] [cursor=pointer]:
+                - /url: /search/black%20and%20white/
+              - link "Black background" [ref=f99e541] [cursor=pointer]:
+                - /url: /search/black%20background/
+              - link "Sunset photos" [ref=f99e542] [cursor=pointer]:
+                - /url: /search/sunset/
+              - link "Landscape photos" [ref=f99e543] [cursor=pointer]:
+                - /url: /search/landscape/
+              - link "Cat photos" [ref=f99e544] [cursor=pointer]:
+                - /url: /search/cat/
+      - generic [ref=f99e546]:
+        - generic [ref=f99e547]: © 2026 Pexels
+        - generic [ref=f99e549]:
+          - link "Terms of Use" [ref=f99e551] [cursor=pointer]:
+            - /url: /terms-of-service/
+          - link "Privacy Policy" [ref=f99e552] [cursor=pointer]:
+            - /url: /privacy-policy/
+          - link "License" [ref=f99e553] [cursor=pointer]:
+            - /url: /license/
+          - link "Imprint" [ref=f99e554] [cursor=pointer]:
+            - /url: /imprint/
+          - link "Cookies Policy" [ref=f99e555] [cursor=pointer]:
+            - /url: /cookies/
+        - button "English" [ref=f99e558] [cursor=pointer]
+      - separator [ref=f99e563]
+  - alert [ref=f99e564]

@@ -1,0 +1,256 @@
+- generic [ref=f6e2]:
+  - generic [ref=f6e11]:
+    - generic [ref=f6e15]:
+      - generic [ref=f6e16]:
+        - generic [ref=f6e17]: 🩻
+        - generic [ref=f6e18]: OncoSense
+      - generic [ref=f6e19]: Educational demo · v1
+      - generic [ref=f6e21]:
+        - link "📤 Upload" [ref=f6e22] [cursor=pointer]:
+          - /url: "#upload-section"
+        - link "📊 Result" [ref=f6e23] [cursor=pointer]:
+          - /url: "#result-section"
+        - link "🔍 Explanation" [ref=f6e24] [cursor=pointer]:
+          - /url: "#explanation-section"
+        - link "📋 Report" [ref=f6e25] [cursor=pointer]:
+          - /url: "#report-section"
+      - generic [ref=f6e26]:
+        - generic [ref=f6e27]: 📎
+        - generic [ref=f6e28]:
+          - strong [ref=f6e29]: About this tool
+          - generic [ref=f6e30]: ResNet18 fine-tuned on CBIS-DDSM mammograms. Coursework project, not a medical device.
+      - generic [ref=f6e31]:
+        - generic [ref=f6e32]: JS
+        - generic [ref=f6e33]:
+          - strong [ref=f6e34]: Dr. Jane Smith
+          - text: jane.smith@hospital.org
+    - button [ref=f6e37] [cursor=pointer]:
+      - paragraph [ref=f6e42]: Sign out
+  - generic [ref=f6e3]:
+    - banner [ref=f6e45]:
+      - button "Deploy" [ref=f6e50] [cursor=pointer]
+    - generic [ref=f6e53]:
+      - generic:
+        - iframe
+      - generic [ref=f6e54]:
+        - link "OS" [ref=f6e55] [cursor=pointer]:
+          - /url: "#hero"
+        - link "Home" [ref=f6e58] [cursor=pointer]:
+          - /url: "#hero"
+        - link "Technology" [ref=f6e59] [cursor=pointer]:
+          - /url: "#technology"
+        - link "How It Works" [ref=f6e60] [cursor=pointer]:
+          - /url: "#how-it-works"
+        - link "Screening" [ref=f6e61] [cursor=pointer]:
+          - /url: "#upload-section"
+        - link "Results" [ref=f6e62] [cursor=pointer]:
+          - /url: "#result-section"
+        - link "About" [ref=f6e63] [cursor=pointer]:
+          - /url: "#responsible-ai"
+        - link "Start Screening ↗" [ref=f6e65] [cursor=pointer]:
+          - /url: "#upload-section"
+      - generic [ref=f6e73]:
+        - generic [ref=f6e74]:
+          - generic [ref=f6e75]: AI-Powered Breast Cancer Research
+          - heading [level=1] [ref=f6e77]:
+            - generic [ref=f6e78]:
+              - text: Smarter imaging.Earlier
+              - emphasis [ref=f6e79]: insight.
+            - generic [ref=f6e80]:
+              - link "Link to heading":
+                - /url: "#smarter-imaging-earlier-insight"
+          - paragraph [ref=f6e81]: Explore AI-assisted mammogram analysis using deep learning and medical image processing -- upload a mammogram and see what a fine-tuned ResNet18 model looks for.
+          - generic [ref=f6e82]:
+            - link "Start Screening →" [ref=f6e83] [cursor=pointer]:
+              - /url: "#upload-section"
+            - link "Explore Technology" [ref=f6e84] [cursor=pointer]:
+              - /url: "#technology"
+          - generic [ref=f6e85]: Educational research demo•Not for clinical use
+        - generic [ref=f6e86]:
+          - img "Sample mammogram from the CBIS-DDSM training set used by this project" [ref=f6e88]
+          - generic [ref=f6e89]:
+            - generic [ref=f6e90]:
+              - generic [ref=f6e91]: Mammogram Analysis
+              - strong [ref=f6e92]: ResNet18
+            - generic [ref=f6e93]:
+              - generic [ref=f6e94]: Model Ready
+              - strong [ref=f6e96]: Research Mode
+      - generic [ref=f6e101]:
+        - generic [ref=f6e102]:
+          - generic [ref=f6e103]: The Project
+          - heading [level=2] [ref=f6e107]:
+            - generic [ref=f6e108]:
+              - text: Combining medical imagingwith
+              - emphasis [ref=f6e109]: artificial intelligence.
+            - generic [ref=f6e110]:
+              - link "Link to heading":
+                - /url: "#combining-medical-imagingwith-artificial-intelligence"
+          - paragraph [ref=f6e111]: This project explores how deep learning and computer vision can be applied to mammogram images for breast cancer research and image-based analysis.
+        - generic [ref=f6e112]:
+          - generic [ref=f6e113]:
+            - generic [ref=f6e114]: "01"
+            - heading "COMPUTER VISION" [level=3] [ref=f6e116]:
+              - text: COMPUTER VISION
+              - generic [ref=f6e117]:
+                - link "Link to heading":
+                  - /url: "#computer-vision"
+            - paragraph [ref=f6e118]: Image processing and mammogram preparation using OpenCV, Pillow, NumPy and Pydicom.
+          - generic [ref=f6e119]:
+            - generic [ref=f6e120]: "02"
+            - heading "DEEP LEARNING" [level=3] [ref=f6e122]:
+              - text: DEEP LEARNING
+              - generic [ref=f6e123]:
+                - link "Link to heading":
+                  - /url: "#deep-learning"
+            - paragraph [ref=f6e124]: ResNet18 fine-tuned using PyTorch and torchvision on the CBIS-DDSM dataset.
+          - generic [ref=f6e125]:
+            - generic [ref=f6e126]: "03"
+            - heading "INTERACTIVE ANALYSIS" [level=3] [ref=f6e128]:
+              - text: INTERACTIVE ANALYSIS
+              - generic [ref=f6e129]:
+                - link "Link to heading":
+                  - /url: "#interactive-analysis"
+            - paragraph [ref=f6e130]: An interactive application for uploading mammograms, running inference, viewing results and reviewing explanations.
+      - generic [ref=f6e135]:
+        - generic [ref=f6e136]:
+          - generic [ref=f6e137]: Technology
+          - heading [level=2] [ref=f6e141]:
+            - generic [ref=f6e142]:
+              - text: The technologybehind the
+              - emphasis [ref=f6e143]: analysis.
+            - generic [ref=f6e144]:
+              - link "Link to heading":
+                - /url: "#the-technologybehind-the-analysis"
+        - generic [ref=f6e145]:
+          - generic [ref=f6e146]:
+            - strong [ref=f6e151]: PyTorch
+            - text: Model training and inference framework.
+          - generic [ref=f6e152]:
+            - strong [ref=f6e157]: torchvision
+            - text: Pretrained ResNet18 backbone and image transforms.
+          - generic [ref=f6e158]:
+            - strong [ref=f6e165]: ResNet18
+            - text: Fine-tuned CNN architecture for benign/malignant classification.
+          - generic [ref=f6e166]:
+            - strong [ref=f6e170]: CUDA
+            - text: GPU-accelerated training and inference on the RTX 3050.
+          - generic [ref=f6e171]:
+            - strong [ref=f6e177]: OpenCV
+            - text: Image processing for Grad-CAM overlays.
+          - generic [ref=f6e178]:
+            - strong [ref=f6e184]: Pydicom
+            - text: Reads and decodes DICOM mammogram files.
+          - generic [ref=f6e185]:
+            - strong [ref=f6e191]: Pillow
+            - text: Image loading, resizing and format conversion.
+          - generic [ref=f6e192]:
+            - strong [ref=f6e199]: NumPy
+            - text: Array math for preprocessing and heatmaps.
+          - generic [ref=f6e200]:
+            - strong [ref=f6e206]: Pandas
+            - text: Dataset manifests and case-description CSVs.
+          - generic [ref=f6e207]:
+            - strong [ref=f6e211]: Scikit-learn
+            - text: "Evaluation metrics: F1, ROC-AUC, confusion matrix."
+          - generic [ref=f6e212]:
+            - strong [ref=f6e217]: Streamlit
+            - text: Interactive research application framework.
+          - generic [ref=f6e218]:
+            - strong [ref=f6e223]: PyYAML
+            - text: Config-driven experiments (dataset, model, hyperparameters).
+      - generic [ref=f6e228]:
+        - generic [ref=f6e229]:
+          - generic [ref=f6e230]: How It Works
+          - heading [level=2] [ref=f6e234]:
+            - generic [ref=f6e235]:
+              - text: From imageto
+              - emphasis [ref=f6e236]: AI insight.
+            - generic [ref=f6e237]:
+              - link "Link to heading":
+                - /url: "#from-imageto-ai-insight"
+        - generic [ref=f6e238]:
+          - generic [ref=f6e239]:
+            - generic [ref=f6e240]: "01"
+            - strong [ref=f6e241]: UPLOAD
+            - paragraph [ref=f6e242]: Upload a mammogram image (DICOM, PNG, or JPEG).
+          - generic [ref=f6e243]:
+            - generic [ref=f6e244]: "02"
+            - strong [ref=f6e245]: PREPROCESS
+            - paragraph [ref=f6e246]: Resize, normalize, and -- for DICOM -- crop to the breast region.
+          - generic [ref=f6e247]:
+            - generic [ref=f6e248]: "03"
+            - strong [ref=f6e249]: MODEL
+            - paragraph [ref=f6e250]: Run the fine-tuned ResNet18 model.
+          - generic [ref=f6e251]:
+            - generic [ref=f6e252]: "04"
+            - strong [ref=f6e253]: ANALYZE
+            - paragraph [ref=f6e254]: Generate the benign / malignant probability output.
+          - generic [ref=f6e255]:
+            - generic [ref=f6e256]: "05"
+            - strong [ref=f6e257]: EXPLAIN
+            - paragraph [ref=f6e258]: Review the Grad-CAM attention map behind the decision.
+      - generic [ref=f6e263]:
+        - generic [ref=f6e264]:
+          - generic [ref=f6e265]: Dataset
+          - heading [level=2] [ref=f6e269]:
+            - generic [ref=f6e270]:
+              - text: Built withreal medical
+              - emphasis [ref=f6e271]: imaging data.
+            - generic [ref=f6e272]:
+              - link "Link to heading":
+                - /url: "#built-withreal-medical-imaging-data"
+        - generic [ref=f6e273]:
+          - generic [ref=f6e274]:
+            - generic [ref=f6e275]: CBIS-DDSM
+            - paragraph [ref=f6e276]: The model was developed using mammography images from the CBIS-DDSM (Curated Breast Imaging Subset of DDSM) dataset, joining TCIA DICOM scans with case-description labels for benign vs. malignant findings.
+            - generic [ref=f6e277]:
+              - generic [ref=f6e278]:
+                - strong [ref=f6e279]: 66%
+                - text: Test accuracy
+              - generic [ref=f6e280]:
+                - strong [ref=f6e281]: "0.73"
+                - text: Test ROC-AUC
+              - generic [ref=f6e282]:
+                - strong [ref=f6e283]: 71%
+                - text: Val. accuracy
+          - generic [ref=f6e284]:
+            - generic [ref=f6e285]: DICOM
+            - generic [ref=f6e286]: MAMMOGRAPHY
+            - generic [ref=f6e287]: MEDICAL IMAGING
+            - generic [ref=f6e288]: RESEARCH DATA
+      - generic [ref=f6e298]:
+        - generic [ref=f6e302]:
+          - generic [ref=f6e303]: Clinician access only
+          - generic [ref=f6e305]:
+            - generic [ref=f6e306]: 🩻
+            - generic [ref=f6e307]: OncoSense
+            - paragraph [ref=f6e308]: Sign in with your clinical credentials to access the mammography screening workspace.
+        - generic [ref=f6e312]:
+          - generic [ref=f6e314]:
+            - paragraph [ref=f6e318]: Full name
+            - textbox "Full name" [ref=f6e321]:
+              - /placeholder: Dr. Jane Smith
+              - text: Dr. Jane Smith
+          - generic [ref=f6e323]:
+            - paragraph [ref=f6e327]: Work email
+            - textbox "Work email" [ref=f6e330]:
+              - /placeholder: jane.smith@hospital.org
+              - text: jane.smith@hospital.org
+          - generic [ref=f6e332]:
+            - paragraph [ref=f6e336]: Password
+            - generic [ref=f6e338]:
+              - textbox "Password" [ref=f6e339]:
+                - /placeholder: ••••••••
+                - text: testpass123
+              - button "Show password" [ref=f6e341] [cursor=pointer]:
+                - generic [ref=f6e342]: visibility
+          - generic [ref=f6e346] [cursor=pointer]:
+            - checkbox "Keep me signed in on this device" [ref=f6e348]
+            - paragraph [ref=f6e354]: Keep me signed in on this device
+          - button [active] [ref=f6e358] [cursor=pointer]:
+            - paragraph [ref=f6e363]: Sign in to OncoSense
+        - generic [ref=f6e367]:
+          - generic [ref=f6e368]: Educational coursework demo • credentials are not verified against a real hospital directory and no patient data is stored.
+          - generic [ref=f6e369]:
+            - generic [ref=f6e370]: 🔒 Session-only access
+            - generic [ref=f6e371]: 🩻 CBIS-DDSM model

@@ -1,0 +1,460 @@
+- generic [active] [ref=f40e1]:
+  - generic [ref=f40e3]:
+    - navigation [ref=f40e6]:
+      - link [ref=f40e8] [cursor=pointer]:
+        - /url: /
+      - search [ref=f40e13]:
+        - generic [ref=f40e14]:
+          - button "Videos" [ref=f40e16] [cursor=pointer]
+          - searchbox "Search for free videos" [ref=f40e24]: mammogram
+          - button [ref=f40e26] [cursor=pointer]
+      - generic [ref=f40e30]:
+        - link "Explore" [ref=f40e32] [cursor=pointer]:
+          - /url: /discover/
+        - link "License" [ref=f40e36] [cursor=pointer]:
+          - /url: /license/
+        - button [ref=f40e39] [cursor=pointer]
+        - button "Join" [ref=f40e42] [cursor=pointer]
+    - main [ref=f40e45]:
+      - generic [ref=f40e46]:
+        - generic [ref=f40e50]:
+          - paragraph [ref=f40e52] [cursor=pointer]: Any
+          - paragraph [ref=f40e57] [cursor=pointer]: Horizontal
+          - paragraph [ref=f40e62] [cursor=pointer]: Vertical
+          - paragraph [ref=f40e67] [cursor=pointer]: Square
+        - generic [ref=f40e71]:
+          - paragraph [ref=f40e73] [cursor=pointer]: Any
+          - paragraph [ref=f40e75] [cursor=pointer]: "0"
+          - paragraph [ref=f40e80] [cursor=pointer]: "1"
+          - paragraph [ref=f40e85] [cursor=pointer]: "2"
+          - paragraph [ref=f40e90] [cursor=pointer]: 3+
+        - generic [ref=f40e94]:
+          - paragraph [ref=f40e96] [cursor=pointer]: Any
+          - paragraph [ref=f40e101] [cursor=pointer]: Baby
+          - paragraph [ref=f40e106] [cursor=pointer]: Child
+          - paragraph [ref=f40e111] [cursor=pointer]: Teenager
+          - paragraph [ref=f40e116] [cursor=pointer]: Adult
+          - paragraph [ref=f40e121] [cursor=pointer]: Senior adult
+        - generic [ref=f40e124]:
+          - generic [ref=f40e125]:
+            - generic [ref=f40e126] [cursor=pointer]
+            - slider [ref=f40e128] [cursor=pointer]
+            - slider [ref=f40e129] [cursor=pointer]
+          - generic [ref=f40e130]:
+            - generic [ref=f40e131]:
+              - paragraph [ref=f40e132]: Minimum
+              - paragraph [ref=f40e133]: 5s
+            - generic [ref=f40e134]:
+              - paragraph [ref=f40e135]: Maximum
+              - paragraph [ref=f40e136]: 2m+
+        - generic [ref=f40e140]:
+          - paragraph [ref=f40e142] [cursor=pointer]: Any
+          - paragraph [ref=f40e147] [cursor=pointer]: "24"
+          - paragraph [ref=f40e152] [cursor=pointer]: "25"
+          - paragraph [ref=f40e157] [cursor=pointer]: "30"
+          - paragraph [ref=f40e162] [cursor=pointer]: "50"
+          - paragraph [ref=f40e167] [cursor=pointer]: 60+
+        - generic [ref=f40e171]:
+          - paragraph [ref=f40e173] [cursor=pointer]: Any
+          - paragraph [ref=f40e178] [cursor=pointer]: 1080p
+          - paragraph [ref=f40e183] [cursor=pointer]: 4K
+          - paragraph [ref=f40e188] [cursor=pointer]: 8K
+        - generic [ref=f40e192]:
+          - paragraph [ref=f40e194] [cursor=pointer]: Any
+          - paragraph [ref=f40e199] [cursor=pointer]: Last 24 hours
+          - paragraph [ref=f40e204] [cursor=pointer]: Last week
+          - paragraph [ref=f40e209] [cursor=pointer]: Last month
+          - paragraph [ref=f40e214] [cursor=pointer]: Last year
+        - main "main-content" [ref=f40e215]:
+          - generic [ref=f40e216]:
+            - heading "Free Mammogram Videos" [level=1] [ref=f40e219]
+            - generic [ref=f40e222]:
+              - link "Photos 1.3K" [ref=f40e224] [cursor=pointer]:
+                - /url: /search/mammogram/?orientation=landscape
+                - text: Photos
+                - generic [ref=f40e225]: 1.3K
+              - link "Videos 1.6K" [ref=f40e226] [cursor=pointer]:
+                - /url: /search/videos/mammogram/?orientation=landscape
+                - text: Videos
+                - generic [ref=f40e227]: 1.6K
+              - link "Users 3" [ref=f40e228] [cursor=pointer]:
+                - /url: /search/users/mammogram/
+                - text: Users
+                - generic [ref=f40e229]: "3"
+            - generic [ref=f40e231]:
+              - generic [ref=f40e232]:
+                - button "Filters (1)" [ref=f40e233] [cursor=pointer]
+                - button [ref=f40e240] [cursor=pointer]
+              - separator [ref=f40e244]
+              - generic [ref=f40e248]:
+                - link [ref=f40e250] [cursor=pointer]:
+                  - /url: /search/videos/breast%20cancer/
+                  - img "breast cancer" [ref=f40e251]
+                  - generic [ref=f40e252]:
+                    - paragraph [ref=f40e253]: breast cancer
+                    - paragraph [ref=f40e254]: 5K
+                - link [ref=f40e255] [cursor=pointer]:
+                  - /url: /search/videos/radiology/
+                  - img "radiology" [ref=f40e256]
+                  - generic [ref=f40e257]:
+                    - paragraph [ref=f40e258]: radiology
+                    - paragraph [ref=f40e259]: 4K
+                - link [ref=f40e260] [cursor=pointer]:
+                  - /url: /search/videos/gynecologist/
+                  - img "gynecologist" [ref=f40e261]
+                  - generic [ref=f40e262]:
+                    - paragraph [ref=f40e263]: gynecologist
+                    - paragraph [ref=f40e264]: 4K
+                - link [ref=f40e265] [cursor=pointer]:
+                  - /url: /search/videos/chemotherapy/
+                  - img "chemotherapy" [ref=f40e266]
+                  - generic [ref=f40e267]:
+                    - paragraph [ref=f40e268]: chemotherapy
+                    - paragraph [ref=f40e269]: 4K
+                - link [ref=f40e270] [cursor=pointer]:
+                  - /url: /search/videos/gynecology/
+                  - img "gynecology" [ref=f40e271]
+                  - generic [ref=f40e272]:
+                    - paragraph [ref=f40e273]: gynecology
+                    - paragraph [ref=f40e274]: 4K
+                - link [ref=f40e275] [cursor=pointer]:
+                  - /url: /search/videos/breast/
+                  - img "breast" [ref=f40e276]
+                  - generic [ref=f40e277]:
+                    - paragraph [ref=f40e278]: breast
+                    - paragraph [ref=f40e279]: 5K
+                - link [ref=f40e280] [cursor=pointer]:
+                  - /url: /search/videos/breastfeeding/
+                  - img "breastfeeding" [ref=f40e281]
+                  - generic [ref=f40e282]:
+                    - paragraph [ref=f40e283]: breastfeeding
+                    - paragraph [ref=f40e284]: 4K
+                - link [ref=f40e285] [cursor=pointer]:
+                  - /url: /search/videos/cancer/
+                  - img "cancer" [ref=f40e286]
+                  - generic [ref=f40e287]:
+                    - paragraph [ref=f40e288]: cancer
+                    - paragraph [ref=f40e289]: 4K
+                - link [ref=f40e290] [cursor=pointer]:
+                  - /url: /search/videos/breast%20cancer%20awareness/
+                  - img "breast cancer awareness" [ref=f40e291]
+                  - generic [ref=f40e292]:
+                    - paragraph [ref=f40e293]: breast cancer awareness
+                    - paragraph [ref=f40e294]: 12K
+                - link [ref=f40e295] [cursor=pointer]:
+                  - /url: /search/videos/mri/
+                  - img "mri" [ref=f40e296]
+                  - generic [ref=f40e297]:
+                    - paragraph [ref=f40e298]: mri
+                    - paragraph [ref=f40e299]: 4K
+                - link [ref=f40e300] [cursor=pointer]:
+                  - /url: /search/videos/ultrasound/
+                  - img "ultrasound" [ref=f40e301]
+                  - generic [ref=f40e302]:
+                    - paragraph [ref=f40e303]: ultrasound
+                    - paragraph [ref=f40e304]: 4K
+                - link [ref=f40e305] [cursor=pointer]:
+                  - /url: /search/videos/infertility/
+                  - img "infertility" [ref=f40e306]
+                  - generic [ref=f40e307]:
+                    - paragraph [ref=f40e308]: infertility
+                    - paragraph [ref=f40e309]: 4K
+                - link [ref=f40e310] [cursor=pointer]:
+                  - /url: /search/videos/breast%20milk/
+                  - img "breast milk" [ref=f40e311]
+                  - generic [ref=f40e312]:
+                    - paragraph [ref=f40e313]: breast milk
+                    - paragraph [ref=f40e314]: 4K
+                - link [ref=f40e315] [cursor=pointer]:
+                  - /url: /search/videos/ct%20scan/
+                  - img "ct scan" [ref=f40e316]
+                  - generic [ref=f40e317]:
+                    - paragraph [ref=f40e318]: ct scan
+                    - paragraph [ref=f40e319]: 4K
+                - link [ref=f40e320] [cursor=pointer]:
+                  - /url: /search/videos/fertility/
+                  - img "fertility" [ref=f40e321]
+                  - generic [ref=f40e322]:
+                    - paragraph [ref=f40e323]: fertility
+                    - paragraph [ref=f40e324]: 5K
+                - link [ref=f40e325] [cursor=pointer]:
+                  - /url: /search/videos/mri%20scan/
+                  - img "mri scan" [ref=f40e326]
+                  - generic [ref=f40e327]:
+                    - paragraph [ref=f40e328]: mri scan
+                    - paragraph [ref=f40e329]: 4K
+                - img [ref=f40e330] [cursor=pointer]
+            - generic [ref=f40e333]:
+              - generic [ref=f40e335]:
+                - generic [ref=f40e336]:
+                  - article [ref=f40e340]:
+                    - link [ref=f40e341] [cursor=pointer]:
+                      - /url: /video/woman-with-one-breast-removed-5701758/
+                    - button "Play video preview" [ref=f40e346] [cursor=pointer]
+                  - article [ref=f40e354]:
+                    - link [ref=f40e355] [cursor=pointer]:
+                      - /url: /video/high-precision-cameras-imaging-on-equipment-monitors-use-in-hospitals-3197694/
+                    - button "Play video preview" [ref=f40e360] [cursor=pointer]
+                  - article [ref=f40e368]:
+                    - link [ref=f40e369] [cursor=pointer]:
+                      - /url: /video/patient-lying-on-the-bed-14939825/
+                    - button "Play video preview" [ref=f40e374] [cursor=pointer]
+                  - article [ref=f40e382]:
+                    - link [ref=f40e383] [cursor=pointer]:
+                      - /url: /video/girl-holding-a-sign-for-breast-cancer-awerness-5701760/
+                    - button "Play video preview" [ref=f40e388] [cursor=pointer]
+                  - article [ref=f40e396]:
+                    - link [ref=f40e397] [cursor=pointer]:
+                      - /url: /video/teamwork-in-engineering-classroom-setting-31474687/
+                    - button "Play video preview" [ref=f40e402] [cursor=pointer]
+                  - article [ref=f40e410]:
+                    - link [ref=f40e411] [cursor=pointer]:
+                      - /url: /video/close-up-of-using-a-ultrasound-scan-7705209/
+                    - button "Play video preview" [ref=f40e416] [cursor=pointer]
+                  - article [ref=f40e424]:
+                    - link [ref=f40e425] [cursor=pointer]:
+                      - /url: /video/scientist-talking-at-laboratory-10598658/
+                    - button "Play video preview" [ref=f40e430] [cursor=pointer]
+                - generic [ref=f40e435]:
+                  - article [ref=f40e439]:
+                    - link [ref=f40e440] [cursor=pointer]:
+                      - /url: /video/pink-postcards-on-the-white-table-5701043/
+                    - button "Play video preview" [ref=f40e445] [cursor=pointer]
+                  - article [ref=f40e453]:
+                    - link [ref=f40e454] [cursor=pointer]:
+                      - /url: /video/close-up-shot-of-a-hand-8347360/
+                    - button "Play video preview" [ref=f40e459] [cursor=pointer]
+                  - article [ref=f40e467]:
+                    - link [ref=f40e468] [cursor=pointer]:
+                      - /url: /video/a-breast-cancer-themed-stop-motion-animation-8680043/
+                    - button "Play video preview" [ref=f40e473] [cursor=pointer]
+                  - article [ref=f40e481]:
+                    - link [ref=f40e482] [cursor=pointer]:
+                      - /url: /video/medical-equipment-855481/
+                    - button "Play video preview" [ref=f40e487] [cursor=pointer]
+                  - article [ref=f40e495]:
+                    - link [ref=f40e496] [cursor=pointer]:
+                      - /url: /video/a-pregnant-woman-holding-her-ultrasound-test-images-7088511/
+                    - button "Play video preview" [ref=f40e501] [cursor=pointer]
+                  - article [ref=f40e509]:
+                    - link [ref=f40e510] [cursor=pointer]:
+                      - /url: /video/nurse-measuring-patient-s-blood-pressure-6130120/
+                    - button "Play video preview" [ref=f40e515] [cursor=pointer]
+                  - article [ref=f40e523]:
+                    - link [ref=f40e524] [cursor=pointer]:
+                      - /url: /video/woman-wearing-nude-color-undergarment-4519556/
+                    - button "Play video preview" [ref=f40e529] [cursor=pointer]
+                - generic [ref=f40e534]:
+                  - generic [ref=f40e536]:
+                    - generic [ref=f40e538]:
+                      - link "Create your own mammogram content with Canva" [ref=f40e539] [cursor=pointer]:
+                        - /url: https://www.canva.com/features/ai-video-generator/?utm_source=pexels&utm_campaign=aigc_pexelscampaign&utm_medium=partner
+                      - link "Create your own mammogram content with Canva" [ref=f40e541] [cursor=pointer]:
+                        - /url: https://www.canva.com/features/ai-video-generator/?utm_source=pexels&utm_campaign=aigc_pexelscampaign&utm_medium=partner
+                      - link "Create your own mammogram content with Canva" [ref=f40e543] [cursor=pointer]:
+                        - /url: https://www.canva.com/features/ai-video-generator/?utm_source=pexels&utm_campaign=aigc_pexelscampaign&utm_medium=partner
+                      - link "Create your own mammogram content with Canva" [ref=f40e545] [cursor=pointer]:
+                        - /url: https://www.canva.com/features/ai-video-generator/?utm_source=pexels&utm_campaign=aigc_pexelscampaign&utm_medium=partner
+                    - link [ref=f40e547] [cursor=pointer]:
+                      - /url: https://www.canva.com/features/ai-video-generator/?utm_source=pexels&utm_campaign=aigc_pexelscampaign&utm_medium=partner
+                      - paragraph [ref=f40e550]: Bring your ideas to life with Canva AI
+                    - link "Get started for free" [ref=f40e551] [cursor=pointer]:
+                      - /url: https://www.canva.com/features/ai-video-generator/?utm_source=pexels&utm_campaign=aigc_pexelscampaign&utm_medium=partner
+                  - generic [ref=f40e555]:
+                    - generic [ref=f40e556]:
+                      - heading "S‌p‌‌‌o‌‌n‌s‌‌o‌r‌‌e‌‌d‌ ‌V‌i‌‌‌d‌‌e‌o‌s‌" [level=4] [ref=f40e557]
+                      - link [ref=f40e558] [cursor=pointer]:
+                        - /url: https://www.pexels.com/r/eyJkZXN0IjoiaHR0cHM6Ly93d3cuaXN0b2NrcGhvdG8uY29tL3ZpZGVvcy9tYW1tb2dyYW0_dXRtX3NvdXJjZT1wZXhlbHMmdXRtX21lZGl1bT1hZmZpbGlhdGUmdXRtX2NhbXBhaWduPXNwb25zb3JlZF92aWRlbyZ1dG1fY29udGVudD1zcnBfaW5saW5lX2xvZ28mdXRtX3Rlcm09bWFtbW9ncmFtIiwiZGF0YSI6eyJleHBlcmltZW50cyI6e30sInBhZ2VfbG9jYWxlIjoiZW4tVVMiLCJwYWdlIjoic2VhcmNoX3Jlc3VsdHMiLCJwYWdlX3ZhcmlhbnQiOiJ2aWRlb3MiLCJsb2NhdGlvbiI6ImdyaWQiLCJhZF9wYXJ0bmVyIjoiZ2V0dHkiLCJhZF9mb3JtYXQiOiJpbmxpbmUiLCJhZF9wbGFjZW1lbnQiOiIxMCIsImFkX2NyZWF0aXZlIjoidmlkZW9fc2VhcmNoXzQiLCJhZF9hY3Rpb24iOiJjbGljayIsImFkX2ltcHJlc3Npb25faWQiOiJjM2FlM2M0YS1iMmY5LTRjOGUtYjFmMS1kMGM3NTE4YWJhN2EiLCJtZWRpYV90eXBlIjoidmlkZW8iLCJxdWVyeSI6Im1hbW1vZ3JhbSJ9fQ/
+                    - generic [ref=f40e562]:
+                      - link [ref=f40e563] [cursor=pointer]:
+                        - /url: https://www.pexels.com/r/eyJkZXN0IjoiaHR0cHM6Ly93d3cuaXN0b2NrcGhvdG8uY29tL3ZpZGVvL2ZyaWVuZGx5LWRvY3Rvci10YWtpbmctYS1tYW1tb2dyYXBoeS10by1hLWZlbWFsZS1wYXRpZW50LWdtODc5MjUyMjUwLTI0NTA5MTgxMD91dG1fc291cmNlPXBleGVscyZ1dG1fbWVkaXVtPWFmZmlsaWF0ZSZ1dG1fY2FtcGFpZ249c3BvbnNvcmVkX3ZpZGVvJnV0bV9jb250ZW50PXNycF9pbmxpbmVfbWVkaWEmdXRtX3Rlcm09bWFtbW9ncmFtIiwiZGF0YSI6eyJleHBlcmltZW50cyI6e30sInBhZ2VfbG9jYWxlIjoiZW4tVVMiLCJwYWdlIjoic2VhcmNoX3Jlc3VsdHMiLCJwYWdlX3ZhcmlhbnQiOiJ2aWRlb3MiLCJsb2NhdGlvbiI6ImdyaWQiLCJhZF9wYXJ0bmVyIjoiZ2V0dHkiLCJhZF9mb3JtYXQiOiJpbmxpbmUiLCJhZF9wbGFjZW1lbnQiOiIxMCIsImFkX2NyZWF0aXZlIjoidmlkZW9fc2VhcmNoXzQiLCJhZF9hY3Rpb24iOiJjbGljayIsImFkX2ltcHJlc3Npb25faWQiOiJjM2FlM2M0YS1iMmY5LTRjOGUtYjFmMS1kMGM3NTE4YWJhN2EiLCJtZWRpYV90eXBlIjoidmlkZW8iLCJxdWVyeSI6Im1hbW1vZ3JhbSJ9fQ/
+                      - link [ref=f40e566] [cursor=pointer]:
+                        - /url: https://www.pexels.com/r/eyJkZXN0IjoiaHR0cHM6Ly93d3cuaXN0b2NrcGhvdG8uY29tL3ZpZGVvL21hbW1vZ3JhbS1leGFtaW5hdGlvbi1mb3Itd29tZW4tZ20yMjIyMTk1MzQ4LTYzODQ4NzQ0MT91dG1fc291cmNlPXBleGVscyZ1dG1fbWVkaXVtPWFmZmlsaWF0ZSZ1dG1fY2FtcGFpZ249c3BvbnNvcmVkX3ZpZGVvJnV0bV9jb250ZW50PXNycF9pbmxpbmVfbWVkaWEmdXRtX3Rlcm09bWFtbW9ncmFtIiwiZGF0YSI6eyJleHBlcmltZW50cyI6e30sInBhZ2VfbG9jYWxlIjoiZW4tVVMiLCJwYWdlIjoic2VhcmNoX3Jlc3VsdHMiLCJwYWdlX3ZhcmlhbnQiOiJ2aWRlb3MiLCJsb2NhdGlvbiI6ImdyaWQiLCJhZF9wYXJ0bmVyIjoiZ2V0dHkiLCJhZF9mb3JtYXQiOiJpbmxpbmUiLCJhZF9wbGFjZW1lbnQiOiIxMCIsImFkX2NyZWF0aXZlIjoidmlkZW9fc2VhcmNoXzQiLCJhZF9hY3Rpb24iOiJjbGljayIsImFkX2ltcHJlc3Npb25faWQiOiJjM2FlM2M0YS1iMmY5LTRjOGUtYjFmMS1kMGM3NTE4YWJhN2EiLCJtZWRpYV90eXBlIjoidmlkZW8iLCJxdWVyeSI6Im1hbW1vZ3JhbSJ9fQ/
+                      - link [ref=f40e569] [cursor=pointer]:
+                        - /url: https://www.pexels.com/r/eyJkZXN0IjoiaHR0cHM6Ly93d3cuaXN0b2NrcGhvdG8uY29tL3ZpZGVvL2FmcmljYW4tYW1lcmljYW4td29tYW4tZ2V0dGluZy1hLW1hbW1vZ3JhbS1nbTEyMDIxNDAxODMtMzQ0OTYyNDE4P3V0bV9zb3VyY2U9cGV4ZWxzJnV0bV9tZWRpdW09YWZmaWxpYXRlJnV0bV9jYW1wYWlnbj1zcG9uc29yZWRfdmlkZW8mdXRtX2NvbnRlbnQ9c3JwX2lubGluZV9tZWRpYSZ1dG1fdGVybT1tYW1tb2dyYW0iLCJkYXRhIjp7ImV4cGVyaW1lbnRzIjp7fSwicGFnZV9sb2NhbGUiOiJlbi1VUyIsInBhZ2UiOiJzZWFyY2hfcmVzdWx0cyIsInBhZ2VfdmFyaWFudCI6InZpZGVvcyIsImxvY2F0aW9uIjoiZ3JpZCIsImFkX3BhcnRuZXIiOiJnZXR0eSIsImFkX2Zvcm1hdCI6ImlubGluZSIsImFkX3BsYWNlbWVudCI6IjEwIiwiYWRfY3JlYXRpdmUiOiJ2aWRlb19zZWFyY2hfNCIsImFkX2FjdGlvbiI6ImNsaWNrIiwiYWRfaW1wcmVzc2lvbl9pZCI6ImMzYWUzYzRhLWIyZjktNGM4ZS1iMWYxLWQwYzc1MThhYmE3YSIsIm1lZGlhX3R5cGUiOiJ2aWRlbyIsInF1ZXJ5IjoibWFtbW9ncmFtIn19/
+                      - link [ref=f40e572] [cursor=pointer]:
+                        - /url: https://www.pexels.com/r/eyJkZXN0IjoiaHR0cHM6Ly93d3cuaXN0b2NrcGhvdG8uY29tL3ZpZGVvL2RvY3Rvci10ZWFjaGluZy1wYXRpZW50LXRvLXRvdWNoLWJyZWFzdHMtaW4tbWFtbW9ncmFwaHktcm9vbS1hdC1ob3NwaXRhbC1nbTE4Njk5NjUxMDAtNTUyOTg5MzIyP3V0bV9zb3VyY2U9cGV4ZWxzJnV0bV9tZWRpdW09YWZmaWxpYXRlJnV0bV9jYW1wYWlnbj1zcG9uc29yZWRfdmlkZW8mdXRtX2NvbnRlbnQ9c3JwX2lubGluZV9tZWRpYSZ1dG1fdGVybT1tYW1tb2dyYW0iLCJkYXRhIjp7ImV4cGVyaW1lbnRzIjp7fSwicGFnZV9sb2NhbGUiOiJlbi1VUyIsInBhZ2UiOiJzZWFyY2hfcmVzdWx0cyIsInBhZ2VfdmFyaWFudCI6InZpZGVvcyIsImxvY2F0aW9uIjoiZ3JpZCIsImFkX3BhcnRuZXIiOiJnZXR0eSIsImFkX2Zvcm1hdCI6ImlubGluZSIsImFkX3BsYWNlbWVudCI6IjEwIiwiYWRfY3JlYXRpdmUiOiJ2aWRlb19zZWFyY2hfNCIsImFkX2FjdGlvbiI6ImNsaWNrIiwiYWRfaW1wcmVzc2lvbl9pZCI6ImMzYWUzYzRhLWIyZjktNGM4ZS1iMWYxLWQwYzc1MThhYmE3YSIsIm1lZGlhX3R5cGUiOiJ2aWRlbyIsInF1ZXJ5IjoibWFtbW9ncmFtIn19/
+                    - link [ref=f40e575] [cursor=pointer]:
+                      - /url: https://www.pexels.com/r/eyJkZXN0IjoiaHR0cHM6Ly93d3cuaXN0b2NrcGhvdG8uY29tL3ZpZGVvcy9tYW1tb2dyYW0_dXRtX3NvdXJjZT1wZXhlbHMmdXRtX21lZGl1bT1hZmZpbGlhdGUmdXRtX2NhbXBhaWduPXNwb25zb3JlZF92aWRlbyZ1dG1fY29udGVudD1zcnBfaW5saW5lX2NvdXBvbmNvZGUmdXRtX3Rlcm09bWFtbW9ncmFtIiwiZGF0YSI6eyJleHBlcmltZW50cyI6e30sInBhZ2VfbG9jYWxlIjoiZW4tVVMiLCJwYWdlIjoic2VhcmNoX3Jlc3VsdHMiLCJwYWdlX3ZhcmlhbnQiOiJ2aWRlb3MiLCJsb2NhdGlvbiI6ImdyaWQiLCJhZF9wYXJ0bmVyIjoiZ2V0dHkiLCJhZF9mb3JtYXQiOiJpbmxpbmUiLCJhZF9wbGFjZW1lbnQiOiIxMCIsImFkX2NyZWF0aXZlIjoidmlkZW9fc2VhcmNoXzQiLCJhZF9hY3Rpb24iOiJjbGljayIsImFkX2ltcHJlc3Npb25faWQiOiJjM2FlM2M0YS1iMmY5LTRjOGUtYjFmMS1kMGM3NTE4YWJhN2EiLCJtZWRpYV90eXBlIjoidmlkZW8iLCJxdWVyeSI6Im1hbW1vZ3JhbSJ9fQ/
+                      - img [ref=f40e578]:
+                        - generic [ref=f40e579]: Get 20% off with code PEXELS20 »
+                  - article [ref=f40e583]:
+                    - link [ref=f40e584] [cursor=pointer]:
+                      - /url: /video/three-women-standing-while-looking-at-camera-7659146/
+                    - button "Play video preview" [ref=f40e589] [cursor=pointer]
+                  - article [ref=f40e597]:
+                    - link [ref=f40e598] [cursor=pointer]:
+                      - /url: /video/a-doctor-performing-a-ultrasound-test-on-a-pregnant-patient-7088949/
+                    - button "Play video preview" [ref=f40e603] [cursor=pointer]
+                  - article [ref=f40e611]:
+                    - link [ref=f40e612] [cursor=pointer]:
+                      - /url: /video/doctors-looking-at-an-x-ray-7423719/
+                    - button "Play video preview" [ref=f40e617] [cursor=pointer]
+                - generic [ref=f40e622]:
+                  - article [ref=f40e626]:
+                    - link [ref=f40e627] [cursor=pointer]:
+                      - /url: /video/young-woman-with-breast-cancer-awareness-t-shirt-5701766/
+                    - button "Play video preview" [ref=f40e632] [cursor=pointer]
+                  - article [ref=f40e640]:
+                    - link [ref=f40e641] [cursor=pointer]:
+                      - /url: /video/the-hallway-1509536/
+                    - button "Play video preview" [ref=f40e646] [cursor=pointer]
+                  - article [ref=f40e654]:
+                    - link [ref=f40e655] [cursor=pointer]:
+                      - /url: /video/a-person-holding-a-pink-ribbon-7659133/
+                    - button "Play video preview" [ref=f40e660] [cursor=pointer]
+                  - article [ref=f40e668]:
+                    - link [ref=f40e669] [cursor=pointer]:
+                      - /url: /video/person-holding-a-tablet-while-talking-to-a-woman-7423534/
+                    - button "Play video preview" [ref=f40e674] [cursor=pointer]
+                  - article [ref=f40e682]:
+                    - link [ref=f40e683] [cursor=pointer]:
+                      - /url: /video/medical-practitioner-using-an-ultrasound-scanner-7705202/
+                    - button "Play video preview" [ref=f40e688] [cursor=pointer]
+                  - article [ref=f40e696]:
+                    - link [ref=f40e697] [cursor=pointer]:
+                      - /url: /video/doctor-reading-an-x-ray-scan-7579841/
+                    - button "Play video preview" [ref=f40e702] [cursor=pointer]
+                  - article [ref=f40e710]:
+                    - link [ref=f40e711] [cursor=pointer]:
+                      - /url: /video/female-hand-setting-dental-x-ray-equipment-6501966/
+                    - button "Play video preview" [ref=f40e716] [cursor=pointer]
+              - button "Load More" [ref=f40e722] [cursor=pointer]
+            - navigation [ref=f40e725]:
+              - generic [ref=f40e727]:
+                - link "1" [ref=f40e729]:
+                  - /url: /search/videos/mammogram/?orientation=landscape
+                - link "2" [ref=f40e732] [cursor=pointer]:
+                  - /url: /search/videos/mammogram/?orientation=landscape&page=2
+                - link "3" [ref=f40e735] [cursor=pointer]:
+                  - /url: /search/videos/mammogram/?orientation=landscape&page=3
+                - link "4" [ref=f40e738] [cursor=pointer]:
+                  - /url: /search/videos/mammogram/?orientation=landscape&page=4
+                - link "5" [ref=f40e741] [cursor=pointer]:
+                  - /url: /search/videos/mammogram/?orientation=landscape&page=5
+                - link "6" [ref=f40e744] [cursor=pointer]:
+                  - /url: /search/videos/mammogram/?orientation=landscape&page=6
+                - link "Next" [ref=f40e747] [cursor=pointer]:
+                  - /url: /search/videos/mammogram/?orientation=landscape&page=2
+    - contentinfo [ref=f40e751]:
+      - separator [ref=f40e752]
+      - generic [ref=f40e753]:
+        - generic [ref=f40e754]:
+          - heading "Where stories come together." [level=2] [ref=f40e755]
+          - generic [ref=f40e756]:
+            - link "Download on iOS" [ref=f40e757] [cursor=pointer]:
+              - /url: https://itunes.apple.com/us/app/pexels/id1434330413/
+            - link "Download on Android" [ref=f40e760] [cursor=pointer]:
+              - /url: https://play.google.com/store/apps/details?id=com.pexels.app
+          - list [ref=f40e763]:
+            - listitem [ref=f40e764]:
+              - link "Instagram" [ref=f40e765] [cursor=pointer]:
+                - /url: https://www.instagram.com/pexels/
+            - listitem [ref=f40e768]:
+              - link "Threads" [ref=f40e769] [cursor=pointer]:
+                - /url: https://www.threads.net/@pexels/
+            - listitem [ref=f40e772]:
+              - link "YouTube" [ref=f40e773] [cursor=pointer]:
+                - /url: https://www.youtube.com/pexelsphotos/
+            - listitem [ref=f40e776]:
+              - link "TikTok" [ref=f40e777] [cursor=pointer]:
+                - /url: https://www.tiktok.com/@pexels/
+            - listitem [ref=f40e780]:
+              - link "LinkedIn" [ref=f40e781] [cursor=pointer]:
+                - /url: https://www.linkedin.com/company/pexels/
+            - listitem [ref=f40e784]:
+              - link "X" [ref=f40e785] [cursor=pointer]:
+                - /url: https://x.com/pexels/
+        - generic [ref=f40e788]:
+          - list [ref=f40e789]:
+            - heading "Pexels" [level=3] [ref=f40e790]
+            - listitem [ref=f40e791]:
+              - link "Free Stock Photos" [ref=f40e792] [cursor=pointer]:
+                - /url: /
+            - listitem [ref=f40e793]:
+              - link "Free Videos" [ref=f40e794] [cursor=pointer]:
+                - /url: /videos/
+            - listitem [ref=f40e795]:
+              - link "Popular searches" [ref=f40e796] [cursor=pointer]:
+                - /url: /popular-searches/
+            - listitem [ref=f40e797]:
+              - link "Collections" [ref=f40e798] [cursor=pointer]:
+                - /url: /discover/
+            - listitem [ref=f40e799]:
+              - link "Challenges" [ref=f40e800] [cursor=pointer]:
+                - /url: /challenges/
+            - listitem [ref=f40e801]:
+              - link "Leaderboard" [ref=f40e802] [cursor=pointer]:
+                - /url: /leaderboard/
+            - listitem [ref=f40e803]:
+              - link "Other plugins & apps" [ref=f40e804] [cursor=pointer]:
+                - /url: /pro/
+          - list [ref=f40e805]:
+            - heading "Company" [level=3] [ref=f40e806]
+            - listitem [ref=f40e807]:
+              - link "About" [ref=f40e808] [cursor=pointer]:
+                - /url: /about/
+            - listitem [ref=f40e809]:
+              - link "Blog" [ref=f40e810] [cursor=pointer]:
+                - /url: /blog/
+            - listitem [ref=f40e811]:
+              - link "Help Center" [ref=f40e812] [cursor=pointer]:
+                - /url: https://help.pexels.com/hc/en-us
+            - listitem [ref=f40e813]:
+              - link "Report content" [ref=f40e814] [cursor=pointer]:
+                - /url: /report/
+            - listitem [ref=f40e815]:
+              - link "Become a Hero" [ref=f40e816] [cursor=pointer]:
+                - /url: /hero/
+            - listitem [ref=f40e817]:
+              - link "Partner with Pexels" [ref=f40e818] [cursor=pointer]:
+                - /url: /become-a-partner/
+            - listitem [ref=f40e819]:
+              - link "Image & Video API" [ref=f40e820] [cursor=pointer]:
+                - /url: /api/
+            - listitem [ref=f40e821]: Sign Up
+        - list [ref=f40e822]:
+          - listitem [ref=f40e823]:
+            - heading "Free Stock Photos" [level=3] [ref=f40e824]
+          - listitem [ref=f40e825]:
+            - generic [ref=f40e827]:
+              - link "4K wallpaper" [ref=f40e829] [cursor=pointer]:
+                - /url: /search/4k%20wallpaper/
+              - link "Nature photos" [ref=f40e830] [cursor=pointer]:
+                - /url: /search/nature/
+              - link "Desktop wallpaper" [ref=f40e831] [cursor=pointer]:
+                - /url: /search/desktop%20wallpaper/
+              - link "Flower photos" [ref=f40e832] [cursor=pointer]:
+                - /url: /search/flowers/
+              - link "HD wallpaper" [ref=f40e833] [cursor=pointer]:
+                - /url: /search/hd%20wallpaper/
+              - link "Mobile wallpaper" [ref=f40e834] [cursor=pointer]:
+                - /url: /search/mobile%20wallpaper/
+              - link "Dark photos" [ref=f40e835] [cursor=pointer]:
+                - /url: /search/dark/
+              - link "Black and white photography" [ref=f40e836] [cursor=pointer]:
+                - /url: /search/black%20and%20white/
+              - link "Black background" [ref=f40e837] [cursor=pointer]:
+                - /url: /search/black%20background/
+              - link "Sunset photos" [ref=f40e838] [cursor=pointer]:
+                - /url: /search/sunset/
+              - link "Landscape photos" [ref=f40e839] [cursor=pointer]:
+                - /url: /search/landscape/
+              - link "Cat photos" [ref=f40e840] [cursor=pointer]:
+                - /url: /search/cat/
+      - generic [ref=f40e842]:
+        - generic [ref=f40e843]: © 2026 Pexels
+        - generic [ref=f40e845]:
+          - link "Terms of Use" [ref=f40e847] [cursor=pointer]:
+            - /url: /terms-of-service/
+          - link "Privacy Policy" [ref=f40e848] [cursor=pointer]:
+            - /url: /privacy-policy/
+          - link "License" [ref=f40e849] [cursor=pointer]:
+            - /url: /license/
+          - link "Imprint" [ref=f40e850] [cursor=pointer]:
+            - /url: /imprint/
+          - link "Cookies Policy" [ref=f40e851] [cursor=pointer]:
+            - /url: /cookies/
+        - button "English" [ref=f40e854] [cursor=pointer]
+      - separator [ref=f40e859]
+  - alert [ref=f40e860]

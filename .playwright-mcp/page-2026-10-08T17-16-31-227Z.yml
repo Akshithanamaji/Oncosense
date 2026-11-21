@@ -1,0 +1,347 @@
+- generic [active] [ref=f125e1]:
+  - generic [ref=f125e3]:
+    - navigation [ref=f125e6]:
+      - link [ref=f125e8] [cursor=pointer]:
+        - /url: /
+      - search [ref=f125e13]:
+        - generic [ref=f125e14]:
+          - button "Photos" [ref=f125e16] [cursor=pointer]
+          - searchbox "Search for free photos" [ref=f125e24]
+          - button [ref=f125e26] [cursor=pointer]
+      - generic [ref=f125e30]:
+        - link "Explore" [ref=f125e32] [cursor=pointer]:
+          - /url: /discover/
+        - link "License" [ref=f125e36] [cursor=pointer]:
+          - /url: /license/
+        - button [ref=f125e39] [cursor=pointer]
+        - button "Join" [ref=f125e42] [cursor=pointer]
+    - main [ref=f125e45]:
+      - separator [ref=f125e46]
+      - generic [ref=f125e47]:
+        - main [ref=f125e48]:
+          - separator [ref=f125e49]
+          - generic [ref=f125e50]:
+            - generic [ref=f125e51]:
+              - link [ref=f125e52] [cursor=pointer]:
+                - /url: /@polina-tankilevitch/
+                - img "Polina Tankilevitch" [ref=f125e56]
+              - generic [ref=f125e57]:
+                - link [ref=f125e58] [cursor=pointer]:
+                  - /url: /@polina-tankilevitch/
+                  - heading "Polina Tankilevitch" [level=5] [ref=f125e59]
+                - paragraph [ref=f125e60]:
+                  - text: 6.5B views
+                  - generic [ref=f125e61]: •
+                  - text: 15.4M downloads
+            - generic [ref=f125e62]:
+              - generic [ref=f125e63]:
+                - link "Add Text" [ref=f125e64] [cursor=pointer]:
+                  - /url: https://www.canva.com/content-partner/?utm_medium=acquisitions&utm_source=pexels&utm_campaign=predownload%20button&utm_content=edit%20in%20canva%20action%3Dadd_text_video&file-url=https%3A%2F%2Fvideos.pexels.com%2Fvideo-files%2F3735771%2F3735771-hd_1920_1080_25fps.mp4&external-id=3735771&onboarding-flow=add-text-to-photo
+                - link "Convert to GIF" [ref=f125e69] [cursor=pointer]:
+                  - /url: https://www.canva.com/content-partner/?utm_medium=acquisitions&utm_source=pexels&utm_campaign=predownload%20button&utm_content=edit%20in%20canva%20action%3Dconvert_to_gif&file-url=https%3A%2F%2Fvideos.pexels.com%2Fvideo-files%2F3735771%2F3735771-hd_1920_1080_25fps.mp4&external-id=3735771&onboarding-flow=convert-to-gif
+                - link "Edit" [ref=f125e76] [cursor=pointer]:
+                  - /url: https://www.canva.com/content-partner/?utm_medium=acquisitions&utm_source=pexels&utm_campaign=predownload%20button&utm_content=edit%20in%20canva&file-url=https%3A%2F%2Fvideos.pexels.com%2Fvideo-files%2F3735771%2F3735771-hd_1920_1080_25fps.mp4&external-id=3735771
+              - generic [ref=f125e83]:
+                - button [ref=f125e84] [cursor=pointer]
+                - button "35" [ref=f125e88] [cursor=pointer]
+                - generic [ref=f125e93]:
+                  - link "Free download" [ref=f125e94] [cursor=pointer]:
+                    - /url: https://www.pexels.com/download/video/3735771/
+                  - button [ref=f125e98] [cursor=pointer]
+          - separator [ref=f125e103]
+        - generic [ref=f125e104]:
+          - region "video player" [ref=f125e113]:
+            - generic:
+              - generic:
+                - generic:
+                  - status: media loading
+                - generic:
+                  - button "pause"
+              - generic:
+                - generic [ref=f125e118] [cursor=pointer]:
+                  - slider "seek" [ref=f125e123]: "0"
+                  - generic: en 0:00
+                - generic [ref=f125e124]:
+                  - generic:
+                    - button "pause" [ref=f125e125] [cursor=pointer]:
+                      - generic [ref=f125e133]:
+                        - generic [aria-hidden]:
+                          - generic: Pause
+                    - button "playback time" [ref=f125e134]: 0:00 / 0:04
+                    - button "Playback rate 1" [ref=f125e136] [cursor=pointer]:
+                      - generic: 1x
+                      - generic [ref=f125e137]:
+                        - generic [aria-hidden]: Playback rate
+                    - button "enter fullscreen mode" [ref=f125e138] [cursor=pointer]:
+                      - generic [ref=f125e145]:
+                        - generic [aria-hidden]:
+                          - generic: Enter fullscreen mode
+          - generic [ref=f125e147]:
+            - link [ref=f125e148] [cursor=pointer]:
+              - /url: /@polina-tankilevitch/
+              - img "Polina Tankilevitch" [ref=f125e152]
+              - heading "Polina Tankilevitch" [level=5] [ref=f125e154]
+            - button "Follow" [ref=f125e157] [cursor=pointer]
+          - generic [ref=f125e163]:
+            - generic [ref=f125e165]:
+              - generic [ref=f125e167]:
+                - paragraph [ref=f125e168]: License
+                - link [ref=f125e169] [cursor=pointer]:
+                  - /url: /license/
+                  - paragraph [ref=f125e170]: Free
+              - generic [ref=f125e173]:
+                - paragraph [ref=f125e174]: Dimensions
+                - paragraph [ref=f125e175]: 1920x1080
+              - generic [ref=f125e176]:
+                - paragraph [ref=f125e177]: Aspect Ratio
+                - paragraph [ref=f125e178]: 16:9
+              - generic [ref=f125e179]:
+                - paragraph [ref=f125e180]: Duration
+                - paragraph [ref=f125e181]: 30:05
+              - generic [ref=f125e182]:
+                - paragraph [ref=f125e183]: Date
+                - paragraph [ref=f125e184]: Feb 14, 2020
+              - generic [ref=f125e185]:
+                - paragraph [ref=f125e186]: Downloads
+                - paragraph [ref=f125e187]: 5.4K
+              - generic [ref=f125e188]:
+                - paragraph [ref=f125e189]: Views
+                - paragraph [ref=f125e190]: 1.4M
+              - generic [ref=f125e191]:
+                - paragraph [ref=f125e192]: Likes
+                - paragraph [ref=f125e193]: "35"
+            - generic [ref=f125e196]:
+              - button "More info" [ref=f125e197] [cursor=pointer]
+              - button "Share" [ref=f125e201] [cursor=pointer]
+              - link "Report media" [ref=f125e205] [cursor=pointer]:
+                - /url: /report/?slug=a-female-scientist-working-in-a-laboratory-3735771
+          - generic [ref=f125e209]:
+            - paragraph [ref=f125e210]: Description
+            - heading "Female scientist in lab gown experimenting with samples indoors." [level=1] [ref=f125e211]
+          - separator [ref=f125e212]
+          - heading "More like this" [level=3] [ref=f125e213]
+          - generic [ref=f125e215]:
+            - link "Labor" [ref=f125e217] [cursor=pointer]:
+              - /url: /search/videos/labor/
+            - link "Researcher" [ref=f125e220] [cursor=pointer]:
+              - /url: /search/videos/researcher/
+            - link "Research Lab" [ref=f125e223] [cursor=pointer]:
+              - /url: /search/videos/research%20lab/
+            - link "Laboratory Scientist" [ref=f125e226] [cursor=pointer]:
+              - /url: /search/videos/laboratory%20scientist/
+            - link "Laboratory Research" [ref=f125e229] [cursor=pointer]:
+              - /url: /search/videos/laboratory%20research/
+            - link "Scientist Research" [ref=f125e232] [cursor=pointer]:
+              - /url: /search/videos/scientist%20research/
+            - link "Medical Laboratory" [ref=f125e235] [cursor=pointer]:
+              - /url: /search/videos/medical%20laboratory/
+            - link "Medical Lab" [ref=f125e238] [cursor=pointer]:
+              - /url: /search/videos/medical%20lab/
+            - link "Science Laboratory" [ref=f125e241] [cursor=pointer]:
+              - /url: /search/videos/science%20laboratory/
+            - link "Scientist" [ref=f125e244] [cursor=pointer]:
+              - /url: /search/videos/scientist/
+            - link "Lab" [ref=f125e247] [cursor=pointer]:
+              - /url: /search/videos/lab/
+            - link "Medical Research" [ref=f125e250] [cursor=pointer]:
+              - /url: /search/videos/medical%20research/
+            - link "Lab Testing" [ref=f125e253] [cursor=pointer]:
+              - /url: /search/videos/lab%20testing/
+            - link "Scientific Research" [ref=f125e256] [cursor=pointer]:
+              - /url: /search/videos/scientific%20research/
+            - link "Researchers" [ref=f125e259] [cursor=pointer]:
+              - /url: /search/videos/researchers/
+            - img [ref=f125e262] [cursor=pointer]
+          - generic [ref=f125e265]:
+            - generic [ref=f125e267]:
+              - generic [ref=f125e268]:
+                - article [ref=f125e272]:
+                  - link [ref=f125e273] [cursor=pointer]:
+                    - /url: /video/mixing-chemical-in-the-laboratory-3735783/
+                  - button "Play video preview" [ref=f125e278] [cursor=pointer]
+                - article [ref=f125e286]:
+                  - link [ref=f125e287] [cursor=pointer]:
+                    - /url: /video/a-medical-practitioner-taking-notes-of-a-specimen-3735758/
+                  - button "Play video preview" [ref=f125e292] [cursor=pointer]
+                - article [ref=f125e300]:
+                  - link [ref=f125e301] [cursor=pointer]:
+                    - /url: /video/person-putting-chemical-in-a-test-tube-8852381/
+                  - button "Play video preview" [ref=f125e306] [cursor=pointer]
+                - article [ref=f125e314]:
+                  - link [ref=f125e315] [cursor=pointer]:
+                    - /url: /video/a-scientist-holding-a-test-tube-rack-8485794/
+                  - button "Play video preview" [ref=f125e320] [cursor=pointer]
+              - generic [ref=f125e325]:
+                - article [ref=f125e329]:
+                  - link [ref=f125e330] [cursor=pointer]:
+                    - /url: /video/woman-in-the-pink-laboratory-coat-opening-a-chemical-sample-3735755/
+                  - button "Play video preview" [ref=f125e335] [cursor=pointer]
+                - article [ref=f125e343]:
+                  - link [ref=f125e344] [cursor=pointer]:
+                    - /url: /video/showing-laboratory-chemical-instruments-3735734/
+                  - button "Play video preview" [ref=f125e349] [cursor=pointer]
+                - article [ref=f125e357]:
+                  - link [ref=f125e358] [cursor=pointer]:
+                    - /url: /video/a-woman-putting-blood-samples-on-a-machine-8381456/
+                  - button "Play video preview" [ref=f125e363] [cursor=pointer]
+                - article [ref=f125e371]:
+                  - link [ref=f125e372] [cursor=pointer]:
+                    - /url: /video/a-woman-holding-a-dropper-8852616/
+                  - button "Play video preview" [ref=f125e377] [cursor=pointer]
+              - generic [ref=f125e382]:
+                - generic [ref=f125e384]:
+                  - generic [ref=f125e386]:
+                    - link "Create your own video content with Canva" [ref=f125e387] [cursor=pointer]:
+                      - /url: https://www.canva.com/features/ai-video-generator/?utm_source=pexels&utm_campaign=aigc_pexelscampaign&utm_medium=partner
+                    - link "Create your own video content with Canva" [ref=f125e389] [cursor=pointer]:
+                      - /url: https://www.canva.com/features/ai-video-generator/?utm_source=pexels&utm_campaign=aigc_pexelscampaign&utm_medium=partner
+                    - link "Create your own video content with Canva" [ref=f125e391] [cursor=pointer]:
+                      - /url: https://www.canva.com/features/ai-video-generator/?utm_source=pexels&utm_campaign=aigc_pexelscampaign&utm_medium=partner
+                    - link "Create your own video content with Canva" [ref=f125e393] [cursor=pointer]:
+                      - /url: https://www.canva.com/features/ai-video-generator/?utm_source=pexels&utm_campaign=aigc_pexelscampaign&utm_medium=partner
+                  - link [ref=f125e395] [cursor=pointer]:
+                    - /url: https://www.canva.com/features/ai-video-generator/?utm_source=pexels&utm_campaign=aigc_pexelscampaign&utm_medium=partner
+                    - paragraph [ref=f125e398]: Bring your ideas to life with Canva AI
+                  - link "Get started for free" [ref=f125e399] [cursor=pointer]:
+                    - /url: https://www.canva.com/features/ai-video-generator/?utm_source=pexels&utm_campaign=aigc_pexelscampaign&utm_medium=partner
+                - article [ref=f125e405]:
+                  - link [ref=f125e406] [cursor=pointer]:
+                    - /url: /video/a-female-technician-working-at-a-laboratory-8940769/
+                  - button "Play video preview" [ref=f125e411] [cursor=pointer]
+              - generic [ref=f125e416]:
+                - article [ref=f125e420]:
+                  - link [ref=f125e421] [cursor=pointer]:
+                    - /url: /video/a-female-scientist-opening-a-fume-hood-8852607/
+                  - button "Play video preview" [ref=f125e426] [cursor=pointer]
+                - article [ref=f125e434]:
+                  - link [ref=f125e435] [cursor=pointer]:
+                    - /url: /video/footage-of-mixing-chemical-in-the-laboratory-3735785/
+                  - button "Play video preview" [ref=f125e440] [cursor=pointer]
+                - article [ref=f125e448]:
+                  - link [ref=f125e449] [cursor=pointer]:
+                    - /url: /video/footage-of-someone-shaking-chemical-in-the-laboratory-3735761/
+                  - button "Play video preview" [ref=f125e454] [cursor=pointer]
+            - button "Load More" [ref=f125e460] [cursor=pointer]
+      - separator [ref=f125e463]
+    - contentinfo [ref=f125e464]:
+      - separator [ref=f125e465]
+      - generic [ref=f125e466]:
+        - generic [ref=f125e467]:
+          - heading "Where stories come together." [level=2] [ref=f125e468]
+          - generic [ref=f125e469]:
+            - link "Download on iOS" [ref=f125e470] [cursor=pointer]:
+              - /url: https://itunes.apple.com/us/app/pexels/id1434330413/
+            - link "Download on Android" [ref=f125e473] [cursor=pointer]:
+              - /url: https://play.google.com/store/apps/details?id=com.pexels.app
+          - list [ref=f125e476]:
+            - listitem [ref=f125e477]:
+              - link "Instagram" [ref=f125e478] [cursor=pointer]:
+                - /url: https://www.instagram.com/pexels/
+            - listitem [ref=f125e481]:
+              - link "Threads" [ref=f125e482] [cursor=pointer]:
+                - /url: https://www.threads.net/@pexels/
+            - listitem [ref=f125e485]:
+              - link "YouTube" [ref=f125e486] [cursor=pointer]:
+                - /url: https://www.youtube.com/pexelsphotos/
+            - listitem [ref=f125e489]:
+              - link "TikTok" [ref=f125e490] [cursor=pointer]:
+                - /url: https://www.tiktok.com/@pexels/
+            - listitem [ref=f125e493]:
+              - link "LinkedIn" [ref=f125e494] [cursor=pointer]:
+                - /url: https://www.linkedin.com/company/pexels/
+            - listitem [ref=f125e497]:
+              - link "X" [ref=f125e498] [cursor=pointer]:
+                - /url: https://x.com/pexels/
+        - generic [ref=f125e501]:
+          - list [ref=f125e502]:
+            - heading "Pexels" [level=3] [ref=f125e503]
+            - listitem [ref=f125e504]:
+              - link "Free Stock Photos" [ref=f125e505] [cursor=pointer]:
+                - /url: /
+            - listitem [ref=f125e506]:
+              - link "Free Videos" [ref=f125e507] [cursor=pointer]:
+                - /url: /videos/
+            - listitem [ref=f125e508]:
+              - link "Popular searches" [ref=f125e509] [cursor=pointer]:
+                - /url: /popular-searches/
+            - listitem [ref=f125e510]:
+              - link "Collections" [ref=f125e511] [cursor=pointer]:
+                - /url: /discover/
+            - listitem [ref=f125e512]:
+              - link "Challenges" [ref=f125e513] [cursor=pointer]:
+                - /url: /challenges/
+            - listitem [ref=f125e514]:
+              - link "Leaderboard" [ref=f125e515] [cursor=pointer]:
+                - /url: /leaderboard/
+            - listitem [ref=f125e516]:
+              - link "Other plugins & apps" [ref=f125e517] [cursor=pointer]:
+                - /url: /pro/
+          - list [ref=f125e518]:
+            - heading "Company" [level=3] [ref=f125e519]
+            - listitem [ref=f125e520]:
+              - link "About" [ref=f125e521] [cursor=pointer]:
+                - /url: /about/
+            - listitem [ref=f125e522]:
+              - link "Blog" [ref=f125e523] [cursor=pointer]:
+                - /url: /blog/
+            - listitem [ref=f125e524]:
+              - link "Help Center" [ref=f125e525] [cursor=pointer]:
+                - /url: https://help.pexels.com/hc/en-us
+            - listitem [ref=f125e526]:
+              - link "Report content" [ref=f125e527] [cursor=pointer]:
+                - /url: /report/
+            - listitem [ref=f125e528]:
+              - link "Become a Hero" [ref=f125e529] [cursor=pointer]:
+                - /url: /hero/
+            - listitem [ref=f125e530]:
+              - link "Partner with Pexels" [ref=f125e531] [cursor=pointer]:
+                - /url: /become-a-partner/
+            - listitem [ref=f125e532]:
+              - link "Image & Video API" [ref=f125e533] [cursor=pointer]:
+                - /url: /api/
+            - listitem [ref=f125e534]: Sign Up
+        - list [ref=f125e535]:
+          - listitem [ref=f125e536]:
+            - heading "Free Stock Photos" [level=3] [ref=f125e537]
+          - listitem [ref=f125e538]:
+            - generic [ref=f125e540]:
+              - link "4K wallpaper" [ref=f125e542] [cursor=pointer]:
+                - /url: /search/4k%20wallpaper/
+              - link "Nature photos" [ref=f125e543] [cursor=pointer]:
+                - /url: /search/nature/
+              - link "Desktop wallpaper" [ref=f125e544] [cursor=pointer]:
+                - /url: /search/desktop%20wallpaper/
+              - link "Flower photos" [ref=f125e545] [cursor=pointer]:
+                - /url: /search/flowers/
+              - link "HD wallpaper" [ref=f125e546] [cursor=pointer]:
+                - /url: /search/hd%20wallpaper/
+              - link "Mobile wallpaper" [ref=f125e547] [cursor=pointer]:
+                - /url: /search/mobile%20wallpaper/
+              - link "Dark photos" [ref=f125e548] [cursor=pointer]:
+                - /url: /search/dark/
+              - link "Black and white photography" [ref=f125e549] [cursor=pointer]:
+                - /url: /search/black%20and%20white/
+              - link "Black background" [ref=f125e550] [cursor=pointer]:
+                - /url: /search/black%20background/
+              - link "Sunset photos" [ref=f125e551] [cursor=pointer]:
+                - /url: /search/sunset/
+              - link "Landscape photos" [ref=f125e552] [cursor=pointer]:
+                - /url: /search/landscape/
+              - link "Cat photos" [ref=f125e553] [cursor=pointer]:
+                - /url: /search/cat/
+      - generic [ref=f125e555]:
+        - generic [ref=f125e556]: © 2026 Pexels
+        - generic [ref=f125e558]:
+          - link "Terms of Use" [ref=f125e560] [cursor=pointer]:
+            - /url: /terms-of-service/
+          - link "Privacy Policy" [ref=f125e561] [cursor=pointer]:
+            - /url: /privacy-policy/
+          - link "License" [ref=f125e562] [cursor=pointer]:
+            - /url: /license/
+          - link "Imprint" [ref=f125e563] [cursor=pointer]:
+            - /url: /imprint/
+          - link "Cookies Policy" [ref=f125e564] [cursor=pointer]:
+            - /url: /cookies/
+        - button "English" [ref=f125e567] [cursor=pointer]
+      - separator [ref=f125e572]
+  - alert [ref=f125e573]

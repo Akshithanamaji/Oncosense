@@ -1,0 +1,183 @@
+{
+  "total_test_samples": 645,
+  "overall_accuracy": 0.662,
+  "overall_auc": 0.734,
+  "subgroups": {
+    "Lesion Type": {
+      "Calcification": {
+        "n": 284,
+        "n_benign": 165,
+        "n_malignant": 119,
+        "accuracy": 0.6444,
+        "accuracy_ci_95": [
+          0.5871,
+          0.6978
+        ],
+        "sensitivity": 0.5546,
+        "sensitivity_ci_95": [
+          0.465,
+          0.6408
+        ],
+        "specificity": 0.7091,
+        "specificity_ci_95": [
+          0.6357,
+          0.773
+        ],
+        "auc": 0.6856
+      },
+      "Mass": {
+        "n": 361,
+        "n_benign": 216,
+        "n_malignant": 145,
+        "accuracy": 0.6759,
+        "accuracy_ci_95": [
+          0.626,
+          0.7221
+        ],
+        "sensitivity": 0.7655,
+        "sensitivity_ci_95": [
+          0.6903,
+          0.8271
+        ],
+        "specificity": 0.6157,
+        "specificity_ci_95": [
+          0.5494,
+          0.678
+        ],
+        "auc": 0.7831
+      }
+    },
+    "Mammographic View": {
+      "CC": {
+        "n": 300,
+        "n_benign": 179,
+        "n_malignant": 121,
+        "accuracy": 0.7067,
+        "accuracy_ci_95": [
+          0.6528,
+          0.7553
+        ],
+        "sensitivity": 0.7107,
+        "sensitivity_ci_95": [
+          0.6245,
+          0.7841
+        ],
+        "specificity": 0.7039,
+        "specificity_ci_95": [
+          0.6333,
+          0.7659
+        ],
+        "auc": 0.7644
+      },
+      "MLO": {
+        "n": 345,
+        "n_benign": 202,
+        "n_malignant": 143,
+        "accuracy": 0.6232,
+        "accuracy_ci_95": [
+          0.571,
+          0.6727
+        ],
+        "sensitivity": 0.6364,
+        "sensitivity_ci_95": [
+          0.5549,
+          0.7107
+        ],
+        "specificity": 0.6139,
+        "specificity_ci_95": [
+          0.5452,
+          0.6783
+        ],
+        "auc": 0.7075
+      }
+    },
+    "Breast Laterality": {
+      "Left": {
+        "n": 339,
+        "n_benign": 207,
+        "n_malignant": 132,
+        "accuracy": 0.646,
+        "accuracy_ci_95": [
+          0.5937,
+          0.695
+        ],
+        "sensitivity": 0.6515,
+        "sensitivity_ci_95": [
+          0.567,
+          0.7275
+        ],
+        "specificity": 0.6425,
+        "specificity_ci_95": [
+          0.5752,
+          0.7047
+        ],
+        "auc": 0.7228
+      },
+      "Right": {
+        "n": 306,
+        "n_benign": 174,
+        "n_malignant": 132,
+        "accuracy": 0.6797,
+        "accuracy_ci_95": [
+          0.6255,
+          0.7295
+        ],
+        "sensitivity": 0.6894,
+        "sensitivity_ci_95": [
+          0.606,
+          0.762
+        ],
+        "specificity": 0.6724,
+        "specificity_ci_95": [
+          0.5996,
+          0.7378
+        ],
+        "auc": 0.747
+      }
+    },
+    "Patient Age Group": {
+      "50-65 (Perimenopausal)": {
+        "n": 172,
+        "n_benign": 113,
+        "n_malignant": 59,
+        "accuracy": 0.7326,
+        "accuracy_ci_95": [
+          0.6619,
+          0.7931
+        ],
+        "sensitivity": 0.6949,
+        "sensitivity_ci_95": [
+          0.5685,
+          0.7975
+        ],
+        "specificity": 0.7522,
+        "specificity_ci_95": [
+          0.6652,
+          0.8226
+        ],
+        "auc": 0.7935
+      },
+      "> 65 (Postmenopausal)": {
+        "n": 473,
+        "n_benign": 268,
+        "n_malignant": 205,
+        "accuracy": 0.6364,
+        "accuracy_ci_95": [
+          0.5921,
+          0.6785
+        ],
+        "sensitivity": 0.6634,
+        "sensitivity_ci_95": [
+          0.5962,
+          0.7246
+        ],
+        "specificity": 0.6157,
+        "specificity_ci_95": [
+          0.5562,
+          0.6719
+        ],
+        "auc": 0.7075
+      }
+    }
+  }
+}

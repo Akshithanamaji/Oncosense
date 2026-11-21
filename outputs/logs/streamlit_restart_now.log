@@ -1,0 +1,212 @@
+2026-10-15 10:31:49.984 Uvicorn server started on :::8501
+
+  You can now view your Streamlit app in your browser.
+
+  Local URL: http://localhost:8501
+  Network URL: http://192.168.137.196:8501
+  External URL: http://103.248.209.228:8501
+
+2026-10-15 10:44:40.146 Please replace `st.components.v1.html` with `st.iframe`.
+
+`st.components.v1.html` will be removed after 2026-06-01.
+2026-10-15 10:44:40.263 Please replace `st.components.v1.html` with `st.iframe`.
+
+`st.components.v1.html` will be removed after 2026-06-01.
++------------------------- Traceback (most recent call last) --------------------------+
+| C:\Python313\Lib\site-packages\streamlit\runtime\scriptrunner\exec_code.py:136 in    |
+| exec_func_with_error_handling                                                        |
+|                                                                                      |
+| C:\Python313\Lib\site-packages\streamlit\runtime\scriptrunner\script_runner.py:907   |
+| in code_to_exec                                                                      |
+|                                                                                      |
+| C:\Python313\Lib\site-packages\streamlit\runtime\scriptrunner\script_runner.py:170   |
+| in _mpa_v1                                                                           |
+|                                                                                      |
+| C:\Python313\Lib\site-packages\streamlit\navigation\page.py:502 in run               |
+|                                                                                      |
+| C:\Users\HP\OneDrive\Desktop\breast cancer\pages\Screening.py:42 in <module>         |
+|                                                                                      |
+|    39 from prepare_cbis_ddsm import dicom_to_pil  # noqa: E402                       |
+|    40 from utils import get_device, load_checkpoint  # noqa: E402                    |
+|    41                                                                                |
+| >  42 from oncosense_common import (  # noqa: E402                                   |
+|    43     CONFIG_PATH,                                                               |
+|    44     CSS,                                                                       |
+|    45     REPORT_EXPORT_CSS,                                                         |
++--------------------------------------------------------------------------------------+
+ImportError: cannot import name 'CLINICAL_M_OPTIONS' from 'oncosense_common' 
+(C:\Users\HP\OneDrive\Desktop\breast cancer\oncosense_common.py)
++------------------------- Traceback (most recent call last) --------------------------+
+| C:\Python313\Lib\site-packages\streamlit\runtime\scriptrunner\exec_code.py:136 in    |
+| exec_func_with_error_handling                                                        |
+|                                                                                      |
+| C:\Python313\Lib\site-packages\streamlit\runtime\scriptrunner\script_runner.py:907   |
+| in code_to_exec                                                                      |
+|                                                                                      |
+| C:\Python313\Lib\site-packages\streamlit\runtime\scriptrunner\script_runner.py:170   |
+| in _mpa_v1                                                                           |
+|                                                                                      |
+| C:\Python313\Lib\site-packages\streamlit\navigation\page.py:502 in run               |
+|                                                                                      |
+| C:\Users\HP\OneDrive\Desktop\breast cancer\pages\Screening.py:42 in <module>         |
+|                                                                                      |
+|    39 from prepare_cbis_ddsm import dicom_to_pil  # noqa: E402                       |
+|    40 from utils import get_device, load_checkpoint  # noqa: E402                    |
+|    41                                                                                |
+| >  42 from oncosense_common import (  # noqa: E402                                   |
+|    43     CLINICAL_M_OPTIONS,                                                        |
+|    44     CLINICAL_N_OPTIONS,                                                        |
+|    45     CLINICAL_T_OPTIONS,                                                        |
++--------------------------------------------------------------------------------------+
+ImportError: cannot import name 'CLINICAL_M_OPTIONS' from 'oncosense_common' 
+(C:\Users\HP\OneDrive\Desktop\breast cancer\oncosense_common.py)
++------------------------- Traceback (most recent call last) --------------------------+
+| C:\Python313\Lib\site-packages\streamlit\runtime\scriptrunner\exec_code.py:136 in    |
+| exec_func_with_error_handling                                                        |
+|                                                                                      |
+| C:\Python313\Lib\site-packages\streamlit\runtime\scriptrunner\script_runner.py:907   |
+| in code_to_exec                                                                      |
+|                                                                                      |
+| C:\Python313\Lib\site-packages\streamlit\runtime\scriptrunner\script_runner.py:170   |
+| in _mpa_v1                                                                           |
+|                                                                                      |
+| C:\Python313\Lib\site-packages\streamlit\navigation\page.py:502 in run               |
+|                                                                                      |
+| C:\Users\HP\OneDrive\Desktop\breast cancer\pages\Screening.py:42 in <module>         |
+|                                                                                      |
+|    39 from prepare_cbis_ddsm import dicom_to_pil  # noqa: E402                       |
+|    40 from utils import get_device, load_checkpoint  # noqa: E402                    |
+|    41                                                                                |
+| >  42 from oncosense_common import (  # noqa: E402                                   |
+|    43     CLINICAL_M_OPTIONS,                                                        |
+|    44     CLINICAL_N_OPTIONS,                                                        |
+|    45     CLINICAL_T_OPTIONS,                                                        |
++--------------------------------------------------------------------------------------+
+ImportError: cannot import name 'CLINICAL_M_OPTIONS' from 'oncosense_common' 
+(C:\Users\HP\OneDrive\Desktop\breast cancer\oncosense_common.py)
++------------------------- Traceback (most recent call last) --------------------------+
+| C:\Python313\Lib\site-packages\streamlit\runtime\scriptrunner\exec_code.py:136 in    |
+| exec_func_with_error_handling                                                        |
+|                                                                                      |
+| C:\Python313\Lib\site-packages\streamlit\runtime\scriptrunner\script_runner.py:907   |
+| in code_to_exec                                                                      |
+|                                                                                      |
+| C:\Python313\Lib\site-packages\streamlit\runtime\scriptrunner\script_runner.py:170   |
+| in _mpa_v1                                                                           |
+|                                                                                      |
+| C:\Python313\Lib\site-packages\streamlit\navigation\page.py:502 in run               |
+|                                                                                      |
+| C:\Users\HP\OneDrive\Desktop\breast cancer\pages\Screening.py:42 in <module>         |
+|                                                                                      |
+|    39 from prepare_cbis_ddsm import dicom_to_pil  # noqa: E402                       |
+|    40 from utils import get_device, load_checkpoint  # noqa: E402                    |
+|    41                                                                                |
+| >  42 from oncosense_common import (  # noqa: E402                                   |
+|    43     CLINICAL_M_OPTIONS,                                                        |
+|    44     CLINICAL_N_OPTIONS,                                                        |
+|    45     CLINICAL_T_OPTIONS,                                                        |
++--------------------------------------------------------------------------------------+
+ImportError: cannot import name 'CLINICAL_M_OPTIONS' from 'oncosense_common' 
+(C:\Users\HP\OneDrive\Desktop\breast cancer\oncosense_common.py)
++------------------------- Traceback (most recent call last) --------------------------+
+| C:\Python313\Lib\site-packages\streamlit\runtime\scriptrunner\exec_code.py:136 in    |
+| exec_func_with_error_handling                                                        |
+|                                                                                      |
+| C:\Python313\Lib\site-packages\streamlit\runtime\scriptrunner\script_runner.py:907   |
+| in code_to_exec                                                                      |
+|                                                                                      |
+| C:\Python313\Lib\site-packages\streamlit\runtime\scriptrunner\script_runner.py:170   |
+| in _mpa_v1                                                                           |
+|                                                                                      |
+| C:\Python313\Lib\site-packages\streamlit\navigation\page.py:502 in run               |
+|                                                                                      |
+| C:\Users\HP\OneDrive\Desktop\breast cancer\pages\Screening.py:42 in <module>         |
+|                                                                                      |
+|    39 from prepare_cbis_ddsm import dicom_to_pil  # noqa: E402                       |
+|    40 from utils import get_device, load_checkpoint  # noqa: E402                    |
+|    41                                                                                |
+| >  42 from oncosense_common import (  # noqa: E402                                   |
+|    43     CLINICAL_M_OPTIONS,                                                        |
+|    44     CLINICAL_N_OPTIONS,                                                        |
+|    45     CLINICAL_T_OPTIONS,                                                        |
++--------------------------------------------------------------------------------------+
+ImportError: cannot import name 'CLINICAL_M_OPTIONS' from 'oncosense_common' 
+(C:\Users\HP\OneDrive\Desktop\breast cancer\oncosense_common.py)
+2026-10-15 11:06:33.538 Please replace `st.components.v1.html` with `st.iframe`.
+
+`st.components.v1.html` will be removed after 2026-06-01.
+2026-10-15 11:06:33.595 Please replace `st.components.v1.html` with `st.iframe`.
+
+`st.components.v1.html` will be removed after 2026-06-01.
++------------------------- Traceback (most recent call last) --------------------------+
+| C:\Python313\Lib\site-packages\streamlit\runtime\scriptrunner\exec_code.py:136 in    |
+| exec_func_with_error_handling                                                        |
+|                                                                                      |
+| C:\Python313\Lib\site-packages\streamlit\runtime\scriptrunner\script_runner.py:907   |
+| in code_to_exec                                                                      |
+|                                                                                      |
+| C:\Python313\Lib\site-packages\streamlit\runtime\scriptrunner\script_runner.py:170   |
+| in _mpa_v1                                                                           |
+|                                                                                      |
+| C:\Python313\Lib\site-packages\streamlit\navigation\page.py:502 in run               |
+|                                                                                      |
+| C:\Users\HP\OneDrive\Desktop\breast cancer\pages\Screening.py:42 in <module>         |
+|                                                                                      |
+|    39 from prepare_cbis_ddsm import dicom_to_pil  # noqa: E402                       |
+|    40 from utils import get_device, load_checkpoint  # noqa: E402                    |
+|    41                                                                                |
+| >  42 from oncosense_common import (  # noqa: E402                                   |
+|    43     CLINICAL_M_OPTIONS,                                                        |
+|    44     CLINICAL_N_OPTIONS,                                                        |
+|    45     CLINICAL_T_OPTIONS,                                                        |
++--------------------------------------------------------------------------------------+
+ImportError: cannot import name 'CLINICAL_M_OPTIONS' from 'oncosense_common' 
+(C:\Users\HP\OneDrive\Desktop\breast cancer\oncosense_common.py)
++------------------------- Traceback (most recent call last) --------------------------+
+| C:\Python313\Lib\site-packages\streamlit\runtime\scriptrunner\exec_code.py:136 in    |
+| exec_func_with_error_handling                                                        |
+|                                                                                      |
+| C:\Python313\Lib\site-packages\streamlit\runtime\scriptrunner\script_runner.py:907   |
+| in code_to_exec                                                                      |
+|                                                                                      |
+| C:\Python313\Lib\site-packages\streamlit\runtime\scriptrunner\script_runner.py:170   |
+| in _mpa_v1                                                                           |
+|                                                                                      |
+| C:\Python313\Lib\site-packages\streamlit\navigation\page.py:502 in run               |
+|                                                                                      |
+| C:\Users\HP\OneDrive\Desktop\breast cancer\pages\Screening.py:46 in <module>         |
+|                                                                                      |
+|    43     CLINICAL_M_OPTIONS,                                                        |
+|    44     CLINICAL_N_OPTIONS,                                                        |
+|    45     CLINICAL_T_OPTIONS,                                                        |
+| >  46     CONFIG_PATH,                                                               |
+|    47     CSS,                                                                       |
+|    48     REPORT_EXPORT_CSS,                                                         |
+|    49     STAGE_LOOKUP,                                                              |
++--------------------------------------------------------------------------------------+
+ImportError: cannot import name 'CLINICAL_M_OPTIONS' from 'oncosense_common' 
+(C:\Users\HP\OneDrive\Desktop\breast cancer\oncosense_common.py)
++------------------------- Traceback (most recent call last) --------------------------+
+| C:\Python313\Lib\site-packages\streamlit\runtime\scriptrunner\exec_code.py:136 in    |
+| exec_func_with_error_handling                                                        |
+|                                                                                      |
+| C:\Python313\Lib\site-packages\streamlit\runtime\scriptrunner\script_runner.py:907   |
+| in code_to_exec                                                                      |
+|                                                                                      |
+| C:\Python313\Lib\site-packages\streamlit\runtime\scriptrunner\script_runner.py:170   |
+| in _mpa_v1                                                                           |
+|                                                                                      |
+| C:\Python313\Lib\site-packages\streamlit\navigation\page.py:502 in run               |
+|                                                                                      |
+| C:\Users\HP\OneDrive\Desktop\breast cancer\pages\Screening.py:46 in <module>         |
+|                                                                                      |
+|    43 # Streamlit multipage initialization.                                          |
+|    44 import oncosense_common as _shared  # noqa: E402                               |
+|    45                                                                                |
+| >  46 from oncosense_common import (  # noqa: E402                                   |
+|    47     CLINICAL_M_OPTIONS,                                                        |
+|    48     CLINICAL_N_OPTIONS,                                                        |
+|    49     CLINICAL_T_OPTIONS,                                                        |
++--------------------------------------------------------------------------------------+
+ImportError: cannot import name 'CLINICAL_M_OPTIONS' from 'oncosense_common' 
+(C:\Users\HP\OneDrive\Desktop\breast cancer\oncosense_common.py)

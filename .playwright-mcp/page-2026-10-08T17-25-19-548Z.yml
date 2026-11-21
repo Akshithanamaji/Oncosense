@@ -1,0 +1,458 @@
+- generic [active] [ref=f135e1]:
+  - generic [ref=f135e3]:
+    - navigation [ref=f135e6]:
+      - link [ref=f135e8] [cursor=pointer]:
+        - /url: /
+      - search [ref=f135e13]:
+        - generic [ref=f135e14]:
+          - button "Videos" [ref=f135e16] [cursor=pointer]
+          - searchbox "Search for free videos" [ref=f135e24]: breast cancer genetic testing
+          - button [ref=f135e26] [cursor=pointer]
+      - generic [ref=f135e30]:
+        - link "Explore" [ref=f135e32] [cursor=pointer]:
+          - /url: /discover/
+        - link "License" [ref=f135e36] [cursor=pointer]:
+          - /url: /license/
+        - button [ref=f135e39] [cursor=pointer]
+        - button "Join" [ref=f135e42] [cursor=pointer]
+    - main [ref=f135e45]:
+      - generic [ref=f135e46]:
+        - generic [ref=f135e50]:
+          - paragraph [ref=f135e52] [cursor=pointer]: Any
+          - paragraph [ref=f135e57] [cursor=pointer]: Horizontal
+          - paragraph [ref=f135e62] [cursor=pointer]: Vertical
+          - paragraph [ref=f135e67] [cursor=pointer]: Square
+        - generic [ref=f135e71]:
+          - paragraph [ref=f135e73] [cursor=pointer]: Any
+          - paragraph [ref=f135e75] [cursor=pointer]: "0"
+          - paragraph [ref=f135e80] [cursor=pointer]: "1"
+          - paragraph [ref=f135e85] [cursor=pointer]: "2"
+          - paragraph [ref=f135e90] [cursor=pointer]: 3+
+        - generic [ref=f135e94]:
+          - paragraph [ref=f135e96] [cursor=pointer]: Any
+          - paragraph [ref=f135e101] [cursor=pointer]: Baby
+          - paragraph [ref=f135e106] [cursor=pointer]: Child
+          - paragraph [ref=f135e111] [cursor=pointer]: Teenager
+          - paragraph [ref=f135e116] [cursor=pointer]: Adult
+          - paragraph [ref=f135e121] [cursor=pointer]: Senior adult
+        - generic [ref=f135e124]:
+          - generic [ref=f135e125]:
+            - generic [ref=f135e126] [cursor=pointer]
+            - slider [ref=f135e128] [cursor=pointer]
+            - slider [ref=f135e129] [cursor=pointer]
+          - generic [ref=f135e130]:
+            - generic [ref=f135e131]:
+              - paragraph [ref=f135e132]: Minimum
+              - paragraph [ref=f135e133]: 5s
+            - generic [ref=f135e134]:
+              - paragraph [ref=f135e135]: Maximum
+              - paragraph [ref=f135e136]: 2m+
+        - generic [ref=f135e140]:
+          - paragraph [ref=f135e142] [cursor=pointer]: Any
+          - paragraph [ref=f135e147] [cursor=pointer]: "24"
+          - paragraph [ref=f135e152] [cursor=pointer]: "25"
+          - paragraph [ref=f135e157] [cursor=pointer]: "30"
+          - paragraph [ref=f135e162] [cursor=pointer]: "50"
+          - paragraph [ref=f135e167] [cursor=pointer]: 60+
+        - generic [ref=f135e171]:
+          - paragraph [ref=f135e173] [cursor=pointer]: Any
+          - paragraph [ref=f135e178] [cursor=pointer]: 1080p
+          - paragraph [ref=f135e183] [cursor=pointer]: 4K
+          - paragraph [ref=f135e188] [cursor=pointer]: 8K
+        - generic [ref=f135e192]:
+          - paragraph [ref=f135e194] [cursor=pointer]: Any
+          - paragraph [ref=f135e199] [cursor=pointer]: Last 24 hours
+          - paragraph [ref=f135e204] [cursor=pointer]: Last week
+          - paragraph [ref=f135e209] [cursor=pointer]: Last month
+          - paragraph [ref=f135e214] [cursor=pointer]: Last year
+        - main "main-content" [ref=f135e215]:
+          - generic [ref=f135e216]:
+            - heading "Free Breast Cancer Genetic Testing Videos" [level=1] [ref=f135e219]
+            - generic [ref=f135e222]:
+              - link "Photos 10K" [ref=f135e224] [cursor=pointer]:
+                - /url: /search/breast%20cancer%20genetic%20testing/
+                - text: Photos
+                - generic [ref=f135e225]: 10K
+              - link "Videos 6.7K" [ref=f135e226] [cursor=pointer]:
+                - /url: /search/videos/breast%20cancer%20genetic%20testing/
+                - text: Videos
+                - generic [ref=f135e227]: 6.7K
+              - link "Users 1.5K" [ref=f135e228] [cursor=pointer]:
+                - /url: /search/users/breast%20cancer%20genetic%20testing/
+                - text: Users
+                - generic [ref=f135e229]: 1.5K
+            - generic [ref=f135e231]:
+              - button "Filters" [ref=f135e233] [cursor=pointer]
+              - separator [ref=f135e240]
+              - generic [ref=f135e244]:
+                - link [ref=f135e246] [cursor=pointer]:
+                  - /url: /search/videos/breast%20cancer/
+                  - img "breast cancer" [ref=f135e247]
+                  - generic [ref=f135e248]:
+                    - paragraph [ref=f135e249]: breast cancer
+                    - paragraph [ref=f135e250]: 5K
+                - link [ref=f135e251] [cursor=pointer]:
+                  - /url: /search/videos/mammogram/
+                  - img "mammogram" [ref=f135e252]
+                  - generic [ref=f135e253]:
+                    - paragraph [ref=f135e254]: mammogram
+                    - paragraph [ref=f135e255]: 4K
+                - link [ref=f135e256] [cursor=pointer]:
+                  - /url: /search/videos/dna%20test/
+                  - img "dna test" [ref=f135e257]
+                  - generic [ref=f135e258]:
+                    - paragraph [ref=f135e259]: dna test
+                    - paragraph [ref=f135e260]: 6K
+                - link [ref=f135e261] [cursor=pointer]:
+                  - /url: /search/videos/breast%20cancer%20awareness/
+                  - img "breast cancer awareness" [ref=f135e262]
+                  - generic [ref=f135e263]:
+                    - paragraph [ref=f135e264]: breast cancer awareness
+                    - paragraph [ref=f135e265]: 12K
+                - link [ref=f135e266] [cursor=pointer]:
+                  - /url: /search/videos/cancer/
+                  - img "cancer" [ref=f135e267]
+                  - generic [ref=f135e268]:
+                    - paragraph [ref=f135e269]: cancer
+                    - paragraph [ref=f135e270]: 4K
+                - link [ref=f135e271] [cursor=pointer]:
+                  - /url: /search/videos/genetics/
+                  - img "genetics" [ref=f135e272]
+                  - generic [ref=f135e273]:
+                    - paragraph [ref=f135e274]: genetics
+                    - paragraph [ref=f135e275]: 4K
+                - link [ref=f135e276] [cursor=pointer]:
+                  - /url: /search/videos/genes/
+                  - img "genes" [ref=f135e277]
+                  - generic [ref=f135e278]:
+                    - paragraph [ref=f135e279]: genes
+                    - paragraph [ref=f135e280]: 4K
+                - link [ref=f135e281] [cursor=pointer]:
+                  - /url: /search/videos/cancer%20patient/
+                  - img "cancer patient" [ref=f135e282]
+                  - generic [ref=f135e283]:
+                    - paragraph [ref=f135e284]: cancer patient
+                    - paragraph [ref=f135e285]: 7K
+                - link [ref=f135e286] [cursor=pointer]:
+                  - /url: /search/videos/blood%20test/
+                  - img "blood test" [ref=f135e287]
+                  - generic [ref=f135e288]:
+                    - paragraph [ref=f135e289]: blood test
+                    - paragraph [ref=f135e290]: 4K
+                - link [ref=f135e291] [cursor=pointer]:
+                  - /url: /search/videos/cancer%20cells/
+                  - img "cancer cells" [ref=f135e292]
+                  - generic [ref=f135e293]:
+                    - paragraph [ref=f135e294]: cancer cells
+                    - paragraph [ref=f135e295]: 5K
+                - link [ref=f135e296] [cursor=pointer]:
+                  - /url: /search/videos/infertility/
+                  - img "infertility" [ref=f135e297]
+                  - generic [ref=f135e298]:
+                    - paragraph [ref=f135e299]: infertility
+                    - paragraph [ref=f135e300]: 4K
+                - link [ref=f135e301] [cursor=pointer]:
+                  - /url: /search/videos/gynecology/
+                  - img "gynecology" [ref=f135e302]
+                  - generic [ref=f135e303]:
+                    - paragraph [ref=f135e304]: gynecology
+                    - paragraph [ref=f135e305]: 4K
+                - link [ref=f135e306] [cursor=pointer]:
+                  - /url: /search/videos/fertility/
+                  - img "fertility" [ref=f135e307]
+                  - generic [ref=f135e308]:
+                    - paragraph [ref=f135e309]: fertility
+                    - paragraph [ref=f135e310]: 5K
+                - link [ref=f135e311] [cursor=pointer]:
+                  - /url: /search/videos/medical%20research/
+                  - img "medical research" [ref=f135e312]
+                  - generic [ref=f135e313]:
+                    - paragraph [ref=f135e314]: medical research
+                    - paragraph [ref=f135e315]: 14K
+                - link [ref=f135e316] [cursor=pointer]:
+                  - /url: /search/videos/gynecologist/
+                  - img "gynecologist" [ref=f135e317]
+                  - generic [ref=f135e318]:
+                    - paragraph [ref=f135e319]: gynecologist
+                    - paragraph [ref=f135e320]: 4K
+                - link [ref=f135e321] [cursor=pointer]:
+                  - /url: /search/videos/healthcare%20ai/
+                  - img "healthcare ai" [ref=f135e322]
+                  - generic [ref=f135e323]:
+                    - paragraph [ref=f135e324]: healthcare ai
+                    - paragraph [ref=f135e325]: 13K
+                - img [ref=f135e326] [cursor=pointer]
+            - generic [ref=f135e329]:
+              - generic [ref=f135e331]:
+                - generic [ref=f135e332]:
+                  - article [ref=f135e336]:
+                    - link [ref=f135e337] [cursor=pointer]:
+                      - /url: /video/a-breast-cancer-themed-stop-motion-animation-8679681/
+                    - button "Play video preview" [ref=f135e342] [cursor=pointer]
+                  - article [ref=f135e350]:
+                    - link [ref=f135e351] [cursor=pointer]:
+                      - /url: /video/a-person-holding-a-pink-ribbon-6801287/
+                    - button "Play video preview" [ref=f135e356] [cursor=pointer]
+                  - article [ref=f135e364]:
+                    - link [ref=f135e365] [cursor=pointer]:
+                      - /url: /video/a-stop-motion-animation-of-hands-and-a-red-ribbon-8680041/
+                    - button "Play video preview" [ref=f135e370] [cursor=pointer]
+                  - article [ref=f135e378]:
+                    - link [ref=f135e379] [cursor=pointer]:
+                      - /url: /video/young-woman-holding-breast-cancer-poster-5701762/
+                    - button "Play video preview" [ref=f135e384] [cursor=pointer]
+                  - article [ref=f135e392]:
+                    - link [ref=f135e393] [cursor=pointer]:
+                      - /url: /video/a-person-holding-a-pink-ribbon-and-a-card-6297778/
+                    - button "Play video preview" [ref=f135e398] [cursor=pointer]
+                  - article [ref=f135e406]:
+                    - link [ref=f135e407] [cursor=pointer]:
+                      - /url: /video/person-holding-clothes-hangers-6801332/
+                    - button "Play video preview" [ref=f135e412] [cursor=pointer]
+                - generic [ref=f135e417]:
+                  - article [ref=f135e421]:
+                    - link [ref=f135e422] [cursor=pointer]:
+                      - /url: /video/a-breast-cancer-themed-stop-motion-animation-8680128/
+                    - button "Play video preview" [ref=f135e427] [cursor=pointer]
+                  - article [ref=f135e435]:
+                    - link [ref=f135e436] [cursor=pointer]:
+                      - /url: /video/a-woman-in-a-white-shirt-holding-up-a-pink-card-6297761/
+                    - button "Play video preview" [ref=f135e441] [cursor=pointer]
+                  - generic [ref=f135e447]:
+                    - generic [ref=f135e448]:
+                      - heading "‌‌‌S‌p‌‌o‌‌n‌‌s‌o‌‌r‌e‌‌d‌ ‌‌V‌‌i‌d‌e‌‌‌o‌s‌‌‌" [level=4] [ref=f135e449]
+                      - link [ref=f135e450] [cursor=pointer]:
+                        - /url: https://www.pexels.com/r/eyJkZXN0IjoiaHR0cHM6Ly93d3cuaXN0b2NrcGhvdG8uY29tL3ZpZGVvcy9icmVhc3QlMjBjYW5jZXIlMjBnZW5ldGljJTIwdGVzdGluZz91dG1fc291cmNlPXBleGVscyZ1dG1fbWVkaXVtPWFmZmlsaWF0ZSZ1dG1fY2FtcGFpZ249c3BvbnNvcmVkX3ZpZGVvJnV0bV9jb250ZW50PXNycF9pbmxpbmVfbG9nbyZ1dG1fdGVybT1icmVhc3QlMjBjYW5jZXIlMjBnZW5ldGljJTIwdGVzdGluZyIsImRhdGEiOnsiZXhwZXJpbWVudHMiOnt9LCJwYWdlX2xvY2FsZSI6ImVuLVVTIiwicGFnZSI6InNlYXJjaF9yZXN1bHRzIiwicGFnZV92YXJpYW50IjoicGhvdG9zIiwibG9jYXRpb24iOiJncmlkIiwiYWRfcGFydG5lciI6ImdldHR5IiwiYWRfZm9ybWF0IjoiaW5saW5lIiwiYWRfcGxhY2VtZW50IjoiMTAiLCJhZF9jcmVhdGl2ZSI6InZpZGVvX3NlYXJjaF80IiwiYWRfYWN0aW9uIjoiY2xpY2siLCJhZF9pbXByZXNzaW9uX2lkIjoiN2MzZDM2NmMtM2Y0MS00NjllLTg5MGItYTE0ZGI1MDhkNjdlIiwibWVkaWFfdHlwZSI6InZpZGVvIiwicXVlcnkiOiJicmVhc3QgY2FuY2VyIGdlbmV0aWMgdGVzdGluZyJ9fQ/
+                    - generic [ref=f135e454]:
+                      - link [ref=f135e455] [cursor=pointer]:
+                        - /url: https://www.pexels.com/r/eyJkZXN0IjoiaHR0cHM6Ly93d3cuaXN0b2NrcGhvdG8uY29tL3ZpZGVvL2FiZW1hY2ljbGliLWNkazQtYW5kLWNkazYtaW5oaWJpdG9yLWZvci1ob3Jtb25lLXJlY2VwdG9yLXBvc2l0aXZlLWJyZWFzdC1jYW5jZXItYm94LWdtMjI5MTQ2MTQ1MS03MDMzMTg3OTg_dXRtX3NvdXJjZT1wZXhlbHMmdXRtX21lZGl1bT1hZmZpbGlhdGUmdXRtX2NhbXBhaWduPXNwb25zb3JlZF92aWRlbyZ1dG1fY29udGVudD1zcnBfaW5saW5lX21lZGlhJnV0bV90ZXJtPWJyZWFzdCUyMGNhbmNlciUyMGdlbmV0aWMlMjB0ZXN0aW5nIiwiZGF0YSI6eyJleHBlcmltZW50cyI6e30sInBhZ2VfbG9jYWxlIjoiZW4tVVMiLCJwYWdlIjoic2VhcmNoX3Jlc3VsdHMiLCJwYWdlX3ZhcmlhbnQiOiJwaG90b3MiLCJsb2NhdGlvbiI6ImdyaWQiLCJhZF9wYXJ0bmVyIjoiZ2V0dHkiLCJhZF9mb3JtYXQiOiJpbmxpbmUiLCJhZF9wbGFjZW1lbnQiOiIxMCIsImFkX2NyZWF0aXZlIjoidmlkZW9fc2VhcmNoXzQiLCJhZF9hY3Rpb24iOiJjbGljayIsImFkX2ltcHJlc3Npb25faWQiOiI3YzNkMzY2Yy0zZjQxLTQ2OWUtODkwYi1hMTRkYjUwOGQ2N2UiLCJtZWRpYV90eXBlIjoidmlkZW8iLCJxdWVyeSI6ImJyZWFzdCBjYW5jZXIgZ2VuZXRpYyB0ZXN0aW5nIn19/
+                      - link [ref=f135e458] [cursor=pointer]:
+                        - /url: https://www.pexels.com/r/eyJkZXN0IjoiaHR0cHM6Ly93d3cuaXN0b2NrcGhvdG8uY29tL3ZpZGVvL2JyZWFzdC1jYW5jZXItbG9vcC1iYWNrZHJvcC10aGlzLWJhY2tncm91bmQtaXMtbG9vcGFibGUtZ20xOTk4OTAwMTg0LTU2MDA3MDIyMj91dG1fc291cmNlPXBleGVscyZ1dG1fbWVkaXVtPWFmZmlsaWF0ZSZ1dG1fY2FtcGFpZ249c3BvbnNvcmVkX3ZpZGVvJnV0bV9jb250ZW50PXNycF9pbmxpbmVfbWVkaWEmdXRtX3Rlcm09YnJlYXN0JTIwY2FuY2VyJTIwZ2VuZXRpYyUyMHRlc3RpbmciLCJkYXRhIjp7ImV4cGVyaW1lbnRzIjp7fSwicGFnZV9sb2NhbGUiOiJlbi1VUyIsInBhZ2UiOiJzZWFyY2hfcmVzdWx0cyIsInBhZ2VfdmFyaWFudCI6InBob3RvcyIsImxvY2F0aW9uIjoiZ3JpZCIsImFkX3BhcnRuZXIiOiJnZXR0eSIsImFkX2Zvcm1hdCI6ImlubGluZSIsImFkX3BsYWNlbWVudCI6IjEwIiwiYWRfY3JlYXRpdmUiOiJ2aWRlb19zZWFyY2hfNCIsImFkX2FjdGlvbiI6ImNsaWNrIiwiYWRfaW1wcmVzc2lvbl9pZCI6IjdjM2QzNjZjLTNmNDEtNDY5ZS04OTBiLWExNGRiNTA4ZDY3ZSIsIm1lZGlhX3R5cGUiOiJ2aWRlbyIsInF1ZXJ5IjoiYnJlYXN0IGNhbmNlciBnZW5ldGljIHRlc3RpbmcifX0/
+                      - link [ref=f135e461] [cursor=pointer]:
+                        - /url: https://www.pexels.com/r/eyJkZXN0IjoiaHR0cHM6Ly93d3cuaXN0b2NrcGhvdG8uY29tL3ZpZGVvL2JyZWFzdC1jYW5jZXItYmFja2dyb3VuZC1zeW1ib2wtbG9vcC10aGlzLXBpbmstcmliYm9uLWJhY2tkcm9wLWlzLWxvb3BhYmxlLWdtMjA0NTQ0NDQwNy01NjI5NDg1ODU_dXRtX3NvdXJjZT1wZXhlbHMmdXRtX21lZGl1bT1hZmZpbGlhdGUmdXRtX2NhbXBhaWduPXNwb25zb3JlZF92aWRlbyZ1dG1fY29udGVudD1zcnBfaW5saW5lX21lZGlhJnV0bV90ZXJtPWJyZWFzdCUyMGNhbmNlciUyMGdlbmV0aWMlMjB0ZXN0aW5nIiwiZGF0YSI6eyJleHBlcmltZW50cyI6e30sInBhZ2VfbG9jYWxlIjoiZW4tVVMiLCJwYWdlIjoic2VhcmNoX3Jlc3VsdHMiLCJwYWdlX3ZhcmlhbnQiOiJwaG90b3MiLCJsb2NhdGlvbiI6ImdyaWQiLCJhZF9wYXJ0bmVyIjoiZ2V0dHkiLCJhZF9mb3JtYXQiOiJpbmxpbmUiLCJhZF9wbGFjZW1lbnQiOiIxMCIsImFkX2NyZWF0aXZlIjoidmlkZW9fc2VhcmNoXzQiLCJhZF9hY3Rpb24iOiJjbGljayIsImFkX2ltcHJlc3Npb25faWQiOiI3YzNkMzY2Yy0zZjQxLTQ2OWUtODkwYi1hMTRkYjUwOGQ2N2UiLCJtZWRpYV90eXBlIjoidmlkZW8iLCJxdWVyeSI6ImJyZWFzdCBjYW5jZXIgZ2VuZXRpYyB0ZXN0aW5nIn19/
+                      - link [ref=f135e464] [cursor=pointer]:
+                        - /url: https://www.pexels.com/r/eyJkZXN0IjoiaHR0cHM6Ly93d3cuaXN0b2NrcGhvdG8uY29tL3ZpZGVvL2JyZWFzdC1jYW5jZXItc3ltYm9sLWxvb3Atc3ByaXRlLXdpdGgtYWxwaGEtdGhpcy1lbGVtZW50LXdpdGgtYW4tYWxwaGEtY2hhbm5lbC1pcy1nbTIwNDQyMzAyNTctNTYyODczNjgyP3V0bV9zb3VyY2U9cGV4ZWxzJnV0bV9tZWRpdW09YWZmaWxpYXRlJnV0bV9jYW1wYWlnbj1zcG9uc29yZWRfdmlkZW8mdXRtX2NvbnRlbnQ9c3JwX2lubGluZV9tZWRpYSZ1dG1fdGVybT1icmVhc3QlMjBjYW5jZXIlMjBnZW5ldGljJTIwdGVzdGluZyIsImRhdGEiOnsiZXhwZXJpbWVudHMiOnt9LCJwYWdlX2xvY2FsZSI6ImVuLVVTIiwicGFnZSI6InNlYXJjaF9yZXN1bHRzIiwicGFnZV92YXJpYW50IjoicGhvdG9zIiwibG9jYXRpb24iOiJncmlkIiwiYWRfcGFydG5lciI6ImdldHR5IiwiYWRfZm9ybWF0IjoiaW5saW5lIiwiYWRfcGxhY2VtZW50IjoiMTAiLCJhZF9jcmVhdGl2ZSI6InZpZGVvX3NlYXJjaF80IiwiYWRfYWN0aW9uIjoiY2xpY2siLCJhZF9pbXByZXNzaW9uX2lkIjoiN2MzZDM2NmMtM2Y0MS00NjllLTg5MGItYTE0ZGI1MDhkNjdlIiwibWVkaWFfdHlwZSI6InZpZGVvIiwicXVlcnkiOiJicmVhc3QgY2FuY2VyIGdlbmV0aWMgdGVzdGluZyJ9fQ/
+                    - link [ref=f135e467] [cursor=pointer]:
+                      - /url: https://www.pexels.com/r/eyJkZXN0IjoiaHR0cHM6Ly93d3cuaXN0b2NrcGhvdG8uY29tL3ZpZGVvcy9icmVhc3QlMjBjYW5jZXIlMjBnZW5ldGljJTIwdGVzdGluZz91dG1fc291cmNlPXBleGVscyZ1dG1fbWVkaXVtPWFmZmlsaWF0ZSZ1dG1fY2FtcGFpZ249c3BvbnNvcmVkX3ZpZGVvJnV0bV9jb250ZW50PXNycF9pbmxpbmVfY291cG9uY29kZSZ1dG1fdGVybT1icmVhc3QlMjBjYW5jZXIlMjBnZW5ldGljJTIwdGVzdGluZyIsImRhdGEiOnsiZXhwZXJpbWVudHMiOnt9LCJwYWdlX2xvY2FsZSI6ImVuLVVTIiwicGFnZSI6InNlYXJjaF9yZXN1bHRzIiwicGFnZV92YXJpYW50IjoicGhvdG9zIiwibG9jYXRpb24iOiJncmlkIiwiYWRfcGFydG5lciI6ImdldHR5IiwiYWRfZm9ybWF0IjoiaW5saW5lIiwiYWRfcGxhY2VtZW50IjoiMTAiLCJhZF9jcmVhdGl2ZSI6InZpZGVvX3NlYXJjaF80IiwiYWRfYWN0aW9uIjoiY2xpY2siLCJhZF9pbXByZXNzaW9uX2lkIjoiN2MzZDM2NmMtM2Y0MS00NjllLTg5MGItYTE0ZGI1MDhkNjdlIiwibWVkaWFfdHlwZSI6InZpZGVvIiwicXVlcnkiOiJicmVhc3QgY2FuY2VyIGdlbmV0aWMgdGVzdGluZyJ9fQ/
+                      - img [ref=f135e470]:
+                        - generic [ref=f135e471]: Get 20% off with code PEXELS20 »
+                  - article [ref=f135e475]:
+                    - link [ref=f135e476] [cursor=pointer]:
+                      - /url: /video/a-breast-cancer-themed-stop-motion-animation-8680132/
+                    - button "Play video preview" [ref=f135e481] [cursor=pointer]
+                  - article [ref=f135e489]:
+                    - link [ref=f135e490] [cursor=pointer]:
+                      - /url: /video/a-man-working-with-samples-in-a-laboratory-8863365/
+                    - button "Play video preview" [ref=f135e495] [cursor=pointer]
+                  - article [ref=f135e503]:
+                    - link [ref=f135e504] [cursor=pointer]:
+                      - /url: /video/a-person-using-a-micropipette-in-a-laboratory-8381455/
+                    - button "Play video preview" [ref=f135e509] [cursor=pointer]
+                  - article [ref=f135e517]:
+                    - link [ref=f135e518] [cursor=pointer]:
+                      - /url: /video/young-woman-with-breast-cancer-awareness-t-shirt-5701761/
+                    - button "Play video preview" [ref=f135e523] [cursor=pointer]
+                  - article [ref=f135e531]:
+                    - link [ref=f135e532] [cursor=pointer]:
+                      - /url: /video/a-woman-taking-note-of-a-man-s-observation-on-a-subject-under-the-microscope-3196222/
+                    - button "Play video preview" [ref=f135e537] [cursor=pointer]
+                - generic [ref=f135e542]:
+                  - generic [ref=f135e544]:
+                    - generic [ref=f135e546]:
+                      - link "Create your own breast cancer genetic testing content with Canva" [ref=f135e547] [cursor=pointer]:
+                        - /url: https://www.canva.com/features/ai-video-generator/?utm_source=pexels&utm_campaign=aigc_pexelscampaign&utm_medium=partner
+                      - link "Create your own breast cancer genetic testing content with Canva" [ref=f135e549] [cursor=pointer]:
+                        - /url: https://www.canva.com/features/ai-video-generator/?utm_source=pexels&utm_campaign=aigc_pexelscampaign&utm_medium=partner
+                      - link "Create your own breast cancer genetic testing content with Canva" [ref=f135e551] [cursor=pointer]:
+                        - /url: https://www.canva.com/features/ai-video-generator/?utm_source=pexels&utm_campaign=aigc_pexelscampaign&utm_medium=partner
+                      - link "Create your own breast cancer genetic testing content with Canva" [ref=f135e553] [cursor=pointer]:
+                        - /url: https://www.canva.com/features/ai-video-generator/?utm_source=pexels&utm_campaign=aigc_pexelscampaign&utm_medium=partner
+                    - link [ref=f135e555] [cursor=pointer]:
+                      - /url: https://www.canva.com/features/ai-video-generator/?utm_source=pexels&utm_campaign=aigc_pexelscampaign&utm_medium=partner
+                      - paragraph [ref=f135e558]: Bring your ideas to life with Canva AI
+                    - link "Get started for free" [ref=f135e559] [cursor=pointer]:
+                      - /url: https://www.canva.com/features/ai-video-generator/?utm_source=pexels&utm_campaign=aigc_pexelscampaign&utm_medium=partner
+                  - article [ref=f135e565]:
+                    - link [ref=f135e566] [cursor=pointer]:
+                      - /url: /video/girl-holding-a-sign-for-breast-cancer-awerness-5701760/
+                    - button "Play video preview" [ref=f135e571] [cursor=pointer]
+                  - article [ref=f135e579]:
+                    - link [ref=f135e580] [cursor=pointer]:
+                      - /url: /video/close-up-view-of-light-pink-ribbon-pinned-on-a-person-s-clothing-6801310/
+                    - button "Play video preview" [ref=f135e585] [cursor=pointer]
+                  - article [ref=f135e593]:
+                    - link [ref=f135e594] [cursor=pointer]:
+                      - /url: /video/close-up-view-of-a-person-holding-a-light-pink-ribbon-6801297/
+                    - button "Play video preview" [ref=f135e599] [cursor=pointer]
+                  - article [ref=f135e607]:
+                    - link [ref=f135e608] [cursor=pointer]:
+                      - /url: /video/a-woman-looking-at-the-camera-6801306/
+                    - button "Play video preview" [ref=f135e613] [cursor=pointer]
+                  - article [ref=f135e621]:
+                    - link [ref=f135e622] [cursor=pointer]:
+                      - /url: /video/person-hanging-brassiere-with-white-ribbon-in-closet-6801342/
+                    - button "Play video preview" [ref=f135e627] [cursor=pointer]
+                - generic [ref=f135e632]:
+                  - article [ref=f135e636]:
+                    - link [ref=f135e637] [cursor=pointer]:
+                      - /url: /video/nurse-holding-pink-ribbon-7659135/
+                    - button "Play video preview" [ref=f135e642] [cursor=pointer]
+                  - article [ref=f135e650]:
+                    - link [ref=f135e651] [cursor=pointer]:
+                      - /url: /video/women-clapping-for-a-cancer-survivor-patient-7659139/
+                    - button "Play video preview" [ref=f135e656] [cursor=pointer]
+                  - article [ref=f135e664]:
+                    - link [ref=f135e665] [cursor=pointer]:
+                      - /url: /video/a-person-holding-a-pink-ribbon-6808546/
+                    - button "Play video preview" [ref=f135e670] [cursor=pointer]
+                  - article [ref=f135e678]:
+                    - link [ref=f135e679] [cursor=pointer]:
+                      - /url: /video/a-person-holding-up-a-sign-that-says-national-cancer-survivors-day-6297758/
+                    - button "Play video preview" [ref=f135e684] [cursor=pointer]
+                  - article [ref=f135e692]:
+                    - link [ref=f135e693] [cursor=pointer]:
+                      - /url: /video/young-woman-with-breast-cancer-awareness-t-shirt-5701755/
+                    - button "Play video preview" [ref=f135e698] [cursor=pointer]
+                  - article [ref=f135e706]:
+                    - link [ref=f135e707] [cursor=pointer]:
+                      - /url: /video/breast-cancer-awareness-postcards-5701042/
+                    - button "Play video preview" [ref=f135e712] [cursor=pointer]
+              - button "Load More" [ref=f135e718] [cursor=pointer]
+            - navigation [ref=f135e721]:
+              - generic [ref=f135e723]:
+                - link "1" [ref=f135e725]:
+                  - /url: /search/videos/breast%20cancer%20genetic%20testing/
+                - link "2" [ref=f135e728] [cursor=pointer]:
+                  - /url: /search/videos/breast%20cancer%20genetic%20testing/?page=2
+                - link "3" [ref=f135e731] [cursor=pointer]:
+                  - /url: /search/videos/breast%20cancer%20genetic%20testing/?page=3
+                - link "4" [ref=f135e734] [cursor=pointer]:
+                  - /url: /search/videos/breast%20cancer%20genetic%20testing/?page=4
+                - link "5" [ref=f135e737] [cursor=pointer]:
+                  - /url: /search/videos/breast%20cancer%20genetic%20testing/?page=5
+                - link "6" [ref=f135e740] [cursor=pointer]:
+                  - /url: /search/videos/breast%20cancer%20genetic%20testing/?page=6
+                - link "Next" [ref=f135e743] [cursor=pointer]:
+                  - /url: /search/videos/breast%20cancer%20genetic%20testing/?page=2
+    - contentinfo [ref=f135e747]:
+      - separator [ref=f135e748]
+      - generic [ref=f135e749]:
+        - generic [ref=f135e750]:
+          - heading "Where stories come together." [level=2] [ref=f135e751]
+          - generic [ref=f135e752]:
+            - link "Download on iOS" [ref=f135e753] [cursor=pointer]:
+              - /url: https://itunes.apple.com/us/app/pexels/id1434330413/
+            - link "Download on Android" [ref=f135e756] [cursor=pointer]:
+              - /url: https://play.google.com/store/apps/details?id=com.pexels.app
+          - list [ref=f135e759]:
+            - listitem [ref=f135e760]:
+              - link "Instagram" [ref=f135e761] [cursor=pointer]:
+                - /url: https://www.instagram.com/pexels/
+            - listitem [ref=f135e764]:
+              - link "Threads" [ref=f135e765] [cursor=pointer]:
+                - /url: https://www.threads.net/@pexels/
+            - listitem [ref=f135e768]:
+              - link "YouTube" [ref=f135e769] [cursor=pointer]:
+                - /url: https://www.youtube.com/pexelsphotos/
+            - listitem [ref=f135e772]:
+              - link "TikTok" [ref=f135e773] [cursor=pointer]:
+                - /url: https://www.tiktok.com/@pexels/
+            - listitem [ref=f135e776]:
+              - link "LinkedIn" [ref=f135e777] [cursor=pointer]:
+                - /url: https://www.linkedin.com/company/pexels/
+            - listitem [ref=f135e780]:
+              - link "X" [ref=f135e781] [cursor=pointer]:
+                - /url: https://x.com/pexels/
+        - generic [ref=f135e784]:
+          - list [ref=f135e785]:
+            - heading "Pexels" [level=3] [ref=f135e786]
+            - listitem [ref=f135e787]:
+              - link "Free Stock Photos" [ref=f135e788] [cursor=pointer]:
+                - /url: /
+            - listitem [ref=f135e789]:
+              - link "Free Videos" [ref=f135e790] [cursor=pointer]:
+                - /url: /videos/
+            - listitem [ref=f135e791]:
+              - link "Popular searches" [ref=f135e792] [cursor=pointer]:
+                - /url: /popular-searches/
+            - listitem [ref=f135e793]:
+              - link "Collections" [ref=f135e794] [cursor=pointer]:
+                - /url: /discover/
+            - listitem [ref=f135e795]:
+              - link "Challenges" [ref=f135e796] [cursor=pointer]:
+                - /url: /challenges/
+            - listitem [ref=f135e797]:
+              - link "Leaderboard" [ref=f135e798] [cursor=pointer]:
+                - /url: /leaderboard/
+            - listitem [ref=f135e799]:
+              - link "Other plugins & apps" [ref=f135e800] [cursor=pointer]:
+                - /url: /pro/
+          - list [ref=f135e801]:
+            - heading "Company" [level=3] [ref=f135e802]
+            - listitem [ref=f135e803]:
+              - link "About" [ref=f135e804] [cursor=pointer]:
+                - /url: /about/
+            - listitem [ref=f135e805]:
+              - link "Blog" [ref=f135e806] [cursor=pointer]:
+                - /url: /blog/
+            - listitem [ref=f135e807]:
+              - link "Help Center" [ref=f135e808] [cursor=pointer]:
+                - /url: https://help.pexels.com/hc/en-us
+            - listitem [ref=f135e809]:
+              - link "Report content" [ref=f135e810] [cursor=pointer]:
+                - /url: /report/
+            - listitem [ref=f135e811]:
+              - link "Become a Hero" [ref=f135e812] [cursor=pointer]:
+                - /url: /hero/
+            - listitem [ref=f135e813]:
+              - link "Partner with Pexels" [ref=f135e814] [cursor=pointer]:
+                - /url: /become-a-partner/
+            - listitem [ref=f135e815]:
+              - link "Image & Video API" [ref=f135e816] [cursor=pointer]:
+                - /url: /api/
+            - listitem [ref=f135e817]: Sign Up
+        - list [ref=f135e818]:
+          - listitem [ref=f135e819]:
+            - heading "Free Stock Photos" [level=3] [ref=f135e820]
+          - listitem [ref=f135e821]:
+            - generic [ref=f135e823]:
+              - link "4K wallpaper" [ref=f135e825] [cursor=pointer]:
+                - /url: /search/4k%20wallpaper/
+              - link "Nature photos" [ref=f135e826] [cursor=pointer]:
+                - /url: /search/nature/
+              - link "Desktop wallpaper" [ref=f135e827] [cursor=pointer]:
+                - /url: /search/desktop%20wallpaper/
+              - link "Flower photos" [ref=f135e828] [cursor=pointer]:
+                - /url: /search/flowers/
+              - link "HD wallpaper" [ref=f135e829] [cursor=pointer]:
+                - /url: /search/hd%20wallpaper/
+              - link "Mobile wallpaper" [ref=f135e830] [cursor=pointer]:
+                - /url: /search/mobile%20wallpaper/
+              - link "Dark photos" [ref=f135e831] [cursor=pointer]:
+                - /url: /search/dark/
+              - link "Black and white photography" [ref=f135e832] [cursor=pointer]:
+                - /url: /search/black%20and%20white/
+              - link "Black background" [ref=f135e833] [cursor=pointer]:
+                - /url: /search/black%20background/
+              - link "Sunset photos" [ref=f135e834] [cursor=pointer]:
+                - /url: /search/sunset/
+              - link "Landscape photos" [ref=f135e835] [cursor=pointer]:
+                - /url: /search/landscape/
+              - link "Cat photos" [ref=f135e836] [cursor=pointer]:
+                - /url: /search/cat/
+      - generic [ref=f135e838]:
+        - generic [ref=f135e839]: © 2026 Pexels
+        - generic [ref=f135e841]:
+          - link "Terms of Use" [ref=f135e843] [cursor=pointer]:
+            - /url: /terms-of-service/
+          - link "Privacy Policy" [ref=f135e844] [cursor=pointer]:
+            - /url: /privacy-policy/
+          - link "License" [ref=f135e845] [cursor=pointer]:
+            - /url: /license/
+          - link "Imprint" [ref=f135e846] [cursor=pointer]:
+            - /url: /imprint/
+          - link "Cookies Policy" [ref=f135e847] [cursor=pointer]:
+            - /url: /cookies/
+        - button "English" [ref=f135e850] [cursor=pointer]
+      - separator [ref=f135e855]
+  - alert [ref=f135e856]

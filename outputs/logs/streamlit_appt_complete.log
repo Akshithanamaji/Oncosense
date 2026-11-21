@@ -1,0 +1,51 @@
+2026-10-10 11:11:38.790 Uvicorn server started on :::8501
+
+  You can now view your Streamlit app in your browser.
+
+  Local URL: http://localhost:8501
+  Network URL: http://172.168.2.94:8501
+  External URL: http://103.248.209.228:8501
+
+2026-10-10 11:13:04.959 Uncaught app execution
+Traceback (most recent call last):
+  File "C:\Users\HP\OneDrive\Desktop\breast cancer\.venv\Lib\site-packages\streamlit\runtime\scriptrunner\exec_code.py", line 136, in exec_func_with_error_handling
+    result = func()
+  File "C:\Users\HP\OneDrive\Desktop\breast cancer\.venv\Lib\site-packages\streamlit\runtime\scriptrunner\script_runner.py", line 922, in code_to_exec
+    _mpa_v1(self._main_script_path)
+    ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\OneDrive\Desktop\breast cancer\.venv\Lib\site-packages\streamlit\runtime\scriptrunner\script_runner.py", line 180, in _mpa_v1
+    page.run()
+    ~~~~~~~~^^
+  File "C:\Users\HP\OneDrive\Desktop\breast cancer\.venv\Lib\site-packages\streamlit\navigation\page.py", line 502, in run
+    exec(code, module.__dict__)  # noqa: S102
+    ~~~~^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\OneDrive\Desktop\breast cancer\pages\Patient_Dashboard.py", line 459, in <module>
+    new_date = st.date_input("New date", value=cur_date, min_value=today, key=f"resched_date_{appt['appointment_id']}")
+  File "C:\Users\HP\OneDrive\Desktop\breast cancer\.venv\Lib\site-packages\streamlit\runtime\metrics_util.py", line 725, in wrapped_func
+    result = non_optional_func(*args, **kwargs)
+  File "C:\Users\HP\OneDrive\Desktop\breast cancer\.venv\Lib\site-packages\streamlit\elements\widgets\time_widgets.py", line 1984, in date_input
+    return self._date_input(
+           ~~~~~~~~~~~~~~~~^
+        label=label,
+        ^^^^^^^^^^^^
+    ...<14 lines>...
+        ctx=ctx,
+        ^^^^^^^^
+    )
+    ^
+  File "C:\Users\HP\OneDrive\Desktop\breast cancer\.venv\Lib\site-packages\streamlit\elements\widgets\time_widgets.py", line 2082, in _date_input
+    parsed_values = _DateInputValues.from_raw_values(
+        value=value,
+        min_value=min_value,
+        max_value=max_value,
+    )
+  File "C:\Users\HP\OneDrive\Desktop\breast cancer\.venv\Lib\site-packages\streamlit\elements\widgets\time_widgets.py", line 463, in from_raw_values
+    return cls(
+        value=parsed_value,
+    ...<2 lines>...
+        max=parsed_max,
+    )
+  File "<string>", line 7, in __init__
+  File "C:\Users\HP\OneDrive\Desktop\breast cancer\.venv\Lib\site-packages\streamlit\elements\widgets\time_widgets.py", line 479, in __post_init__
+    raise StreamlitValueBelowMinError(start_value, self.min)
+streamlit.errors.StreamlitValueBelowMinError: The `value` 2026-10-09 is less than the `min_value` 2026-10-10.

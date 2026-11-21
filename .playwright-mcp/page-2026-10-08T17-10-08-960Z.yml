@@ -1,0 +1,338 @@
+- generic [active] [ref=f113e1]:
+  - generic [ref=f113e3]:
+    - navigation [ref=f113e6]:
+      - link [ref=f113e8] [cursor=pointer]:
+        - /url: /
+      - search [ref=f113e13]:
+        - generic [ref=f113e14]:
+          - button "Photos" [ref=f113e16] [cursor=pointer]
+          - searchbox "Search for free photos" [ref=f113e24]
+          - button [ref=f113e26] [cursor=pointer]
+      - generic [ref=f113e30]:
+        - link "Explore" [ref=f113e32] [cursor=pointer]:
+          - /url: /discover/
+        - link "License" [ref=f113e36] [cursor=pointer]:
+          - /url: /license/
+        - button [ref=f113e39] [cursor=pointer]
+        - button "Join" [ref=f113e42] [cursor=pointer]
+    - main [ref=f113e45]:
+      - separator [ref=f113e46]
+      - generic [ref=f113e47]:
+        - main [ref=f113e48]:
+          - separator [ref=f113e49]
+          - generic [ref=f113e50]:
+            - generic [ref=f113e51]:
+              - link "Nicola Narracci 1" [ref=f113e52] [cursor=pointer]:
+                - /url: /@nicola-narracci-157460431/
+                - generic [ref=f113e55]:
+                  - img "Nicola Narracci" [ref=f113e56]
+                  - generic [ref=f113e57]: "1"
+              - generic [ref=f113e63]:
+                - link [ref=f113e64] [cursor=pointer]:
+                  - /url: /@nicola-narracci-157460431/
+                  - heading "Nicola Narracci" [level=5] [ref=f113e65]
+                - paragraph [ref=f113e66]:
+                  - text: 685.8M views
+                  - generic [ref=f113e67]: •
+                  - text: 2.8M downloads
+            - generic [ref=f113e68]:
+              - generic [ref=f113e69]:
+                - link "Add Text" [ref=f113e70] [cursor=pointer]:
+                  - /url: https://www.canva.com/content-partner/?utm_medium=acquisitions&utm_source=pexels&utm_campaign=predownload%20button&utm_content=edit%20in%20canva%20action%3Dadd_text_video&file-url=https%3A%2F%2Fvideos.pexels.com%2Fvideo-files%2F34869248%2F14775865_1920_1080_30fps.mp4&external-id=34869248&onboarding-flow=add-text-to-photo
+                - link "Convert to GIF" [ref=f113e75] [cursor=pointer]:
+                  - /url: https://www.canva.com/content-partner/?utm_medium=acquisitions&utm_source=pexels&utm_campaign=predownload%20button&utm_content=edit%20in%20canva%20action%3Dconvert_to_gif&file-url=https%3A%2F%2Fvideos.pexels.com%2Fvideo-files%2F34869248%2F14775865_1920_1080_30fps.mp4&external-id=34869248&onboarding-flow=convert-to-gif
+                - link "Edit" [ref=f113e82] [cursor=pointer]:
+                  - /url: https://www.canva.com/content-partner/?utm_medium=acquisitions&utm_source=pexels&utm_campaign=predownload%20button&utm_content=edit%20in%20canva&file-url=https%3A%2F%2Fvideos.pexels.com%2Fvideo-files%2F34869248%2F14775865_1920_1080_30fps.mp4&external-id=34869248
+              - generic [ref=f113e89]:
+                - button [ref=f113e90] [cursor=pointer]
+                - button "19" [ref=f113e94] [cursor=pointer]
+                - generic [ref=f113e99]:
+                  - link "Free download" [ref=f113e100] [cursor=pointer]:
+                    - /url: https://www.pexels.com/download/video/34869248/
+                  - button [ref=f113e104] [cursor=pointer]
+          - separator [ref=f113e109]
+        - generic [ref=f113e110]:
+          - region "video player" [ref=f113e119]:
+            - generic:
+              - generic:
+                - generic:
+                  - status: media loading
+                - generic:
+                  - button "pause"
+          - generic [ref=f113e124]:
+            - link "Nicola Narracci 1 Nicola Narracci Microdonations fuel the art that inspires us all. Support the hands that paint your days with colors." [ref=f113e125] [cursor=pointer]:
+              - /url: /@nicola-narracci-157460431/
+              - generic [ref=f113e128]:
+                - img "Nicola Narracci" [ref=f113e129]
+                - generic [ref=f113e130]: "1"
+              - generic [ref=f113e136]:
+                - heading "Nicola Narracci" [level=5] [ref=f113e137]
+                - paragraph [ref=f113e139]:
+                  - generic [ref=f113e140]: Microdonations fuel the art that inspires us all. Support the hands that paint your days with colors.
+            - generic [ref=f113e141]:
+              - button "Follow" [ref=f113e142] [cursor=pointer]
+              - link "Donate" [ref=f113e147] [cursor=pointer]:
+                - /url: https://www.paypal.com/cgi-bin/webscr?business=nicola.narracci%40gmail.com&cmd=_donations&currency_code=USD&item_name=Nicola+Narracci+-+Pexels&lc=US&return=https://pexels.com/video/glowing-pink-dna-double-helix-animation-34869248/
+          - generic [ref=f113e151]:
+            - generic [ref=f113e153]:
+              - generic [ref=f113e155]:
+                - paragraph [ref=f113e156]: License
+                - link [ref=f113e157] [cursor=pointer]:
+                  - /url: /license/
+                  - paragraph [ref=f113e158]: Free
+              - generic [ref=f113e161]:
+                - paragraph [ref=f113e162]: Dimensions
+                - paragraph [ref=f113e163]: 1920x1080
+              - generic [ref=f113e164]:
+                - paragraph [ref=f113e165]: Aspect Ratio
+                - paragraph [ref=f113e166]: 16:9
+              - generic [ref=f113e167]:
+                - paragraph [ref=f113e168]: Duration
+                - paragraph [ref=f113e169]: 30:10
+              - generic [ref=f113e170]:
+                - paragraph [ref=f113e171]: Date
+                - paragraph [ref=f113e172]: Nov 22, 2025
+              - generic [ref=f113e173]:
+                - paragraph [ref=f113e174]: Downloads
+                - paragraph [ref=f113e175]: 1.6K
+              - generic [ref=f113e176]:
+                - paragraph [ref=f113e177]: Views
+                - paragraph [ref=f113e178]: 461.3K
+              - generic [ref=f113e179]:
+                - paragraph [ref=f113e180]: Likes
+                - paragraph [ref=f113e181]: "19"
+            - generic [ref=f113e184]:
+              - button "More info" [ref=f113e185] [cursor=pointer]
+              - button "Share" [ref=f113e189] [cursor=pointer]
+              - link "Report media" [ref=f113e193] [cursor=pointer]:
+                - /url: /report/?slug=glowing-pink-dna-double-helix-animation-34869248
+          - generic [ref=f113e197]:
+            - paragraph [ref=f113e198]: Description
+            - heading "A vibrant pink DNA helix glowing in a digital animation." [level=1] [ref=f113e199]
+          - separator [ref=f113e200]
+          - heading "More like this" [level=3] [ref=f113e201]
+          - generic [ref=f113e203]:
+            - link "Dna Animation" [ref=f113e205] [cursor=pointer]:
+              - /url: /search/videos/dna%20animation/
+            - link "Dna Strand" [ref=f113e208] [cursor=pointer]:
+              - /url: /search/videos/dna%20strand/
+            - link "Particles" [ref=f113e211] [cursor=pointer]:
+              - /url: /search/videos/particles/
+            - link "Genetics" [ref=f113e214] [cursor=pointer]:
+              - /url: /search/videos/genetics/
+            - link "Genes" [ref=f113e217] [cursor=pointer]:
+              - /url: /search/videos/genes/
+            - link "Particle" [ref=f113e220] [cursor=pointer]:
+              - /url: /search/videos/particle/
+            - link "Dna" [ref=f113e223] [cursor=pointer]:
+              - /url: /search/videos/dna/
+            - link "Background Videos" [ref=f113e226] [cursor=pointer]:
+              - /url: /search/videos/background%20videos/
+            - link "Genetic" [ref=f113e229] [cursor=pointer]:
+              - /url: /search/videos/genetic/
+            - link "Motion Backgrounds" [ref=f113e232] [cursor=pointer]:
+              - /url: /search/videos/motion%20backgrounds/
+            - link "Worship Background" [ref=f113e235] [cursor=pointer]:
+              - /url: /search/videos/worship%20background/
+            - link "Abstract Animation" [ref=f113e238] [cursor=pointer]:
+              - /url: /search/videos/abstract%20animation/
+            - link "Effects" [ref=f113e241] [cursor=pointer]:
+              - /url: /search/videos/effects/
+            - link "Cinematic Footages" [ref=f113e244] [cursor=pointer]:
+              - /url: /search/videos/cinematic%20footages/
+            - link "Stock Footage" [ref=f113e247] [cursor=pointer]:
+              - /url: /search/videos/stock%20footage/
+            - img [ref=f113e250] [cursor=pointer]
+          - generic [ref=f113e253]:
+            - generic [ref=f113e255]:
+              - generic [ref=f113e256]:
+                - article [ref=f113e260]:
+                  - link [ref=f113e261] [cursor=pointer]:
+                    - /url: /video/glowing-dna-helix-with-particle-animation-34856162/
+                  - button "Play video preview" [ref=f113e266] [cursor=pointer]
+                - article [ref=f113e274]:
+                  - link [ref=f113e275] [cursor=pointer]:
+                    - /url: /video/glowing-pink-electric-dna-helix-animation-35977754/
+                  - button "Play video preview" [ref=f113e280] [cursor=pointer]
+                - article [ref=f113e288]:
+                  - link [ref=f113e289] [cursor=pointer]:
+                    - /url: /video/vibrant-pink-dna-helix-animation-35977508/
+                  - button "Play video preview" [ref=f113e294] [cursor=pointer]
+                - article [ref=f113e302]:
+                  - link [ref=f113e303] [cursor=pointer]:
+                    - /url: /video/mesmerizing-abstract-particle-dance-in-space-35286052/
+                  - button "Play video preview" [ref=f113e308] [cursor=pointer]
+              - generic [ref=f113e313]:
+                - article [ref=f113e317]:
+                  - link [ref=f113e318] [cursor=pointer]:
+                    - /url: /video/abstract-dna-helix-with-vibrant-particle-animation-34883485/
+                  - button "Play video preview" [ref=f113e323] [cursor=pointer]
+                - article [ref=f113e331]:
+                  - link [ref=f113e332] [cursor=pointer]:
+                    - /url: /video/abstract-glowing-purple-dna-helix-animation-35977897/
+                  - button "Play video preview" [ref=f113e337] [cursor=pointer]
+                - article [ref=f113e345]:
+                  - link [ref=f113e346] [cursor=pointer]:
+                    - /url: /video/glowing-dna-helix-with-colorful-particle-animation-34862407/
+                  - button "Play video preview" [ref=f113e351] [cursor=pointer]
+                - article [ref=f113e359]:
+                  - link [ref=f113e360] [cursor=pointer]:
+                    - /url: /video/vibrant-neon-particle-animation-loop-35284078/
+                  - button "Play video preview" [ref=f113e365] [cursor=pointer]
+              - generic [ref=f113e370]:
+                - generic [ref=f113e372]:
+                  - generic [ref=f113e374]:
+                    - link "Create your own video content with Canva" [ref=f113e375] [cursor=pointer]:
+                      - /url: https://www.canva.com/features/ai-video-generator/?utm_source=pexels&utm_campaign=aigc_pexelscampaign&utm_medium=partner
+                    - link "Create your own video content with Canva" [ref=f113e377] [cursor=pointer]:
+                      - /url: https://www.canva.com/features/ai-video-generator/?utm_source=pexels&utm_campaign=aigc_pexelscampaign&utm_medium=partner
+                    - link "Create your own video content with Canva" [ref=f113e379] [cursor=pointer]:
+                      - /url: https://www.canva.com/features/ai-video-generator/?utm_source=pexels&utm_campaign=aigc_pexelscampaign&utm_medium=partner
+                    - link "Create your own video content with Canva" [ref=f113e381] [cursor=pointer]:
+                      - /url: https://www.canva.com/features/ai-video-generator/?utm_source=pexels&utm_campaign=aigc_pexelscampaign&utm_medium=partner
+                  - link [ref=f113e383] [cursor=pointer]:
+                    - /url: https://www.canva.com/features/ai-video-generator/?utm_source=pexels&utm_campaign=aigc_pexelscampaign&utm_medium=partner
+                    - paragraph [ref=f113e386]: Bring your ideas to life with Canva AI
+                  - link "Get started for free" [ref=f113e387] [cursor=pointer]:
+                    - /url: https://www.canva.com/features/ai-video-generator/?utm_source=pexels&utm_campaign=aigc_pexelscampaign&utm_medium=partner
+                - article [ref=f113e393]:
+                  - link [ref=f113e394] [cursor=pointer]:
+                    - /url: /video/glowing-pink-dna-strand-animation-34855802/
+                  - button "Play video preview" [ref=f113e399] [cursor=pointer]
+              - generic [ref=f113e404]:
+                - article [ref=f113e408]:
+                  - link [ref=f113e409] [cursor=pointer]:
+                    - /url: /video/dynamic-pink-dna-helixes-on-starry-background-34870778/
+                  - button "Play video preview" [ref=f113e414] [cursor=pointer]
+                - article [ref=f113e422]:
+                  - link [ref=f113e423] [cursor=pointer]:
+                    - /url: /video/glowing-neon-pink-dna-helix-animation-35977110/
+                  - button "Play video preview" [ref=f113e428] [cursor=pointer]
+                - article [ref=f113e436]:
+                  - link [ref=f113e437] [cursor=pointer]:
+                    - /url: /video/abstract-glowing-dna-strand-animation-34862858/
+                  - button "Play video preview" [ref=f113e442] [cursor=pointer]
+            - button "Load More" [ref=f113e448] [cursor=pointer]
+      - separator [ref=f113e451]
+    - contentinfo [ref=f113e452]:
+      - separator [ref=f113e453]
+      - generic [ref=f113e454]:
+        - generic [ref=f113e455]:
+          - heading "Where stories come together." [level=2] [ref=f113e456]
+          - generic [ref=f113e457]:
+            - link "Download on iOS" [ref=f113e458] [cursor=pointer]:
+              - /url: https://itunes.apple.com/us/app/pexels/id1434330413/
+            - link "Download on Android" [ref=f113e461] [cursor=pointer]:
+              - /url: https://play.google.com/store/apps/details?id=com.pexels.app
+          - list [ref=f113e464]:
+            - listitem [ref=f113e465]:
+              - link "Instagram" [ref=f113e466] [cursor=pointer]:
+                - /url: https://www.instagram.com/pexels/
+            - listitem [ref=f113e469]:
+              - link "Threads" [ref=f113e470] [cursor=pointer]:
+                - /url: https://www.threads.net/@pexels/
+            - listitem [ref=f113e473]:
+              - link "YouTube" [ref=f113e474] [cursor=pointer]:
+                - /url: https://www.youtube.com/pexelsphotos/
+            - listitem [ref=f113e477]:
+              - link "TikTok" [ref=f113e478] [cursor=pointer]:
+                - /url: https://www.tiktok.com/@pexels/
+            - listitem [ref=f113e481]:
+              - link "LinkedIn" [ref=f113e482] [cursor=pointer]:
+                - /url: https://www.linkedin.com/company/pexels/
+            - listitem [ref=f113e485]:
+              - link "X" [ref=f113e486] [cursor=pointer]:
+                - /url: https://x.com/pexels/
+        - generic [ref=f113e489]:
+          - list [ref=f113e490]:
+            - heading "Pexels" [level=3] [ref=f113e491]
+            - listitem [ref=f113e492]:
+              - link "Free Stock Photos" [ref=f113e493] [cursor=pointer]:
+                - /url: /
+            - listitem [ref=f113e494]:
+              - link "Free Videos" [ref=f113e495] [cursor=pointer]:
+                - /url: /videos/
+            - listitem [ref=f113e496]:
+              - link "Popular searches" [ref=f113e497] [cursor=pointer]:
+                - /url: /popular-searches/
+            - listitem [ref=f113e498]:
+              - link "Collections" [ref=f113e499] [cursor=pointer]:
+                - /url: /discover/
+            - listitem [ref=f113e500]:
+              - link "Challenges" [ref=f113e501] [cursor=pointer]:
+                - /url: /challenges/
+            - listitem [ref=f113e502]:
+              - link "Leaderboard" [ref=f113e503] [cursor=pointer]:
+                - /url: /leaderboard/
+            - listitem [ref=f113e504]:
+              - link "Other plugins & apps" [ref=f113e505] [cursor=pointer]:
+                - /url: /pro/
+          - list [ref=f113e506]:
+            - heading "Company" [level=3] [ref=f113e507]
+            - listitem [ref=f113e508]:
+              - link "About" [ref=f113e509] [cursor=pointer]:
+                - /url: /about/
+            - listitem [ref=f113e510]:
+              - link "Blog" [ref=f113e511] [cursor=pointer]:
+                - /url: /blog/
+            - listitem [ref=f113e512]:
+              - link "Help Center" [ref=f113e513] [cursor=pointer]:
+                - /url: https://help.pexels.com/hc/en-us
+            - listitem [ref=f113e514]:
+              - link "Report content" [ref=f113e515] [cursor=pointer]:
+                - /url: /report/
+            - listitem [ref=f113e516]:
+              - link "Become a Hero" [ref=f113e517] [cursor=pointer]:
+                - /url: /hero/
+            - listitem [ref=f113e518]:
+              - link "Partner with Pexels" [ref=f113e519] [cursor=pointer]:
+                - /url: /become-a-partner/
+            - listitem [ref=f113e520]:
+              - link "Image & Video API" [ref=f113e521] [cursor=pointer]:
+                - /url: /api/
+            - listitem [ref=f113e522]: Sign Up
+        - list [ref=f113e523]:
+          - listitem [ref=f113e524]:
+            - heading "Free Stock Photos" [level=3] [ref=f113e525]
+          - listitem [ref=f113e526]:
+            - generic [ref=f113e528]:
+              - link "4K wallpaper" [ref=f113e530] [cursor=pointer]:
+                - /url: /search/4k%20wallpaper/
+              - link "Nature photos" [ref=f113e531] [cursor=pointer]:
+                - /url: /search/nature/
+              - link "Desktop wallpaper" [ref=f113e532] [cursor=pointer]:
+                - /url: /search/desktop%20wallpaper/
+              - link "Flower photos" [ref=f113e533] [cursor=pointer]:
+                - /url: /search/flowers/
+              - link "HD wallpaper" [ref=f113e534] [cursor=pointer]:
+                - /url: /search/hd%20wallpaper/
+              - link "Mobile wallpaper" [ref=f113e535] [cursor=pointer]:
+                - /url: /search/mobile%20wallpaper/
+              - link "Dark photos" [ref=f113e536] [cursor=pointer]:
+                - /url: /search/dark/
+              - link "Black and white photography" [ref=f113e537] [cursor=pointer]:
+                - /url: /search/black%20and%20white/
+              - link "Black background" [ref=f113e538] [cursor=pointer]:
+                - /url: /search/black%20background/
+              - link "Sunset photos" [ref=f113e539] [cursor=pointer]:
+                - /url: /search/sunset/
+              - link "Landscape photos" [ref=f113e540] [cursor=pointer]:
+                - /url: /search/landscape/
+              - link "Cat photos" [ref=f113e541] [cursor=pointer]:
+                - /url: /search/cat/
+      - generic [ref=f113e543]:
+        - generic [ref=f113e544]: © 2026 Pexels
+        - generic [ref=f113e546]:
+          - link "Terms of Use" [ref=f113e548] [cursor=pointer]:
+            - /url: /terms-of-service/
+          - link "Privacy Policy" [ref=f113e549] [cursor=pointer]:
+            - /url: /privacy-policy/
+          - link "License" [ref=f113e550] [cursor=pointer]:
+            - /url: /license/
+          - link "Imprint" [ref=f113e551] [cursor=pointer]:
+            - /url: /imprint/
+          - link "Cookies Policy" [ref=f113e552] [cursor=pointer]:
+            - /url: /cookies/
+        - button "English" [ref=f113e555] [cursor=pointer]
+      - separator [ref=f113e560]
+  - alert [ref=f113e561]

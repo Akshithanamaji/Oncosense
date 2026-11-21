@@ -1,0 +1,338 @@
+- generic [active] [ref=f149e1]:
+  - generic [ref=f149e3]:
+    - navigation [ref=f149e6]:
+      - link [ref=f149e8] [cursor=pointer]:
+        - /url: /
+      - search [ref=f149e13]:
+        - generic [ref=f149e14]:
+          - button "Photos" [ref=f149e16] [cursor=pointer]
+          - searchbox "Search for free photos" [ref=f149e24]
+          - button [ref=f149e26] [cursor=pointer]
+      - generic [ref=f149e30]:
+        - link "Explore" [ref=f149e32] [cursor=pointer]:
+          - /url: /discover/
+        - link "License" [ref=f149e36] [cursor=pointer]:
+          - /url: /license/
+        - button [ref=f149e39] [cursor=pointer]
+        - button "Join" [ref=f149e42] [cursor=pointer]
+    - main [ref=f149e45]:
+      - separator [ref=f149e46]
+      - generic [ref=f149e47]:
+        - main [ref=f149e48]:
+          - separator [ref=f149e49]
+          - generic [ref=f149e50]:
+            - generic [ref=f149e51]:
+              - link [ref=f149e52] [cursor=pointer]:
+                - /url: /@nadezhda-moryak/
+                - img "Nadezhda Moryak" [ref=f149e56]
+              - generic [ref=f149e57]:
+                - link [ref=f149e58] [cursor=pointer]:
+                  - /url: /@nadezhda-moryak/
+                  - heading "Nadezhda Moryak" [level=5] [ref=f149e59]
+                - paragraph [ref=f149e60]:
+                  - text: 480M views
+                  - generic [ref=f149e61]: •
+                  - text: 1.7M downloads
+            - generic [ref=f149e62]:
+              - generic [ref=f149e63]:
+                - link "Add Text" [ref=f149e64] [cursor=pointer]:
+                  - /url: https://www.canva.com/content-partner/?utm_medium=acquisitions&utm_source=pexels&utm_campaign=predownload%20button&utm_content=edit%20in%20canva%20action%3Dadd_text_video&file-url=https%3A%2F%2Fvideos.pexels.com%2Fvideo-files%2F8680193%2F8680193-hd_1080_1620_26fps.mp4&external-id=8680193&onboarding-flow=add-text-to-photo
+                - link "Convert to GIF" [ref=f149e69] [cursor=pointer]:
+                  - /url: https://www.canva.com/content-partner/?utm_medium=acquisitions&utm_source=pexels&utm_campaign=predownload%20button&utm_content=edit%20in%20canva%20action%3Dconvert_to_gif&file-url=https%3A%2F%2Fvideos.pexels.com%2Fvideo-files%2F8680193%2F8680193-hd_1080_1620_26fps.mp4&external-id=8680193&onboarding-flow=convert-to-gif
+                - link "Edit" [ref=f149e76] [cursor=pointer]:
+                  - /url: https://www.canva.com/content-partner/?utm_medium=acquisitions&utm_source=pexels&utm_campaign=predownload%20button&utm_content=edit%20in%20canva&file-url=https%3A%2F%2Fvideos.pexels.com%2Fvideo-files%2F8680193%2F8680193-hd_1080_1620_26fps.mp4&external-id=8680193
+              - generic [ref=f149e83]:
+                - button [ref=f149e84] [cursor=pointer]
+                - button "24" [ref=f149e88] [cursor=pointer]
+                - generic [ref=f149e93]:
+                  - link "Free download" [ref=f149e94] [cursor=pointer]:
+                    - /url: https://www.pexels.com/download/video/8680193/
+                  - button [ref=f149e98] [cursor=pointer]
+          - separator [ref=f149e103]
+        - generic [ref=f149e104]:
+          - region "video player" [ref=f149e113]:
+            - generic:
+              - button "pause" [ref=f149e117] [cursor=pointer]
+              - generic:
+                - generic [ref=f149e126] [cursor=pointer]:
+                  - slider "seek" [ref=f149e132]: "0.0469826728110599"
+                  - generic: en 0:00
+                - button "enter fullscreen mode" [ref=f149e135] [cursor=pointer]:
+                  - generic [ref=f149e142]:
+                    - generic [aria-hidden]:
+                      - generic: Enter fullscreen mode
+          - generic [ref=f149e144]:
+            - link "Nadezhda Moryak Nadezhda Moryak In beauty i see the love of God. Please donate if you like my pictures :)" [ref=f149e145] [cursor=pointer]:
+              - /url: /@nadezhda-moryak/
+              - img "Nadezhda Moryak" [ref=f149e149]
+              - generic [ref=f149e150]:
+                - heading "Nadezhda Moryak" [level=5] [ref=f149e151]
+                - paragraph [ref=f149e153]:
+                  - generic [ref=f149e154]: In beauty i see the love of God. Please donate if you like my pictures :)
+            - generic [ref=f149e155]:
+              - button "Follow" [ref=f149e156] [cursor=pointer]
+              - link "Donate" [ref=f149e161] [cursor=pointer]:
+                - /url: https://www.paypal.com/cgi-bin/webscr?business=Vitaminparts%40gmail.com&cmd=_donations&currency_code=USD&item_name=Nadezhda+Moryak+-+Pexels&lc=US&return=https://pexels.com/video/a-breast-cancer-themed-stop-motion-animation-8680193/
+          - generic [ref=f149e165]:
+            - generic [ref=f149e167]:
+              - generic [ref=f149e169]:
+                - paragraph [ref=f149e170]: License
+                - link [ref=f149e171] [cursor=pointer]:
+                  - /url: /license/
+                  - paragraph [ref=f149e172]: Free
+              - generic [ref=f149e175]:
+                - paragraph [ref=f149e176]: Dimensions
+                - paragraph [ref=f149e177]: 1280x1920
+              - generic [ref=f149e178]:
+                - paragraph [ref=f149e179]: Aspect Ratio
+                - paragraph [ref=f149e180]: 2:3
+              - generic [ref=f149e181]:
+                - paragraph [ref=f149e182]: Duration
+                - paragraph [ref=f149e183]: 30:11
+              - generic [ref=f149e184]:
+                - paragraph [ref=f149e185]: Date
+                - paragraph [ref=f149e186]: Jul 9, 2021
+              - generic [ref=f149e187]:
+                - paragraph [ref=f149e188]: Downloads
+                - paragraph [ref=f149e189]: 1.6K
+              - generic [ref=f149e190]:
+                - paragraph [ref=f149e191]: Views
+                - paragraph [ref=f149e192]: 3.9M
+              - generic [ref=f149e193]:
+                - paragraph [ref=f149e194]: Likes
+                - paragraph [ref=f149e195]: "24"
+            - generic [ref=f149e198]:
+              - button "More info" [ref=f149e199] [cursor=pointer]
+              - button "Share" [ref=f149e203] [cursor=pointer]
+              - link "Report media" [ref=f149e207] [cursor=pointer]:
+                - /url: /report/?slug=a-breast-cancer-themed-stop-motion-animation-8680193
+          - generic [ref=f149e211]:
+            - paragraph [ref=f149e212]: Description
+            - heading "Minimalist animation raising breast cancer awareness on a pink background." [level=1] [ref=f149e213]
+          - separator [ref=f149e214]
+          - heading "More like this" [level=3] [ref=f149e215]
+          - generic [ref=f149e217]:
+            - link "Eye Blink" [ref=f149e219] [cursor=pointer]:
+              - /url: /search/videos/eye%20blink/
+            - link "Breast" [ref=f149e222] [cursor=pointer]:
+              - /url: /search/videos/breast/
+            - link "Breast Cancer" [ref=f149e225] [cursor=pointer]:
+              - /url: /search/videos/breast%20cancer/
+            - link "Breast Cancer Awareness" [ref=f149e228] [cursor=pointer]:
+              - /url: /search/videos/breast%20cancer%20awareness/
+            - link "Pink Wallpaper" [ref=f149e231] [cursor=pointer]:
+              - /url: /search/videos/pink%20wallpaper/
+            - link "Pink" [ref=f149e234] [cursor=pointer]:
+              - /url: /search/videos/pink/
+            - link "Eyes Closed" [ref=f149e237] [cursor=pointer]:
+              - /url: /search/videos/eyes%20closed/
+            - link "Pink Aesthetic" [ref=f149e240] [cursor=pointer]:
+              - /url: /search/videos/pink%20aesthetic/
+            - link "Feminism" [ref=f149e243] [cursor=pointer]:
+              - /url: /search/videos/feminism/
+            - link "Suspicious" [ref=f149e246] [cursor=pointer]:
+              - /url: /search/videos/suspicious/
+            - link "Desktop Wallpaper Aesthetic Pink" [ref=f149e249] [cursor=pointer]:
+              - /url: /search/videos/desktop%20wallpaper%20aesthetic%20pink/
+            - link "Eye Contact" [ref=f149e252] [cursor=pointer]:
+              - /url: /search/videos/eye%20contact/
+            - link "Breast Milk" [ref=f149e255] [cursor=pointer]:
+              - /url: /search/videos/breast%20milk/
+            - link "Breastfeeding" [ref=f149e258] [cursor=pointer]:
+              - /url: /search/videos/breastfeeding/
+            - link "Period Pain" [ref=f149e261] [cursor=pointer]:
+              - /url: /search/videos/period%20pain/
+            - img [ref=f149e264] [cursor=pointer]
+          - generic [ref=f149e267]:
+            - generic [ref=f149e269]:
+              - generic [ref=f149e270]:
+                - article [ref=f149e274]:
+                  - link [ref=f149e275] [cursor=pointer]:
+                    - /url: /video/a-breast-cancer-themed-stop-motion-animation-8680163/
+                  - button "Play video preview" [ref=f149e280] [cursor=pointer]
+                - article [ref=f149e288]:
+                  - link [ref=f149e289] [cursor=pointer]:
+                    - /url: /video/a-breast-cancer-themed-stop-motion-animation-8680185/
+                  - button "Play video preview" [ref=f149e294] [cursor=pointer]
+                - article [ref=f149e302]:
+                  - link [ref=f149e303] [cursor=pointer]:
+                    - /url: /video/doing-a-hand-sign-9017845/
+                  - button "Play video preview" [ref=f149e308] [cursor=pointer]
+              - generic [ref=f149e313]:
+                - article [ref=f149e317]:
+                  - link [ref=f149e318] [cursor=pointer]:
+                    - /url: /video/a-breast-cancer-themed-stop-motion-animation-8680132/
+                  - button "Play video preview" [ref=f149e323] [cursor=pointer]
+                - article [ref=f149e331]:
+                  - link [ref=f149e332] [cursor=pointer]:
+                    - /url: /video/a-friendship-themed-stop-motion-animation-8680050/
+                  - button "Play video preview" [ref=f149e337] [cursor=pointer]
+                - article [ref=f149e345]:
+                  - link [ref=f149e346] [cursor=pointer]:
+                    - /url: /video/a-hand-doing-sign-language-9017830/
+                  - button "Play video preview" [ref=f149e351] [cursor=pointer]
+              - generic [ref=f149e356]:
+                - generic [ref=f149e358]:
+                  - generic [ref=f149e360]:
+                    - link "Create your own video content with Canva" [ref=f149e361] [cursor=pointer]:
+                      - /url: https://www.canva.com/features/ai-video-generator/?utm_source=pexels&utm_campaign=aigc_pexelscampaign&utm_medium=partner
+                    - link "Create your own video content with Canva" [ref=f149e363] [cursor=pointer]:
+                      - /url: https://www.canva.com/features/ai-video-generator/?utm_source=pexels&utm_campaign=aigc_pexelscampaign&utm_medium=partner
+                    - link "Create your own video content with Canva" [ref=f149e365] [cursor=pointer]:
+                      - /url: https://www.canva.com/features/ai-video-generator/?utm_source=pexels&utm_campaign=aigc_pexelscampaign&utm_medium=partner
+                    - link "Create your own video content with Canva" [ref=f149e367] [cursor=pointer]:
+                      - /url: https://www.canva.com/features/ai-video-generator/?utm_source=pexels&utm_campaign=aigc_pexelscampaign&utm_medium=partner
+                  - link [ref=f149e369] [cursor=pointer]:
+                    - /url: https://www.canva.com/features/ai-video-generator/?utm_source=pexels&utm_campaign=aigc_pexelscampaign&utm_medium=partner
+                    - paragraph [ref=f149e372]: Bring your ideas to life with Canva AI
+                  - link "Get started for free" [ref=f149e373] [cursor=pointer]:
+                    - /url: https://www.canva.com/features/ai-video-generator/?utm_source=pexels&utm_campaign=aigc_pexelscampaign&utm_medium=partner
+                - article [ref=f149e379]:
+                  - link [ref=f149e380] [cursor=pointer]:
+                    - /url: /video/a-breast-cancer-themed-stop-motion-animation-8680128/
+                  - button "Play video preview" [ref=f149e385] [cursor=pointer]
+                - article [ref=f149e393]:
+                  - link [ref=f149e394] [cursor=pointer]:
+                    - /url: /video/a-hand-doing-sign-language-9017840/
+                  - button "Play video preview" [ref=f149e399] [cursor=pointer]
+                - article [ref=f149e407]:
+                  - link [ref=f149e408] [cursor=pointer]:
+                    - /url: /video/a-pregnancy-themed-stop-motion-animation-8680381/
+                  - button "Play video preview" [ref=f149e413] [cursor=pointer]
+              - generic [ref=f149e418]:
+                - article [ref=f149e422]:
+                  - link [ref=f149e423] [cursor=pointer]:
+                    - /url: /video/an-animation-of-breasts-releasing-droplets-of-milk-8680157/
+                  - button "Play video preview" [ref=f149e428] [cursor=pointer]
+                - article [ref=f149e436]:
+                  - link [ref=f149e437] [cursor=pointer]:
+                    - /url: /video/a-hand-doing-sign-language-9017835/
+                  - button "Play video preview" [ref=f149e442] [cursor=pointer]
+                - article [ref=f149e450]:
+                  - link [ref=f149e451] [cursor=pointer]:
+                    - /url: /video/doing-sign-language-9017844/
+                  - button "Play video preview" [ref=f149e456] [cursor=pointer]
+            - button "Load More" [ref=f149e462] [cursor=pointer]
+      - separator [ref=f149e465]
+    - contentinfo [ref=f149e466]:
+      - separator [ref=f149e467]
+      - generic [ref=f149e468]:
+        - generic [ref=f149e469]:
+          - heading "Where stories come together." [level=2] [ref=f149e470]
+          - generic [ref=f149e471]:
+            - link "Download on iOS" [ref=f149e472] [cursor=pointer]:
+              - /url: https://itunes.apple.com/us/app/pexels/id1434330413/
+            - link "Download on Android" [ref=f149e475] [cursor=pointer]:
+              - /url: https://play.google.com/store/apps/details?id=com.pexels.app
+          - list [ref=f149e478]:
+            - listitem [ref=f149e479]:
+              - link "Instagram" [ref=f149e480] [cursor=pointer]:
+                - /url: https://www.instagram.com/pexels/
+            - listitem [ref=f149e483]:
+              - link "Threads" [ref=f149e484] [cursor=pointer]:
+                - /url: https://www.threads.net/@pexels/
+            - listitem [ref=f149e487]:
+              - link "YouTube" [ref=f149e488] [cursor=pointer]:
+                - /url: https://www.youtube.com/pexelsphotos/
+            - listitem [ref=f149e491]:
+              - link "TikTok" [ref=f149e492] [cursor=pointer]:
+                - /url: https://www.tiktok.com/@pexels/
+            - listitem [ref=f149e495]:
+              - link "LinkedIn" [ref=f149e496] [cursor=pointer]:
+                - /url: https://www.linkedin.com/company/pexels/
+            - listitem [ref=f149e499]:
+              - link "X" [ref=f149e500] [cursor=pointer]:
+                - /url: https://x.com/pexels/
+        - generic [ref=f149e503]:
+          - list [ref=f149e504]:
+            - heading "Pexels" [level=3] [ref=f149e505]
+            - listitem [ref=f149e506]:
+              - link "Free Stock Photos" [ref=f149e507] [cursor=pointer]:
+                - /url: /
+            - listitem [ref=f149e508]:
+              - link "Free Videos" [ref=f149e509] [cursor=pointer]:
+                - /url: /videos/
+            - listitem [ref=f149e510]:
+              - link "Popular searches" [ref=f149e511] [cursor=pointer]:
+                - /url: /popular-searches/
+            - listitem [ref=f149e512]:
+              - link "Collections" [ref=f149e513] [cursor=pointer]:
+                - /url: /discover/
+            - listitem [ref=f149e514]:
+              - link "Challenges" [ref=f149e515] [cursor=pointer]:
+                - /url: /challenges/
+            - listitem [ref=f149e516]:
+              - link "Leaderboard" [ref=f149e517] [cursor=pointer]:
+                - /url: /leaderboard/
+            - listitem [ref=f149e518]:
+              - link "Other plugins & apps" [ref=f149e519] [cursor=pointer]:
+                - /url: /pro/
+          - list [ref=f149e520]:
+            - heading "Company" [level=3] [ref=f149e521]
+            - listitem [ref=f149e522]:
+              - link "About" [ref=f149e523] [cursor=pointer]:
+                - /url: /about/
+            - listitem [ref=f149e524]:
+              - link "Blog" [ref=f149e525] [cursor=pointer]:
+                - /url: /blog/
+            - listitem [ref=f149e526]:
+              - link "Help Center" [ref=f149e527] [cursor=pointer]:
+                - /url: https://help.pexels.com/hc/en-us
+            - listitem [ref=f149e528]:
+              - link "Report content" [ref=f149e529] [cursor=pointer]:
+                - /url: /report/
+            - listitem [ref=f149e530]:
+              - link "Become a Hero" [ref=f149e531] [cursor=pointer]:
+                - /url: /hero/
+            - listitem [ref=f149e532]:
+              - link "Partner with Pexels" [ref=f149e533] [cursor=pointer]:
+                - /url: /become-a-partner/
+            - listitem [ref=f149e534]:
+              - link "Image & Video API" [ref=f149e535] [cursor=pointer]:
+                - /url: /api/
+            - listitem [ref=f149e536]: Sign Up
+        - list [ref=f149e537]:
+          - listitem [ref=f149e538]:
+            - heading "Free Stock Photos" [level=3] [ref=f149e539]
+          - listitem [ref=f149e540]:
+            - generic [ref=f149e542]:
+              - link "4K wallpaper" [ref=f149e544] [cursor=pointer]:
+                - /url: /search/4k%20wallpaper/
+              - link "Nature photos" [ref=f149e545] [cursor=pointer]:
+                - /url: /search/nature/
+              - link "Desktop wallpaper" [ref=f149e546] [cursor=pointer]:
+                - /url: /search/desktop%20wallpaper/
+              - link "Flower photos" [ref=f149e547] [cursor=pointer]:
+                - /url: /search/flowers/
+              - link "HD wallpaper" [ref=f149e548] [cursor=pointer]:
+                - /url: /search/hd%20wallpaper/
+              - link "Mobile wallpaper" [ref=f149e549] [cursor=pointer]:
+                - /url: /search/mobile%20wallpaper/
+              - link "Dark photos" [ref=f149e550] [cursor=pointer]:
+                - /url: /search/dark/
+              - link "Black and white photography" [ref=f149e551] [cursor=pointer]:
+                - /url: /search/black%20and%20white/
+              - link "Black background" [ref=f149e552] [cursor=pointer]:
+                - /url: /search/black%20background/
+              - link "Sunset photos" [ref=f149e553] [cursor=pointer]:
+                - /url: /search/sunset/
+              - link "Landscape photos" [ref=f149e554] [cursor=pointer]:
+                - /url: /search/landscape/
+              - link "Cat photos" [ref=f149e555] [cursor=pointer]:
+                - /url: /search/cat/
+      - generic [ref=f149e557]:
+        - generic [ref=f149e558]: © 2026 Pexels
+        - generic [ref=f149e560]:
+          - link "Terms of Use" [ref=f149e562] [cursor=pointer]:
+            - /url: /terms-of-service/
+          - link "Privacy Policy" [ref=f149e563] [cursor=pointer]:
+            - /url: /privacy-policy/
+          - link "License" [ref=f149e564] [cursor=pointer]:
+            - /url: /license/
+          - link "Imprint" [ref=f149e565] [cursor=pointer]:
+            - /url: /imprint/
+          - link "Cookies Policy" [ref=f149e566] [cursor=pointer]:
+            - /url: /cookies/
+        - button "English" [ref=f149e569] [cursor=pointer]
+      - separator [ref=f149e574]
+  - alert [ref=f149e575]

@@ -1,0 +1,458 @@
+- generic [active] [ref=f61e1]:
+  - generic [ref=f61e3]:
+    - navigation [ref=f61e6]:
+      - link [ref=f61e8] [cursor=pointer]:
+        - /url: /
+      - search [ref=f61e13]:
+        - generic [ref=f61e14]:
+          - button "Videos" [ref=f61e16] [cursor=pointer]
+          - searchbox "Search for free videos" [ref=f61e24]: doctor looking at mammogram
+          - button [ref=f61e26] [cursor=pointer]
+      - generic [ref=f61e30]:
+        - link "Explore" [ref=f61e32] [cursor=pointer]:
+          - /url: /discover/
+        - link "License" [ref=f61e36] [cursor=pointer]:
+          - /url: /license/
+        - button [ref=f61e39] [cursor=pointer]
+        - button "Join" [ref=f61e42] [cursor=pointer]
+    - main [ref=f61e45]:
+      - generic [ref=f61e46]:
+        - generic [ref=f61e50]:
+          - paragraph [ref=f61e52] [cursor=pointer]: Any
+          - paragraph [ref=f61e57] [cursor=pointer]: Horizontal
+          - paragraph [ref=f61e62] [cursor=pointer]: Vertical
+          - paragraph [ref=f61e67] [cursor=pointer]: Square
+        - generic [ref=f61e71]:
+          - paragraph [ref=f61e73] [cursor=pointer]: Any
+          - paragraph [ref=f61e75] [cursor=pointer]: "0"
+          - paragraph [ref=f61e80] [cursor=pointer]: "1"
+          - paragraph [ref=f61e85] [cursor=pointer]: "2"
+          - paragraph [ref=f61e90] [cursor=pointer]: 3+
+        - generic [ref=f61e94]:
+          - paragraph [ref=f61e96] [cursor=pointer]: Any
+          - paragraph [ref=f61e101] [cursor=pointer]: Baby
+          - paragraph [ref=f61e106] [cursor=pointer]: Child
+          - paragraph [ref=f61e111] [cursor=pointer]: Teenager
+          - paragraph [ref=f61e116] [cursor=pointer]: Adult
+          - paragraph [ref=f61e121] [cursor=pointer]: Senior adult
+        - generic [ref=f61e124]:
+          - generic [ref=f61e125]:
+            - generic [ref=f61e126] [cursor=pointer]
+            - slider [ref=f61e128] [cursor=pointer]
+            - slider [ref=f61e129] [cursor=pointer]
+          - generic [ref=f61e130]:
+            - generic [ref=f61e131]:
+              - paragraph [ref=f61e132]: Minimum
+              - paragraph [ref=f61e133]: 5s
+            - generic [ref=f61e134]:
+              - paragraph [ref=f61e135]: Maximum
+              - paragraph [ref=f61e136]: 2m+
+        - generic [ref=f61e140]:
+          - paragraph [ref=f61e142] [cursor=pointer]: Any
+          - paragraph [ref=f61e147] [cursor=pointer]: "24"
+          - paragraph [ref=f61e152] [cursor=pointer]: "25"
+          - paragraph [ref=f61e157] [cursor=pointer]: "30"
+          - paragraph [ref=f61e162] [cursor=pointer]: "50"
+          - paragraph [ref=f61e167] [cursor=pointer]: 60+
+        - generic [ref=f61e171]:
+          - paragraph [ref=f61e173] [cursor=pointer]: Any
+          - paragraph [ref=f61e178] [cursor=pointer]: 1080p
+          - paragraph [ref=f61e183] [cursor=pointer]: 4K
+          - paragraph [ref=f61e188] [cursor=pointer]: 8K
+        - generic [ref=f61e192]:
+          - paragraph [ref=f61e194] [cursor=pointer]: Any
+          - paragraph [ref=f61e199] [cursor=pointer]: Last 24 hours
+          - paragraph [ref=f61e204] [cursor=pointer]: Last week
+          - paragraph [ref=f61e209] [cursor=pointer]: Last month
+          - paragraph [ref=f61e214] [cursor=pointer]: Last year
+        - main "main-content" [ref=f61e215]:
+          - generic [ref=f61e216]:
+            - heading "Free Doctor Looking At Mammogram Videos" [level=1] [ref=f61e219]
+            - generic [ref=f61e222]:
+              - link "Photos 10K" [ref=f61e224] [cursor=pointer]:
+                - /url: /search/doctor%20looking%20at%20mammogram/
+                - text: Photos
+                - generic [ref=f61e225]: 10K
+              - link "Videos 10K" [ref=f61e226] [cursor=pointer]:
+                - /url: /search/videos/doctor%20looking%20at%20mammogram/
+                - text: Videos
+                - generic [ref=f61e227]: 10K
+              - link "Users 10K" [ref=f61e228] [cursor=pointer]:
+                - /url: /search/users/doctor%20looking%20at%20mammogram/
+                - text: Users
+                - generic [ref=f61e229]: 10K
+            - generic [ref=f61e231]:
+              - button "Filters" [ref=f61e233] [cursor=pointer]
+              - separator [ref=f61e240]
+              - generic [ref=f61e244]:
+                - link [ref=f61e246] [cursor=pointer]:
+                  - /url: /search/videos/mammogram/
+                  - img "mammogram" [ref=f61e247]
+                  - generic [ref=f61e248]:
+                    - paragraph [ref=f61e249]: mammogram
+                    - paragraph [ref=f61e250]: 4K
+                - link [ref=f61e251] [cursor=pointer]:
+                  - /url: /search/videos/doctor%20talking%20to%20patient/
+                  - img "doctor talking to patient" [ref=f61e252]
+                  - generic [ref=f61e253]:
+                    - paragraph [ref=f61e254]: doctor talking to patient
+                    - paragraph [ref=f61e255]: 32K
+                - link [ref=f61e256] [cursor=pointer]:
+                  - /url: /search/videos/doctor%20with%20patient/
+                  - img "doctor with patient" [ref=f61e257]
+                  - generic [ref=f61e258]:
+                    - paragraph [ref=f61e259]: doctor with patient
+                    - paragraph [ref=f61e260]: 7K
+                - link [ref=f61e261] [cursor=pointer]:
+                  - /url: /search/videos/doctor%20and%20patient/
+                  - img "doctor and patient" [ref=f61e262]
+                  - generic [ref=f61e263]:
+                    - paragraph [ref=f61e264]: doctor and patient
+                    - paragraph [ref=f61e265]: 7K
+                - link [ref=f61e266] [cursor=pointer]:
+                  - /url: /search/videos/doctor%20patient%20consultation/
+                  - img "doctor patient consultation" [ref=f61e267]
+                  - generic [ref=f61e268]:
+                    - paragraph [ref=f61e269]: doctor patient consultation
+                    - paragraph [ref=f61e270]: 11K
+                - link [ref=f61e271] [cursor=pointer]:
+                  - /url: /search/videos/doctor%20and%20patient%20talking/
+                  - img "doctor and patient talking" [ref=f61e272]
+                  - generic [ref=f61e273]:
+                    - paragraph [ref=f61e274]: doctor and patient talking
+                    - paragraph [ref=f61e275]: 32K
+                - link [ref=f61e276] [cursor=pointer]:
+                  - /url: /search/videos/healthcare%20worker/
+                  - img "healthcare worker" [ref=f61e277]
+                  - generic [ref=f61e278]:
+                    - paragraph [ref=f61e279]: healthcare worker
+                    - paragraph [ref=f61e280]: 20K
+                - link [ref=f61e281] [cursor=pointer]:
+                  - /url: /search/videos/gynecologist/
+                  - img "gynecologist" [ref=f61e282]
+                  - generic [ref=f61e283]:
+                    - paragraph [ref=f61e284]: gynecologist
+                    - paragraph [ref=f61e285]: 4K
+                - link [ref=f61e286] [cursor=pointer]:
+                  - /url: /search/videos/healthcare%20professional/
+                  - img "healthcare professional" [ref=f61e287]
+                  - generic [ref=f61e288]:
+                    - paragraph [ref=f61e289]: healthcare professional
+                    - paragraph [ref=f61e290]: 46K
+                - link [ref=f61e291] [cursor=pointer]:
+                  - /url: /search/videos/cancer%20patient/
+                  - img "cancer patient" [ref=f61e292]
+                  - generic [ref=f61e293]:
+                    - paragraph [ref=f61e294]: cancer patient
+                    - paragraph [ref=f61e295]: 7K
+                - link [ref=f61e296] [cursor=pointer]:
+                  - /url: /search/videos/female%20doctor/
+                  - img "female doctor" [ref=f61e297]
+                  - generic [ref=f61e298]:
+                    - paragraph [ref=f61e299]: female doctor
+                    - paragraph [ref=f61e300]: 69K
+                - link [ref=f61e301] [cursor=pointer]:
+                  - /url: /search/videos/male%20doctor/
+                  - img "male doctor" [ref=f61e302]
+                  - generic [ref=f61e303]:
+                    - paragraph [ref=f61e304]: male doctor
+                    - paragraph [ref=f61e305]: 39K
+                - link [ref=f61e306] [cursor=pointer]:
+                  - /url: /search/videos/doctor%20patient/
+                  - img "doctor patient" [ref=f61e307]
+                  - generic [ref=f61e308]:
+                    - paragraph [ref=f61e309]: doctor patient
+                    - paragraph [ref=f61e310]: 7K
+                - link [ref=f61e311] [cursor=pointer]:
+                  - /url: /search/videos/doctor%20talking/
+                  - img "doctor talking" [ref=f61e312]
+                  - generic [ref=f61e313]:
+                    - paragraph [ref=f61e314]: doctor talking
+                    - paragraph [ref=f61e315]: 31K
+                - link [ref=f61e316] [cursor=pointer]:
+                  - /url: /search/videos/person%20on%20computer/
+                  - img "person on computer" [ref=f61e317]
+                  - generic [ref=f61e318]:
+                    - paragraph [ref=f61e319]: person on computer
+                    - paragraph [ref=f61e320]: 99K
+                - link [ref=f61e321] [cursor=pointer]:
+                  - /url: /search/videos/doctors%20office/
+                  - img "doctors office" [ref=f61e322]
+                  - generic [ref=f61e323]:
+                    - paragraph [ref=f61e324]: doctors office
+                    - paragraph [ref=f61e325]: 39K
+                - img [ref=f61e326] [cursor=pointer]
+            - generic [ref=f61e329]:
+              - generic [ref=f61e331]:
+                - generic [ref=f61e332]:
+                  - article [ref=f61e336]:
+                    - link [ref=f61e337] [cursor=pointer]:
+                      - /url: /video/a-female-doctor-looking-at-an-x-ray-image-7579839/
+                    - button "Play video preview" [ref=f61e342] [cursor=pointer]
+                  - article [ref=f61e350]:
+                    - link [ref=f61e351] [cursor=pointer]:
+                      - /url: /video/a-doctor-explaining-to-patient-data-results-of-her-disease-condition-6010759/
+                    - button "Play video preview" [ref=f61e356] [cursor=pointer]
+                  - article [ref=f61e364]:
+                    - link [ref=f61e365] [cursor=pointer]:
+                      - /url: /video/doctors-checking-at-an-x-ray-film-4352121/
+                    - button "Play video preview" [ref=f61e370] [cursor=pointer]
+                  - article [ref=f61e378]:
+                    - link [ref=f61e379] [cursor=pointer]:
+                      - /url: /video/doctors-checking-an-x-ray-film-4352122/
+                    - button "Play video preview" [ref=f61e384] [cursor=pointer]
+                  - article [ref=f61e392]:
+                    - link [ref=f61e393] [cursor=pointer]:
+                      - /url: /video/a-doctor-posing-for-the-camera-6130127/
+                    - button "Play video preview" [ref=f61e398] [cursor=pointer]
+                  - article [ref=f61e406]:
+                    - link [ref=f61e407] [cursor=pointer]:
+                      - /url: /video/a-female-doctor-holding-a-device-7579605/
+                    - button "Play video preview" [ref=f61e412] [cursor=pointer]
+                - generic [ref=f61e417]:
+                  - article [ref=f61e421]:
+                    - link [ref=f61e422] [cursor=pointer]:
+                      - /url: /video/a-woman-holding-a-digital-tablet-7423544/
+                    - button "Play video preview" [ref=f61e427] [cursor=pointer]
+                  - article [ref=f61e435]:
+                    - link [ref=f61e436] [cursor=pointer]:
+                      - /url: /video/woman-wearing-holding-a-clipboard-7423714/
+                    - button "Play video preview" [ref=f61e441] [cursor=pointer]
+                  - article [ref=f61e449]:
+                    - link [ref=f61e450] [cursor=pointer]:
+                      - /url: /video/man-looking-at-the-x-ray-result-5453579/
+                    - button "Play video preview" [ref=f61e455] [cursor=pointer]
+                  - generic [ref=f61e461]:
+                    - generic [ref=f61e462]:
+                      - heading "‌S‌‌p‌o‌‌n‌‌‌s‌‌‌o‌‌‌r‌‌‌e‌d‌ ‌‌V‌i‌‌d‌‌‌e‌‌‌o‌s" [level=4] [ref=f61e463]
+                      - link [ref=f61e464] [cursor=pointer]:
+                        - /url: https://www.pexels.com/r/eyJkZXN0IjoiaHR0cHM6Ly93d3cuaXN0b2NrcGhvdG8uY29tL3ZpZGVvcy9kb2N0b3IlMjBsb29raW5nJTIwYXQlMjBtYW1tb2dyYW0_dXRtX3NvdXJjZT1wZXhlbHMmdXRtX21lZGl1bT1hZmZpbGlhdGUmdXRtX2NhbXBhaWduPXNwb25zb3JlZF92aWRlbyZ1dG1fY29udGVudD1zcnBfaW5saW5lX2xvZ28mdXRtX3Rlcm09ZG9jdG9yJTIwbG9va2luZyUyMGF0JTIwbWFtbW9ncmFtIiwiZGF0YSI6eyJleHBlcmltZW50cyI6e30sInBhZ2VfbG9jYWxlIjoiZW4tVVMiLCJwYWdlIjoic2VhcmNoX3Jlc3VsdHMiLCJwYWdlX3ZhcmlhbnQiOiJwaG90b3MiLCJsb2NhdGlvbiI6ImdyaWQiLCJhZF9wYXJ0bmVyIjoiZ2V0dHkiLCJhZF9mb3JtYXQiOiJpbmxpbmUiLCJhZF9wbGFjZW1lbnQiOiIxMCIsImFkX2NyZWF0aXZlIjoidmlkZW9fc2VhcmNoXzQiLCJhZF9hY3Rpb24iOiJjbGljayIsImFkX2ltcHJlc3Npb25faWQiOiJjOThiMDE3MC00YTgzLTQwMjAtYjQzYy0zNmRhNGZhMzQ0ZjMiLCJtZWRpYV90eXBlIjoidmlkZW8iLCJxdWVyeSI6ImRvY3RvciBsb29raW5nIGF0IG1hbW1vZ3JhbSJ9fQ/
+                    - generic [ref=f61e468]:
+                      - link [ref=f61e469] [cursor=pointer]:
+                        - /url: https://www.pexels.com/r/eyJkZXN0IjoiaHR0cHM6Ly93d3cuaXN0b2NrcGhvdG8uY29tL3ZpZGVvL3Nlbmlvci13b21hbi13aXRoLWNhbmNlci1yZXZpZXdzLXRlc3QtcmVzdWx0cy13aXRoLWZlbWFsZS1kb2N0b3ItZ20xMTUwNTkxNjgyLTMxMTUyNjExMD91dG1fc291cmNlPXBleGVscyZ1dG1fbWVkaXVtPWFmZmlsaWF0ZSZ1dG1fY2FtcGFpZ249c3BvbnNvcmVkX3ZpZGVvJnV0bV9jb250ZW50PXNycF9pbmxpbmVfbWVkaWEmdXRtX3Rlcm09ZG9jdG9yJTIwbG9va2luZyUyMGF0JTIwbWFtbW9ncmFtIiwiZGF0YSI6eyJleHBlcmltZW50cyI6e30sInBhZ2VfbG9jYWxlIjoiZW4tVVMiLCJwYWdlIjoic2VhcmNoX3Jlc3VsdHMiLCJwYWdlX3ZhcmlhbnQiOiJwaG90b3MiLCJsb2NhdGlvbiI6ImdyaWQiLCJhZF9wYXJ0bmVyIjoiZ2V0dHkiLCJhZF9mb3JtYXQiOiJpbmxpbmUiLCJhZF9wbGFjZW1lbnQiOiIxMCIsImFkX2NyZWF0aXZlIjoidmlkZW9fc2VhcmNoXzQiLCJhZF9hY3Rpb24iOiJjbGljayIsImFkX2ltcHJlc3Npb25faWQiOiJjOThiMDE3MC00YTgzLTQwMjAtYjQzYy0zNmRhNGZhMzQ0ZjMiLCJtZWRpYV90eXBlIjoidmlkZW8iLCJxdWVyeSI6ImRvY3RvciBsb29raW5nIGF0IG1hbW1vZ3JhbSJ9fQ/
+                      - link [ref=f61e472] [cursor=pointer]:
+                        - /url: https://www.pexels.com/r/eyJkZXN0IjoiaHR0cHM6Ly93d3cuaXN0b2NrcGhvdG8uY29tL3ZpZGVvL2RvY3Rvci1leGFtaW5pbmctbWFtbW9ncmFtLWltYWdlcy1nbTIyMjIxOTUxMTAtNjM4NDg3MDc3P3V0bV9zb3VyY2U9cGV4ZWxzJnV0bV9tZWRpdW09YWZmaWxpYXRlJnV0bV9jYW1wYWlnbj1zcG9uc29yZWRfdmlkZW8mdXRtX2NvbnRlbnQ9c3JwX2lubGluZV9tZWRpYSZ1dG1fdGVybT1kb2N0b3IlMjBsb29raW5nJTIwYXQlMjBtYW1tb2dyYW0iLCJkYXRhIjp7ImV4cGVyaW1lbnRzIjp7fSwicGFnZV9sb2NhbGUiOiJlbi1VUyIsInBhZ2UiOiJzZWFyY2hfcmVzdWx0cyIsInBhZ2VfdmFyaWFudCI6InBob3RvcyIsImxvY2F0aW9uIjoiZ3JpZCIsImFkX3BhcnRuZXIiOiJnZXR0eSIsImFkX2Zvcm1hdCI6ImlubGluZSIsImFkX3BsYWNlbWVudCI6IjEwIiwiYWRfY3JlYXRpdmUiOiJ2aWRlb19zZWFyY2hfNCIsImFkX2FjdGlvbiI6ImNsaWNrIiwiYWRfaW1wcmVzc2lvbl9pZCI6ImM5OGIwMTcwLTRhODMtNDAyMC1iNDNjLTM2ZGE0ZmEzNDRmMyIsIm1lZGlhX3R5cGUiOiJ2aWRlbyIsInF1ZXJ5IjoiZG9jdG9yIGxvb2tpbmcgYXQgbWFtbW9ncmFtIn19/
+                      - link [ref=f61e475] [cursor=pointer]:
+                        - /url: https://www.pexels.com/r/eyJkZXN0IjoiaHR0cHM6Ly93d3cuaXN0b2NrcGhvdG8uY29tL3ZpZGVvL21lZGljYWwtc3BlY2lhbGlzdC1leHBsYWluaW5nLXgtcmF5LXJlc3VsdHMtZHVyaW5nLWEtcHJlc2VudGF0aW9uLWdtMjI5NjY4NzIxOC03MDg1NDA0NDE_dXRtX3NvdXJjZT1wZXhlbHMmdXRtX21lZGl1bT1hZmZpbGlhdGUmdXRtX2NhbXBhaWduPXNwb25zb3JlZF92aWRlbyZ1dG1fY29udGVudD1zcnBfaW5saW5lX21lZGlhJnV0bV90ZXJtPWRvY3RvciUyMGxvb2tpbmclMjBhdCUyMG1hbW1vZ3JhbSIsImRhdGEiOnsiZXhwZXJpbWVudHMiOnt9LCJwYWdlX2xvY2FsZSI6ImVuLVVTIiwicGFnZSI6InNlYXJjaF9yZXN1bHRzIiwicGFnZV92YXJpYW50IjoicGhvdG9zIiwibG9jYXRpb24iOiJncmlkIiwiYWRfcGFydG5lciI6ImdldHR5IiwiYWRfZm9ybWF0IjoiaW5saW5lIiwiYWRfcGxhY2VtZW50IjoiMTAiLCJhZF9jcmVhdGl2ZSI6InZpZGVvX3NlYXJjaF80IiwiYWRfYWN0aW9uIjoiY2xpY2siLCJhZF9pbXByZXNzaW9uX2lkIjoiYzk4YjAxNzAtNGE4My00MDIwLWI0M2MtMzZkYTRmYTM0NGYzIiwibWVkaWFfdHlwZSI6InZpZGVvIiwicXVlcnkiOiJkb2N0b3IgbG9va2luZyBhdCBtYW1tb2dyYW0ifX0/
+                      - link [ref=f61e478] [cursor=pointer]:
+                        - /url: https://www.pexels.com/r/eyJkZXN0IjoiaHR0cHM6Ly93d3cuaXN0b2NrcGhvdG8uY29tL3ZpZGVvL2hlYWx0aGNhcmUtcHJvZmVzc2lvbmFsLXBvaW50aW5nLWF0LWRpYWdub3N0aWMtbWFtbW9ncmFwaHktb24tc2NyZWVuLWdtMjI5NjY4NzEyOC03MDg1NDA0Mzk_dXRtX3NvdXJjZT1wZXhlbHMmdXRtX21lZGl1bT1hZmZpbGlhdGUmdXRtX2NhbXBhaWduPXNwb25zb3JlZF92aWRlbyZ1dG1fY29udGVudD1zcnBfaW5saW5lX21lZGlhJnV0bV90ZXJtPWRvY3RvciUyMGxvb2tpbmclMjBhdCUyMG1hbW1vZ3JhbSIsImRhdGEiOnsiZXhwZXJpbWVudHMiOnt9LCJwYWdlX2xvY2FsZSI6ImVuLVVTIiwicGFnZSI6InNlYXJjaF9yZXN1bHRzIiwicGFnZV92YXJpYW50IjoicGhvdG9zIiwibG9jYXRpb24iOiJncmlkIiwiYWRfcGFydG5lciI6ImdldHR5IiwiYWRfZm9ybWF0IjoiaW5saW5lIiwiYWRfcGxhY2VtZW50IjoiMTAiLCJhZF9jcmVhdGl2ZSI6InZpZGVvX3NlYXJjaF80IiwiYWRfYWN0aW9uIjoiY2xpY2siLCJhZF9pbXByZXNzaW9uX2lkIjoiYzk4YjAxNzAtNGE4My00MDIwLWI0M2MtMzZkYTRmYTM0NGYzIiwibWVkaWFfdHlwZSI6InZpZGVvIiwicXVlcnkiOiJkb2N0b3IgbG9va2luZyBhdCBtYW1tb2dyYW0ifX0/
+                    - link [ref=f61e481] [cursor=pointer]:
+                      - /url: https://www.pexels.com/r/eyJkZXN0IjoiaHR0cHM6Ly93d3cuaXN0b2NrcGhvdG8uY29tL3ZpZGVvcy9kb2N0b3IlMjBsb29raW5nJTIwYXQlMjBtYW1tb2dyYW0_dXRtX3NvdXJjZT1wZXhlbHMmdXRtX21lZGl1bT1hZmZpbGlhdGUmdXRtX2NhbXBhaWduPXNwb25zb3JlZF92aWRlbyZ1dG1fY29udGVudD1zcnBfaW5saW5lX2NvdXBvbmNvZGUmdXRtX3Rlcm09ZG9jdG9yJTIwbG9va2luZyUyMGF0JTIwbWFtbW9ncmFtIiwiZGF0YSI6eyJleHBlcmltZW50cyI6e30sInBhZ2VfbG9jYWxlIjoiZW4tVVMiLCJwYWdlIjoic2VhcmNoX3Jlc3VsdHMiLCJwYWdlX3ZhcmlhbnQiOiJwaG90b3MiLCJsb2NhdGlvbiI6ImdyaWQiLCJhZF9wYXJ0bmVyIjoiZ2V0dHkiLCJhZF9mb3JtYXQiOiJpbmxpbmUiLCJhZF9wbGFjZW1lbnQiOiIxMCIsImFkX2NyZWF0aXZlIjoidmlkZW9fc2VhcmNoXzQiLCJhZF9hY3Rpb24iOiJjbGljayIsImFkX2ltcHJlc3Npb25faWQiOiJjOThiMDE3MC00YTgzLTQwMjAtYjQzYy0zNmRhNGZhMzQ0ZjMiLCJtZWRpYV90eXBlIjoidmlkZW8iLCJxdWVyeSI6ImRvY3RvciBsb29raW5nIGF0IG1hbW1vZ3JhbSJ9fQ/
+                      - img [ref=f61e484]:
+                        - generic [ref=f61e485]: Get 20% off with code PEXELS20 »
+                  - article [ref=f61e489]:
+                    - link [ref=f61e490] [cursor=pointer]:
+                      - /url: /video/a-doctor-putting-stethoscope-around-his-neck-5867916/
+                    - button "Play video preview" [ref=f61e495] [cursor=pointer]
+                  - article [ref=f61e503]:
+                    - link [ref=f61e504] [cursor=pointer]:
+                      - /url: /video/doctor-showing-the-x-ray-7579843/
+                    - button "Play video preview" [ref=f61e509] [cursor=pointer]
+                  - article [ref=f61e517]:
+                    - link [ref=f61e518] [cursor=pointer]:
+                      - /url: /video/young-doctors-discussing-x-ray-5453562/
+                    - button "Play video preview" [ref=f61e523] [cursor=pointer]
+                - generic [ref=f61e528]:
+                  - generic [ref=f61e530]:
+                    - generic [ref=f61e532]:
+                      - link "Create your own doctor looking at mammogram content with Canva" [ref=f61e533] [cursor=pointer]:
+                        - /url: https://www.canva.com/features/ai-video-generator/?utm_source=pexels&utm_campaign=aigc_pexelscampaign&utm_medium=partner
+                      - link "Create your own doctor looking at mammogram content with Canva" [ref=f61e535] [cursor=pointer]:
+                        - /url: https://www.canva.com/features/ai-video-generator/?utm_source=pexels&utm_campaign=aigc_pexelscampaign&utm_medium=partner
+                      - link "Create your own doctor looking at mammogram content with Canva" [ref=f61e537] [cursor=pointer]:
+                        - /url: https://www.canva.com/features/ai-video-generator/?utm_source=pexels&utm_campaign=aigc_pexelscampaign&utm_medium=partner
+                      - link "Create your own doctor looking at mammogram content with Canva" [ref=f61e539] [cursor=pointer]:
+                        - /url: https://www.canva.com/features/ai-video-generator/?utm_source=pexels&utm_campaign=aigc_pexelscampaign&utm_medium=partner
+                    - link [ref=f61e541] [cursor=pointer]:
+                      - /url: https://www.canva.com/features/ai-video-generator/?utm_source=pexels&utm_campaign=aigc_pexelscampaign&utm_medium=partner
+                      - paragraph [ref=f61e544]: Bring your ideas to life with Canva AI
+                    - link "Get started for free" [ref=f61e545] [cursor=pointer]:
+                      - /url: https://www.canva.com/features/ai-video-generator/?utm_source=pexels&utm_campaign=aigc_pexelscampaign&utm_medium=partner
+                  - article [ref=f61e551]:
+                    - link [ref=f61e552] [cursor=pointer]:
+                      - /url: /video/young-doctors-discussing-x-ray-5453592/
+                    - button "Play video preview" [ref=f61e557] [cursor=pointer]
+                  - article [ref=f61e565]:
+                    - link [ref=f61e566] [cursor=pointer]:
+                      - /url: /video/young-doctor-looking-at-x-ray-5453584/
+                    - button "Play video preview" [ref=f61e571] [cursor=pointer]
+                  - article [ref=f61e579]:
+                    - link [ref=f61e580] [cursor=pointer]:
+                      - /url: /video/doctor-talking-with-patient-while-looking-at-screen-6234577/
+                    - button "Play video preview" [ref=f61e585] [cursor=pointer]
+                  - article [ref=f61e593]:
+                    - link [ref=f61e594] [cursor=pointer]:
+                      - /url: /video/a-doctor-reading-an-x-ray-film-6036767/
+                    - button "Play video preview" [ref=f61e599] [cursor=pointer]
+                  - article [ref=f61e607]:
+                    - link [ref=f61e608] [cursor=pointer]:
+                      - /url: /video/man-looking-at-a-medical-chart-6997950/
+                    - button "Play video preview" [ref=f61e613] [cursor=pointer]
+                  - article [ref=f61e621]:
+                    - link [ref=f61e622] [cursor=pointer]:
+                      - /url: /video/young-doctor-looking-at-x-ray-image-5453588/
+                    - button "Play video preview" [ref=f61e627] [cursor=pointer]
+                  - article [ref=f61e635]:
+                    - link [ref=f61e636] [cursor=pointer]:
+                      - /url: /video/female-doctors-looking-at-an-x-ray-image-of-a-young-patient-7423721/
+                    - button "Play video preview" [ref=f61e641] [cursor=pointer]
+                  - article [ref=f61e649]:
+                    - link [ref=f61e650] [cursor=pointer]:
+                      - /url: /video/doctor-and-nurse-looking-at-camera-6130129/
+                    - button "Play video preview" [ref=f61e655] [cursor=pointer]
+                - generic [ref=f61e660]:
+                  - article [ref=f61e664]:
+                    - link [ref=f61e665] [cursor=pointer]:
+                      - /url: /video/young-doctors-discussing-x-ray-image-5453585/
+                    - button "Play video preview" [ref=f61e670] [cursor=pointer]
+                  - article [ref=f61e678]:
+                    - link [ref=f61e679] [cursor=pointer]:
+                      - /url: /video/doctors-looking-at-an-x-ray-film-8460389/
+                    - button "Play video preview" [ref=f61e684] [cursor=pointer]
+                  - article [ref=f61e692]:
+                    - link [ref=f61e693] [cursor=pointer]:
+                      - /url: /video/young-doctors-discussing-x-ray-5453563/
+                    - button "Play video preview" [ref=f61e698] [cursor=pointer]
+                  - article [ref=f61e706]:
+                    - link [ref=f61e707] [cursor=pointer]:
+                      - /url: /video/a-woman-checking-an-x-ray-film-4352126/
+                    - button "Play video preview" [ref=f61e712] [cursor=pointer]
+              - button "Load More" [ref=f61e718] [cursor=pointer]
+            - navigation [ref=f61e721]:
+              - generic [ref=f61e723]:
+                - link "1" [ref=f61e725]:
+                  - /url: /search/videos/doctor%20looking%20at%20mammogram/
+                - link "2" [ref=f61e728] [cursor=pointer]:
+                  - /url: /search/videos/doctor%20looking%20at%20mammogram/?page=2
+                - link "3" [ref=f61e731] [cursor=pointer]:
+                  - /url: /search/videos/doctor%20looking%20at%20mammogram/?page=3
+                - link "4" [ref=f61e734] [cursor=pointer]:
+                  - /url: /search/videos/doctor%20looking%20at%20mammogram/?page=4
+                - link "5" [ref=f61e737] [cursor=pointer]:
+                  - /url: /search/videos/doctor%20looking%20at%20mammogram/?page=5
+                - link "6" [ref=f61e740] [cursor=pointer]:
+                  - /url: /search/videos/doctor%20looking%20at%20mammogram/?page=6
+                - link "Next" [ref=f61e743] [cursor=pointer]:
+                  - /url: /search/videos/doctor%20looking%20at%20mammogram/?page=2
+    - contentinfo [ref=f61e747]:
+      - separator [ref=f61e748]
+      - generic [ref=f61e749]:
+        - generic [ref=f61e750]:
+          - heading "Where stories come together." [level=2] [ref=f61e751]
+          - generic [ref=f61e752]:
+            - link "Download on iOS" [ref=f61e753] [cursor=pointer]:
+              - /url: https://itunes.apple.com/us/app/pexels/id1434330413/
+            - link "Download on Android" [ref=f61e756] [cursor=pointer]:
+              - /url: https://play.google.com/store/apps/details?id=com.pexels.app
+          - list [ref=f61e759]:
+            - listitem [ref=f61e760]:
+              - link "Instagram" [ref=f61e761] [cursor=pointer]:
+                - /url: https://www.instagram.com/pexels/
+            - listitem [ref=f61e764]:
+              - link "Threads" [ref=f61e765] [cursor=pointer]:
+                - /url: https://www.threads.net/@pexels/
+            - listitem [ref=f61e768]:
+              - link "YouTube" [ref=f61e769] [cursor=pointer]:
+                - /url: https://www.youtube.com/pexelsphotos/
+            - listitem [ref=f61e772]:
+              - link "TikTok" [ref=f61e773] [cursor=pointer]:
+                - /url: https://www.tiktok.com/@pexels/
+            - listitem [ref=f61e776]:
+              - link "LinkedIn" [ref=f61e777] [cursor=pointer]:
+                - /url: https://www.linkedin.com/company/pexels/
+            - listitem [ref=f61e780]:
+              - link "X" [ref=f61e781] [cursor=pointer]:
+                - /url: https://x.com/pexels/
+        - generic [ref=f61e784]:
+          - list [ref=f61e785]:
+            - heading "Pexels" [level=3] [ref=f61e786]
+            - listitem [ref=f61e787]:
+              - link "Free Stock Photos" [ref=f61e788] [cursor=pointer]:
+                - /url: /
+            - listitem [ref=f61e789]:
+              - link "Free Videos" [ref=f61e790] [cursor=pointer]:
+                - /url: /videos/
+            - listitem [ref=f61e791]:
+              - link "Popular searches" [ref=f61e792] [cursor=pointer]:
+                - /url: /popular-searches/
+            - listitem [ref=f61e793]:
+              - link "Collections" [ref=f61e794] [cursor=pointer]:
+                - /url: /discover/
+            - listitem [ref=f61e795]:
+              - link "Challenges" [ref=f61e796] [cursor=pointer]:
+                - /url: /challenges/
+            - listitem [ref=f61e797]:
+              - link "Leaderboard" [ref=f61e798] [cursor=pointer]:
+                - /url: /leaderboard/
+            - listitem [ref=f61e799]:
+              - link "Other plugins & apps" [ref=f61e800] [cursor=pointer]:
+                - /url: /pro/
+          - list [ref=f61e801]:
+            - heading "Company" [level=3] [ref=f61e802]
+            - listitem [ref=f61e803]:
+              - link "About" [ref=f61e804] [cursor=pointer]:
+                - /url: /about/
+            - listitem [ref=f61e805]:
+              - link "Blog" [ref=f61e806] [cursor=pointer]:
+                - /url: /blog/
+            - listitem [ref=f61e807]:
+              - link "Help Center" [ref=f61e808] [cursor=pointer]:
+                - /url: https://help.pexels.com/hc/en-us
+            - listitem [ref=f61e809]:
+              - link "Report content" [ref=f61e810] [cursor=pointer]:
+                - /url: /report/
+            - listitem [ref=f61e811]:
+              - link "Become a Hero" [ref=f61e812] [cursor=pointer]:
+                - /url: /hero/
+            - listitem [ref=f61e813]:
+              - link "Partner with Pexels" [ref=f61e814] [cursor=pointer]:
+                - /url: /become-a-partner/
+            - listitem [ref=f61e815]:
+              - link "Image & Video API" [ref=f61e816] [cursor=pointer]:
+                - /url: /api/
+            - listitem [ref=f61e817]: Sign Up
+        - list [ref=f61e818]:
+          - listitem [ref=f61e819]:
+            - heading "Free Stock Photos" [level=3] [ref=f61e820]
+          - listitem [ref=f61e821]:
+            - generic [ref=f61e823]:
+              - link "4K wallpaper" [ref=f61e825] [cursor=pointer]:
+                - /url: /search/4k%20wallpaper/
+              - link "Nature photos" [ref=f61e826] [cursor=pointer]:
+                - /url: /search/nature/
+              - link "Desktop wallpaper" [ref=f61e827] [cursor=pointer]:
+                - /url: /search/desktop%20wallpaper/
+              - link "Flower photos" [ref=f61e828] [cursor=pointer]:
+                - /url: /search/flowers/
+              - link "HD wallpaper" [ref=f61e829] [cursor=pointer]:
+                - /url: /search/hd%20wallpaper/
+              - link "Mobile wallpaper" [ref=f61e830] [cursor=pointer]:
+                - /url: /search/mobile%20wallpaper/
+              - link "Dark photos" [ref=f61e831] [cursor=pointer]:
+                - /url: /search/dark/
+              - link "Black and white photography" [ref=f61e832] [cursor=pointer]:
+                - /url: /search/black%20and%20white/
+              - link "Black background" [ref=f61e833] [cursor=pointer]:
+                - /url: /search/black%20background/
+              - link "Sunset photos" [ref=f61e834] [cursor=pointer]:
+                - /url: /search/sunset/
+              - link "Landscape photos" [ref=f61e835] [cursor=pointer]:
+                - /url: /search/landscape/
+              - link "Cat photos" [ref=f61e836] [cursor=pointer]:
+                - /url: /search/cat/
+      - generic [ref=f61e838]:
+        - generic [ref=f61e839]: © 2026 Pexels
+        - generic [ref=f61e841]:
+          - link "Terms of Use" [ref=f61e843] [cursor=pointer]:
+            - /url: /terms-of-service/
+          - link "Privacy Policy" [ref=f61e844] [cursor=pointer]:
+            - /url: /privacy-policy/
+          - link "License" [ref=f61e845] [cursor=pointer]:
+            - /url: /license/
+          - link "Imprint" [ref=f61e846] [cursor=pointer]:
+            - /url: /imprint/
+          - link "Cookies Policy" [ref=f61e847] [cursor=pointer]:
+            - /url: /cookies/
+        - button "English" [ref=f61e850] [cursor=pointer]
+      - separator [ref=f61e855]
+  - alert [ref=f61e856]

@@ -1,0 +1,386 @@
+- generic [ref=f8e2]:
+  - generic [ref=f8e11]:
+    - generic [ref=f8e15]:
+      - generic [ref=f8e16]:
+        - generic [ref=f8e17]: 🩻
+        - generic [ref=f8e18]: OncoSense
+      - generic [ref=f8e19]: Educational demo · v1
+      - generic [ref=f8e21]:
+        - link "📤 Upload" [ref=f8e22] [cursor=pointer]:
+          - /url: "#upload-section"
+        - link "📊 Result" [ref=f8e23] [cursor=pointer]:
+          - /url: "#result-section"
+        - link "🔍 Explanation" [ref=f8e24] [cursor=pointer]:
+          - /url: "#explanation-section"
+        - link "📋 Report" [ref=f8e25] [cursor=pointer]:
+          - /url: "#report-section"
+      - generic [ref=f8e26]:
+        - generic [ref=f8e27]: 📎
+        - generic [ref=f8e28]:
+          - strong [ref=f8e29]: About this tool
+          - generic [ref=f8e30]: ResNet18 fine-tuned on CBIS-DDSM mammograms. Coursework project, not a medical device.
+      - generic [ref=f8e31]:
+        - generic [ref=f8e32]: JS
+        - generic [ref=f8e33]:
+          - strong [ref=f8e34]: Dr. Jane Smith
+          - text: jane.smith@hospital.org
+    - button [ref=f8e37] [cursor=pointer]:
+      - paragraph [ref=f8e42]: Sign out
+  - generic [ref=f8e3]:
+    - banner [ref=f8e45]:
+      - button "Deploy" [ref=f8e50] [cursor=pointer]
+    - generic [ref=f8e53]:
+      - generic:
+        - iframe
+      - generic [ref=f8e54]:
+        - link "OS" [ref=f8e55] [cursor=pointer]:
+          - /url: "#hero"
+        - link "Home" [ref=f8e58] [cursor=pointer]:
+          - /url: "#hero"
+        - link "Technology" [ref=f8e59] [cursor=pointer]:
+          - /url: "#technology"
+        - link "How It Works" [ref=f8e60] [cursor=pointer]:
+          - /url: "#how-it-works"
+        - link "Screening" [ref=f8e61] [cursor=pointer]:
+          - /url: "#upload-section"
+        - link "Results" [ref=f8e62] [cursor=pointer]:
+          - /url: "#result-section"
+        - link "About" [ref=f8e63] [cursor=pointer]:
+          - /url: "#responsible-ai"
+        - link "Start Screening ↗" [ref=f8e65] [cursor=pointer]:
+          - /url: "#upload-section"
+      - generic [ref=f8e73]:
+        - generic [ref=f8e74]:
+          - generic [ref=f8e75]: AI-Powered Breast Cancer Research
+          - heading [level=1] [ref=f8e77]:
+            - generic [ref=f8e78]:
+              - text: Smarter imaging.Earlier
+              - emphasis [ref=f8e79]: insight.
+            - generic [ref=f8e80]:
+              - link "Link to heading":
+                - /url: "#smarter-imaging-earlier-insight"
+          - paragraph [ref=f8e81]: Explore AI-assisted mammogram analysis using deep learning and medical image processing -- upload a mammogram and see what a fine-tuned ResNet18 model looks for.
+          - generic [ref=f8e82]:
+            - link "Start Screening →" [ref=f8e83] [cursor=pointer]:
+              - /url: "#upload-section"
+            - link "Explore Technology" [ref=f8e84] [cursor=pointer]:
+              - /url: "#technology"
+          - generic [ref=f8e85]: Educational research demo•Not for clinical use
+        - generic [ref=f8e86]:
+          - img "Sample mammogram from the CBIS-DDSM training set used by this project" [ref=f8e88]
+          - generic [ref=f8e89]:
+            - generic [ref=f8e90]:
+              - generic [ref=f8e91]: Mammogram Analysis
+              - strong [ref=f8e92]: ResNet18
+            - generic [ref=f8e93]:
+              - generic [ref=f8e94]: Model Ready
+              - strong [ref=f8e96]: Research Mode
+      - generic [ref=f8e101]:
+        - generic [ref=f8e102]:
+          - generic [ref=f8e103]: The Project
+          - heading [level=2] [ref=f8e107]:
+            - generic [ref=f8e108]:
+              - text: Combining medical imagingwith
+              - emphasis [ref=f8e109]: artificial intelligence.
+            - generic [ref=f8e110]:
+              - link "Link to heading":
+                - /url: "#combining-medical-imagingwith-artificial-intelligence"
+          - paragraph [ref=f8e111]: This project explores how deep learning and computer vision can be applied to mammogram images for breast cancer research and image-based analysis.
+        - generic [ref=f8e112]:
+          - generic [ref=f8e113]:
+            - generic [ref=f8e114]: "01"
+            - heading "COMPUTER VISION" [level=3] [ref=f8e116]:
+              - text: COMPUTER VISION
+              - generic [ref=f8e117]:
+                - link "Link to heading":
+                  - /url: "#computer-vision"
+            - paragraph [ref=f8e118]: Image processing and mammogram preparation using OpenCV, Pillow, NumPy and Pydicom.
+          - generic [ref=f8e119]:
+            - generic [ref=f8e120]: "02"
+            - heading "DEEP LEARNING" [level=3] [ref=f8e122]:
+              - text: DEEP LEARNING
+              - generic [ref=f8e123]:
+                - link "Link to heading":
+                  - /url: "#deep-learning"
+            - paragraph [ref=f8e124]: ResNet18 fine-tuned using PyTorch and torchvision on the CBIS-DDSM dataset.
+          - generic [ref=f8e125]:
+            - generic [ref=f8e126]: "03"
+            - heading "INTERACTIVE ANALYSIS" [level=3] [ref=f8e128]:
+              - text: INTERACTIVE ANALYSIS
+              - generic [ref=f8e129]:
+                - link "Link to heading":
+                  - /url: "#interactive-analysis"
+            - paragraph [ref=f8e130]: An interactive application for uploading mammograms, running inference, viewing results and reviewing explanations.
+      - generic [ref=f8e135]:
+        - generic [ref=f8e136]:
+          - generic [ref=f8e137]: Technology
+          - heading [level=2] [ref=f8e141]:
+            - generic [ref=f8e142]:
+              - text: The technologybehind the
+              - emphasis [ref=f8e143]: analysis.
+            - generic [ref=f8e144]:
+              - link "Link to heading":
+                - /url: "#the-technologybehind-the-analysis"
+        - generic [ref=f8e145]:
+          - generic [ref=f8e146]:
+            - strong [ref=f8e151]: PyTorch
+            - text: Model training and inference framework.
+          - generic [ref=f8e152]:
+            - strong [ref=f8e157]: torchvision
+            - text: Pretrained ResNet18 backbone and image transforms.
+          - generic [ref=f8e158]:
+            - strong [ref=f8e165]: ResNet18
+            - text: Fine-tuned CNN architecture for benign/malignant classification.
+          - generic [ref=f8e166]:
+            - strong [ref=f8e170]: CUDA
+            - text: GPU-accelerated training and inference on the RTX 3050.
+          - generic [ref=f8e171]:
+            - strong [ref=f8e177]: OpenCV
+            - text: Image processing for Grad-CAM overlays.
+          - generic [ref=f8e178]:
+            - strong [ref=f8e184]: Pydicom
+            - text: Reads and decodes DICOM mammogram files.
+          - generic [ref=f8e185]:
+            - strong [ref=f8e191]: Pillow
+            - text: Image loading, resizing and format conversion.
+          - generic [ref=f8e192]:
+            - strong [ref=f8e199]: NumPy
+            - text: Array math for preprocessing and heatmaps.
+          - generic [ref=f8e200]:
+            - strong [ref=f8e206]: Pandas
+            - text: Dataset manifests and case-description CSVs.
+          - generic [ref=f8e207]:
+            - strong [ref=f8e211]: Scikit-learn
+            - text: "Evaluation metrics: F1, ROC-AUC, confusion matrix."
+          - generic [ref=f8e212]:
+            - strong [ref=f8e217]: Streamlit
+            - text: Interactive research application framework.
+          - generic [ref=f8e218]:
+            - strong [ref=f8e223]: PyYAML
+            - text: Config-driven experiments (dataset, model, hyperparameters).
+      - generic [ref=f8e228]:
+        - generic [ref=f8e229]:
+          - generic [ref=f8e230]: How It Works
+          - heading [level=2] [ref=f8e234]:
+            - generic [ref=f8e235]:
+              - text: From imageto
+              - emphasis [ref=f8e236]: AI insight.
+            - generic [ref=f8e237]:
+              - link "Link to heading":
+                - /url: "#from-imageto-ai-insight"
+        - generic [ref=f8e238]:
+          - generic [ref=f8e239]:
+            - generic [ref=f8e240]: "01"
+            - strong [ref=f8e241]: UPLOAD
+            - paragraph [ref=f8e242]: Upload a mammogram image (DICOM, PNG, or JPEG).
+          - generic [ref=f8e243]:
+            - generic [ref=f8e244]: "02"
+            - strong [ref=f8e245]: PREPROCESS
+            - paragraph [ref=f8e246]: Resize, normalize, and -- for DICOM -- crop to the breast region.
+          - generic [ref=f8e247]:
+            - generic [ref=f8e248]: "03"
+            - strong [ref=f8e249]: MODEL
+            - paragraph [ref=f8e250]: Run the fine-tuned ResNet18 model.
+          - generic [ref=f8e251]:
+            - generic [ref=f8e252]: "04"
+            - strong [ref=f8e253]: ANALYZE
+            - paragraph [ref=f8e254]: Generate the benign / malignant probability output.
+          - generic [ref=f8e255]:
+            - generic [ref=f8e256]: "05"
+            - strong [ref=f8e257]: EXPLAIN
+            - paragraph [ref=f8e258]: Review the Grad-CAM attention map behind the decision.
+      - generic [ref=f8e263]:
+        - generic [ref=f8e264]:
+          - generic [ref=f8e265]: Dataset
+          - heading [level=2] [ref=f8e269]:
+            - generic [ref=f8e270]:
+              - text: Built withreal medical
+              - emphasis [ref=f8e271]: imaging data.
+            - generic [ref=f8e272]:
+              - link "Link to heading":
+                - /url: "#built-withreal-medical-imaging-data"
+        - generic [ref=f8e273]:
+          - generic [ref=f8e274]:
+            - generic [ref=f8e275]: CBIS-DDSM
+            - paragraph [ref=f8e276]: The model was developed using mammography images from the CBIS-DDSM (Curated Breast Imaging Subset of DDSM) dataset, joining TCIA DICOM scans with case-description labels for benign vs. malignant findings.
+            - generic [ref=f8e277]:
+              - generic [ref=f8e278]:
+                - strong [ref=f8e279]: 66%
+                - text: Test accuracy
+              - generic [ref=f8e280]:
+                - strong [ref=f8e281]: "0.73"
+                - text: Test ROC-AUC
+              - generic [ref=f8e282]:
+                - strong [ref=f8e283]: 71%
+                - text: Val. accuracy
+          - generic [ref=f8e284]:
+            - generic [ref=f8e285]: DICOM
+            - generic [ref=f8e286]: MAMMOGRAPHY
+            - generic [ref=f8e287]: MEDICAL IMAGING
+            - generic [ref=f8e288]: RESEARCH DATA
+      - generic [ref=f8e293]:
+        - generic [ref=f8e294]:
+          - generic [ref=f8e295]: Screening
+          - heading [level=2] [ref=f8e299]:
+            - generic [ref=f8e300]:
+              - text: Analyze a
+              - emphasis [ref=f8e301]: mammogram.
+            - generic [ref=f8e302]:
+              - link "Link to heading":
+                - /url: "#analyze-amammogram"
+          - paragraph [ref=f8e303]: Upload a mammography image (DICOM, PNG, or JPEG) and run the research model. The model looks for benign vs. malignant patterns and highlights the region that drove its decision.
+        - generic [ref=f8e304]:
+          - generic [ref=f8e305]: ℹ️
+          - generic [ref=f8e306]:
+            - strong [ref=f8e307]: Format support
+            - text: DICOM (.dcm) gets the same breast-region cropping used in training. PNG/JPG are assumed to already be a mammogram crop.
+      - region "Upload a mammogram" [ref=f8e310] [cursor=pointer]:
+        - button "file upload"
+        - button "upload Upload" [ref=f8e312]:
+          - generic [ref=f8e314]:
+            - generic [ref=f8e315]: upload
+            - paragraph [ref=f8e319]: Upload
+        - generic [ref=f8e320]: 200MB per file • DCM, PNG, JPG
+      - generic [ref=f8e326]:
+        - generic [ref=f8e327]:
+          - generic [ref=f8e328]:
+            - generic [ref=f8e329]: "1"
+            - strong [ref=f8e330]: Upload
+          - generic [ref=f8e331]:
+            - generic [ref=f8e332]: "2"
+            - strong [ref=f8e333]: Analyze
+          - generic [ref=f8e334]:
+            - generic [ref=f8e335]: "3"
+            - strong [ref=f8e336]: Result
+        - generic [ref=f8e337]:
+          - generic [ref=f8e338]: 📤
+          - strong [ref=f8e339]: Upload a mammogram to begin
+          - paragraph [ref=f8e340]: Supports .dcm, .png, .jpg • Result, explanation, and report sections will appear below.
+        - generic [ref=f8e341]:
+          - generic [ref=f8e342]: ℹ️
+          - generic [ref=f8e343]:
+            - strong [ref=f8e344]: Educational coursework project.
+            - text: Results are illustrative only, not a diagnosis or medical advice.
+      - generic [ref=f8e349]:
+        - generic [ref=f8e350]:
+          - generic [ref=f8e351]: Compute
+          - heading [level=2] [ref=f8e355]:
+            - generic [ref=f8e356]:
+              - text: Powered by
+              - emphasis [ref=f8e357]: GPU acceleration.
+            - generic [ref=f8e358]:
+              - link "Link to heading":
+                - /url: "#powered-by-gpu-acceleration"
+        - generic [ref=f8e359]:
+          - generic [ref=f8e360]:
+            - generic [ref=f8e361]: GPU
+            - strong [ref=f8e362]: NVIDIA GeForce RTX 3050 Laptop
+            - text: 4GB VRAM
+          - generic [ref=f8e363]:
+            - generic [ref=f8e364]: CPU
+            - strong [ref=f8e365]: 12-Core Processor
+            - text: Parallel preprocessing
+          - generic [ref=f8e366]:
+            - generic [ref=f8e367]: OS
+            - strong [ref=f8e368]: Windows 11
+            - text: Development environment
+          - generic [ref=f8e369]:
+            - generic [ref=f8e370]: Storage
+            - strong [ref=f8e371]: ~100GB
+            - text: Dataset and checkpoints
+      - generic [ref=f8e377]:
+        - heading [level=2] [ref=f8e379]:
+          - generic [ref=f8e380]:
+            - text: AI assists.Experts
+            - emphasis [ref=f8e381]: decide.
+          - generic [ref=f8e382]:
+            - link "Link to heading":
+              - /url: "#ai-assists-experts-decide"
+        - paragraph [ref=f8e383]: OncoSense is an educational research prototype. Its model output should not be interpreted as a medical diagnosis or used as a replacement for professional medical advice.
+        - generic [ref=f8e384]:
+          - generic [ref=f8e385]: Educational Research Demo
+          - generic [ref=f8e386]: Not For Clinical Use
+      - generic [ref=f8e391]:
+        - generic [ref=f8e392]:
+          - generic [ref=f8e393]: Explorations
+          - heading [level=2] [ref=f8e397]:
+            - generic [ref=f8e398]:
+              - text: The intersection ofmedicine &
+              - emphasis [ref=f8e399]: AI.
+            - generic [ref=f8e400]:
+              - link "Link to heading":
+                - /url: "#the-intersection-ofmedicine-and-ai"
+        - generic [ref=f8e401]:
+          - generic [ref=f8e402]:
+            - img "Medical Imaging -- sample mammogram from this project's Grad-CAM output" [ref=f8e403]
+            - generic [ref=f8e404]: Medical Imaging
+          - generic [ref=f8e405]:
+            - img "Computer Vision -- sample mammogram from this project's Grad-CAM output" [ref=f8e406]
+            - generic [ref=f8e407]: Computer Vision
+          - generic [ref=f8e408]:
+            - img "Deep Learning -- sample mammogram from this project's Grad-CAM output" [ref=f8e409]
+            - generic [ref=f8e410]: Deep Learning
+          - generic [ref=f8e411]:
+            - img "AI Research -- sample mammogram from this project's Grad-CAM output" [ref=f8e412]
+            - generic [ref=f8e413]: AI Research
+          - generic [ref=f8e414]:
+            - img "Mammogram Analysis -- sample mammogram from this project's Grad-CAM output" [ref=f8e415]
+            - generic [ref=f8e416]: Mammogram Analysis
+          - generic [ref=f8e417]:
+            - img "Healthcare Technology -- sample mammogram from this project's Grad-CAM output" [ref=f8e418]
+            - generic [ref=f8e419]: Healthcare Technology
+      - generic [ref=f8e424]:
+        - generic [ref=f8e425]:
+          - generic [ref=f8e426]: Research Roadmap
+          - heading [level=2] [ref=f8e430]:
+            - generic [ref=f8e431]:
+              - text: What's
+              - emphasis [ref=f8e432]: next?
+            - generic [ref=f8e433]:
+              - link "Link to heading":
+                - /url: "#whats-next"
+        - generic [ref=f8e434]:
+          - generic [ref=f8e435]:
+            - generic [ref=f8e436]: "01"
+            - generic [ref=f8e437]:
+              - strong [ref=f8e438]: Improve model performance
+              - paragraph [ref=f8e439]: Explore architecture and training refinements to raise test accuracy and ROC-AUC.
+          - generic [ref=f8e440]:
+            - generic [ref=f8e441]: "02"
+            - generic [ref=f8e442]:
+              - strong [ref=f8e443]: Expand dataset diversity
+              - paragraph [ref=f8e444]: Incorporate additional mammography sources beyond CBIS-DDSM.
+          - generic [ref=f8e445]:
+            - generic [ref=f8e446]: "03"
+            - generic [ref=f8e447]:
+              - strong [ref=f8e448]: Add explainable AI
+              - paragraph [ref=f8e449]: Extend beyond Grad-CAM with additional interpretability techniques.
+          - generic [ref=f8e450]:
+            - generic [ref=f8e451]: "04"
+            - generic [ref=f8e452]:
+              - strong [ref=f8e453]: Improve preprocessing
+              - paragraph [ref=f8e454]: Refine DICOM windowing and breast-region cropping.
+          - generic [ref=f8e455]:
+            - generic [ref=f8e456]: "05"
+            - generic [ref=f8e457]:
+              - strong [ref=f8e458]: Evaluate additional architectures
+              - paragraph [ref=f8e459]: Compare ResNet18 against EfficientNet and other backbones already supported in this codebase.
+          - generic [ref=f8e460]:
+            - generic [ref=f8e461]: "06"
+            - generic [ref=f8e462]:
+              - strong [ref=f8e463]: Clinical validation and expert review
+              - paragraph [ref=f8e464]: Pursue review by radiologists before any real-world consideration -- not yet performed.
+      - generic [ref=f8e472]:
+        - heading [level=2] [ref=f8e474]:
+          - generic [ref=f8e475]:
+            - text: Explore the futureof medical
+            - emphasis [ref=f8e476]: AI.
+          - generic [ref=f8e477]:
+            - link "Link to heading":
+              - /url: "#explore-the-futureof-medical-ai"
+        - paragraph [ref=f8e478]: Discover the technology and research behind OncoSense.
+        - generic [ref=f8e479]:
+          - link "Start Screening →" [ref=f8e480] [cursor=pointer]:
+            - /url: "#upload-section"
+          - link "Explore Technology" [ref=f8e481] [cursor=pointer]:
+            - /url: "#technology"

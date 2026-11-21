@@ -1,0 +1,332 @@
+- generic [active] [ref=f9e1]:
+  - generic [ref=f9e3]:
+    - navigation [ref=f9e6]:
+      - link [ref=f9e8] [cursor=pointer]:
+        - /url: /
+      - search [ref=f9e13]:
+        - generic [ref=f9e14]:
+          - button "Photos" [ref=f9e16] [cursor=pointer]
+          - searchbox "Search for free photos" [ref=f9e24]
+          - button [ref=f9e26] [cursor=pointer]
+      - generic [ref=f9e30]:
+        - link "Explore" [ref=f9e32] [cursor=pointer]:
+          - /url: /discover/
+        - link "License" [ref=f9e36] [cursor=pointer]:
+          - /url: /license/
+        - button [ref=f9e39] [cursor=pointer]
+        - button "Join" [ref=f9e42] [cursor=pointer]
+    - main [ref=f9e45]:
+      - separator [ref=f9e46]
+      - generic [ref=f9e47]:
+        - main [ref=f9e48]:
+          - separator [ref=f9e49]
+          - generic [ref=f9e50]:
+            - generic [ref=f9e51]:
+              - link [ref=f9e52] [cursor=pointer]:
+                - /url: /@michelle-leman/
+                - img "Michelle Leman" [ref=f9e56]
+              - generic [ref=f9e57]:
+                - link [ref=f9e58] [cursor=pointer]:
+                  - /url: /@michelle-leman/
+                  - heading "Michelle Leman" [level=5] [ref=f9e59]
+                - paragraph [ref=f9e60]:
+                  - text: 711.8M views
+                  - generic [ref=f9e61]: •
+                  - text: 1M downloads
+            - generic [ref=f9e62]:
+              - generic [ref=f9e63]:
+                - link "Add Text" [ref=f9e64] [cursor=pointer]:
+                  - /url: https://www.canva.com/content-partner/?utm_medium=acquisitions&utm_source=pexels&utm_campaign=predownload%20button&utm_content=edit%20in%20canva%20action%3Dadd_text_video&file-url=https%3A%2F%2Fvideos.pexels.com%2Fvideo-files%2F6801295%2F6801295-uhd_1440_2560_25fps.mp4&external-id=6801295&onboarding-flow=add-text-to-photo
+                - link "Convert to GIF" [ref=f9e69] [cursor=pointer]:
+                  - /url: https://www.canva.com/content-partner/?utm_medium=acquisitions&utm_source=pexels&utm_campaign=predownload%20button&utm_content=edit%20in%20canva%20action%3Dconvert_to_gif&file-url=https%3A%2F%2Fvideos.pexels.com%2Fvideo-files%2F6801295%2F6801295-uhd_1440_2560_25fps.mp4&external-id=6801295&onboarding-flow=convert-to-gif
+                - link "Edit" [ref=f9e76] [cursor=pointer]:
+                  - /url: https://www.canva.com/content-partner/?utm_medium=acquisitions&utm_source=pexels&utm_campaign=predownload%20button&utm_content=edit%20in%20canva&file-url=https%3A%2F%2Fvideos.pexels.com%2Fvideo-files%2F6801295%2F6801295-uhd_1440_2560_25fps.mp4&external-id=6801295
+              - generic [ref=f9e83]:
+                - button [ref=f9e84] [cursor=pointer]
+                - button "19" [ref=f9e88] [cursor=pointer]
+                - generic [ref=f9e93]:
+                  - link "Free download" [ref=f9e94] [cursor=pointer]:
+                    - /url: https://www.pexels.com/download/video/6801295/
+                  - button [ref=f9e98] [cursor=pointer]
+          - separator [ref=f9e103]
+        - generic [ref=f9e104]:
+          - region "video player" [ref=f9e113]:
+            - generic:
+              - button "pause" [ref=f9e117] [cursor=pointer]
+              - generic:
+                - generic [ref=f9e126] [cursor=pointer]:
+                  - slider "seek" [ref=f9e132]: "0.084579375"
+                  - generic: en 0:00
+                - button "enter fullscreen mode" [ref=f9e135] [cursor=pointer]:
+                  - generic [ref=f9e142]:
+                    - generic [aria-hidden]:
+                      - generic: Enter fullscreen mode
+          - generic [ref=f9e144]:
+            - link [ref=f9e145] [cursor=pointer]:
+              - /url: /@michelle-leman/
+              - img "Michelle Leman" [ref=f9e149]
+              - heading "Michelle Leman" [level=5] [ref=f9e151]
+            - button "Follow" [ref=f9e154] [cursor=pointer]
+          - generic [ref=f9e160]:
+            - generic [ref=f9e162]:
+              - generic [ref=f9e164]:
+                - paragraph [ref=f9e165]: License
+                - link [ref=f9e166] [cursor=pointer]:
+                  - /url: /license/
+                  - paragraph [ref=f9e167]: Free
+              - generic [ref=f9e170]:
+                - paragraph [ref=f9e171]: Dimensions
+                - paragraph [ref=f9e172]: 2160x3840
+              - generic [ref=f9e173]:
+                - paragraph [ref=f9e174]: Aspect Ratio
+                - paragraph [ref=f9e175]: 9:16
+              - generic [ref=f9e176]:
+                - paragraph [ref=f9e177]: Duration
+                - paragraph [ref=f9e178]: 30:05
+              - generic [ref=f9e179]:
+                - paragraph [ref=f9e180]: Date
+                - paragraph [ref=f9e181]: Feb 12, 2021
+              - generic [ref=f9e182]:
+                - paragraph [ref=f9e183]: Downloads
+                - paragraph [ref=f9e184]: 3.7K
+              - generic [ref=f9e185]:
+                - paragraph [ref=f9e186]: Views
+                - paragraph [ref=f9e187]: 861.3K
+              - generic [ref=f9e188]:
+                - paragraph [ref=f9e189]: Likes
+                - paragraph [ref=f9e190]: "19"
+            - generic [ref=f9e193]:
+              - button "More info" [ref=f9e194] [cursor=pointer]
+              - button "Share" [ref=f9e198] [cursor=pointer]
+              - link "Report media" [ref=f9e202] [cursor=pointer]:
+                - /url: /report/?slug=a-person-holding-a-pink-ribbon-6801295
+          - generic [ref=f9e206]:
+            - paragraph [ref=f9e207]: Description
+            - heading "Close-up of hands holding pink ribbon, symbolizing breast cancer awareness." [level=1] [ref=f9e208]
+          - separator [ref=f9e209]
+          - heading "More like this" [level=3] [ref=f9e210]
+          - generic [ref=f9e212]:
+            - link "Breast Cancer" [ref=f9e214] [cursor=pointer]:
+              - /url: /search/videos/breast%20cancer/
+            - link "Cancer" [ref=f9e217] [cursor=pointer]:
+              - /url: /search/videos/cancer/
+            - link "Breast" [ref=f9e220] [cursor=pointer]:
+              - /url: /search/videos/breast/
+            - link "Breast Cancer Awareness" [ref=f9e223] [cursor=pointer]:
+              - /url: /search/videos/breast%20cancer%20awareness/
+            - link "Cancer Patient" [ref=f9e226] [cursor=pointer]:
+              - /url: /search/videos/cancer%20patient/
+            - link "Mammogram" [ref=f9e229] [cursor=pointer]:
+              - /url: /search/videos/mammogram/
+            - link "Women Health" [ref=f9e232] [cursor=pointer]:
+              - /url: /search/videos/women%20health/
+            - link "Gynecology" [ref=f9e235] [cursor=pointer]:
+              - /url: /search/videos/gynecology/
+            - link "Ribbon" [ref=f9e238] [cursor=pointer]:
+              - /url: /search/videos/ribbon/
+            - link "Hiv" [ref=f9e241] [cursor=pointer]:
+              - /url: /search/videos/hiv/
+            - link "Period Pain" [ref=f9e244] [cursor=pointer]:
+              - /url: /search/videos/period%20pain/
+            - link "Belly" [ref=f9e247] [cursor=pointer]:
+              - /url: /search/videos/belly/
+            - link "Gynecologist" [ref=f9e250] [cursor=pointer]:
+              - /url: /search/videos/gynecologist/
+            - link "Health Awareness" [ref=f9e253] [cursor=pointer]:
+              - /url: /search/videos/health%20awareness/
+            - link "Women's Health" [ref=f9e256] [cursor=pointer]:
+              - /url: /search/videos/women's%20health/
+            - img [ref=f9e259] [cursor=pointer]
+          - generic [ref=f9e262]:
+            - generic [ref=f9e264]:
+              - generic [ref=f9e265]:
+                - article [ref=f9e269]:
+                  - link [ref=f9e270] [cursor=pointer]:
+                    - /url: /video/a-person-holding-a-pink-ribbon-6808546/
+                  - button "Play video preview" [ref=f9e275] [cursor=pointer]
+                - article [ref=f9e283]:
+                  - link [ref=f9e284] [cursor=pointer]:
+                    - /url: /video/close-up-view-of-a-person-holding-a-light-pink-ribbon-6801297/
+                  - button "Play video preview" [ref=f9e289] [cursor=pointer]
+                - article [ref=f9e297]:
+                  - link [ref=f9e298] [cursor=pointer]:
+                    - /url: /video/blue-ribbon-as-symbol-for-world-diabetes-dayc-6824225/
+                  - button "Play video preview" [ref=f9e303] [cursor=pointer]
+                - article [ref=f9e311]:
+                  - link [ref=f9e312] [cursor=pointer]:
+                    - /url: /video/a-woman-holding-a-red-ribbon-8399315/
+                  - button "Play video preview" [ref=f9e317] [cursor=pointer]
+              - generic [ref=f9e322]:
+                - article [ref=f9e326]:
+                  - link [ref=f9e327] [cursor=pointer]:
+                    - /url: /video/a-person-holding-a-ribbon-6801289/
+                  - button "Play video preview" [ref=f9e332] [cursor=pointer]
+                - article [ref=f9e340]:
+                  - link [ref=f9e341] [cursor=pointer]:
+                    - /url: /video/close-up-view-of-light-pink-ribbon-pinned-on-a-person-s-clothing-6801310/
+                  - button "Play video preview" [ref=f9e346] [cursor=pointer]
+                - article [ref=f9e354]:
+                  - link [ref=f9e355] [cursor=pointer]:
+                    - /url: /video/women-showing-care-for-each-other-7658925/
+                  - button "Play video preview" [ref=f9e360] [cursor=pointer]
+              - generic [ref=f9e365]:
+                - generic [ref=f9e367]:
+                  - generic [ref=f9e369]:
+                    - link "Create your own video content with Canva" [ref=f9e370] [cursor=pointer]:
+                      - /url: https://www.canva.com/features/ai-video-generator/?utm_source=pexels&utm_campaign=aigc_pexelscampaign&utm_medium=partner
+                    - link "Create your own video content with Canva" [ref=f9e372] [cursor=pointer]:
+                      - /url: https://www.canva.com/features/ai-video-generator/?utm_source=pexels&utm_campaign=aigc_pexelscampaign&utm_medium=partner
+                    - link "Create your own video content with Canva" [ref=f9e374] [cursor=pointer]:
+                      - /url: https://www.canva.com/features/ai-video-generator/?utm_source=pexels&utm_campaign=aigc_pexelscampaign&utm_medium=partner
+                    - link "Create your own video content with Canva" [ref=f9e376] [cursor=pointer]:
+                      - /url: https://www.canva.com/features/ai-video-generator/?utm_source=pexels&utm_campaign=aigc_pexelscampaign&utm_medium=partner
+                  - link [ref=f9e378] [cursor=pointer]:
+                    - /url: https://www.canva.com/features/ai-video-generator/?utm_source=pexels&utm_campaign=aigc_pexelscampaign&utm_medium=partner
+                    - paragraph [ref=f9e381]: Bring your ideas to life with Canva AI
+                  - link "Get started for free" [ref=f9e382] [cursor=pointer]:
+                    - /url: https://www.canva.com/features/ai-video-generator/?utm_source=pexels&utm_campaign=aigc_pexelscampaign&utm_medium=partner
+                - article [ref=f9e388]:
+                  - link [ref=f9e389] [cursor=pointer]:
+                    - /url: /video/a-person-holding-a-pink-ribbon-6801287/
+                  - button "Play video preview" [ref=f9e394] [cursor=pointer]
+                - article [ref=f9e402]:
+                  - link [ref=f9e403] [cursor=pointer]:
+                    - /url: /video/nurse-holding-pink-ribbon-7659135/
+                  - button "Play video preview" [ref=f9e408] [cursor=pointer]
+              - generic [ref=f9e413]:
+                - article [ref=f9e417]:
+                  - link [ref=f9e418] [cursor=pointer]:
+                    - /url: /video/close-up-view-of-a-person-holding-pink-ribbons-6801298/
+                  - button "Play video preview" [ref=f9e423] [cursor=pointer]
+                - article [ref=f9e431]:
+                  - link [ref=f9e432] [cursor=pointer]:
+                    - /url: /video/woman-with-a-pink-ribbon-6808111/
+                  - button "Play video preview" [ref=f9e437] [cursor=pointer]
+                - article [ref=f9e445]:
+                  - link [ref=f9e446] [cursor=pointer]:
+                    - /url: /video/women-clapping-for-a-cancer-survivor-patient-7659139/
+                  - button "Play video preview" [ref=f9e451] [cursor=pointer]
+            - button "Load More" [ref=f9e457] [cursor=pointer]
+      - separator [ref=f9e460]
+    - contentinfo [ref=f9e461]:
+      - separator [ref=f9e462]
+      - generic [ref=f9e463]:
+        - generic [ref=f9e464]:
+          - heading "Where stories come together." [level=2] [ref=f9e465]
+          - generic [ref=f9e466]:
+            - link "Download on iOS" [ref=f9e467] [cursor=pointer]:
+              - /url: https://itunes.apple.com/us/app/pexels/id1434330413/
+            - link "Download on Android" [ref=f9e470] [cursor=pointer]:
+              - /url: https://play.google.com/store/apps/details?id=com.pexels.app
+          - list [ref=f9e473]:
+            - listitem [ref=f9e474]:
+              - link "Instagram" [ref=f9e475] [cursor=pointer]:
+                - /url: https://www.instagram.com/pexels/
+            - listitem [ref=f9e478]:
+              - link "Threads" [ref=f9e479] [cursor=pointer]:
+                - /url: https://www.threads.net/@pexels/
+            - listitem [ref=f9e482]:
+              - link "YouTube" [ref=f9e483] [cursor=pointer]:
+                - /url: https://www.youtube.com/pexelsphotos/
+            - listitem [ref=f9e486]:
+              - link "TikTok" [ref=f9e487] [cursor=pointer]:
+                - /url: https://www.tiktok.com/@pexels/
+            - listitem [ref=f9e490]:
+              - link "LinkedIn" [ref=f9e491] [cursor=pointer]:
+                - /url: https://www.linkedin.com/company/pexels/
+            - listitem [ref=f9e494]:
+              - link "X" [ref=f9e495] [cursor=pointer]:
+                - /url: https://x.com/pexels/
+        - generic [ref=f9e498]:
+          - list [ref=f9e499]:
+            - heading "Pexels" [level=3] [ref=f9e500]
+            - listitem [ref=f9e501]:
+              - link "Free Stock Photos" [ref=f9e502] [cursor=pointer]:
+                - /url: /
+            - listitem [ref=f9e503]:
+              - link "Free Videos" [ref=f9e504] [cursor=pointer]:
+                - /url: /videos/
+            - listitem [ref=f9e505]:
+              - link "Popular searches" [ref=f9e506] [cursor=pointer]:
+                - /url: /popular-searches/
+            - listitem [ref=f9e507]:
+              - link "Collections" [ref=f9e508] [cursor=pointer]:
+                - /url: /discover/
+            - listitem [ref=f9e509]:
+              - link "Challenges" [ref=f9e510] [cursor=pointer]:
+                - /url: /challenges/
+            - listitem [ref=f9e511]:
+              - link "Leaderboard" [ref=f9e512] [cursor=pointer]:
+                - /url: /leaderboard/
+            - listitem [ref=f9e513]:
+              - link "Other plugins & apps" [ref=f9e514] [cursor=pointer]:
+                - /url: /pro/
+          - list [ref=f9e515]:
+            - heading "Company" [level=3] [ref=f9e516]
+            - listitem [ref=f9e517]:
+              - link "About" [ref=f9e518] [cursor=pointer]:
+                - /url: /about/
+            - listitem [ref=f9e519]:
+              - link "Blog" [ref=f9e520] [cursor=pointer]:
+                - /url: /blog/
+            - listitem [ref=f9e521]:
+              - link "Help Center" [ref=f9e522] [cursor=pointer]:
+                - /url: https://help.pexels.com/hc/en-us
+            - listitem [ref=f9e523]:
+              - link "Report content" [ref=f9e524] [cursor=pointer]:
+                - /url: /report/
+            - listitem [ref=f9e525]:
+              - link "Become a Hero" [ref=f9e526] [cursor=pointer]:
+                - /url: /hero/
+            - listitem [ref=f9e527]:
+              - link "Partner with Pexels" [ref=f9e528] [cursor=pointer]:
+                - /url: /become-a-partner/
+            - listitem [ref=f9e529]:
+              - link "Image & Video API" [ref=f9e530] [cursor=pointer]:
+                - /url: /api/
+            - listitem [ref=f9e531]: Sign Up
+        - list [ref=f9e532]:
+          - listitem [ref=f9e533]:
+            - heading "Free Stock Photos" [level=3] [ref=f9e534]
+          - listitem [ref=f9e535]:
+            - generic [ref=f9e537]:
+              - link "4K wallpaper" [ref=f9e539] [cursor=pointer]:
+                - /url: /search/4k%20wallpaper/
+              - link "Nature photos" [ref=f9e540] [cursor=pointer]:
+                - /url: /search/nature/
+              - link "Desktop wallpaper" [ref=f9e541] [cursor=pointer]:
+                - /url: /search/desktop%20wallpaper/
+              - link "Flower photos" [ref=f9e542] [cursor=pointer]:
+                - /url: /search/flowers/
+              - link "HD wallpaper" [ref=f9e543] [cursor=pointer]:
+                - /url: /search/hd%20wallpaper/
+              - link "Mobile wallpaper" [ref=f9e544] [cursor=pointer]:
+                - /url: /search/mobile%20wallpaper/
+              - link "Dark photos" [ref=f9e545] [cursor=pointer]:
+                - /url: /search/dark/
+              - link "Black and white photography" [ref=f9e546] [cursor=pointer]:
+                - /url: /search/black%20and%20white/
+              - link "Black background" [ref=f9e547] [cursor=pointer]:
+                - /url: /search/black%20background/
+              - link "Sunset photos" [ref=f9e548] [cursor=pointer]:
+                - /url: /search/sunset/
+              - link "Landscape photos" [ref=f9e549] [cursor=pointer]:
+                - /url: /search/landscape/
+              - link "Cat photos" [ref=f9e550] [cursor=pointer]:
+                - /url: /search/cat/
+      - generic [ref=f9e552]:
+        - generic [ref=f9e553]: © 2026 Pexels
+        - generic [ref=f9e555]:
+          - link "Terms of Use" [ref=f9e557] [cursor=pointer]:
+            - /url: /terms-of-service/
+          - link "Privacy Policy" [ref=f9e558] [cursor=pointer]:
+            - /url: /privacy-policy/
+          - link "License" [ref=f9e559] [cursor=pointer]:
+            - /url: /license/
+          - link "Imprint" [ref=f9e560] [cursor=pointer]:
+            - /url: /imprint/
+          - link "Cookies Policy" [ref=f9e561] [cursor=pointer]:
+            - /url: /cookies/
+        - button "English" [ref=f9e564] [cursor=pointer]
+      - separator [ref=f9e569]
+  - alert [ref=f9e570]

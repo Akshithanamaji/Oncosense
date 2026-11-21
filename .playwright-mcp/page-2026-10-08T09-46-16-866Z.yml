@@ -1,0 +1,312 @@
+- generic [active] [ref=f21e1]:
+  - generic [ref=f21e3]:
+    - navigation [ref=f21e6]:
+      - link [ref=f21e8] [cursor=pointer]:
+        - /url: /
+      - search [ref=f21e13]:
+        - generic [ref=f21e14]:
+          - button "Photos" [ref=f21e16] [cursor=pointer]
+          - searchbox "Search for free photos" [ref=f21e24]
+          - button [ref=f21e26] [cursor=pointer]
+      - generic [ref=f21e30]:
+        - link "Explore" [ref=f21e32] [cursor=pointer]:
+          - /url: /discover/
+        - link "License" [ref=f21e36] [cursor=pointer]:
+          - /url: /license/
+        - button [ref=f21e39] [cursor=pointer]
+        - button "Join" [ref=f21e42] [cursor=pointer]
+    - main [ref=f21e45]:
+      - separator [ref=f21e46]
+      - generic [ref=f21e47]:
+        - main [ref=f21e48]:
+          - separator [ref=f21e49]
+          - generic [ref=f21e50]:
+            - generic [ref=f21e51]:
+              - link "Nicola Narracci 1" [ref=f21e52] [cursor=pointer]:
+                - /url: /@nicola-narracci-157460431/
+                - generic [ref=f21e55]:
+                  - img "Nicola Narracci" [ref=f21e56]
+                  - generic [ref=f21e57]: "1"
+              - generic [ref=f21e63]:
+                - link [ref=f21e64] [cursor=pointer]:
+                  - /url: /@nicola-narracci-157460431/
+                  - heading "Nicola Narracci" [level=5] [ref=f21e65]
+                - paragraph [ref=f21e66]:
+                  - text: 685.8M views
+                  - generic [ref=f21e67]: •
+                  - text: 2.8M downloads
+            - generic [ref=f21e68]:
+              - generic [ref=f21e69]:
+                - link "Add Text" [ref=f21e70] [cursor=pointer]:
+                  - /url: https://www.canva.com/content-partner/?utm_medium=acquisitions&utm_source=pexels&utm_campaign=predownload%20button&utm_content=edit%20in%20canva%20action%3Dadd_text_video&file-url=https%3A%2F%2Fvideos.pexels.com%2Fvideo-files%2F34235050%2F14508869_1920_1080_30fps.mp4&external-id=34235050&onboarding-flow=add-text-to-photo
+                - link "Convert to GIF" [ref=f21e75] [cursor=pointer]:
+                  - /url: https://www.canva.com/content-partner/?utm_medium=acquisitions&utm_source=pexels&utm_campaign=predownload%20button&utm_content=edit%20in%20canva%20action%3Dconvert_to_gif&file-url=https%3A%2F%2Fvideos.pexels.com%2Fvideo-files%2F34235050%2F14508869_1920_1080_30fps.mp4&external-id=34235050&onboarding-flow=convert-to-gif
+                - link "Edit" [ref=f21e82] [cursor=pointer]:
+                  - /url: https://www.canva.com/content-partner/?utm_medium=acquisitions&utm_source=pexels&utm_campaign=predownload%20button&utm_content=edit%20in%20canva&file-url=https%3A%2F%2Fvideos.pexels.com%2Fvideo-files%2F34235050%2F14508869_1920_1080_30fps.mp4&external-id=34235050
+              - generic [ref=f21e89]:
+                - button [ref=f21e90] [cursor=pointer]
+                - button "20" [ref=f21e94] [cursor=pointer]
+                - generic [ref=f21e99]:
+                  - link "Free download" [ref=f21e100] [cursor=pointer]:
+                    - /url: https://www.pexels.com/download/video/34235050/
+                  - button [ref=f21e104] [cursor=pointer]
+          - separator [ref=f21e109]
+        - generic [ref=f21e110]:
+          - generic [ref=f21e120]:
+            - link "Nicola Narracci 1 Nicola Narracci Microdonations fuel the art that inspires us all. Support the hands that paint your days with colors." [ref=f21e121] [cursor=pointer]:
+              - /url: /@nicola-narracci-157460431/
+              - generic [ref=f21e124]:
+                - img "Nicola Narracci" [ref=f21e125]
+                - generic [ref=f21e126]: "1"
+              - generic [ref=f21e132]:
+                - heading "Nicola Narracci" [level=5] [ref=f21e133]
+                - paragraph [ref=f21e135]:
+                  - generic [ref=f21e136]: Microdonations fuel the art that inspires us all. Support the hands that paint your days with colors.
+            - generic [ref=f21e137]:
+              - button "Follow" [ref=f21e138] [cursor=pointer]
+              - link "Donate" [ref=f21e143] [cursor=pointer]:
+                - /url: https://www.paypal.com/cgi-bin/webscr?business=nicola.narracci%40gmail.com&cmd=_donations&currency_code=USD&item_name=Nicola+Narracci+-+Pexels&lc=US&return=https://pexels.com/video/dynamic-pink-wave-abstract-animation-34235050/
+          - generic [ref=f21e147]:
+            - generic [ref=f21e149]:
+              - generic [ref=f21e151]:
+                - paragraph [ref=f21e152]: License
+                - link [ref=f21e153] [cursor=pointer]:
+                  - /url: /license/
+                  - paragraph [ref=f21e154]: Free
+              - generic [ref=f21e157]:
+                - paragraph [ref=f21e158]: Dimensions
+                - paragraph [ref=f21e159]: 1920x1080
+              - generic [ref=f21e160]:
+                - paragraph [ref=f21e161]: Aspect Ratio
+                - paragraph [ref=f21e162]: 16:9
+              - generic [ref=f21e163]:
+                - paragraph [ref=f21e164]: Duration
+                - paragraph [ref=f21e165]: 30:10
+              - generic [ref=f21e166]:
+                - paragraph [ref=f21e167]: Date
+                - paragraph [ref=f21e168]: Oct 9, 2025
+              - generic [ref=f21e169]:
+                - paragraph [ref=f21e170]: Downloads
+                - paragraph [ref=f21e171]: "912"
+              - generic [ref=f21e172]:
+                - paragraph [ref=f21e173]: Views
+                - paragraph [ref=f21e174]: 240.1K
+              - generic [ref=f21e175]:
+                - paragraph [ref=f21e176]: Likes
+                - paragraph [ref=f21e177]: "20"
+            - generic [ref=f21e180]:
+              - button "More info" [ref=f21e181] [cursor=pointer]
+              - button "Share" [ref=f21e185] [cursor=pointer]
+              - link "Report media" [ref=f21e189] [cursor=pointer]:
+                - /url: /report/?slug=dynamic-pink-wave-abstract-animation-34235050
+          - generic [ref=f21e193]:
+            - paragraph [ref=f21e194]: Description
+            - heading "Flowing pink wave with bright energy in abstract style, perfect for tech backgrounds." [level=1] [ref=f21e195]
+          - separator [ref=f21e196]
+          - heading "More like this" [level=3] [ref=f21e197]
+          - generic [ref=f21e199]:
+            - link "Abstract Animation" [ref=f21e201] [cursor=pointer]:
+              - /url: /search/videos/abstract%20animation/
+            - link "Motion Backgrounds" [ref=f21e204] [cursor=pointer]:
+              - /url: /search/videos/motion%20backgrounds/
+            - link "Particles" [ref=f21e207] [cursor=pointer]:
+              - /url: /search/videos/particles/
+            - link "Abstract Loop" [ref=f21e210] [cursor=pointer]:
+              - /url: /search/videos/abstract%20loop/
+            - link "Red Abstract" [ref=f21e213] [cursor=pointer]:
+              - /url: /search/videos/red%20abstract/
+            - link "Motion Background" [ref=f21e216] [cursor=pointer]:
+              - /url: /search/videos/motion%20background/
+            - link "Background Animation" [ref=f21e219] [cursor=pointer]:
+              - /url: /search/videos/background%20animation/
+            - link "Mac Wallpaper Pink" [ref=f21e222] [cursor=pointer]:
+              - /url: /search/videos/mac%20wallpaper%20pink/
+            - link "Particle" [ref=f21e225] [cursor=pointer]:
+              - /url: /search/videos/particle/
+            - link "Digital Abstract" [ref=f21e228] [cursor=pointer]:
+              - /url: /search/videos/digital%20abstract/
+            - link "Background Videos" [ref=f21e231] [cursor=pointer]:
+              - /url: /search/videos/background%20videos/
+            - link "Animated Backgrounds" [ref=f21e234] [cursor=pointer]:
+              - /url: /search/videos/animated%20backgrounds/
+            - link "Royalty Free Background" [ref=f21e237] [cursor=pointer]:
+              - /url: /search/videos/royalty%20free%20background/
+            - link "Overlay Effect" [ref=f21e240] [cursor=pointer]:
+              - /url: /search/videos/overlay%20effect/
+            - link "Light Overlay" [ref=f21e243] [cursor=pointer]:
+              - /url: /search/videos/light%20overlay/
+            - img [ref=f21e246] [cursor=pointer]
+          - generic [ref=f21e249]:
+            - generic [ref=f21e252]:
+              - article [ref=f21e256]:
+                - link [ref=f21e257] [cursor=pointer]:
+                  - /url: /video/vibrant-pink-abstract-light-waves-33257613/
+                - button "Play video preview" [ref=f21e262] [cursor=pointer]
+              - article [ref=f21e270]:
+                - link [ref=f21e271] [cursor=pointer]:
+                  - /url: /video/abstract-blue-flowing-waves-animation-34163494/
+                - button "Play video preview" [ref=f21e276] [cursor=pointer]
+              - article [ref=f21e284]:
+                - link [ref=f21e285] [cursor=pointer]:
+                  - /url: /video/vibrant-pink-waves-in-dynamic-motion-39538258/
+                - button "Play video preview" [ref=f21e290] [cursor=pointer]
+              - article [ref=f21e298]:
+                - link [ref=f21e299] [cursor=pointer]:
+                  - /url: /video/abstract-digital-wave-with-floating-particles-34190144/
+                - button "Play video preview" [ref=f21e304] [cursor=pointer]
+              - article [ref=f21e312]:
+                - link [ref=f21e313] [cursor=pointer]:
+                  - /url: /video/abstract-waves-of-red-light-in-motion-34396621/
+                - button "Play video preview" [ref=f21e318] [cursor=pointer]
+              - article [ref=f21e326]:
+                - link [ref=f21e327] [cursor=pointer]:
+                  - /url: /video/vibrant-abstract-wavy-lines-animation-39542078/
+                - button "Play video preview" [ref=f21e332] [cursor=pointer]
+              - article [ref=f21e340]:
+                - link [ref=f21e341] [cursor=pointer]:
+                  - /url: /video/abstract-purple-wave-motion-background-34396899/
+                - button "Play video preview" [ref=f21e346] [cursor=pointer]
+              - article [ref=f21e354]:
+                - link [ref=f21e355] [cursor=pointer]:
+                  - /url: /video/vibrant-abstract-light-streaks-animation-39931520/
+                - button "Play video preview" [ref=f21e360] [cursor=pointer]
+              - article [ref=f21e368]:
+                - link [ref=f21e369] [cursor=pointer]:
+                  - /url: /video/vibrant-digital-waves-in-abstract-motion-34398001/
+                - button "Play video preview" [ref=f21e374] [cursor=pointer]
+              - article [ref=f21e382]:
+                - link [ref=f21e383] [cursor=pointer]:
+                  - /url: /video/vibrant-red-and-orange-light-waves-animation-39540779/
+                - button "Play video preview" [ref=f21e388] [cursor=pointer]
+              - article [ref=f21e396]:
+                - link [ref=f21e397] [cursor=pointer]:
+                  - /url: /video/hypnotic-pink-light-swirls-on-black-background-34332057/
+                - button "Play video preview" [ref=f21e402] [cursor=pointer]
+              - article [ref=f21e410]:
+                - link [ref=f21e411] [cursor=pointer]:
+                  - /url: /video/neon-pink-light-trails-movement-in-dark-space-39932150/
+                - button "Play video preview" [ref=f21e416] [cursor=pointer]
+            - button "Load More" [ref=f21e422] [cursor=pointer]
+      - separator [ref=f21e425]
+    - contentinfo [ref=f21e426]:
+      - separator [ref=f21e427]
+      - generic [ref=f21e428]:
+        - generic [ref=f21e429]:
+          - heading "Where stories come together." [level=2] [ref=f21e430]
+          - generic [ref=f21e431]:
+            - link "Download on iOS" [ref=f21e432] [cursor=pointer]:
+              - /url: https://itunes.apple.com/us/app/pexels/id1434330413/
+            - link "Download on Android" [ref=f21e435] [cursor=pointer]:
+              - /url: https://play.google.com/store/apps/details?id=com.pexels.app
+          - list [ref=f21e438]:
+            - listitem [ref=f21e439]:
+              - link "Instagram" [ref=f21e440] [cursor=pointer]:
+                - /url: https://www.instagram.com/pexels/
+            - listitem [ref=f21e443]:
+              - link "Threads" [ref=f21e444] [cursor=pointer]:
+                - /url: https://www.threads.net/@pexels/
+            - listitem [ref=f21e447]:
+              - link "YouTube" [ref=f21e448] [cursor=pointer]:
+                - /url: https://www.youtube.com/pexelsphotos/
+            - listitem [ref=f21e451]:
+              - link "TikTok" [ref=f21e452] [cursor=pointer]:
+                - /url: https://www.tiktok.com/@pexels/
+            - listitem [ref=f21e455]:
+              - link "LinkedIn" [ref=f21e456] [cursor=pointer]:
+                - /url: https://www.linkedin.com/company/pexels/
+            - listitem [ref=f21e459]:
+              - link "X" [ref=f21e460] [cursor=pointer]:
+                - /url: https://x.com/pexels/
+        - generic [ref=f21e463]:
+          - list [ref=f21e464]:
+            - heading "Pexels" [level=3] [ref=f21e465]
+            - listitem [ref=f21e466]:
+              - link "Free Stock Photos" [ref=f21e467] [cursor=pointer]:
+                - /url: /
+            - listitem [ref=f21e468]:
+              - link "Free Videos" [ref=f21e469] [cursor=pointer]:
+                - /url: /videos/
+            - listitem [ref=f21e470]:
+              - link "Popular searches" [ref=f21e471] [cursor=pointer]:
+                - /url: /popular-searches/
+            - listitem [ref=f21e472]:
+              - link "Collections" [ref=f21e473] [cursor=pointer]:
+                - /url: /discover/
+            - listitem [ref=f21e474]:
+              - link "Challenges" [ref=f21e475] [cursor=pointer]:
+                - /url: /challenges/
+            - listitem [ref=f21e476]:
+              - link "Leaderboard" [ref=f21e477] [cursor=pointer]:
+                - /url: /leaderboard/
+            - listitem [ref=f21e478]:
+              - link "Other plugins & apps" [ref=f21e479] [cursor=pointer]:
+                - /url: /pro/
+          - list [ref=f21e480]:
+            - heading "Company" [level=3] [ref=f21e481]
+            - listitem [ref=f21e482]:
+              - link "About" [ref=f21e483] [cursor=pointer]:
+                - /url: /about/
+            - listitem [ref=f21e484]:
+              - link "Blog" [ref=f21e485] [cursor=pointer]:
+                - /url: /blog/
+            - listitem [ref=f21e486]:
+              - link "Help Center" [ref=f21e487] [cursor=pointer]:
+                - /url: https://help.pexels.com/hc/en-us
+            - listitem [ref=f21e488]:
+              - link "Report content" [ref=f21e489] [cursor=pointer]:
+                - /url: /report/
+            - listitem [ref=f21e490]:
+              - link "Become a Hero" [ref=f21e491] [cursor=pointer]:
+                - /url: /hero/
+            - listitem [ref=f21e492]:
+              - link "Partner with Pexels" [ref=f21e493] [cursor=pointer]:
+                - /url: /become-a-partner/
+            - listitem [ref=f21e494]:
+              - link "Image & Video API" [ref=f21e495] [cursor=pointer]:
+                - /url: /api/
+            - listitem [ref=f21e496]: Sign Up
+        - list [ref=f21e497]:
+          - listitem [ref=f21e498]:
+            - heading "Free Stock Photos" [level=3] [ref=f21e499]
+          - listitem [ref=f21e500]:
+            - generic [ref=f21e502]:
+              - link "4K wallpaper" [ref=f21e504] [cursor=pointer]:
+                - /url: /search/4k%20wallpaper/
+              - link "Nature photos" [ref=f21e505] [cursor=pointer]:
+                - /url: /search/nature/
+              - link "Desktop wallpaper" [ref=f21e506] [cursor=pointer]:
+                - /url: /search/desktop%20wallpaper/
+              - link "Flower photos" [ref=f21e507] [cursor=pointer]:
+                - /url: /search/flowers/
+              - link "HD wallpaper" [ref=f21e508] [cursor=pointer]:
+                - /url: /search/hd%20wallpaper/
+              - link "Mobile wallpaper" [ref=f21e509] [cursor=pointer]:
+                - /url: /search/mobile%20wallpaper/
+              - link "Dark photos" [ref=f21e510] [cursor=pointer]:
+                - /url: /search/dark/
+              - link "Black and white photography" [ref=f21e511] [cursor=pointer]:
+                - /url: /search/black%20and%20white/
+              - link "Black background" [ref=f21e512] [cursor=pointer]:
+                - /url: /search/black%20background/
+              - link "Sunset photos" [ref=f21e513] [cursor=pointer]:
+                - /url: /search/sunset/
+              - link "Landscape photos" [ref=f21e514] [cursor=pointer]:
+                - /url: /search/landscape/
+              - link "Cat photos" [ref=f21e515] [cursor=pointer]:
+                - /url: /search/cat/
+      - generic [ref=f21e517]:
+        - generic [ref=f21e518]: © 2026 Pexels
+        - generic [ref=f21e520]:
+          - link "Terms of Use" [ref=f21e522] [cursor=pointer]:
+            - /url: /terms-of-service/
+          - link "Privacy Policy" [ref=f21e523] [cursor=pointer]:
+            - /url: /privacy-policy/
+          - link "License" [ref=f21e524] [cursor=pointer]:
+            - /url: /license/
+          - link "Imprint" [ref=f21e525] [cursor=pointer]:
+            - /url: /imprint/
+          - link "Cookies Policy" [ref=f21e526] [cursor=pointer]:
+            - /url: /cookies/
+        - button "English" [ref=f21e529] [cursor=pointer]
+      - separator [ref=f21e534]
+  - alert [ref=f21e535]

@@ -1,0 +1,14 @@
+2026-10-09 10:05:49.169 Uvicorn server started on :::8504
+
+  You can now view your Streamlit app in your browser.
+
+  Local URL: http://localhost:8504
+  Network URL: http://172.168.3.214:8504
+  External URL: http://103.248.209.228:8504
+
+2026-10-09 10:06:46.660 Please replace `st.components.v1.html` with `st.iframe`.
+
+`st.components.v1.html` will be removed after 2026-06-01.
+2026-10-09 10:07:24.491 Please replace `st.components.v1.html` with `st.iframe`.
+
+`st.components.v1.html` will be removed after 2026-06-01.

@@ -1,0 +1,456 @@
+- generic [active] [ref=f104e1]:
+  - generic [ref=f104e3]:
+    - navigation [ref=f104e6]:
+      - link [ref=f104e8] [cursor=pointer]:
+        - /url: /
+      - search [ref=f104e13]:
+        - generic [ref=f104e14]:
+          - button "Videos" [ref=f104e16] [cursor=pointer]
+          - searchbox "Search for free videos" [ref=f104e24]: dna genetics
+          - button [ref=f104e26] [cursor=pointer]
+      - generic [ref=f104e30]:
+        - link "Explore" [ref=f104e32] [cursor=pointer]:
+          - /url: /discover/
+        - link "License" [ref=f104e36] [cursor=pointer]:
+          - /url: /license/
+        - button [ref=f104e39] [cursor=pointer]
+        - button "Join" [ref=f104e42] [cursor=pointer]
+    - main [ref=f104e45]:
+      - generic [ref=f104e46]:
+        - generic [ref=f104e50]:
+          - paragraph [ref=f104e52] [cursor=pointer]: Any
+          - paragraph [ref=f104e57] [cursor=pointer]: Horizontal
+          - paragraph [ref=f104e62] [cursor=pointer]: Vertical
+          - paragraph [ref=f104e67] [cursor=pointer]: Square
+        - generic [ref=f104e71]:
+          - paragraph [ref=f104e73] [cursor=pointer]: Any
+          - paragraph [ref=f104e75] [cursor=pointer]: "0"
+          - paragraph [ref=f104e80] [cursor=pointer]: "1"
+          - paragraph [ref=f104e85] [cursor=pointer]: "2"
+          - paragraph [ref=f104e90] [cursor=pointer]: 3+
+        - generic [ref=f104e94]:
+          - paragraph [ref=f104e96] [cursor=pointer]: Any
+          - paragraph [ref=f104e101] [cursor=pointer]: Baby
+          - paragraph [ref=f104e106] [cursor=pointer]: Child
+          - paragraph [ref=f104e111] [cursor=pointer]: Teenager
+          - paragraph [ref=f104e116] [cursor=pointer]: Adult
+          - paragraph [ref=f104e121] [cursor=pointer]: Senior adult
+        - generic [ref=f104e124]:
+          - generic [ref=f104e125]:
+            - generic [ref=f104e126] [cursor=pointer]
+            - slider [ref=f104e128] [cursor=pointer]
+            - slider [ref=f104e129] [cursor=pointer]
+          - generic [ref=f104e130]:
+            - generic [ref=f104e131]:
+              - paragraph [ref=f104e132]: Minimum
+              - paragraph [ref=f104e133]: 5s
+            - generic [ref=f104e134]:
+              - paragraph [ref=f104e135]: Maximum
+              - paragraph [ref=f104e136]: 2m+
+        - generic [ref=f104e140]:
+          - paragraph [ref=f104e142] [cursor=pointer]: Any
+          - paragraph [ref=f104e147] [cursor=pointer]: "24"
+          - paragraph [ref=f104e152] [cursor=pointer]: "25"
+          - paragraph [ref=f104e157] [cursor=pointer]: "30"
+          - paragraph [ref=f104e162] [cursor=pointer]: "50"
+          - paragraph [ref=f104e167] [cursor=pointer]: 60+
+        - generic [ref=f104e171]:
+          - paragraph [ref=f104e173] [cursor=pointer]: Any
+          - paragraph [ref=f104e178] [cursor=pointer]: 1080p
+          - paragraph [ref=f104e183] [cursor=pointer]: 4K
+          - paragraph [ref=f104e188] [cursor=pointer]: 8K
+        - generic [ref=f104e192]:
+          - paragraph [ref=f104e194] [cursor=pointer]: Any
+          - paragraph [ref=f104e199] [cursor=pointer]: Last 24 hours
+          - paragraph [ref=f104e204] [cursor=pointer]: Last week
+          - paragraph [ref=f104e209] [cursor=pointer]: Last month
+          - paragraph [ref=f104e214] [cursor=pointer]: Last year
+        - main "main-content" [ref=f104e215]:
+          - generic [ref=f104e216]:
+            - heading "Free Dna Genetics Videos" [level=1] [ref=f104e219]
+            - generic [ref=f104e222]:
+              - link "Photos 2.5K" [ref=f104e224] [cursor=pointer]:
+                - /url: /search/dna%20genetics/?orientation=landscape
+                - text: Photos
+                - generic [ref=f104e225]: 2.5K
+              - link "Videos 2.6K" [ref=f104e226] [cursor=pointer]:
+                - /url: /search/videos/dna%20genetics/?orientation=landscape
+                - text: Videos
+                - generic [ref=f104e227]: 2.6K
+              - link "Users 633" [ref=f104e228] [cursor=pointer]:
+                - /url: /search/users/dna%20genetics/
+                - text: Users
+                - generic [ref=f104e229]: "633"
+            - generic [ref=f104e231]:
+              - generic [ref=f104e232]:
+                - button "Filters (1)" [ref=f104e233] [cursor=pointer]
+                - button [ref=f104e240] [cursor=pointer]
+              - separator [ref=f104e244]
+              - generic [ref=f104e248]:
+                - link [ref=f104e250] [cursor=pointer]:
+                  - /url: /search/videos/dna/
+                  - img "dna" [ref=f104e251]
+                  - generic [ref=f104e252]:
+                    - paragraph [ref=f104e253]: dna
+                    - paragraph [ref=f104e254]: 4K
+                - link [ref=f104e255] [cursor=pointer]:
+                  - /url: /search/videos/genetics/
+                  - img "genetics" [ref=f104e256]
+                  - generic [ref=f104e257]:
+                    - paragraph [ref=f104e258]: genetics
+                    - paragraph [ref=f104e259]: 4K
+                - link [ref=f104e260] [cursor=pointer]:
+                  - /url: /search/videos/genes/
+                  - img "genes" [ref=f104e261]
+                  - generic [ref=f104e262]:
+                    - paragraph [ref=f104e263]: genes
+                    - paragraph [ref=f104e264]: 4K
+                - link [ref=f104e265] [cursor=pointer]:
+                  - /url: /search/videos/dna%20strand/
+                  - img "dna strand" [ref=f104e266]
+                  - generic [ref=f104e267]:
+                    - paragraph [ref=f104e268]: dna strand
+                    - paragraph [ref=f104e269]: 4K
+                - link [ref=f104e270] [cursor=pointer]:
+                  - /url: /search/videos/genetic/
+                  - img "genetic" [ref=f104e271]
+                  - generic [ref=f104e272]:
+                    - paragraph [ref=f104e273]: genetic
+                    - paragraph [ref=f104e274]: 4K
+                - link [ref=f104e275] [cursor=pointer]:
+                  - /url: /search/videos/dna%20test/
+                  - img "dna test" [ref=f104e276]
+                  - generic [ref=f104e277]:
+                    - paragraph [ref=f104e278]: dna test
+                    - paragraph [ref=f104e279]: 6K
+                - link [ref=f104e280] [cursor=pointer]:
+                  - /url: /search/videos/cell%20biology/
+                  - img "cell biology" [ref=f104e281]
+                  - generic [ref=f104e282]:
+                    - paragraph [ref=f104e283]: cell biology
+                    - paragraph [ref=f104e284]: 13K
+                - link [ref=f104e285] [cursor=pointer]:
+                  - /url: /search/videos/dna%20animation/
+                  - img "dna animation" [ref=f104e286]
+                  - generic [ref=f104e287]:
+                    - paragraph [ref=f104e288]: dna animation
+                    - paragraph [ref=f104e289]: 42K
+                - link [ref=f104e290] [cursor=pointer]:
+                  - /url: /search/videos/biotech/
+                  - img "biotech" [ref=f104e291]
+                  - generic [ref=f104e292]:
+                    - paragraph [ref=f104e293]: biotech
+                    - paragraph [ref=f104e294]: 4K
+                - link [ref=f104e295] [cursor=pointer]:
+                  - /url: /search/videos/biotechnology/
+                  - img "biotechnology" [ref=f104e296]
+                  - generic [ref=f104e297]:
+                    - paragraph [ref=f104e298]: biotechnology
+                    - paragraph [ref=f104e299]: 4K
+                - link [ref=f104e300] [cursor=pointer]:
+                  - /url: /search/videos/biochemistry/
+                  - img "biochemistry" [ref=f104e301]
+                  - generic [ref=f104e302]:
+                    - paragraph [ref=f104e303]: biochemistry
+                    - paragraph [ref=f104e304]: 5K
+                - link [ref=f104e305] [cursor=pointer]:
+                  - /url: /search/videos/biology/
+                  - img "biology" [ref=f104e306]
+                  - generic [ref=f104e307]:
+                    - paragraph [ref=f104e308]: biology
+                    - paragraph [ref=f104e309]: 4K
+                - link [ref=f104e310] [cursor=pointer]:
+                  - /url: /search/videos/scientific%20research/
+                  - img "scientific research" [ref=f104e311]
+                  - generic [ref=f104e312]:
+                    - paragraph [ref=f104e313]: scientific research
+                    - paragraph [ref=f104e314]: 10K
+                - link [ref=f104e315] [cursor=pointer]:
+                  - /url: /search/videos/molecules/
+                  - img "molecules" [ref=f104e316]
+                  - generic [ref=f104e317]:
+                    - paragraph [ref=f104e318]: molecules
+                    - paragraph [ref=f104e319]: 4K
+                - link [ref=f104e320] [cursor=pointer]:
+                  - /url: /search/videos/cells/
+                  - img "cells" [ref=f104e321]
+                  - generic [ref=f104e322]:
+                    - paragraph [ref=f104e323]: cells
+                    - paragraph [ref=f104e324]: 5K
+                - link [ref=f104e325] [cursor=pointer]:
+                  - /url: /search/videos/microbiology/
+                  - img "microbiology" [ref=f104e326]
+                  - generic [ref=f104e327]:
+                    - paragraph [ref=f104e328]: microbiology
+                    - paragraph [ref=f104e329]: 4K
+                - img [ref=f104e330] [cursor=pointer]
+            - generic [ref=f104e333]:
+              - generic [ref=f104e335]:
+                - generic [ref=f104e336]:
+                  - article [ref=f104e340]:
+                    - link [ref=f104e341] [cursor=pointer]:
+                      - /url: /video/close-up-on-whirling-dna-strand-9837848/
+                    - button "Play video preview" [ref=f104e346] [cursor=pointer]
+                  - article [ref=f104e354]:
+                    - link [ref=f104e355] [cursor=pointer]:
+                      - /url: /video/abstract-glowing-dna-helix-animation-34861579/
+                    - button "Play video preview" [ref=f104e360] [cursor=pointer]
+                  - article [ref=f104e368]:
+                    - link [ref=f104e369] [cursor=pointer]:
+                      - /url: /video/glowing-dna-helix-with-particle-animation-34856162/
+                    - button "Play video preview" [ref=f104e374] [cursor=pointer]
+                  - article [ref=f104e382]:
+                    - link [ref=f104e383] [cursor=pointer]:
+                      - /url: /video/abstract-glowing-dna-strand-animation-34862858/
+                    - button "Play video preview" [ref=f104e388] [cursor=pointer]
+                  - article [ref=f104e396]:
+                    - link [ref=f104e397] [cursor=pointer]:
+                      - /url: /video/abstract-3d-dna-helix-animation-in-4k-30769473/
+                    - button "Play video preview" [ref=f104e402] [cursor=pointer]
+                  - article [ref=f104e410]:
+                    - link [ref=f104e411] [cursor=pointer]:
+                      - /url: /video/dynamic-pink-dna-helixes-on-starry-background-34870778/
+                    - button "Play video preview" [ref=f104e416] [cursor=pointer]
+                  - article [ref=f104e424]:
+                    - link [ref=f104e425] [cursor=pointer]:
+                      - /url: /video/an-artist-s-animation-of-artificial-intelligence-ai-this-video-depicts-how-ai-could-assist-in-genomic-studies-and-its-applications-it-was-created-by-nidia-dias-as-part-of-the-visualisi-18069472/
+                    - button "Play video preview" [ref=f104e430] [cursor=pointer]
+                - generic [ref=f104e435]:
+                  - article [ref=f104e439]:
+                    - link [ref=f104e440] [cursor=pointer]:
+                      - /url: /video/abstract-visual-of-floating-dna-strand-35968183/
+                    - button "Play video preview" [ref=f104e445] [cursor=pointer]
+                  - article [ref=f104e453]:
+                    - link [ref=f104e454] [cursor=pointer]:
+                      - /url: /video/abstract-dna-helix-animation-on-dark-background-35967934/
+                    - button "Play video preview" [ref=f104e459] [cursor=pointer]
+                  - article [ref=f104e467]:
+                    - link [ref=f104e468] [cursor=pointer]:
+                      - /url: /video/dynamic-glowing-dna-helix-animation-34865115/
+                    - button "Play video preview" [ref=f104e473] [cursor=pointer]
+                  - article [ref=f104e481]:
+                    - link [ref=f104e482] [cursor=pointer]:
+                      - /url: /video/glowing-pink-dna-double-helix-animation-34869248/
+                    - button "Play video preview" [ref=f104e487] [cursor=pointer]
+                  - article [ref=f104e495]:
+                    - link [ref=f104e496] [cursor=pointer]:
+                      - /url: /video/abstract-dna-helix-with-floating-particles-animation-34867290/
+                    - button "Play video preview" [ref=f104e501] [cursor=pointer]
+                  - article [ref=f104e509]:
+                    - link [ref=f104e510] [cursor=pointer]:
+                      - /url: /video/video-presentation-of-uncovering-a-deoxyribonucleic-acid-pattern-3191574/
+                    - button "Play video preview" [ref=f104e515] [cursor=pointer]
+                  - article [ref=f104e523]:
+                    - link [ref=f104e524] [cursor=pointer]:
+                      - /url: /video/glowing-green-dna-strand-animation-in-motion-35979288/
+                    - button "Play video preview" [ref=f104e529] [cursor=pointer]
+                - generic [ref=f104e534]:
+                  - generic [ref=f104e536]:
+                    - generic [ref=f104e538]:
+                      - link "Create your own dna genetics content with Canva" [ref=f104e539] [cursor=pointer]:
+                        - /url: https://www.canva.com/features/ai-video-generator/?utm_source=pexels&utm_campaign=aigc_pexelscampaign&utm_medium=partner
+                      - link "Create your own dna genetics content with Canva" [ref=f104e541] [cursor=pointer]:
+                        - /url: https://www.canva.com/features/ai-video-generator/?utm_source=pexels&utm_campaign=aigc_pexelscampaign&utm_medium=partner
+                      - link "Create your own dna genetics content with Canva" [ref=f104e543] [cursor=pointer]:
+                        - /url: https://www.canva.com/features/ai-video-generator/?utm_source=pexels&utm_campaign=aigc_pexelscampaign&utm_medium=partner
+                      - link "Create your own dna genetics content with Canva" [ref=f104e545] [cursor=pointer]:
+                        - /url: https://www.canva.com/features/ai-video-generator/?utm_source=pexels&utm_campaign=aigc_pexelscampaign&utm_medium=partner
+                    - link [ref=f104e547] [cursor=pointer]:
+                      - /url: https://www.canva.com/features/ai-video-generator/?utm_source=pexels&utm_campaign=aigc_pexelscampaign&utm_medium=partner
+                      - paragraph [ref=f104e550]: Bring your ideas to life with Canva AI
+                    - link "Get started for free" [ref=f104e551] [cursor=pointer]:
+                      - /url: https://www.canva.com/features/ai-video-generator/?utm_source=pexels&utm_campaign=aigc_pexelscampaign&utm_medium=partner
+                  - generic [ref=f104e555]:
+                    - generic [ref=f104e556]:
+                      - heading "‌‌S‌p‌‌‌o‌‌‌n‌‌‌s‌‌‌o‌‌r‌‌‌e‌d‌‌‌ ‌‌‌V‌‌‌i‌d‌‌‌e‌‌‌o‌‌s‌‌" [level=4] [ref=f104e557]
+                      - link [ref=f104e558] [cursor=pointer]:
+                        - /url: https://www.pexels.com/r/eyJkZXN0IjoiaHR0cHM6Ly93d3cuaXN0b2NrcGhvdG8uY29tL3ZpZGVvcy9kbmElMjBnZW5ldGljcz91dG1fc291cmNlPXBleGVscyZ1dG1fbWVkaXVtPWFmZmlsaWF0ZSZ1dG1fY2FtcGFpZ249c3BvbnNvcmVkX3ZpZGVvJnV0bV9jb250ZW50PXNycF9pbmxpbmVfbG9nbyZ1dG1fdGVybT1kbmElMjBnZW5ldGljcyIsImRhdGEiOnsiZXhwZXJpbWVudHMiOnt9LCJwYWdlX2xvY2FsZSI6ImVuLVVTIiwicGFnZSI6InNlYXJjaF9yZXN1bHRzIiwicGFnZV92YXJpYW50IjoicGhvdG9zIiwibG9jYXRpb24iOiJncmlkIiwiYWRfcGFydG5lciI6ImdldHR5IiwiYWRfZm9ybWF0IjoiaW5saW5lIiwiYWRfcGxhY2VtZW50IjoiMTAiLCJhZF9jcmVhdGl2ZSI6InZpZGVvX3NlYXJjaF80IiwiYWRfYWN0aW9uIjoiY2xpY2siLCJhZF9pbXByZXNzaW9uX2lkIjoiMmQzNWY1ODctNjBlZS00OThlLWFjNTYtY2FkZDE3YThkMDg4IiwibWVkaWFfdHlwZSI6InZpZGVvIiwicXVlcnkiOiJkbmEgZ2VuZXRpY3MifX0/
+                    - generic [ref=f104e562]:
+                      - link [ref=f104e563] [cursor=pointer]:
+                        - /url: https://www.pexels.com/r/eyJkZXN0IjoiaHR0cHM6Ly93d3cuaXN0b2NrcGhvdG8uY29tL3ZpZGVvLzRrLWRuYS1ibHVlLWJhY2tncm91bmQtZ20xNTAwNDY5NzM1LTUyMTg5OTg3MT91dG1fc291cmNlPXBleGVscyZ1dG1fbWVkaXVtPWFmZmlsaWF0ZSZ1dG1fY2FtcGFpZ249c3BvbnNvcmVkX3ZpZGVvJnV0bV9jb250ZW50PXNycF9pbmxpbmVfbWVkaWEmdXRtX3Rlcm09ZG5hJTIwZ2VuZXRpY3MiLCJkYXRhIjp7ImV4cGVyaW1lbnRzIjp7fSwicGFnZV9sb2NhbGUiOiJlbi1VUyIsInBhZ2UiOiJzZWFyY2hfcmVzdWx0cyIsInBhZ2VfdmFyaWFudCI6InBob3RvcyIsImxvY2F0aW9uIjoiZ3JpZCIsImFkX3BhcnRuZXIiOiJnZXR0eSIsImFkX2Zvcm1hdCI6ImlubGluZSIsImFkX3BsYWNlbWVudCI6IjEwIiwiYWRfY3JlYXRpdmUiOiJ2aWRlb19zZWFyY2hfNCIsImFkX2FjdGlvbiI6ImNsaWNrIiwiYWRfaW1wcmVzc2lvbl9pZCI6IjJkMzVmNTg3LTYwZWUtNDk4ZS1hYzU2LWNhZGQxN2E4ZDA4OCIsIm1lZGlhX3R5cGUiOiJ2aWRlbyIsInF1ZXJ5IjoiZG5hIGdlbmV0aWNzIn19/
+                      - link [ref=f104e566] [cursor=pointer]:
+                        - /url: https://www.pexels.com/r/eyJkZXN0IjoiaHR0cHM6Ly93d3cuaXN0b2NrcGhvdG8uY29tL3ZpZGVvL2RuYS1oZWxpeC1hbmFseXNpcy12aXN1YWxpemF0aW9uLWRhdGEtZ20yMjI4NzU3MDAxLTY0NDUyMjc2Nj91dG1fc291cmNlPXBleGVscyZ1dG1fbWVkaXVtPWFmZmlsaWF0ZSZ1dG1fY2FtcGFpZ249c3BvbnNvcmVkX3ZpZGVvJnV0bV9jb250ZW50PXNycF9pbmxpbmVfbWVkaWEmdXRtX3Rlcm09ZG5hJTIwZ2VuZXRpY3MiLCJkYXRhIjp7ImV4cGVyaW1lbnRzIjp7fSwicGFnZV9sb2NhbGUiOiJlbi1VUyIsInBhZ2UiOiJzZWFyY2hfcmVzdWx0cyIsInBhZ2VfdmFyaWFudCI6InBob3RvcyIsImxvY2F0aW9uIjoiZ3JpZCIsImFkX3BhcnRuZXIiOiJnZXR0eSIsImFkX2Zvcm1hdCI6ImlubGluZSIsImFkX3BsYWNlbWVudCI6IjEwIiwiYWRfY3JlYXRpdmUiOiJ2aWRlb19zZWFyY2hfNCIsImFkX2FjdGlvbiI6ImNsaWNrIiwiYWRfaW1wcmVzc2lvbl9pZCI6IjJkMzVmNTg3LTYwZWUtNDk4ZS1hYzU2LWNhZGQxN2E4ZDA4OCIsIm1lZGlhX3R5cGUiOiJ2aWRlbyIsInF1ZXJ5IjoiZG5hIGdlbmV0aWNzIn19/
+                      - link [ref=f104e569] [cursor=pointer]:
+                        - /url: https://www.pexels.com/r/eyJkZXN0IjoiaHR0cHM6Ly93d3cuaXN0b2NrcGhvdG8uY29tL3ZpZGVvL3NjaWVudGlzdHMtc3R1ZHlpbmctZG5hLW11dGF0aW9ucy1jb21wdXRlci1zY3JlZW5zLXdpdGgtZG5hLWhlbGl4LWdtMTI0ODIwMDY0MS0zNjM0OTI1Njg_dXRtX3NvdXJjZT1wZXhlbHMmdXRtX21lZGl1bT1hZmZpbGlhdGUmdXRtX2NhbXBhaWduPXNwb25zb3JlZF92aWRlbyZ1dG1fY29udGVudD1zcnBfaW5saW5lX21lZGlhJnV0bV90ZXJtPWRuYSUyMGdlbmV0aWNzIiwiZGF0YSI6eyJleHBlcmltZW50cyI6e30sInBhZ2VfbG9jYWxlIjoiZW4tVVMiLCJwYWdlIjoic2VhcmNoX3Jlc3VsdHMiLCJwYWdlX3ZhcmlhbnQiOiJwaG90b3MiLCJsb2NhdGlvbiI6ImdyaWQiLCJhZF9wYXJ0bmVyIjoiZ2V0dHkiLCJhZF9mb3JtYXQiOiJpbmxpbmUiLCJhZF9wbGFjZW1lbnQiOiIxMCIsImFkX2NyZWF0aXZlIjoidmlkZW9fc2VhcmNoXzQiLCJhZF9hY3Rpb24iOiJjbGljayIsImFkX2ltcHJlc3Npb25faWQiOiIyZDM1ZjU4Ny02MGVlLTQ5OGUtYWM1Ni1jYWRkMTdhOGQwODgiLCJtZWRpYV90eXBlIjoidmlkZW8iLCJxdWVyeSI6ImRuYSBnZW5ldGljcyJ9fQ/
+                      - link [ref=f104e572] [cursor=pointer]:
+                        - /url: https://www.pexels.com/r/eyJkZXN0IjoiaHR0cHM6Ly93d3cuaXN0b2NrcGhvdG8uY29tL3ZpZGVvL2RuYS1kZXRhaWwtZ202MTkwMjM2OTYtMTA3OTI0Mzc5P3V0bV9zb3VyY2U9cGV4ZWxzJnV0bV9tZWRpdW09YWZmaWxpYXRlJnV0bV9jYW1wYWlnbj1zcG9uc29yZWRfdmlkZW8mdXRtX2NvbnRlbnQ9c3JwX2lubGluZV9tZWRpYSZ1dG1fdGVybT1kbmElMjBnZW5ldGljcyIsImRhdGEiOnsiZXhwZXJpbWVudHMiOnt9LCJwYWdlX2xvY2FsZSI6ImVuLVVTIiwicGFnZSI6InNlYXJjaF9yZXN1bHRzIiwicGFnZV92YXJpYW50IjoicGhvdG9zIiwibG9jYXRpb24iOiJncmlkIiwiYWRfcGFydG5lciI6ImdldHR5IiwiYWRfZm9ybWF0IjoiaW5saW5lIiwiYWRfcGxhY2VtZW50IjoiMTAiLCJhZF9jcmVhdGl2ZSI6InZpZGVvX3NlYXJjaF80IiwiYWRfYWN0aW9uIjoiY2xpY2siLCJhZF9pbXByZXNzaW9uX2lkIjoiMmQzNWY1ODctNjBlZS00OThlLWFjNTYtY2FkZDE3YThkMDg4IiwibWVkaWFfdHlwZSI6InZpZGVvIiwicXVlcnkiOiJkbmEgZ2VuZXRpY3MifX0/
+                    - link [ref=f104e575] [cursor=pointer]:
+                      - /url: https://www.pexels.com/r/eyJkZXN0IjoiaHR0cHM6Ly93d3cuaXN0b2NrcGhvdG8uY29tL3ZpZGVvcy9kbmElMjBnZW5ldGljcz91dG1fc291cmNlPXBleGVscyZ1dG1fbWVkaXVtPWFmZmlsaWF0ZSZ1dG1fY2FtcGFpZ249c3BvbnNvcmVkX3ZpZGVvJnV0bV9jb250ZW50PXNycF9pbmxpbmVfY291cG9uY29kZSZ1dG1fdGVybT1kbmElMjBnZW5ldGljcyIsImRhdGEiOnsiZXhwZXJpbWVudHMiOnt9LCJwYWdlX2xvY2FsZSI6ImVuLVVTIiwicGFnZSI6InNlYXJjaF9yZXN1bHRzIiwicGFnZV92YXJpYW50IjoicGhvdG9zIiwibG9jYXRpb24iOiJncmlkIiwiYWRfcGFydG5lciI6ImdldHR5IiwiYWRfZm9ybWF0IjoiaW5saW5lIiwiYWRfcGxhY2VtZW50IjoiMTAiLCJhZF9jcmVhdGl2ZSI6InZpZGVvX3NlYXJjaF80IiwiYWRfYWN0aW9uIjoiY2xpY2siLCJhZF9pbXByZXNzaW9uX2lkIjoiMmQzNWY1ODctNjBlZS00OThlLWFjNTYtY2FkZDE3YThkMDg4IiwibWVkaWFfdHlwZSI6InZpZGVvIiwicXVlcnkiOiJkbmEgZ2VuZXRpY3MifX0/
+                      - img [ref=f104e578]:
+                        - generic [ref=f104e579]: Get 20% off with code PEXELS20 »
+                  - article [ref=f104e583]:
+                    - link [ref=f104e584] [cursor=pointer]:
+                      - /url: /video/glowing-dna-helixes-in-abstract-motion-34875382/
+                    - button "Play video preview" [ref=f104e589] [cursor=pointer]
+                  - article [ref=f104e597]:
+                    - link [ref=f104e598] [cursor=pointer]:
+                      - /url: /video/glowing-neon-pink-dna-helix-animation-35977110/
+                    - button "Play video preview" [ref=f104e603] [cursor=pointer]
+                - generic [ref=f104e608]:
+                  - article [ref=f104e612]:
+                    - link [ref=f104e613] [cursor=pointer]:
+                      - /url: /video/abstract-dna-helix-animation-in-blue-tones-27650713/
+                    - button "Play video preview" [ref=f104e618] [cursor=pointer]
+                  - article [ref=f104e626]:
+                    - link [ref=f104e627] [cursor=pointer]:
+                      - /url: /video/glowing-dna-helix-with-colorful-particle-animation-34862407/
+                    - button "Play video preview" [ref=f104e632] [cursor=pointer]
+                  - article [ref=f104e640]:
+                    - link [ref=f104e641] [cursor=pointer]:
+                      - /url: /video/glowing-dna-strand-in-abstract-motion-34855017/
+                    - button "Play video preview" [ref=f104e646] [cursor=pointer]
+                  - article [ref=f104e654]:
+                    - link [ref=f104e655] [cursor=pointer]:
+                      - /url: /video/digitally-generated-dna-11268031/
+                    - button "Play video preview" [ref=f104e660] [cursor=pointer]
+                  - article [ref=f104e668]:
+                    - link [ref=f104e669] [cursor=pointer]:
+                      - /url: /video/glowing-pink-dna-strand-animation-34855802/
+                    - button "Play video preview" [ref=f104e674] [cursor=pointer]
+                  - article [ref=f104e682]:
+                    - link [ref=f104e683] [cursor=pointer]:
+                      - /url: /video/abstract-dna-helix-with-vibrant-particle-animation-34883485/
+                    - button "Play video preview" [ref=f104e688] [cursor=pointer]
+                  - article [ref=f104e696]:
+                    - link [ref=f104e697] [cursor=pointer]:
+                      - /url: /video/vibrant-pink-dna-helix-animation-35977508/
+                    - button "Play video preview" [ref=f104e702] [cursor=pointer]
+              - button "Load More" [ref=f104e708] [cursor=pointer]
+            - navigation [ref=f104e711]:
+              - generic [ref=f104e713]:
+                - link "1" [ref=f104e715]:
+                  - /url: /search/videos/dna%20genetics/?orientation=landscape
+                - link "2" [ref=f104e718] [cursor=pointer]:
+                  - /url: /search/videos/dna%20genetics/?orientation=landscape&page=2
+                - link "3" [ref=f104e721] [cursor=pointer]:
+                  - /url: /search/videos/dna%20genetics/?orientation=landscape&page=3
+                - link "4" [ref=f104e724] [cursor=pointer]:
+                  - /url: /search/videos/dna%20genetics/?orientation=landscape&page=4
+                - link "5" [ref=f104e727] [cursor=pointer]:
+                  - /url: /search/videos/dna%20genetics/?orientation=landscape&page=5
+                - link "6" [ref=f104e730] [cursor=pointer]:
+                  - /url: /search/videos/dna%20genetics/?orientation=landscape&page=6
+                - link "Next" [ref=f104e733] [cursor=pointer]:
+                  - /url: /search/videos/dna%20genetics/?orientation=landscape&page=2
+    - contentinfo [ref=f104e737]:
+      - separator [ref=f104e738]
+      - generic [ref=f104e739]:
+        - generic [ref=f104e740]:
+          - heading "Where stories come together." [level=2] [ref=f104e741]
+          - generic [ref=f104e742]:
+            - link "Download on iOS" [ref=f104e743] [cursor=pointer]:
+              - /url: https://itunes.apple.com/us/app/pexels/id1434330413/
+            - link "Download on Android" [ref=f104e746] [cursor=pointer]:
+              - /url: https://play.google.com/store/apps/details?id=com.pexels.app
+          - list [ref=f104e749]:
+            - listitem [ref=f104e750]:
+              - link "Instagram" [ref=f104e751] [cursor=pointer]:
+                - /url: https://www.instagram.com/pexels/
+            - listitem [ref=f104e754]:
+              - link "Threads" [ref=f104e755] [cursor=pointer]:
+                - /url: https://www.threads.net/@pexels/
+            - listitem [ref=f104e758]:
+              - link "YouTube" [ref=f104e759] [cursor=pointer]:
+                - /url: https://www.youtube.com/pexelsphotos/
+            - listitem [ref=f104e762]:
+              - link "TikTok" [ref=f104e763] [cursor=pointer]:
+                - /url: https://www.tiktok.com/@pexels/
+            - listitem [ref=f104e766]:
+              - link "LinkedIn" [ref=f104e767] [cursor=pointer]:
+                - /url: https://www.linkedin.com/company/pexels/
+            - listitem [ref=f104e770]:
+              - link "X" [ref=f104e771] [cursor=pointer]:
+                - /url: https://x.com/pexels/
+        - generic [ref=f104e774]:
+          - list [ref=f104e775]:
+            - heading "Pexels" [level=3] [ref=f104e776]
+            - listitem [ref=f104e777]:
+              - link "Free Stock Photos" [ref=f104e778] [cursor=pointer]:
+                - /url: /
+            - listitem [ref=f104e779]:
+              - link "Free Videos" [ref=f104e780] [cursor=pointer]:
+                - /url: /videos/
+            - listitem [ref=f104e781]:
+              - link "Popular searches" [ref=f104e782] [cursor=pointer]:
+                - /url: /popular-searches/
+            - listitem [ref=f104e783]:
+              - link "Collections" [ref=f104e784] [cursor=pointer]:
+                - /url: /discover/
+            - listitem [ref=f104e785]:
+              - link "Challenges" [ref=f104e786] [cursor=pointer]:
+                - /url: /challenges/
+            - listitem [ref=f104e787]:
+              - link "Leaderboard" [ref=f104e788] [cursor=pointer]:
+                - /url: /leaderboard/
+            - listitem [ref=f104e789]:
+              - link "Other plugins & apps" [ref=f104e790] [cursor=pointer]:
+                - /url: /pro/
+          - list [ref=f104e791]:
+            - heading "Company" [level=3] [ref=f104e792]
+            - listitem [ref=f104e793]:
+              - link "About" [ref=f104e794] [cursor=pointer]:
+                - /url: /about/
+            - listitem [ref=f104e795]:
+              - link "Blog" [ref=f104e796] [cursor=pointer]:
+                - /url: /blog/
+            - listitem [ref=f104e797]:
+              - link "Help Center" [ref=f104e798] [cursor=pointer]:
+                - /url: https://help.pexels.com/hc/en-us
+            - listitem [ref=f104e799]:
+              - link "Report content" [ref=f104e800] [cursor=pointer]:
+                - /url: /report/
+            - listitem [ref=f104e801]:
+              - link "Become a Hero" [ref=f104e802] [cursor=pointer]:
+                - /url: /hero/
+            - listitem [ref=f104e803]:
+              - link "Partner with Pexels" [ref=f104e804] [cursor=pointer]:
+                - /url: /become-a-partner/
+            - listitem [ref=f104e805]:
+              - link "Image & Video API" [ref=f104e806] [cursor=pointer]:
+                - /url: /api/
+            - listitem [ref=f104e807]: Sign Up
+        - list [ref=f104e808]:
+          - listitem [ref=f104e809]:
+            - heading "Free Stock Photos" [level=3] [ref=f104e810]
+          - listitem [ref=f104e811]:
+            - generic [ref=f104e813]:
+              - link "4K wallpaper" [ref=f104e815] [cursor=pointer]:
+                - /url: /search/4k%20wallpaper/
+              - link "Nature photos" [ref=f104e816] [cursor=pointer]:
+                - /url: /search/nature/
+              - link "Desktop wallpaper" [ref=f104e817] [cursor=pointer]:
+                - /url: /search/desktop%20wallpaper/
+              - link "Flower photos" [ref=f104e818] [cursor=pointer]:
+                - /url: /search/flowers/
+              - link "HD wallpaper" [ref=f104e819] [cursor=pointer]:
+                - /url: /search/hd%20wallpaper/
+              - link "Mobile wallpaper" [ref=f104e820] [cursor=pointer]:
+                - /url: /search/mobile%20wallpaper/
+              - link "Dark photos" [ref=f104e821] [cursor=pointer]:
+                - /url: /search/dark/
+              - link "Black and white photography" [ref=f104e822] [cursor=pointer]:
+                - /url: /search/black%20and%20white/
+              - link "Black background" [ref=f104e823] [cursor=pointer]:
+                - /url: /search/black%20background/
+              - link "Sunset photos" [ref=f104e824] [cursor=pointer]:
+                - /url: /search/sunset/
+              - link "Landscape photos" [ref=f104e825] [cursor=pointer]:
+                - /url: /search/landscape/
+              - link "Cat photos" [ref=f104e826] [cursor=pointer]:
+                - /url: /search/cat/
+      - generic [ref=f104e828]:
+        - generic [ref=f104e829]: © 2026 Pexels
+        - generic [ref=f104e831]:
+          - link "Terms of Use" [ref=f104e833] [cursor=pointer]:
+            - /url: /terms-of-service/
+          - link "Privacy Policy" [ref=f104e834] [cursor=pointer]:
+            - /url: /privacy-policy/
+          - link "License" [ref=f104e835] [cursor=pointer]:
+            - /url: /license/
+          - link "Imprint" [ref=f104e836] [cursor=pointer]:
+            - /url: /imprint/
+          - link "Cookies Policy" [ref=f104e837] [cursor=pointer]:
+            - /url: /cookies/
+        - button "English" [ref=f104e840] [cursor=pointer]
+      - separator [ref=f104e845]
+  - alert [ref=f104e846]

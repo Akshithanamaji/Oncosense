@@ -1,0 +1,458 @@
+- generic [active] [ref=f92e1]:
+  - generic [ref=f92e3]:
+    - navigation [ref=f92e6]:
+      - link [ref=f92e8] [cursor=pointer]:
+        - /url: /
+      - search [ref=f92e13]:
+        - generic [ref=f92e14]:
+          - button "Videos" [ref=f92e16] [cursor=pointer]
+          - searchbox "Search for free videos" [ref=f92e24]: mammography machine
+          - button [ref=f92e26] [cursor=pointer]
+      - generic [ref=f92e30]:
+        - link "Explore" [ref=f92e32] [cursor=pointer]:
+          - /url: /discover/
+        - link "License" [ref=f92e36] [cursor=pointer]:
+          - /url: /license/
+        - button [ref=f92e39] [cursor=pointer]
+        - button "Join" [ref=f92e42] [cursor=pointer]
+    - main [ref=f92e45]:
+      - generic [ref=f92e46]:
+        - generic [ref=f92e50]:
+          - paragraph [ref=f92e52] [cursor=pointer]: Any
+          - paragraph [ref=f92e57] [cursor=pointer]: Horizontal
+          - paragraph [ref=f92e62] [cursor=pointer]: Vertical
+          - paragraph [ref=f92e67] [cursor=pointer]: Square
+        - generic [ref=f92e71]:
+          - paragraph [ref=f92e73] [cursor=pointer]: Any
+          - paragraph [ref=f92e75] [cursor=pointer]: "0"
+          - paragraph [ref=f92e80] [cursor=pointer]: "1"
+          - paragraph [ref=f92e85] [cursor=pointer]: "2"
+          - paragraph [ref=f92e90] [cursor=pointer]: 3+
+        - generic [ref=f92e94]:
+          - paragraph [ref=f92e96] [cursor=pointer]: Any
+          - paragraph [ref=f92e101] [cursor=pointer]: Baby
+          - paragraph [ref=f92e106] [cursor=pointer]: Child
+          - paragraph [ref=f92e111] [cursor=pointer]: Teenager
+          - paragraph [ref=f92e116] [cursor=pointer]: Adult
+          - paragraph [ref=f92e121] [cursor=pointer]: Senior adult
+        - generic [ref=f92e124]:
+          - generic [ref=f92e125]:
+            - generic [ref=f92e126] [cursor=pointer]
+            - slider [ref=f92e128] [cursor=pointer]
+            - slider [ref=f92e129] [cursor=pointer]
+          - generic [ref=f92e130]:
+            - generic [ref=f92e131]:
+              - paragraph [ref=f92e132]: Minimum
+              - paragraph [ref=f92e133]: 5s
+            - generic [ref=f92e134]:
+              - paragraph [ref=f92e135]: Maximum
+              - paragraph [ref=f92e136]: 2m+
+        - generic [ref=f92e140]:
+          - paragraph [ref=f92e142] [cursor=pointer]: Any
+          - paragraph [ref=f92e147] [cursor=pointer]: "24"
+          - paragraph [ref=f92e152] [cursor=pointer]: "25"
+          - paragraph [ref=f92e157] [cursor=pointer]: "30"
+          - paragraph [ref=f92e162] [cursor=pointer]: "50"
+          - paragraph [ref=f92e167] [cursor=pointer]: 60+
+        - generic [ref=f92e171]:
+          - paragraph [ref=f92e173] [cursor=pointer]: Any
+          - paragraph [ref=f92e178] [cursor=pointer]: 1080p
+          - paragraph [ref=f92e183] [cursor=pointer]: 4K
+          - paragraph [ref=f92e188] [cursor=pointer]: 8K
+        - generic [ref=f92e192]:
+          - paragraph [ref=f92e194] [cursor=pointer]: Any
+          - paragraph [ref=f92e199] [cursor=pointer]: Last 24 hours
+          - paragraph [ref=f92e204] [cursor=pointer]: Last week
+          - paragraph [ref=f92e209] [cursor=pointer]: Last month
+          - paragraph [ref=f92e214] [cursor=pointer]: Last year
+        - main "main-content" [ref=f92e215]:
+          - generic [ref=f92e216]:
+            - heading "Free Mammography Machine Videos" [level=1] [ref=f92e219]
+            - generic [ref=f92e222]:
+              - link "Photos 25.1K" [ref=f92e224] [cursor=pointer]:
+                - /url: /search/mammography%20machine/
+                - text: Photos
+                - generic [ref=f92e225]: 25.1K
+              - link "Videos 11.7K" [ref=f92e226] [cursor=pointer]:
+                - /url: /search/videos/mammography%20machine/
+                - text: Videos
+                - generic [ref=f92e227]: 11.7K
+              - link "Users 1.4K" [ref=f92e228] [cursor=pointer]:
+                - /url: /search/users/mammography%20machine/
+                - text: Users
+                - generic [ref=f92e229]: 1.4K
+            - generic [ref=f92e231]:
+              - button "Filters" [ref=f92e233] [cursor=pointer]
+              - separator [ref=f92e240]
+              - generic [ref=f92e244]:
+                - link [ref=f92e246] [cursor=pointer]:
+                  - /url: /search/videos/mammogram/
+                  - img "mammogram" [ref=f92e247]
+                  - generic [ref=f92e248]:
+                    - paragraph [ref=f92e249]: mammogram
+                    - paragraph [ref=f92e250]: 4K
+                - link [ref=f92e251] [cursor=pointer]:
+                  - /url: /search/videos/cnc%20milling%20machine/
+                  - img "cnc milling machine" [ref=f92e252]
+                  - generic [ref=f92e253]:
+                    - paragraph [ref=f92e254]: cnc milling machine
+                    - paragraph [ref=f92e255]: 11K
+                - link [ref=f92e256] [cursor=pointer]:
+                  - /url: /search/videos/blood%20pressure%20monitor/
+                  - img "blood pressure monitor" [ref=f92e257]
+                  - generic [ref=f92e258]:
+                    - paragraph [ref=f92e259]: blood pressure monitor
+                    - paragraph [ref=f92e260]: 8K
+                - link [ref=f92e261] [cursor=pointer]:
+                  - /url: /search/videos/breast%20cancer/
+                  - img "breast cancer" [ref=f92e262]
+                  - generic [ref=f92e263]:
+                    - paragraph [ref=f92e264]: breast cancer
+                    - paragraph [ref=f92e265]: 5K
+                - link [ref=f92e266] [cursor=pointer]:
+                  - /url: /search/videos/hydraulic%20press/
+                  - img "hydraulic press" [ref=f92e267]
+                  - generic [ref=f92e268]:
+                    - paragraph [ref=f92e269]: hydraulic press
+                    - paragraph [ref=f92e270]: 5K
+                - link [ref=f92e271] [cursor=pointer]:
+                  - /url: /search/videos/cnc%20machine/
+                  - img "cnc machine" [ref=f92e272]
+                  - generic [ref=f92e273]:
+                    - paragraph [ref=f92e274]: cnc machine
+                    - paragraph [ref=f92e275]: 11K
+                - link [ref=f92e276] [cursor=pointer]:
+                  - /url: /search/videos/medical%20equipment/
+                  - img "medical equipment" [ref=f92e277]
+                  - generic [ref=f92e278]:
+                    - paragraph [ref=f92e279]: medical equipment
+                    - paragraph [ref=f92e280]: 37K
+                - link [ref=f92e281] [cursor=pointer]:
+                  - /url: /search/videos/atm%20machine/
+                  - img "atm machine" [ref=f92e282]
+                  - generic [ref=f92e283]:
+                    - paragraph [ref=f92e284]: atm machine
+                    - paragraph [ref=f92e285]: 12K
+                - link [ref=f92e286] [cursor=pointer]:
+                  - /url: /search/videos/printing%20machine/
+                  - img "printing machine" [ref=f92e287]
+                  - generic [ref=f92e288]:
+                    - paragraph [ref=f92e289]: printing machine
+                    - paragraph [ref=f92e290]: 13K
+                - link [ref=f92e291] [cursor=pointer]:
+                  - /url: /search/videos/gynecologist/
+                  - img "gynecologist" [ref=f92e292]
+                  - generic [ref=f92e293]:
+                    - paragraph [ref=f92e294]: gynecologist
+                    - paragraph [ref=f92e295]: 4K
+                - link [ref=f92e296] [cursor=pointer]:
+                  - /url: /search/videos/mri%20scan/
+                  - img "mri scan" [ref=f92e297]
+                  - generic [ref=f92e298]:
+                    - paragraph [ref=f92e299]: mri scan
+                    - paragraph [ref=f92e300]: 4K
+                - link [ref=f92e301] [cursor=pointer]:
+                  - /url: /search/videos/radiology/
+                  - img "radiology" [ref=f92e302]
+                  - generic [ref=f92e303]:
+                    - paragraph [ref=f92e304]: radiology
+                    - paragraph [ref=f92e305]: 4K
+                - link [ref=f92e306] [cursor=pointer]:
+                  - /url: /search/videos/embroidery%20machine/
+                  - img "embroidery machine" [ref=f92e307]
+                  - generic [ref=f92e308]:
+                    - paragraph [ref=f92e309]: embroidery machine
+                    - paragraph [ref=f92e310]: 11K
+                - link [ref=f92e311] [cursor=pointer]:
+                  - /url: /search/videos/ct%20scan/
+                  - img "ct scan" [ref=f92e312]
+                  - generic [ref=f92e313]:
+                    - paragraph [ref=f92e314]: ct scan
+                    - paragraph [ref=f92e315]: 4K
+                - link [ref=f92e316] [cursor=pointer]:
+                  - /url: /search/videos/espresso%20machine/
+                  - img "espresso machine" [ref=f92e317]
+                  - generic [ref=f92e318]:
+                    - paragraph [ref=f92e319]: espresso machine
+                    - paragraph [ref=f92e320]: 12K
+                - link [ref=f92e321] [cursor=pointer]:
+                  - /url: /search/videos/pregnancy%20test/
+                  - img "pregnancy test" [ref=f92e322]
+                  - generic [ref=f92e323]:
+                    - paragraph [ref=f92e324]: pregnancy test
+                    - paragraph [ref=f92e325]: 8K
+                - img [ref=f92e326] [cursor=pointer]
+            - generic [ref=f92e329]:
+              - generic [ref=f92e331]:
+                - generic [ref=f92e332]:
+                  - article [ref=f92e336]:
+                    - link [ref=f92e337] [cursor=pointer]:
+                      - /url: /video/industrial-laser-equipment-in-action-31751355/
+                    - button "Play video preview" [ref=f92e342] [cursor=pointer]
+                  - article [ref=f92e350]:
+                    - link [ref=f92e351] [cursor=pointer]:
+                      - /url: /video/cnc-milling-machine-in-operation-with-operator-31474685/
+                    - button "Play video preview" [ref=f92e356] [cursor=pointer]
+                  - article [ref=f92e364]:
+                    - link [ref=f92e365] [cursor=pointer]:
+                      - /url: /video/efficient-industrial-assembly-line-machinery-39365412/
+                    - button "Play video preview" [ref=f92e370] [cursor=pointer]
+                  - article [ref=f92e378]:
+                    - link [ref=f92e379] [cursor=pointer]:
+                      - /url: /video/skilled-worker-operating-a-manual-lathe-in-workshop-29837696/
+                    - button "Play video preview" [ref=f92e384] [cursor=pointer]
+                  - article [ref=f92e392]:
+                    - link [ref=f92e393] [cursor=pointer]:
+                      - /url: /video/industrial-dyeing-machines-in-modern-factory-30183218/
+                    - button "Play video preview" [ref=f92e398] [cursor=pointer]
+                  - article [ref=f92e406]:
+                    - link [ref=f92e407] [cursor=pointer]:
+                      - /url: /video/close-up-of-hands-using-heavy-duty-sewing-machine-35144735/
+                    - button "Play video preview" [ref=f92e412] [cursor=pointer]
+                  - article [ref=f92e420]:
+                    - link [ref=f92e421] [cursor=pointer]:
+                      - /url: /video/close-up-the-control-panel-of-a-dental-x-ray-machine-6501937/
+                    - button "Play video preview" [ref=f92e426] [cursor=pointer]
+                - generic [ref=f92e431]:
+                  - article [ref=f92e435]:
+                    - link [ref=f92e436] [cursor=pointer]:
+                      - /url: /video/industrial-manufacturing-facility-tour-40005839/
+                    - button "Play video preview" [ref=f92e441] [cursor=pointer]
+                  - article [ref=f92e449]:
+                    - link [ref=f92e450] [cursor=pointer]:
+                      - /url: /video/industrial-machine-in-action-with-precision-38826401/
+                    - button "Play video preview" [ref=f92e455] [cursor=pointer]
+                  - generic [ref=f92e461]:
+                    - generic [ref=f92e462]:
+                      - heading "S‌p‌‌o‌n‌‌‌s‌‌o‌‌‌r‌‌‌e‌‌d‌‌‌ ‌‌V‌i‌‌‌d‌‌‌e‌‌‌o‌s‌" [level=4] [ref=f92e463]
+                      - link [ref=f92e464] [cursor=pointer]:
+                        - /url: https://www.pexels.com/r/eyJkZXN0IjoiaHR0cHM6Ly93d3cuaXN0b2NrcGhvdG8uY29tL3ZpZGVvcy9tYW1tb2dyYXBoeSUyMG1hY2hpbmU_dXRtX3NvdXJjZT1wZXhlbHMmdXRtX21lZGl1bT1hZmZpbGlhdGUmdXRtX2NhbXBhaWduPXNwb25zb3JlZF92aWRlbyZ1dG1fY29udGVudD1zcnBfaW5saW5lX2xvZ28mdXRtX3Rlcm09bWFtbW9ncmFwaHklMjBtYWNoaW5lIiwiZGF0YSI6eyJleHBlcmltZW50cyI6e30sInBhZ2VfbG9jYWxlIjoiZW4tVVMiLCJwYWdlIjoic2VhcmNoX3Jlc3VsdHMiLCJwYWdlX3ZhcmlhbnQiOiJwaG90b3MiLCJsb2NhdGlvbiI6ImdyaWQiLCJhZF9wYXJ0bmVyIjoiZ2V0dHkiLCJhZF9mb3JtYXQiOiJpbmxpbmUiLCJhZF9wbGFjZW1lbnQiOiIxMCIsImFkX2NyZWF0aXZlIjoidmlkZW9fc2VhcmNoXzQiLCJhZF9hY3Rpb24iOiJjbGljayIsImFkX2ltcHJlc3Npb25faWQiOiI5NjBlNjZkOC1kZTY4LTRiMDMtOTU3NC1jYjcxNjJiMjgzNTMiLCJtZWRpYV90eXBlIjoidmlkZW8iLCJxdWVyeSI6Im1hbW1vZ3JhcGh5IG1hY2hpbmUifX0/
+                    - generic [ref=f92e468]:
+                      - link [ref=f92e469] [cursor=pointer]:
+                        - /url: https://www.pexels.com/r/eyJkZXN0IjoiaHR0cHM6Ly93d3cuaXN0b2NrcGhvdG8uY29tL3ZpZGVvL3BvcnRyYWl0LW9mLWEtZG9jdG9yLXRlYWNoaW5nLXBhdGllbnQtdG8tdG91Y2gtYnJlYXN0cy1pbi1tYW1tb2dyYXBoeS1yb29tLWF0LWdtMTg2OTkzNzM3My01NTI5ODkyOTM_dXRtX3NvdXJjZT1wZXhlbHMmdXRtX21lZGl1bT1hZmZpbGlhdGUmdXRtX2NhbXBhaWduPXNwb25zb3JlZF92aWRlbyZ1dG1fY29udGVudD1zcnBfaW5saW5lX21lZGlhJnV0bV90ZXJtPW1hbW1vZ3JhcGh5JTIwbWFjaGluZSIsImRhdGEiOnsiZXhwZXJpbWVudHMiOnt9LCJwYWdlX2xvY2FsZSI6ImVuLVVTIiwicGFnZSI6InNlYXJjaF9yZXN1bHRzIiwicGFnZV92YXJpYW50IjoicGhvdG9zIiwibG9jYXRpb24iOiJncmlkIiwiYWRfcGFydG5lciI6ImdldHR5IiwiYWRfZm9ybWF0IjoiaW5saW5lIiwiYWRfcGxhY2VtZW50IjoiMTAiLCJhZF9jcmVhdGl2ZSI6InZpZGVvX3NlYXJjaF80IiwiYWRfYWN0aW9uIjoiY2xpY2siLCJhZF9pbXByZXNzaW9uX2lkIjoiOTYwZTY2ZDgtZGU2OC00YjAzLTk1NzQtY2I3MTYyYjI4MzUzIiwibWVkaWFfdHlwZSI6InZpZGVvIiwicXVlcnkiOiJtYW1tb2dyYXBoeSBtYWNoaW5lIn19/
+                      - link [ref=f92e472] [cursor=pointer]:
+                        - /url: https://www.pexels.com/r/eyJkZXN0IjoiaHR0cHM6Ly93d3cuaXN0b2NrcGhvdG8uY29tL3ZpZGVvL2NhbmNlci1wcmV2ZW50aW9uLXJvdXRpbmUtaW4taG9zcGl0YWwtcm9vbS1ob3NwaXRhbC1yYWRpb2xvZ3ktcm9vbS1nbTIyMjAzMjg0NDgtNjM2NzYzNzU5P3V0bV9zb3VyY2U9cGV4ZWxzJnV0bV9tZWRpdW09YWZmaWxpYXRlJnV0bV9jYW1wYWlnbj1zcG9uc29yZWRfdmlkZW8mdXRtX2NvbnRlbnQ9c3JwX2lubGluZV9tZWRpYSZ1dG1fdGVybT1tYW1tb2dyYXBoeSUyMG1hY2hpbmUiLCJkYXRhIjp7ImV4cGVyaW1lbnRzIjp7fSwicGFnZV9sb2NhbGUiOiJlbi1VUyIsInBhZ2UiOiJzZWFyY2hfcmVzdWx0cyIsInBhZ2VfdmFyaWFudCI6InBob3RvcyIsImxvY2F0aW9uIjoiZ3JpZCIsImFkX3BhcnRuZXIiOiJnZXR0eSIsImFkX2Zvcm1hdCI6ImlubGluZSIsImFkX3BsYWNlbWVudCI6IjEwIiwiYWRfY3JlYXRpdmUiOiJ2aWRlb19zZWFyY2hfNCIsImFkX2FjdGlvbiI6ImNsaWNrIiwiYWRfaW1wcmVzc2lvbl9pZCI6Ijk2MGU2NmQ4LWRlNjgtNGIwMy05NTc0LWNiNzE2MmIyODM1MyIsIm1lZGlhX3R5cGUiOiJ2aWRlbyIsInF1ZXJ5IjoibWFtbW9ncmFwaHkgbWFjaGluZSJ9fQ/
+                      - link [ref=f92e475] [cursor=pointer]:
+                        - /url: https://www.pexels.com/r/eyJkZXN0IjoiaHR0cHM6Ly93d3cuaXN0b2NrcGhvdG8uY29tL3ZpZGVvL2NsZWFuLW1lZGljYWwtZXF1aXBtZW50LWluLXRoZS1jbGluaWMtZ20xNDcwMDE0MzYzLTUwMTAxNDU3Nz91dG1fc291cmNlPXBleGVscyZ1dG1fbWVkaXVtPWFmZmlsaWF0ZSZ1dG1fY2FtcGFpZ249c3BvbnNvcmVkX3ZpZGVvJnV0bV9jb250ZW50PXNycF9pbmxpbmVfbWVkaWEmdXRtX3Rlcm09bWFtbW9ncmFwaHklMjBtYWNoaW5lIiwiZGF0YSI6eyJleHBlcmltZW50cyI6e30sInBhZ2VfbG9jYWxlIjoiZW4tVVMiLCJwYWdlIjoic2VhcmNoX3Jlc3VsdHMiLCJwYWdlX3ZhcmlhbnQiOiJwaG90b3MiLCJsb2NhdGlvbiI6ImdyaWQiLCJhZF9wYXJ0bmVyIjoiZ2V0dHkiLCJhZF9mb3JtYXQiOiJpbmxpbmUiLCJhZF9wbGFjZW1lbnQiOiIxMCIsImFkX2NyZWF0aXZlIjoidmlkZW9fc2VhcmNoXzQiLCJhZF9hY3Rpb24iOiJjbGljayIsImFkX2ltcHJlc3Npb25faWQiOiI5NjBlNjZkOC1kZTY4LTRiMDMtOTU3NC1jYjcxNjJiMjgzNTMiLCJtZWRpYV90eXBlIjoidmlkZW8iLCJxdWVyeSI6Im1hbW1vZ3JhcGh5IG1hY2hpbmUifX0/
+                      - link [ref=f92e478] [cursor=pointer]:
+                        - /url: https://www.pexels.com/r/eyJkZXN0IjoiaHR0cHM6Ly93d3cuaXN0b2NrcGhvdG8uY29tL3ZpZGVvL2hvc3BpdGFsLXJhZGlvbG9neS1yb29tLWhpZ2gtcGVyZm9ybWFuY2UtbWFtbW9ncmFwaHktZGV2aWNlLWluLWEtbW9kZXJuLWhvc3BpdGFsLWdtMTQ3OTc5NTI4OC01MDc2NzEwOTY_dXRtX3NvdXJjZT1wZXhlbHMmdXRtX21lZGl1bT1hZmZpbGlhdGUmdXRtX2NhbXBhaWduPXNwb25zb3JlZF92aWRlbyZ1dG1fY29udGVudD1zcnBfaW5saW5lX21lZGlhJnV0bV90ZXJtPW1hbW1vZ3JhcGh5JTIwbWFjaGluZSIsImRhdGEiOnsiZXhwZXJpbWVudHMiOnt9LCJwYWdlX2xvY2FsZSI6ImVuLVVTIiwicGFnZSI6InNlYXJjaF9yZXN1bHRzIiwicGFnZV92YXJpYW50IjoicGhvdG9zIiwibG9jYXRpb24iOiJncmlkIiwiYWRfcGFydG5lciI6ImdldHR5IiwiYWRfZm9ybWF0IjoiaW5saW5lIiwiYWRfcGxhY2VtZW50IjoiMTAiLCJhZF9jcmVhdGl2ZSI6InZpZGVvX3NlYXJjaF80IiwiYWRfYWN0aW9uIjoiY2xpY2siLCJhZF9pbXByZXNzaW9uX2lkIjoiOTYwZTY2ZDgtZGU2OC00YjAzLTk1NzQtY2I3MTYyYjI4MzUzIiwibWVkaWFfdHlwZSI6InZpZGVvIiwicXVlcnkiOiJtYW1tb2dyYXBoeSBtYWNoaW5lIn19/
+                    - link [ref=f92e481] [cursor=pointer]:
+                      - /url: https://www.pexels.com/r/eyJkZXN0IjoiaHR0cHM6Ly93d3cuaXN0b2NrcGhvdG8uY29tL3ZpZGVvcy9tYW1tb2dyYXBoeSUyMG1hY2hpbmU_dXRtX3NvdXJjZT1wZXhlbHMmdXRtX21lZGl1bT1hZmZpbGlhdGUmdXRtX2NhbXBhaWduPXNwb25zb3JlZF92aWRlbyZ1dG1fY29udGVudD1zcnBfaW5saW5lX2NvdXBvbmNvZGUmdXRtX3Rlcm09bWFtbW9ncmFwaHklMjBtYWNoaW5lIiwiZGF0YSI6eyJleHBlcmltZW50cyI6e30sInBhZ2VfbG9jYWxlIjoiZW4tVVMiLCJwYWdlIjoic2VhcmNoX3Jlc3VsdHMiLCJwYWdlX3ZhcmlhbnQiOiJwaG90b3MiLCJsb2NhdGlvbiI6ImdyaWQiLCJhZF9wYXJ0bmVyIjoiZ2V0dHkiLCJhZF9mb3JtYXQiOiJpbmxpbmUiLCJhZF9wbGFjZW1lbnQiOiIxMCIsImFkX2NyZWF0aXZlIjoidmlkZW9fc2VhcmNoXzQiLCJhZF9hY3Rpb24iOiJjbGljayIsImFkX2ltcHJlc3Npb25faWQiOiI5NjBlNjZkOC1kZTY4LTRiMDMtOTU3NC1jYjcxNjJiMjgzNTMiLCJtZWRpYV90eXBlIjoidmlkZW8iLCJxdWVyeSI6Im1hbW1vZ3JhcGh5IG1hY2hpbmUifX0/
+                      - img [ref=f92e484]:
+                        - generic [ref=f92e485]: Get 20% off with code PEXELS20 »
+                  - article [ref=f92e489]:
+                    - link [ref=f92e490] [cursor=pointer]:
+                      - /url: /video/high-tech-cnc-machine-in-modern-factory-30409127/
+                    - button "Play video preview" [ref=f92e495] [cursor=pointer]
+                - generic [ref=f92e500]:
+                  - generic [ref=f92e502]:
+                    - generic [ref=f92e504]:
+                      - link "Create your own mammography machine content with Canva" [ref=f92e505] [cursor=pointer]:
+                        - /url: https://www.canva.com/features/ai-video-generator/?utm_source=pexels&utm_campaign=aigc_pexelscampaign&utm_medium=partner
+                      - link "Create your own mammography machine content with Canva" [ref=f92e507] [cursor=pointer]:
+                        - /url: https://www.canva.com/features/ai-video-generator/?utm_source=pexels&utm_campaign=aigc_pexelscampaign&utm_medium=partner
+                      - link "Create your own mammography machine content with Canva" [ref=f92e509] [cursor=pointer]:
+                        - /url: https://www.canva.com/features/ai-video-generator/?utm_source=pexels&utm_campaign=aigc_pexelscampaign&utm_medium=partner
+                      - link "Create your own mammography machine content with Canva" [ref=f92e511] [cursor=pointer]:
+                        - /url: https://www.canva.com/features/ai-video-generator/?utm_source=pexels&utm_campaign=aigc_pexelscampaign&utm_medium=partner
+                    - link [ref=f92e513] [cursor=pointer]:
+                      - /url: https://www.canva.com/features/ai-video-generator/?utm_source=pexels&utm_campaign=aigc_pexelscampaign&utm_medium=partner
+                      - paragraph [ref=f92e516]: Bring your ideas to life with Canva AI
+                    - link "Get started for free" [ref=f92e517] [cursor=pointer]:
+                      - /url: https://www.canva.com/features/ai-video-generator/?utm_source=pexels&utm_campaign=aigc_pexelscampaign&utm_medium=partner
+                  - article [ref=f92e523]:
+                    - link [ref=f92e524] [cursor=pointer]:
+                      - /url: /video/advanced-industrial-automation-machine-in-action-32386601/
+                    - button "Play video preview" [ref=f92e529] [cursor=pointer]
+                  - article [ref=f92e537]:
+                    - link [ref=f92e538] [cursor=pointer]:
+                      - /url: /video/a-doctor-operating-the-machine-6998092/
+                    - button "Play video preview" [ref=f92e543] [cursor=pointer]
+                  - article [ref=f92e551]:
+                    - link [ref=f92e552] [cursor=pointer]:
+                      - /url: /video/metal-turning-machine_2-20609204/
+                    - button "Play video preview" [ref=f92e557] [cursor=pointer]
+                  - article [ref=f92e565]:
+                    - link [ref=f92e566] [cursor=pointer]:
+                      - /url: /video/aluminium-automatic-machinery-drill-cnc-18883366/
+                    - button "Play video preview" [ref=f92e571] [cursor=pointer]
+                  - article [ref=f92e579]:
+                    - link [ref=f92e580] [cursor=pointer]:
+                      - /url: /video/modern-textile-machine-in-action-30183336/
+                    - button "Play video preview" [ref=f92e585] [cursor=pointer]
+                  - article [ref=f92e593]:
+                    - link [ref=f92e594] [cursor=pointer]:
+                      - /url: /video/industrial-lathe-machine-in-workshop-setting-31228376/
+                    - button "Play video preview" [ref=f92e599] [cursor=pointer]
+                  - article [ref=f92e607]:
+                    - link [ref=f92e608] [cursor=pointer]:
+                      - /url: /video/a-sewing-machine-with-a-white-and-brown-cover-25754187/
+                    - button "Play video preview" [ref=f92e613] [cursor=pointer]
+                - generic [ref=f92e618]:
+                  - article [ref=f92e622]:
+                    - link [ref=f92e623] [cursor=pointer]:
+                      - /url: /video/modern-industrial-factory-tour-with-worker-40005831/
+                    - button "Play video preview" [ref=f92e628] [cursor=pointer]
+                  - article [ref=f92e636]:
+                    - link [ref=f92e637] [cursor=pointer]:
+                      - /url: /video/industrial-machine-in-action-close-up-view-30228463/
+                    - button "Play video preview" [ref=f92e642] [cursor=pointer]
+                  - article [ref=f92e650]:
+                    - link [ref=f92e651] [cursor=pointer]:
+                      - /url: /video/engineer-operating-cnc-machine-in-modern-workshop-31016925/
+                    - button "Play video preview" [ref=f92e656] [cursor=pointer]
+                  - article [ref=f92e664]:
+                    - link [ref=f92e665] [cursor=pointer]:
+                      - /url: /video/precision-engineering-with-cnc-machine-in-workshop-31575749/
+                    - button "Play video preview" [ref=f92e670] [cursor=pointer]
+                  - article [ref=f92e678]:
+                    - link [ref=f92e679] [cursor=pointer]:
+                      - /url: /video/precision-diy-lathe-machine-on-green-screen-30642229/
+                    - button "Play video preview" [ref=f92e684] [cursor=pointer]
+                  - article [ref=f92e692]:
+                    - link [ref=f92e693] [cursor=pointer]:
+                      - /url: /video/cnc-machine-processing-metal-tube-efficiently-38579529/
+                    - button "Play video preview" [ref=f92e698] [cursor=pointer]
+                  - article [ref=f92e706]:
+                    - link [ref=f92e707] [cursor=pointer]:
+                      - /url: /video/a-pregnant-woman-undergoing-ultrasound-scanning-7089947/
+                    - button "Play video preview" [ref=f92e712] [cursor=pointer]
+              - button "Load More" [ref=f92e718] [cursor=pointer]
+            - navigation [ref=f92e721]:
+              - generic [ref=f92e723]:
+                - link "1" [ref=f92e725]:
+                  - /url: /search/videos/mammography%20machine/
+                - link "2" [ref=f92e728] [cursor=pointer]:
+                  - /url: /search/videos/mammography%20machine/?page=2
+                - link "3" [ref=f92e731] [cursor=pointer]:
+                  - /url: /search/videos/mammography%20machine/?page=3
+                - link "4" [ref=f92e734] [cursor=pointer]:
+                  - /url: /search/videos/mammography%20machine/?page=4
+                - link "5" [ref=f92e737] [cursor=pointer]:
+                  - /url: /search/videos/mammography%20machine/?page=5
+                - link "6" [ref=f92e740] [cursor=pointer]:
+                  - /url: /search/videos/mammography%20machine/?page=6
+                - link "Next" [ref=f92e743] [cursor=pointer]:
+                  - /url: /search/videos/mammography%20machine/?page=2
+    - contentinfo [ref=f92e747]:
+      - separator [ref=f92e748]
+      - generic [ref=f92e749]:
+        - generic [ref=f92e750]:
+          - heading "Where stories come together." [level=2] [ref=f92e751]
+          - generic [ref=f92e752]:
+            - link "Download on iOS" [ref=f92e753] [cursor=pointer]:
+              - /url: https://itunes.apple.com/us/app/pexels/id1434330413/
+            - link "Download on Android" [ref=f92e756] [cursor=pointer]:
+              - /url: https://play.google.com/store/apps/details?id=com.pexels.app
+          - list [ref=f92e759]:
+            - listitem [ref=f92e760]:
+              - link "Instagram" [ref=f92e761] [cursor=pointer]:
+                - /url: https://www.instagram.com/pexels/
+            - listitem [ref=f92e764]:
+              - link "Threads" [ref=f92e765] [cursor=pointer]:
+                - /url: https://www.threads.net/@pexels/
+            - listitem [ref=f92e768]:
+              - link "YouTube" [ref=f92e769] [cursor=pointer]:
+                - /url: https://www.youtube.com/pexelsphotos/
+            - listitem [ref=f92e772]:
+              - link "TikTok" [ref=f92e773] [cursor=pointer]:
+                - /url: https://www.tiktok.com/@pexels/
+            - listitem [ref=f92e776]:
+              - link "LinkedIn" [ref=f92e777] [cursor=pointer]:
+                - /url: https://www.linkedin.com/company/pexels/
+            - listitem [ref=f92e780]:
+              - link "X" [ref=f92e781] [cursor=pointer]:
+                - /url: https://x.com/pexels/
+        - generic [ref=f92e784]:
+          - list [ref=f92e785]:
+            - heading "Pexels" [level=3] [ref=f92e786]
+            - listitem [ref=f92e787]:
+              - link "Free Stock Photos" [ref=f92e788] [cursor=pointer]:
+                - /url: /
+            - listitem [ref=f92e789]:
+              - link "Free Videos" [ref=f92e790] [cursor=pointer]:
+                - /url: /videos/
+            - listitem [ref=f92e791]:
+              - link "Popular searches" [ref=f92e792] [cursor=pointer]:
+                - /url: /popular-searches/
+            - listitem [ref=f92e793]:
+              - link "Collections" [ref=f92e794] [cursor=pointer]:
+                - /url: /discover/
+            - listitem [ref=f92e795]:
+              - link "Challenges" [ref=f92e796] [cursor=pointer]:
+                - /url: /challenges/
+            - listitem [ref=f92e797]:
+              - link "Leaderboard" [ref=f92e798] [cursor=pointer]:
+                - /url: /leaderboard/
+            - listitem [ref=f92e799]:
+              - link "Other plugins & apps" [ref=f92e800] [cursor=pointer]:
+                - /url: /pro/
+          - list [ref=f92e801]:
+            - heading "Company" [level=3] [ref=f92e802]
+            - listitem [ref=f92e803]:
+              - link "About" [ref=f92e804] [cursor=pointer]:
+                - /url: /about/
+            - listitem [ref=f92e805]:
+              - link "Blog" [ref=f92e806] [cursor=pointer]:
+                - /url: /blog/
+            - listitem [ref=f92e807]:
+              - link "Help Center" [ref=f92e808] [cursor=pointer]:
+                - /url: https://help.pexels.com/hc/en-us
+            - listitem [ref=f92e809]:
+              - link "Report content" [ref=f92e810] [cursor=pointer]:
+                - /url: /report/
+            - listitem [ref=f92e811]:
+              - link "Become a Hero" [ref=f92e812] [cursor=pointer]:
+                - /url: /hero/
+            - listitem [ref=f92e813]:
+              - link "Partner with Pexels" [ref=f92e814] [cursor=pointer]:
+                - /url: /become-a-partner/
+            - listitem [ref=f92e815]:
+              - link "Image & Video API" [ref=f92e816] [cursor=pointer]:
+                - /url: /api/
+            - listitem [ref=f92e817]: Sign Up
+        - list [ref=f92e818]:
+          - listitem [ref=f92e819]:
+            - heading "Free Stock Photos" [level=3] [ref=f92e820]
+          - listitem [ref=f92e821]:
+            - generic [ref=f92e823]:
+              - link "4K wallpaper" [ref=f92e825] [cursor=pointer]:
+                - /url: /search/4k%20wallpaper/
+              - link "Nature photos" [ref=f92e826] [cursor=pointer]:
+                - /url: /search/nature/
+              - link "Desktop wallpaper" [ref=f92e827] [cursor=pointer]:
+                - /url: /search/desktop%20wallpaper/
+              - link "Flower photos" [ref=f92e828] [cursor=pointer]:
+                - /url: /search/flowers/
+              - link "HD wallpaper" [ref=f92e829] [cursor=pointer]:
+                - /url: /search/hd%20wallpaper/
+              - link "Mobile wallpaper" [ref=f92e830] [cursor=pointer]:
+                - /url: /search/mobile%20wallpaper/
+              - link "Dark photos" [ref=f92e831] [cursor=pointer]:
+                - /url: /search/dark/
+              - link "Black and white photography" [ref=f92e832] [cursor=pointer]:
+                - /url: /search/black%20and%20white/
+              - link "Black background" [ref=f92e833] [cursor=pointer]:
+                - /url: /search/black%20background/
+              - link "Sunset photos" [ref=f92e834] [cursor=pointer]:
+                - /url: /search/sunset/
+              - link "Landscape photos" [ref=f92e835] [cursor=pointer]:
+                - /url: /search/landscape/
+              - link "Cat photos" [ref=f92e836] [cursor=pointer]:
+                - /url: /search/cat/
+      - generic [ref=f92e838]:
+        - generic [ref=f92e839]: © 2026 Pexels
+        - generic [ref=f92e841]:
+          - link "Terms of Use" [ref=f92e843] [cursor=pointer]:
+            - /url: /terms-of-service/
+          - link "Privacy Policy" [ref=f92e844] [cursor=pointer]:
+            - /url: /privacy-policy/
+          - link "License" [ref=f92e845] [cursor=pointer]:
+            - /url: /license/
+          - link "Imprint" [ref=f92e846] [cursor=pointer]:
+            - /url: /imprint/
+          - link "Cookies Policy" [ref=f92e847] [cursor=pointer]:
+            - /url: /cookies/
+        - button "English" [ref=f92e850] [cursor=pointer]
+      - separator [ref=f92e855]
+  - alert [ref=f92e856]

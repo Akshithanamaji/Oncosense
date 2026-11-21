@@ -1,0 +1,351 @@
+- generic [active] [ref=f49e1]:
+  - generic [ref=f49e3]:
+    - navigation [ref=f49e6]:
+      - link [ref=f49e8] [cursor=pointer]:
+        - /url: /
+      - search [ref=f49e13]:
+        - generic [ref=f49e14]:
+          - button "Photos" [ref=f49e16] [cursor=pointer]
+          - searchbox "Search for free photos" [ref=f49e24]
+          - button [ref=f49e26] [cursor=pointer]
+      - generic [ref=f49e30]:
+        - link "Explore" [ref=f49e32] [cursor=pointer]:
+          - /url: /discover/
+        - link "License" [ref=f49e36] [cursor=pointer]:
+          - /url: /license/
+        - button [ref=f49e39] [cursor=pointer]
+        - button "Join" [ref=f49e42] [cursor=pointer]
+    - main [ref=f49e45]:
+      - separator [ref=f49e46]
+      - generic [ref=f49e47]:
+        - main [ref=f49e48]:
+          - separator [ref=f49e49]
+          - generic [ref=f49e50]:
+            - generic [ref=f49e51]:
+              - link [ref=f49e52] [cursor=pointer]:
+                - /url: /@cottonbro/
+                - img "cottonbro studio" [ref=f49e56]
+              - generic [ref=f49e57]:
+                - link [ref=f49e58] [cursor=pointer]:
+                  - /url: /@cottonbro/
+                  - heading "cottonbro studio" [level=5] [ref=f49e59]
+                - paragraph [ref=f49e60]:
+                  - text: 97.2B views
+                  - generic [ref=f49e61]: •
+                  - text: 264.2M downloads
+            - generic [ref=f49e62]:
+              - generic [ref=f49e63]:
+                - link "Add Text" [ref=f49e64] [cursor=pointer]:
+                  - /url: https://www.canva.com/content-partner/?utm_medium=acquisitions&utm_source=pexels&utm_campaign=predownload%20button&utm_content=edit%20in%20canva%20action%3Dadd_text_video&file-url=https%3A%2F%2Fvideos.pexels.com%2Fvideo-files%2F7579841%2F7579841-uhd_2732_1440_25fps.mp4&external-id=7579841&onboarding-flow=add-text-to-photo
+                - link "Convert to GIF" [ref=f49e69] [cursor=pointer]:
+                  - /url: https://www.canva.com/content-partner/?utm_medium=acquisitions&utm_source=pexels&utm_campaign=predownload%20button&utm_content=edit%20in%20canva%20action%3Dconvert_to_gif&file-url=https%3A%2F%2Fvideos.pexels.com%2Fvideo-files%2F7579841%2F7579841-uhd_2732_1440_25fps.mp4&external-id=7579841&onboarding-flow=convert-to-gif
+                - link "Edit" [ref=f49e76] [cursor=pointer]:
+                  - /url: https://www.canva.com/content-partner/?utm_medium=acquisitions&utm_source=pexels&utm_campaign=predownload%20button&utm_content=edit%20in%20canva&file-url=https%3A%2F%2Fvideos.pexels.com%2Fvideo-files%2F7579841%2F7579841-uhd_2732_1440_25fps.mp4&external-id=7579841
+              - generic [ref=f49e83]:
+                - button [ref=f49e84] [cursor=pointer]
+                - button "23" [ref=f49e88] [cursor=pointer]
+                - generic [ref=f49e93]:
+                  - link "Free download" [ref=f49e94] [cursor=pointer]:
+                    - /url: https://www.pexels.com/download/video/7579841/
+                  - button [ref=f49e98] [cursor=pointer]
+          - separator [ref=f49e103]
+        - generic [ref=f49e104]:
+          - region "video player" [ref=f49e113]:
+            - generic:
+              - generic:
+                - generic:
+                  - button "pause"
+              - generic:
+                - generic [ref=f49e118] [cursor=pointer]:
+                  - slider "seek" [ref=f49e124]: "0.0763997080291971"
+                  - generic: en 0:00
+                - generic [ref=f49e125]:
+                  - generic:
+                    - button "pause" [ref=f49e126] [cursor=pointer]:
+                      - generic [ref=f49e134]:
+                        - generic [aria-hidden]:
+                          - generic: Pause
+                    - button "playback time" [ref=f49e135]: 0:02 / 0:27
+                    - button "Playback rate 1" [ref=f49e137] [cursor=pointer]:
+                      - generic: 1x
+                      - generic [ref=f49e138]:
+                        - generic [aria-hidden]: Playback rate
+                    - button "enter fullscreen mode" [ref=f49e139] [cursor=pointer]:
+                      - generic [ref=f49e146]:
+                        - generic [aria-hidden]:
+                          - generic: Enter fullscreen mode
+          - generic [ref=f49e148]:
+            - link "cottonbro studio cottonbro studio check out our collections, grouped by topics. your donation creates inspiration😉 hello@omycotton.com" [ref=f49e149] [cursor=pointer]:
+              - /url: /@cottonbro/
+              - img "cottonbro studio" [ref=f49e153]
+              - generic [ref=f49e154]:
+                - heading "cottonbro studio" [level=5] [ref=f49e155]
+                - paragraph [ref=f49e157]:
+                  - generic [ref=f49e158]: check out our collections, grouped by topics. your donation creates inspiration😉 hello@omycotton.com
+            - generic [ref=f49e159]:
+              - button "Follow" [ref=f49e160] [cursor=pointer]
+              - link "Donate" [ref=f49e165] [cursor=pointer]:
+                - /url: https://www.paypal.com/cgi-bin/webscr?business=dasha%40omycotton.com&cmd=_donations&currency_code=USD&item_name=cottonbro+studio+-+Pexels&lc=US&return=https://pexels.com/video/doctor-reading-an-x-ray-scan-7579841/
+          - generic [ref=f49e169]:
+            - generic [ref=f49e171]:
+              - generic [ref=f49e173]:
+                - paragraph [ref=f49e174]: License
+                - link [ref=f49e175] [cursor=pointer]:
+                  - /url: /license/
+                  - paragraph [ref=f49e176]: Free
+              - generic [ref=f49e179]:
+                - paragraph [ref=f49e180]: Dimensions
+                - paragraph [ref=f49e181]: 4096x2160
+              - generic [ref=f49e182]:
+                - paragraph [ref=f49e183]: Aspect Ratio
+                - paragraph [ref=f49e184]: 256:135
+              - generic [ref=f49e185]:
+                - paragraph [ref=f49e186]: Duration
+                - paragraph [ref=f49e187]: 30:27
+              - generic [ref=f49e188]:
+                - paragraph [ref=f49e189]: Date
+                - paragraph [ref=f49e190]: Apr 20, 2021
+              - generic [ref=f49e191]:
+                - paragraph [ref=f49e192]: Downloads
+                - paragraph [ref=f49e193]: 3.1K
+              - generic [ref=f49e194]:
+                - paragraph [ref=f49e195]: Views
+                - paragraph [ref=f49e196]: 3.2M
+              - generic [ref=f49e197]:
+                - paragraph [ref=f49e198]: Likes
+                - paragraph [ref=f49e199]: "23"
+            - generic [ref=f49e202]:
+              - button "More info" [ref=f49e203] [cursor=pointer]
+              - button "Share" [ref=f49e207] [cursor=pointer]
+              - link "Report media" [ref=f49e211] [cursor=pointer]:
+                - /url: /report/?slug=doctor-reading-an-x-ray-scan-7579841
+          - generic [ref=f49e215]:
+            - paragraph [ref=f49e216]: Description
+            - heading "A doctor analyzes an X-ray to assess a patient's medical condition." [level=1] [ref=f49e217]
+          - separator [ref=f49e218]
+          - heading "More like this" [level=3] [ref=f49e219]
+          - generic [ref=f49e221]:
+            - link "Healthcare Professional" [ref=f49e223] [cursor=pointer]:
+              - /url: /search/videos/healthcare%20professional/
+            - link "Radiology" [ref=f49e226] [cursor=pointer]:
+              - /url: /search/videos/radiology/
+            - link "Doctor Talking" [ref=f49e229] [cursor=pointer]:
+              - /url: /search/videos/doctor%20talking/
+            - link "Lung" [ref=f49e232] [cursor=pointer]:
+              - /url: /search/videos/lung/
+            - link "Healthcare Worker" [ref=f49e235] [cursor=pointer]:
+              - /url: /search/videos/healthcare%20worker/
+            - link "Female Doctor" [ref=f49e238] [cursor=pointer]:
+              - /url: /search/videos/female%20doctor/
+            - link "Nursing Student" [ref=f49e241] [cursor=pointer]:
+              - /url: /search/videos/nursing%20student/
+            - link "Physician" [ref=f49e244] [cursor=pointer]:
+              - /url: /search/videos/physician/
+            - link "Lungs" [ref=f49e247] [cursor=pointer]:
+              - /url: /search/videos/lungs/
+            - link "Diagnosis" [ref=f49e250] [cursor=pointer]:
+              - /url: /search/videos/diagnosis/
+            - link "Difficulty Breathing" [ref=f49e253] [cursor=pointer]:
+              - /url: /search/videos/difficulty%20breathing/
+            - link "Medical Student" [ref=f49e256] [cursor=pointer]:
+              - /url: /search/videos/medical%20student/
+            - link "Asthma" [ref=f49e259] [cursor=pointer]:
+              - /url: /search/videos/asthma/
+            - link "Ct Scan" [ref=f49e262] [cursor=pointer]:
+              - /url: /search/videos/ct%20scan/
+            - link "Doctor Talking To Patient" [ref=f49e265] [cursor=pointer]:
+              - /url: /search/videos/doctor%20talking%20to%20patient/
+            - img [ref=f49e268] [cursor=pointer]
+          - generic [ref=f49e271]:
+            - generic [ref=f49e273]:
+              - generic [ref=f49e274]:
+                - article [ref=f49e278]:
+                  - link [ref=f49e279] [cursor=pointer]:
+                    - /url: /video/a-female-doctor-smiling-while-looking-at-a-medical-chart-7579336/
+                  - button "Play video preview" [ref=f49e284] [cursor=pointer]
+                - article [ref=f49e292]:
+                  - link [ref=f49e293] [cursor=pointer]:
+                    - /url: /video/a-doctor-writing-on-a-paper-8375617/
+                  - button "Play video preview" [ref=f49e298] [cursor=pointer]
+                - article [ref=f49e306]:
+                  - link [ref=f49e307] [cursor=pointer]:
+                    - /url: /video/a-doctor-having-consultation-8375608/
+                  - button "Play video preview" [ref=f49e312] [cursor=pointer]
+                - article [ref=f49e320]:
+                  - link [ref=f49e321] [cursor=pointer]:
+                    - /url: /video/a-doctor-showing-a-coronavirus-test-result-7579494/
+                  - button "Play video preview" [ref=f49e326] [cursor=pointer]
+              - generic [ref=f49e331]:
+                - article [ref=f49e335]:
+                  - link [ref=f49e336] [cursor=pointer]:
+                    - /url: /video/doctor-holding-ampule-with-a-liquid-7580473/
+                  - button "Play video preview" [ref=f49e341] [cursor=pointer]
+                - article [ref=f49e349]:
+                  - link [ref=f49e350] [cursor=pointer]:
+                    - /url: /video/a-doctor-having-online-consultation-8375660/
+                  - button "Play video preview" [ref=f49e355] [cursor=pointer]
+                - article [ref=f49e363]:
+                  - link [ref=f49e364] [cursor=pointer]:
+                    - /url: /video/a-doctor-showing-a-coronavirus-test-result-7579334/
+                  - button "Play video preview" [ref=f49e369] [cursor=pointer]
+                - article [ref=f49e377]:
+                  - link [ref=f49e378] [cursor=pointer]:
+                    - /url: /video/doctor-showing-a-glass-ampoule-7580475/
+                  - button "Play video preview" [ref=f49e383] [cursor=pointer]
+              - generic [ref=f49e388]:
+                - generic [ref=f49e390]:
+                  - generic [ref=f49e392]:
+                    - link "Create your own video content with Canva" [ref=f49e393] [cursor=pointer]:
+                      - /url: https://www.canva.com/features/ai-video-generator/?utm_source=pexels&utm_campaign=aigc_pexelscampaign&utm_medium=partner
+                    - link "Create your own video content with Canva" [ref=f49e395] [cursor=pointer]:
+                      - /url: https://www.canva.com/features/ai-video-generator/?utm_source=pexels&utm_campaign=aigc_pexelscampaign&utm_medium=partner
+                    - link "Create your own video content with Canva" [ref=f49e397] [cursor=pointer]:
+                      - /url: https://www.canva.com/features/ai-video-generator/?utm_source=pexels&utm_campaign=aigc_pexelscampaign&utm_medium=partner
+                    - link "Create your own video content with Canva" [ref=f49e399] [cursor=pointer]:
+                      - /url: https://www.canva.com/features/ai-video-generator/?utm_source=pexels&utm_campaign=aigc_pexelscampaign&utm_medium=partner
+                  - link [ref=f49e401] [cursor=pointer]:
+                    - /url: https://www.canva.com/features/ai-video-generator/?utm_source=pexels&utm_campaign=aigc_pexelscampaign&utm_medium=partner
+                    - paragraph [ref=f49e404]: Bring your ideas to life with Canva AI
+                  - link "Get started for free" [ref=f49e405] [cursor=pointer]:
+                    - /url: https://www.canva.com/features/ai-video-generator/?utm_source=pexels&utm_campaign=aigc_pexelscampaign&utm_medium=partner
+                - article [ref=f49e411]:
+                  - link [ref=f49e412] [cursor=pointer]:
+                    - /url: /video/a-female-doctor-talking-to-a-patient-7579331/
+                  - button "Play video preview" [ref=f49e417] [cursor=pointer]
+              - generic [ref=f49e422]:
+                - article [ref=f49e426]:
+                  - link [ref=f49e427] [cursor=pointer]:
+                    - /url: /video/a-doctor-having-online-consultation-on-her-laptop-8375486/
+                  - button "Play video preview" [ref=f49e432] [cursor=pointer]
+                - article [ref=f49e440]:
+                  - link [ref=f49e441] [cursor=pointer]:
+                    - /url: /video/doctor-showing-the-x-ray-7579843/
+                  - button "Play video preview" [ref=f49e446] [cursor=pointer]
+                - article [ref=f49e454]:
+                  - link [ref=f49e455] [cursor=pointer]:
+                    - /url: /video/doctor-talking-to-the-patient-7579341/
+                  - button "Play video preview" [ref=f49e460] [cursor=pointer]
+            - button "Load More" [ref=f49e466] [cursor=pointer]
+      - separator [ref=f49e469]
+    - contentinfo [ref=f49e470]:
+      - separator [ref=f49e471]
+      - generic [ref=f49e472]:
+        - generic [ref=f49e473]:
+          - heading "Where stories come together." [level=2] [ref=f49e474]
+          - generic [ref=f49e475]:
+            - link "Download on iOS" [ref=f49e476] [cursor=pointer]:
+              - /url: https://itunes.apple.com/us/app/pexels/id1434330413/
+            - link "Download on Android" [ref=f49e479] [cursor=pointer]:
+              - /url: https://play.google.com/store/apps/details?id=com.pexels.app
+          - list [ref=f49e482]:
+            - listitem [ref=f49e483]:
+              - link "Instagram" [ref=f49e484] [cursor=pointer]:
+                - /url: https://www.instagram.com/pexels/
+            - listitem [ref=f49e487]:
+              - link "Threads" [ref=f49e488] [cursor=pointer]:
+                - /url: https://www.threads.net/@pexels/
+            - listitem [ref=f49e491]:
+              - link "YouTube" [ref=f49e492] [cursor=pointer]:
+                - /url: https://www.youtube.com/pexelsphotos/
+            - listitem [ref=f49e495]:
+              - link "TikTok" [ref=f49e496] [cursor=pointer]:
+                - /url: https://www.tiktok.com/@pexels/
+            - listitem [ref=f49e499]:
+              - link "LinkedIn" [ref=f49e500] [cursor=pointer]:
+                - /url: https://www.linkedin.com/company/pexels/
+            - listitem [ref=f49e503]:
+              - link "X" [ref=f49e504] [cursor=pointer]:
+                - /url: https://x.com/pexels/
+        - generic [ref=f49e507]:
+          - list [ref=f49e508]:
+            - heading "Pexels" [level=3] [ref=f49e509]
+            - listitem [ref=f49e510]:
+              - link "Free Stock Photos" [ref=f49e511] [cursor=pointer]:
+                - /url: /
+            - listitem [ref=f49e512]:
+              - link "Free Videos" [ref=f49e513] [cursor=pointer]:
+                - /url: /videos/
+            - listitem [ref=f49e514]:
+              - link "Popular searches" [ref=f49e515] [cursor=pointer]:
+                - /url: /popular-searches/
+            - listitem [ref=f49e516]:
+              - link "Collections" [ref=f49e517] [cursor=pointer]:
+                - /url: /discover/
+            - listitem [ref=f49e518]:
+              - link "Challenges" [ref=f49e519] [cursor=pointer]:
+                - /url: /challenges/
+            - listitem [ref=f49e520]:
+              - link "Leaderboard" [ref=f49e521] [cursor=pointer]:
+                - /url: /leaderboard/
+            - listitem [ref=f49e522]:
+              - link "Other plugins & apps" [ref=f49e523] [cursor=pointer]:
+                - /url: /pro/
+          - list [ref=f49e524]:
+            - heading "Company" [level=3] [ref=f49e525]
+            - listitem [ref=f49e526]:
+              - link "About" [ref=f49e527] [cursor=pointer]:
+                - /url: /about/
+            - listitem [ref=f49e528]:
+              - link "Blog" [ref=f49e529] [cursor=pointer]:
+                - /url: /blog/
+            - listitem [ref=f49e530]:
+              - link "Help Center" [ref=f49e531] [cursor=pointer]:
+                - /url: https://help.pexels.com/hc/en-us
+            - listitem [ref=f49e532]:
+              - link "Report content" [ref=f49e533] [cursor=pointer]:
+                - /url: /report/
+            - listitem [ref=f49e534]:
+              - link "Become a Hero" [ref=f49e535] [cursor=pointer]:
+                - /url: /hero/
+            - listitem [ref=f49e536]:
+              - link "Partner with Pexels" [ref=f49e537] [cursor=pointer]:
+                - /url: /become-a-partner/
+            - listitem [ref=f49e538]:
+              - link "Image & Video API" [ref=f49e539] [cursor=pointer]:
+                - /url: /api/
+            - listitem [ref=f49e540]: Sign Up
+        - list [ref=f49e541]:
+          - listitem [ref=f49e542]:
+            - heading "Free Stock Photos" [level=3] [ref=f49e543]
+          - listitem [ref=f49e544]:
+            - generic [ref=f49e546]:
+              - link "4K wallpaper" [ref=f49e548] [cursor=pointer]:
+                - /url: /search/4k%20wallpaper/
+              - link "Nature photos" [ref=f49e549] [cursor=pointer]:
+                - /url: /search/nature/
+              - link "Desktop wallpaper" [ref=f49e550] [cursor=pointer]:
+                - /url: /search/desktop%20wallpaper/
+              - link "Flower photos" [ref=f49e551] [cursor=pointer]:
+                - /url: /search/flowers/
+              - link "HD wallpaper" [ref=f49e552] [cursor=pointer]:
+                - /url: /search/hd%20wallpaper/
+              - link "Mobile wallpaper" [ref=f49e553] [cursor=pointer]:
+                - /url: /search/mobile%20wallpaper/
+              - link "Dark photos" [ref=f49e554] [cursor=pointer]:
+                - /url: /search/dark/
+              - link "Black and white photography" [ref=f49e555] [cursor=pointer]:
+                - /url: /search/black%20and%20white/
+              - link "Black background" [ref=f49e556] [cursor=pointer]:
+                - /url: /search/black%20background/
+              - link "Sunset photos" [ref=f49e557] [cursor=pointer]:
+                - /url: /search/sunset/
+              - link "Landscape photos" [ref=f49e558] [cursor=pointer]:
+                - /url: /search/landscape/
+              - link "Cat photos" [ref=f49e559] [cursor=pointer]:
+                - /url: /search/cat/
+      - generic [ref=f49e561]:
+        - generic [ref=f49e562]: © 2026 Pexels
+        - generic [ref=f49e564]:
+          - link "Terms of Use" [ref=f49e566] [cursor=pointer]:
+            - /url: /terms-of-service/
+          - link "Privacy Policy" [ref=f49e567] [cursor=pointer]:
+            - /url: /privacy-policy/
+          - link "License" [ref=f49e568] [cursor=pointer]:
+            - /url: /license/
+          - link "Imprint" [ref=f49e569] [cursor=pointer]:
+            - /url: /imprint/
+          - link "Cookies Policy" [ref=f49e570] [cursor=pointer]:
+            - /url: /cookies/
+        - button "English" [ref=f49e573] [cursor=pointer]
+      - separator [ref=f49e578]
+  - alert [ref=f49e579]

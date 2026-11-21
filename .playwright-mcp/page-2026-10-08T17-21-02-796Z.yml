@@ -1,0 +1,353 @@
+- generic [active] [ref=f130e1]:
+  - generic [ref=f130e3]:
+    - navigation [ref=f130e6]:
+      - link [ref=f130e8] [cursor=pointer]:
+        - /url: /
+      - search [ref=f130e13]:
+        - generic [ref=f130e14]:
+          - button "Photos" [ref=f130e16] [cursor=pointer]
+          - searchbox "Search for free photos" [ref=f130e24]
+          - button [ref=f130e26] [cursor=pointer]
+      - generic [ref=f130e30]:
+        - link "Explore" [ref=f130e32] [cursor=pointer]:
+          - /url: /discover/
+        - link "License" [ref=f130e36] [cursor=pointer]:
+          - /url: /license/
+        - button [ref=f130e39] [cursor=pointer]
+        - button "Join" [ref=f130e42] [cursor=pointer]
+    - main [ref=f130e45]:
+      - separator [ref=f130e46]
+      - generic [ref=f130e47]:
+        - main [ref=f130e48]:
+          - separator [ref=f130e49]
+          - generic [ref=f130e50]:
+            - generic [ref=f130e51]:
+              - link [ref=f130e52] [cursor=pointer]:
+                - /url: /@olia-danilevich/
+                - img "olia danilevich" [ref=f130e56]
+              - generic [ref=f130e57]:
+                - link [ref=f130e58] [cursor=pointer]:
+                  - /url: /@olia-danilevich/
+                  - heading "olia danilevich" [level=5] [ref=f130e59]
+                - paragraph [ref=f130e60]:
+                  - text: 2.9B views
+                  - generic [ref=f130e61]: •
+                  - text: 10.8M downloads
+            - generic [ref=f130e62]:
+              - generic [ref=f130e63]:
+                - link "Add Text" [ref=f130e64] [cursor=pointer]:
+                  - /url: https://www.canva.com/content-partner/?utm_medium=acquisitions&utm_source=pexels&utm_campaign=predownload%20button&utm_content=edit%20in%20canva%20action%3Dadd_text_video&file-url=https%3A%2F%2Fvideos.pexels.com%2Fvideo-files%2F8531295%2F8531295-hd_1920_1080_25fps.mp4&external-id=8531295&onboarding-flow=add-text-to-photo
+                - link "Convert to GIF" [ref=f130e69] [cursor=pointer]:
+                  - /url: https://www.canva.com/content-partner/?utm_medium=acquisitions&utm_source=pexels&utm_campaign=predownload%20button&utm_content=edit%20in%20canva%20action%3Dconvert_to_gif&file-url=https%3A%2F%2Fvideos.pexels.com%2Fvideo-files%2F8531295%2F8531295-hd_1920_1080_25fps.mp4&external-id=8531295&onboarding-flow=convert-to-gif
+                - link "Edit" [ref=f130e76] [cursor=pointer]:
+                  - /url: https://www.canva.com/content-partner/?utm_medium=acquisitions&utm_source=pexels&utm_campaign=predownload%20button&utm_content=edit%20in%20canva&file-url=https%3A%2F%2Fvideos.pexels.com%2Fvideo-files%2F8531295%2F8531295-hd_1920_1080_25fps.mp4&external-id=8531295
+              - generic [ref=f130e83]:
+                - button [ref=f130e84] [cursor=pointer]
+                - button "10" [ref=f130e88] [cursor=pointer]
+                - generic [ref=f130e93]:
+                  - link "Free download" [ref=f130e94] [cursor=pointer]:
+                    - /url: https://www.pexels.com/download/video/8531295/
+                  - button [ref=f130e98] [cursor=pointer]
+          - separator [ref=f130e103]
+        - generic [ref=f130e104]:
+          - region "video player" [ref=f130e113]:
+            - generic:
+              - generic:
+                - generic:
+                  - status: media loading
+                - generic:
+                  - button "pause"
+              - generic:
+                - generic [ref=f130e118] [cursor=pointer]:
+                  - slider "seek" [ref=f130e123]: "0"
+                  - generic: en 0:00
+                - generic [ref=f130e124]:
+                  - generic:
+                    - button "pause" [ref=f130e125] [cursor=pointer]:
+                      - generic [ref=f130e133]:
+                        - generic [aria-hidden]:
+                          - generic: Pause
+                    - button "playback time" [ref=f130e134]: 0:00 / 0:29
+                    - button "Playback rate 1" [ref=f130e136] [cursor=pointer]:
+                      - generic: 1x
+                      - generic [ref=f130e137]:
+                        - generic [aria-hidden]: Playback rate
+                    - button "enter fullscreen mode" [ref=f130e138] [cursor=pointer]:
+                      - generic [ref=f130e145]:
+                        - generic [aria-hidden]:
+                          - generic: Enter fullscreen mode
+          - generic [ref=f130e147]:
+            - link "olia danilevich olia danilevich Video creator" [ref=f130e148] [cursor=pointer]:
+              - /url: /@olia-danilevich/
+              - img "olia danilevich" [ref=f130e152]
+              - generic [ref=f130e153]:
+                - heading "olia danilevich" [level=5] [ref=f130e154]
+                - paragraph [ref=f130e156]:
+                  - generic [ref=f130e157]: Video creator
+            - generic [ref=f130e158]:
+              - button "Follow" [ref=f130e159] [cursor=pointer]
+              - link "Donate" [ref=f130e164] [cursor=pointer]:
+                - /url: https://www.paypal.com/cgi-bin/webscr?business=olia.danilevich%40gmail.com&cmd=_donations&currency_code=USD&item_name=olia+danilevich+-+Pexels&lc=US&return=https://pexels.com/video/a-woman-using-microscope-8531295/
+          - generic [ref=f130e168]:
+            - generic [ref=f130e170]:
+              - generic [ref=f130e172]:
+                - paragraph [ref=f130e173]: License
+                - link [ref=f130e174] [cursor=pointer]:
+                  - /url: /license/
+                  - paragraph [ref=f130e175]: Free
+              - generic [ref=f130e178]:
+                - paragraph [ref=f130e179]: Dimensions
+                - paragraph [ref=f130e180]: 1920x1080
+              - generic [ref=f130e181]:
+                - paragraph [ref=f130e182]: Aspect Ratio
+                - paragraph [ref=f130e183]: 16:9
+              - generic [ref=f130e184]:
+                - paragraph [ref=f130e185]: Duration
+                - paragraph [ref=f130e186]: 30:29
+              - generic [ref=f130e187]:
+                - paragraph [ref=f130e188]: Date
+                - paragraph [ref=f130e189]: Jun 28, 2021
+              - generic [ref=f130e190]:
+                - paragraph [ref=f130e191]: Downloads
+                - paragraph [ref=f130e192]: 1.4K
+              - generic [ref=f130e193]:
+                - paragraph [ref=f130e194]: Views
+                - paragraph [ref=f130e195]: 342.6K
+              - generic [ref=f130e196]:
+                - paragraph [ref=f130e197]: Likes
+                - paragraph [ref=f130e198]: "10"
+            - generic [ref=f130e201]:
+              - button "More info" [ref=f130e202] [cursor=pointer]
+              - button "Share" [ref=f130e206] [cursor=pointer]
+              - link "Report media" [ref=f130e210] [cursor=pointer]:
+                - /url: /report/?slug=a-woman-using-microscope-8531295
+          - generic [ref=f130e214]:
+            - paragraph [ref=f130e215]: Description
+            - heading "Woman in lab coat and mask examines samples under a microscope indoors." [level=1] [ref=f130e216]
+          - separator [ref=f130e217]
+          - heading "More like this" [level=3] [ref=f130e218]
+          - generic [ref=f130e220]:
+            - link "Scientist Research" [ref=f130e222] [cursor=pointer]:
+              - /url: /search/videos/scientist%20research/
+            - link "Researcher" [ref=f130e225] [cursor=pointer]:
+              - /url: /search/videos/researcher/
+            - link "Scientist" [ref=f130e228] [cursor=pointer]:
+              - /url: /search/videos/scientist/
+            - link "Scientific Research" [ref=f130e231] [cursor=pointer]:
+              - /url: /search/videos/scientific%20research/
+            - link "Lab Testing" [ref=f130e234] [cursor=pointer]:
+              - /url: /search/videos/lab%20testing/
+            - link "Medical Laboratory" [ref=f130e237] [cursor=pointer]:
+              - /url: /search/videos/medical%20laboratory/
+            - link "Medical Lab" [ref=f130e240] [cursor=pointer]:
+              - /url: /search/videos/medical%20lab/
+            - link "Laboratory Scientist" [ref=f130e243] [cursor=pointer]:
+              - /url: /search/videos/laboratory%20scientist/
+            - link "Medical Research" [ref=f130e246] [cursor=pointer]:
+              - /url: /search/videos/medical%20research/
+            - link "Laboratory Research" [ref=f130e249] [cursor=pointer]:
+              - /url: /search/videos/laboratory%20research/
+            - link "Lab Test" [ref=f130e252] [cursor=pointer]:
+              - /url: /search/videos/lab%20test/
+            - link "Scientific" [ref=f130e255] [cursor=pointer]:
+              - /url: /search/videos/scientific/
+            - link "Microscope" [ref=f130e258] [cursor=pointer]:
+              - /url: /search/videos/microscope/
+            - link "Dermatologist" [ref=f130e261] [cursor=pointer]:
+              - /url: /search/videos/dermatologist/
+            - link "Medical Student" [ref=f130e264] [cursor=pointer]:
+              - /url: /search/videos/medical%20student/
+            - img [ref=f130e267] [cursor=pointer]
+          - generic [ref=f130e270]:
+            - generic [ref=f130e272]:
+              - generic [ref=f130e273]:
+                - article [ref=f130e277]:
+                  - link [ref=f130e278] [cursor=pointer]:
+                    - /url: /video/a-female-scientist-looking-through-a-microscope-and-taking-down-notes-8531300/
+                  - button "Play video preview" [ref=f130e283] [cursor=pointer]
+                - article [ref=f130e291]:
+                  - link [ref=f130e292] [cursor=pointer]:
+                    - /url: /video/a-woman-changing-the-lens-of-a-microscope-9373539/
+                  - button "Play video preview" [ref=f130e297] [cursor=pointer]
+                - article [ref=f130e305]:
+                  - link [ref=f130e306] [cursor=pointer]:
+                    - /url: /video/a-woman-working-with-laboratory-equipment-8392556/
+                  - button "Play video preview" [ref=f130e311] [cursor=pointer]
+                - article [ref=f130e319]:
+                  - link [ref=f130e320] [cursor=pointer]:
+                    - /url: /video/woman-using-microscope-8514718/
+                  - button "Play video preview" [ref=f130e325] [cursor=pointer]
+              - generic [ref=f130e330]:
+                - article [ref=f130e334]:
+                  - link [ref=f130e335] [cursor=pointer]:
+                    - /url: /video/a-woman-using-microscope-8531294/
+                  - button "Play video preview" [ref=f130e340] [cursor=pointer]
+                - article [ref=f130e348]:
+                  - link [ref=f130e349] [cursor=pointer]:
+                    - /url: /video/a-woman-looking-through-a-microscope-and-adjusting-the-lenses-9244443/
+                  - button "Play video preview" [ref=f130e354] [cursor=pointer]
+                - article [ref=f130e362]:
+                  - link [ref=f130e363] [cursor=pointer]:
+                    - /url: /video/a-woman-looking-through-a-microscope-9244444/
+                  - button "Play video preview" [ref=f130e368] [cursor=pointer]
+                - article [ref=f130e376]:
+                  - link [ref=f130e377] [cursor=pointer]:
+                    - /url: /video/a-female-scientist-looking-into-a-microscope-8325997/
+                  - button "Play video preview" [ref=f130e382] [cursor=pointer]
+              - generic [ref=f130e387]:
+                - generic [ref=f130e389]:
+                  - generic [ref=f130e391]:
+                    - link "Create your own video content with Canva" [ref=f130e392] [cursor=pointer]:
+                      - /url: https://www.canva.com/features/ai-video-generator/?utm_source=pexels&utm_campaign=aigc_pexelscampaign&utm_medium=partner
+                    - link "Create your own video content with Canva" [ref=f130e394] [cursor=pointer]:
+                      - /url: https://www.canva.com/features/ai-video-generator/?utm_source=pexels&utm_campaign=aigc_pexelscampaign&utm_medium=partner
+                    - link "Create your own video content with Canva" [ref=f130e396] [cursor=pointer]:
+                      - /url: https://www.canva.com/features/ai-video-generator/?utm_source=pexels&utm_campaign=aigc_pexelscampaign&utm_medium=partner
+                    - link "Create your own video content with Canva" [ref=f130e398] [cursor=pointer]:
+                      - /url: https://www.canva.com/features/ai-video-generator/?utm_source=pexels&utm_campaign=aigc_pexelscampaign&utm_medium=partner
+                  - link [ref=f130e400] [cursor=pointer]:
+                    - /url: https://www.canva.com/features/ai-video-generator/?utm_source=pexels&utm_campaign=aigc_pexelscampaign&utm_medium=partner
+                    - paragraph [ref=f130e403]: Bring your ideas to life with Canva AI
+                  - link "Get started for free" [ref=f130e404] [cursor=pointer]:
+                    - /url: https://www.canva.com/features/ai-video-generator/?utm_source=pexels&utm_campaign=aigc_pexelscampaign&utm_medium=partner
+                - article [ref=f130e410]:
+                  - link [ref=f130e411] [cursor=pointer]:
+                    - /url: /video/woman-using-microscope-9430455/
+                  - button "Play video preview" [ref=f130e416] [cursor=pointer]
+              - generic [ref=f130e421]:
+                - article [ref=f130e425]:
+                  - link [ref=f130e426] [cursor=pointer]:
+                    - /url: /video/woman-using-microscope-9430456/
+                  - button "Play video preview" [ref=f130e431] [cursor=pointer]
+                - article [ref=f130e439]:
+                  - link [ref=f130e440] [cursor=pointer]:
+                    - /url: /video/a-woman-observing-specimen-under-a-microscope-8325991/
+                  - button "Play video preview" [ref=f130e445] [cursor=pointer]
+                - article [ref=f130e453]:
+                  - link [ref=f130e454] [cursor=pointer]:
+                    - /url: /video/a-woman-using-a-microscope-9373538/
+                  - button "Play video preview" [ref=f130e459] [cursor=pointer]
+            - button "Load More" [ref=f130e465] [cursor=pointer]
+      - separator [ref=f130e468]
+    - contentinfo [ref=f130e469]:
+      - separator [ref=f130e470]
+      - generic [ref=f130e471]:
+        - generic [ref=f130e472]:
+          - heading "Where stories come together." [level=2] [ref=f130e473]
+          - generic [ref=f130e474]:
+            - link "Download on iOS" [ref=f130e475] [cursor=pointer]:
+              - /url: https://itunes.apple.com/us/app/pexels/id1434330413/
+            - link "Download on Android" [ref=f130e478] [cursor=pointer]:
+              - /url: https://play.google.com/store/apps/details?id=com.pexels.app
+          - list [ref=f130e481]:
+            - listitem [ref=f130e482]:
+              - link "Instagram" [ref=f130e483] [cursor=pointer]:
+                - /url: https://www.instagram.com/pexels/
+            - listitem [ref=f130e486]:
+              - link "Threads" [ref=f130e487] [cursor=pointer]:
+                - /url: https://www.threads.net/@pexels/
+            - listitem [ref=f130e490]:
+              - link "YouTube" [ref=f130e491] [cursor=pointer]:
+                - /url: https://www.youtube.com/pexelsphotos/
+            - listitem [ref=f130e494]:
+              - link "TikTok" [ref=f130e495] [cursor=pointer]:
+                - /url: https://www.tiktok.com/@pexels/
+            - listitem [ref=f130e498]:
+              - link "LinkedIn" [ref=f130e499] [cursor=pointer]:
+                - /url: https://www.linkedin.com/company/pexels/
+            - listitem [ref=f130e502]:
+              - link "X" [ref=f130e503] [cursor=pointer]:
+                - /url: https://x.com/pexels/
+        - generic [ref=f130e506]:
+          - list [ref=f130e507]:
+            - heading "Pexels" [level=3] [ref=f130e508]
+            - listitem [ref=f130e509]:
+              - link "Free Stock Photos" [ref=f130e510] [cursor=pointer]:
+                - /url: /
+            - listitem [ref=f130e511]:
+              - link "Free Videos" [ref=f130e512] [cursor=pointer]:
+                - /url: /videos/
+            - listitem [ref=f130e513]:
+              - link "Popular searches" [ref=f130e514] [cursor=pointer]:
+                - /url: /popular-searches/
+            - listitem [ref=f130e515]:
+              - link "Collections" [ref=f130e516] [cursor=pointer]:
+                - /url: /discover/
+            - listitem [ref=f130e517]:
+              - link "Challenges" [ref=f130e518] [cursor=pointer]:
+                - /url: /challenges/
+            - listitem [ref=f130e519]:
+              - link "Leaderboard" [ref=f130e520] [cursor=pointer]:
+                - /url: /leaderboard/
+            - listitem [ref=f130e521]:
+              - link "Other plugins & apps" [ref=f130e522] [cursor=pointer]:
+                - /url: /pro/
+          - list [ref=f130e523]:
+            - heading "Company" [level=3] [ref=f130e524]
+            - listitem [ref=f130e525]:
+              - link "About" [ref=f130e526] [cursor=pointer]:
+                - /url: /about/
+            - listitem [ref=f130e527]:
+              - link "Blog" [ref=f130e528] [cursor=pointer]:
+                - /url: /blog/
+            - listitem [ref=f130e529]:
+              - link "Help Center" [ref=f130e530] [cursor=pointer]:
+                - /url: https://help.pexels.com/hc/en-us
+            - listitem [ref=f130e531]:
+              - link "Report content" [ref=f130e532] [cursor=pointer]:
+                - /url: /report/
+            - listitem [ref=f130e533]:
+              - link "Become a Hero" [ref=f130e534] [cursor=pointer]:
+                - /url: /hero/
+            - listitem [ref=f130e535]:
+              - link "Partner with Pexels" [ref=f130e536] [cursor=pointer]:
+                - /url: /become-a-partner/
+            - listitem [ref=f130e537]:
+              - link "Image & Video API" [ref=f130e538] [cursor=pointer]:
+                - /url: /api/
+            - listitem [ref=f130e539]: Sign Up
+        - list [ref=f130e540]:
+          - listitem [ref=f130e541]:
+            - heading "Free Stock Photos" [level=3] [ref=f130e542]
+          - listitem [ref=f130e543]:
+            - generic [ref=f130e545]:
+              - link "4K wallpaper" [ref=f130e547] [cursor=pointer]:
+                - /url: /search/4k%20wallpaper/
+              - link "Nature photos" [ref=f130e548] [cursor=pointer]:
+                - /url: /search/nature/
+              - link "Desktop wallpaper" [ref=f130e549] [cursor=pointer]:
+                - /url: /search/desktop%20wallpaper/
+              - link "Flower photos" [ref=f130e550] [cursor=pointer]:
+                - /url: /search/flowers/
+              - link "HD wallpaper" [ref=f130e551] [cursor=pointer]:
+                - /url: /search/hd%20wallpaper/
+              - link "Mobile wallpaper" [ref=f130e552] [cursor=pointer]:
+                - /url: /search/mobile%20wallpaper/
+              - link "Dark photos" [ref=f130e553] [cursor=pointer]:
+                - /url: /search/dark/
+              - link "Black and white photography" [ref=f130e554] [cursor=pointer]:
+                - /url: /search/black%20and%20white/
+              - link "Black background" [ref=f130e555] [cursor=pointer]:
+                - /url: /search/black%20background/
+              - link "Sunset photos" [ref=f130e556] [cursor=pointer]:
+                - /url: /search/sunset/
+              - link "Landscape photos" [ref=f130e557] [cursor=pointer]:
+                - /url: /search/landscape/
+              - link "Cat photos" [ref=f130e558] [cursor=pointer]:
+                - /url: /search/cat/
+      - generic [ref=f130e560]:
+        - generic [ref=f130e561]: © 2026 Pexels
+        - generic [ref=f130e563]:
+          - link "Terms of Use" [ref=f130e565] [cursor=pointer]:
+            - /url: /terms-of-service/
+          - link "Privacy Policy" [ref=f130e566] [cursor=pointer]:
+            - /url: /privacy-policy/
+          - link "License" [ref=f130e567] [cursor=pointer]:
+            - /url: /license/
+          - link "Imprint" [ref=f130e568] [cursor=pointer]:
+            - /url: /imprint/
+          - link "Cookies Policy" [ref=f130e569] [cursor=pointer]:
+            - /url: /cookies/
+        - button "English" [ref=f130e572] [cursor=pointer]
+      - separator [ref=f130e577]
+  - alert [ref=f130e578]

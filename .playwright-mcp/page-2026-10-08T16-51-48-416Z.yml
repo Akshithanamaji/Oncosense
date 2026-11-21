@@ -1,0 +1,340 @@
+- generic [active] [ref=f87e1]:
+  - generic [ref=f87e3]:
+    - navigation [ref=f87e6]:
+      - link [ref=f87e8] [cursor=pointer]:
+        - /url: /
+      - search [ref=f87e13]:
+        - generic [ref=f87e14]:
+          - button "Photos" [ref=f87e16] [cursor=pointer]
+          - searchbox "Search for free photos" [ref=f87e24]
+          - button [ref=f87e26] [cursor=pointer]
+      - generic [ref=f87e30]:
+        - link "Explore" [ref=f87e32] [cursor=pointer]:
+          - /url: /discover/
+        - link "License" [ref=f87e36] [cursor=pointer]:
+          - /url: /license/
+        - button [ref=f87e39] [cursor=pointer]
+        - button "Join" [ref=f87e42] [cursor=pointer]
+    - main [ref=f87e45]:
+      - separator [ref=f87e46]
+      - generic [ref=f87e47]:
+        - main [ref=f87e48]:
+          - separator [ref=f87e49]
+          - generic [ref=f87e50]:
+            - generic [ref=f87e51]:
+              - link [ref=f87e52] [cursor=pointer]:
+                - /url: /@cottonbro/
+                - img "cottonbro studio" [ref=f87e56]
+              - generic [ref=f87e57]:
+                - link [ref=f87e58] [cursor=pointer]:
+                  - /url: /@cottonbro/
+                  - heading "cottonbro studio" [level=5] [ref=f87e59]
+                - paragraph [ref=f87e60]:
+                  - text: 97.2B views
+                  - generic [ref=f87e61]: •
+                  - text: 264.2M downloads
+            - generic [ref=f87e62]:
+              - generic [ref=f87e63]:
+                - link "Add Text" [ref=f87e64] [cursor=pointer]:
+                  - /url: https://www.canva.com/content-partner/?utm_medium=acquisitions&utm_source=pexels&utm_campaign=predownload%20button&utm_content=edit%20in%20canva%20action%3Dadd_text_video&file-url=https%3A%2F%2Fvideos.pexels.com%2Fvideo-files%2F5724099%2F5724099-uhd_2732_1440_25fps.mp4&external-id=5724099&onboarding-flow=add-text-to-photo
+                - link "Convert to GIF" [ref=f87e69] [cursor=pointer]:
+                  - /url: https://www.canva.com/content-partner/?utm_medium=acquisitions&utm_source=pexels&utm_campaign=predownload%20button&utm_content=edit%20in%20canva%20action%3Dconvert_to_gif&file-url=https%3A%2F%2Fvideos.pexels.com%2Fvideo-files%2F5724099%2F5724099-uhd_2732_1440_25fps.mp4&external-id=5724099&onboarding-flow=convert-to-gif
+                - link "Edit" [ref=f87e76] [cursor=pointer]:
+                  - /url: https://www.canva.com/content-partner/?utm_medium=acquisitions&utm_source=pexels&utm_campaign=predownload%20button&utm_content=edit%20in%20canva&file-url=https%3A%2F%2Fvideos.pexels.com%2Fvideo-files%2F5724099%2F5724099-uhd_2732_1440_25fps.mp4&external-id=5724099
+              - generic [ref=f87e83]:
+                - button [ref=f87e84] [cursor=pointer]
+                - button "97" [ref=f87e88] [cursor=pointer]
+                - generic [ref=f87e93]:
+                  - link "Free download" [ref=f87e94] [cursor=pointer]:
+                    - /url: https://www.pexels.com/download/video/5724099/
+                  - button [ref=f87e98] [cursor=pointer]
+          - separator [ref=f87e103]
+        - generic [ref=f87e104]:
+          - region "video player" [ref=f87e113]:
+            - generic:
+              - generic:
+                - generic:
+                  - status: media loading
+                - generic:
+                  - button "pause"
+              - generic:
+                - generic [ref=f87e118] [cursor=pointer]:
+                  - slider "seek" [ref=f87e122]: "0"
+                  - generic: en 0:00
+                - generic [ref=f87e123]:
+                  - generic:
+                    - button "pause" [ref=f87e124] [cursor=pointer]:
+                      - generic [ref=f87e132]:
+                        - generic [aria-hidden]:
+                          - generic: Pause
+                    - button "playback time" [ref=f87e133]: 0:00 / 0:45
+                    - button "Playback rate 1" [ref=f87e135] [cursor=pointer]:
+                      - generic: 1x
+                      - generic [ref=f87e136]:
+                        - generic [aria-hidden]: Playback rate
+                    - button "enter fullscreen mode" [ref=f87e137] [cursor=pointer]:
+                      - generic [ref=f87e144]:
+                        - generic [aria-hidden]:
+                          - generic: Enter fullscreen mode
+          - generic [ref=f87e146]:
+            - link "cottonbro studio cottonbro studio check out our collections, grouped by topics. your donation creates inspiration😉 hello@omycotton.com" [ref=f87e147] [cursor=pointer]:
+              - /url: /@cottonbro/
+              - img "cottonbro studio" [ref=f87e151]
+              - generic [ref=f87e152]:
+                - heading "cottonbro studio" [level=5] [ref=f87e153]
+                - paragraph [ref=f87e155]:
+                  - generic [ref=f87e156]: check out our collections, grouped by topics. your donation creates inspiration😉 hello@omycotton.com
+            - generic [ref=f87e157]:
+              - button "Follow" [ref=f87e158] [cursor=pointer]
+              - link "Donate" [ref=f87e163] [cursor=pointer]:
+                - /url: https://www.paypal.com/cgi-bin/webscr?business=dasha%40omycotton.com&cmd=_donations&currency_code=USD&item_name=cottonbro+studio+-+Pexels&lc=US&return=https://pexels.com/video/presenting-x-ray-images-5724099/
+          - generic [ref=f87e167]:
+            - generic [ref=f87e169]:
+              - generic [ref=f87e171]:
+                - paragraph [ref=f87e172]: License
+                - link [ref=f87e173] [cursor=pointer]:
+                  - /url: /license/
+                  - paragraph [ref=f87e174]: Free
+              - generic [ref=f87e177]:
+                - paragraph [ref=f87e178]: Dimensions
+                - paragraph [ref=f87e179]: 4096x2160
+              - generic [ref=f87e180]:
+                - paragraph [ref=f87e181]: Aspect Ratio
+                - paragraph [ref=f87e182]: 256:135
+              - generic [ref=f87e183]:
+                - paragraph [ref=f87e184]: Duration
+                - paragraph [ref=f87e185]: 30:45
+              - generic [ref=f87e186]:
+                - paragraph [ref=f87e187]: Date
+                - paragraph [ref=f87e188]: Oct 28, 2020
+              - generic [ref=f87e189]:
+                - paragraph [ref=f87e190]: Downloads
+                - paragraph [ref=f87e191]: 15.3K
+              - generic [ref=f87e192]:
+                - paragraph [ref=f87e193]: Views
+                - paragraph [ref=f87e194]: 3.7M
+              - generic [ref=f87e195]:
+                - paragraph [ref=f87e196]: Likes
+                - paragraph [ref=f87e197]: "97"
+            - generic [ref=f87e200]:
+              - button "More info" [ref=f87e201] [cursor=pointer]
+              - button "Share" [ref=f87e205] [cursor=pointer]
+              - link "Report media" [ref=f87e209] [cursor=pointer]:
+                - /url: /report/?slug=presenting-x-ray-images-5724099
+          - generic [ref=f87e213]:
+            - paragraph [ref=f87e214]: Description
+            - heading "Detailed X-ray images of foot and spine bones for medical diagnosis." [level=1] [ref=f87e215]
+          - separator [ref=f87e216]
+          - heading "More like this" [level=3] [ref=f87e217]
+          - generic [ref=f87e219]:
+            - link "Radiology" [ref=f87e221] [cursor=pointer]:
+              - /url: /search/videos/radiology/
+            - link "Ct Scan" [ref=f87e224] [cursor=pointer]:
+              - /url: /search/videos/ct%20scan/
+            - link "Mri Scan" [ref=f87e227] [cursor=pointer]:
+              - /url: /search/videos/mri%20scan/
+            - link "Dental X Ray" [ref=f87e230] [cursor=pointer]:
+              - /url: /search/videos/dental%20x-ray/
+            - link "Mri" [ref=f87e233] [cursor=pointer]:
+              - /url: /search/videos/mri/
+            - link "Brain Scan" [ref=f87e236] [cursor=pointer]:
+              - /url: /search/videos/brain%20scan/
+            - link "Mammogram" [ref=f87e239] [cursor=pointer]:
+              - /url: /search/videos/mammogram/
+            - link "Radiation" [ref=f87e242] [cursor=pointer]:
+              - /url: /search/videos/radiation/
+            - link "Diagnosis" [ref=f87e245] [cursor=pointer]:
+              - /url: /search/videos/diagnosis/
+          - generic [ref=f87e249]:
+            - generic [ref=f87e251]:
+              - generic [ref=f87e252]:
+                - article [ref=f87e256]:
+                  - link [ref=f87e257] [cursor=pointer]:
+                    - /url: /video/presenting-x-ray-images-5724103/
+                  - button "Play video preview" [ref=f87e262] [cursor=pointer]
+                - article [ref=f87e270]:
+                  - link [ref=f87e271] [cursor=pointer]:
+                    - /url: /video/presenting-x-ray-images-5724101/
+                  - button "Play video preview" [ref=f87e276] [cursor=pointer]
+                - article [ref=f87e284]:
+                  - link [ref=f87e285] [cursor=pointer]:
+                    - /url: /video/a-female-doctor-looking-at-an-x-ray-image-7579839/
+                  - button "Play video preview" [ref=f87e290] [cursor=pointer]
+              - generic [ref=f87e295]:
+                - article [ref=f87e299]:
+                  - link [ref=f87e300] [cursor=pointer]:
+                    - /url: /video/presenting-x-ray-image-5724098/
+                  - button "Play video preview" [ref=f87e305] [cursor=pointer]
+                - article [ref=f87e313]:
+                  - link [ref=f87e314] [cursor=pointer]:
+                    - /url: /video/x-ray-results-5724102/
+                  - button "Play video preview" [ref=f87e319] [cursor=pointer]
+                - article [ref=f87e327]:
+                  - link [ref=f87e328] [cursor=pointer]:
+                    - /url: /video/doctor-looking-at-an-x-ray-4316873/
+                  - button "Play video preview" [ref=f87e333] [cursor=pointer]
+                - article [ref=f87e341]:
+                  - link [ref=f87e342] [cursor=pointer]:
+                    - /url: /video/a-computer-screen-displaying-an-x-ray-image-of-a-person-15435985/
+                  - button "Play video preview" [ref=f87e347] [cursor=pointer]
+              - generic [ref=f87e352]:
+                - generic [ref=f87e354]:
+                  - generic [ref=f87e356]:
+                    - link "Create your own video content with Canva" [ref=f87e357] [cursor=pointer]:
+                      - /url: https://www.canva.com/features/ai-video-generator/?utm_source=pexels&utm_campaign=aigc_pexelscampaign&utm_medium=partner
+                    - link "Create your own video content with Canva" [ref=f87e359] [cursor=pointer]:
+                      - /url: https://www.canva.com/features/ai-video-generator/?utm_source=pexels&utm_campaign=aigc_pexelscampaign&utm_medium=partner
+                    - link "Create your own video content with Canva" [ref=f87e361] [cursor=pointer]:
+                      - /url: https://www.canva.com/features/ai-video-generator/?utm_source=pexels&utm_campaign=aigc_pexelscampaign&utm_medium=partner
+                    - link "Create your own video content with Canva" [ref=f87e363] [cursor=pointer]:
+                      - /url: https://www.canva.com/features/ai-video-generator/?utm_source=pexels&utm_campaign=aigc_pexelscampaign&utm_medium=partner
+                  - link [ref=f87e365] [cursor=pointer]:
+                    - /url: https://www.canva.com/features/ai-video-generator/?utm_source=pexels&utm_campaign=aigc_pexelscampaign&utm_medium=partner
+                    - paragraph [ref=f87e368]: Bring your ideas to life with Canva AI
+                  - link "Get started for free" [ref=f87e369] [cursor=pointer]:
+                    - /url: https://www.canva.com/features/ai-video-generator/?utm_source=pexels&utm_campaign=aigc_pexelscampaign&utm_medium=partner
+                - article [ref=f87e375]:
+                  - link [ref=f87e376] [cursor=pointer]:
+                    - /url: /video/a-brain-magnetic-resonance-imaging-result-6010766/
+                  - button "Play video preview" [ref=f87e381] [cursor=pointer]
+              - generic [ref=f87e386]:
+                - article [ref=f87e390]:
+                  - link [ref=f87e391] [cursor=pointer]:
+                    - /url: /video/presenting-x-ray-images-5724100/
+                  - button "Play video preview" [ref=f87e396] [cursor=pointer]
+                - article [ref=f87e404]:
+                  - link [ref=f87e405] [cursor=pointer]:
+                    - /url: /video/doctor-reading-an-x-ray-scan-7579841/
+                  - button "Play video preview" [ref=f87e410] [cursor=pointer]
+                - article [ref=f87e418]:
+                  - link [ref=f87e419] [cursor=pointer]:
+                    - /url: /video/doctors-looking-at-an-xray-6130031/
+                  - button "Play video preview" [ref=f87e424] [cursor=pointer]
+                - article [ref=f87e432]:
+                  - link [ref=f87e433] [cursor=pointer]:
+                    - /url: /video/doctors-examining-the-x-ray-result-7423724/
+                  - button "Play video preview" [ref=f87e438] [cursor=pointer]
+            - button "Load More" [ref=f87e444] [cursor=pointer]
+      - separator [ref=f87e447]
+    - contentinfo [ref=f87e448]:
+      - separator [ref=f87e449]
+      - generic [ref=f87e450]:
+        - generic [ref=f87e451]:
+          - heading "Where stories come together." [level=2] [ref=f87e452]
+          - generic [ref=f87e453]:
+            - link "Download on iOS" [ref=f87e454] [cursor=pointer]:
+              - /url: https://itunes.apple.com/us/app/pexels/id1434330413/
+            - link "Download on Android" [ref=f87e457] [cursor=pointer]:
+              - /url: https://play.google.com/store/apps/details?id=com.pexels.app
+          - list [ref=f87e460]:
+            - listitem [ref=f87e461]:
+              - link "Instagram" [ref=f87e462] [cursor=pointer]:
+                - /url: https://www.instagram.com/pexels/
+            - listitem [ref=f87e465]:
+              - link "Threads" [ref=f87e466] [cursor=pointer]:
+                - /url: https://www.threads.net/@pexels/
+            - listitem [ref=f87e469]:
+              - link "YouTube" [ref=f87e470] [cursor=pointer]:
+                - /url: https://www.youtube.com/pexelsphotos/
+            - listitem [ref=f87e473]:
+              - link "TikTok" [ref=f87e474] [cursor=pointer]:
+                - /url: https://www.tiktok.com/@pexels/
+            - listitem [ref=f87e477]:
+              - link "LinkedIn" [ref=f87e478] [cursor=pointer]:
+                - /url: https://www.linkedin.com/company/pexels/
+            - listitem [ref=f87e481]:
+              - link "X" [ref=f87e482] [cursor=pointer]:
+                - /url: https://x.com/pexels/
+        - generic [ref=f87e485]:
+          - list [ref=f87e486]:
+            - heading "Pexels" [level=3] [ref=f87e487]
+            - listitem [ref=f87e488]:
+              - link "Free Stock Photos" [ref=f87e489] [cursor=pointer]:
+                - /url: /
+            - listitem [ref=f87e490]:
+              - link "Free Videos" [ref=f87e491] [cursor=pointer]:
+                - /url: /videos/
+            - listitem [ref=f87e492]:
+              - link "Popular searches" [ref=f87e493] [cursor=pointer]:
+                - /url: /popular-searches/
+            - listitem [ref=f87e494]:
+              - link "Collections" [ref=f87e495] [cursor=pointer]:
+                - /url: /discover/
+            - listitem [ref=f87e496]:
+              - link "Challenges" [ref=f87e497] [cursor=pointer]:
+                - /url: /challenges/
+            - listitem [ref=f87e498]:
+              - link "Leaderboard" [ref=f87e499] [cursor=pointer]:
+                - /url: /leaderboard/
+            - listitem [ref=f87e500]:
+              - link "Other plugins & apps" [ref=f87e501] [cursor=pointer]:
+                - /url: /pro/
+          - list [ref=f87e502]:
+            - heading "Company" [level=3] [ref=f87e503]
+            - listitem [ref=f87e504]:
+              - link "About" [ref=f87e505] [cursor=pointer]:
+                - /url: /about/
+            - listitem [ref=f87e506]:
+              - link "Blog" [ref=f87e507] [cursor=pointer]:
+                - /url: /blog/
+            - listitem [ref=f87e508]:
+              - link "Help Center" [ref=f87e509] [cursor=pointer]:
+                - /url: https://help.pexels.com/hc/en-us
+            - listitem [ref=f87e510]:
+              - link "Report content" [ref=f87e511] [cursor=pointer]:
+                - /url: /report/
+            - listitem [ref=f87e512]:
+              - link "Become a Hero" [ref=f87e513] [cursor=pointer]:
+                - /url: /hero/
+            - listitem [ref=f87e514]:
+              - link "Partner with Pexels" [ref=f87e515] [cursor=pointer]:
+                - /url: /become-a-partner/
+            - listitem [ref=f87e516]:
+              - link "Image & Video API" [ref=f87e517] [cursor=pointer]:
+                - /url: /api/
+            - listitem [ref=f87e518]: Sign Up
+        - list [ref=f87e519]:
+          - listitem [ref=f87e520]:
+            - heading "Free Stock Photos" [level=3] [ref=f87e521]
+          - listitem [ref=f87e522]:
+            - generic [ref=f87e524]:
+              - link "4K wallpaper" [ref=f87e526] [cursor=pointer]:
+                - /url: /search/4k%20wallpaper/
+              - link "Nature photos" [ref=f87e527] [cursor=pointer]:
+                - /url: /search/nature/
+              - link "Desktop wallpaper" [ref=f87e528] [cursor=pointer]:
+                - /url: /search/desktop%20wallpaper/
+              - link "Flower photos" [ref=f87e529] [cursor=pointer]:
+                - /url: /search/flowers/
+              - link "HD wallpaper" [ref=f87e530] [cursor=pointer]:
+                - /url: /search/hd%20wallpaper/
+              - link "Mobile wallpaper" [ref=f87e531] [cursor=pointer]:
+                - /url: /search/mobile%20wallpaper/
+              - link "Dark photos" [ref=f87e532] [cursor=pointer]:
+                - /url: /search/dark/
+              - link "Black and white photography" [ref=f87e533] [cursor=pointer]:
+                - /url: /search/black%20and%20white/
+              - link "Black background" [ref=f87e534] [cursor=pointer]:
+                - /url: /search/black%20background/
+              - link "Sunset photos" [ref=f87e535] [cursor=pointer]:
+                - /url: /search/sunset/
+              - link "Landscape photos" [ref=f87e536] [cursor=pointer]:
+                - /url: /search/landscape/
+              - link "Cat photos" [ref=f87e537] [cursor=pointer]:
+                - /url: /search/cat/
+      - generic [ref=f87e539]:
+        - generic [ref=f87e540]: © 2026 Pexels
+        - generic [ref=f87e542]:
+          - link "Terms of Use" [ref=f87e544] [cursor=pointer]:
+            - /url: /terms-of-service/
+          - link "Privacy Policy" [ref=f87e545] [cursor=pointer]:
+            - /url: /privacy-policy/
+          - link "License" [ref=f87e546] [cursor=pointer]:
+            - /url: /license/
+          - link "Imprint" [ref=f87e547] [cursor=pointer]:
+            - /url: /imprint/
+          - link "Cookies Policy" [ref=f87e548] [cursor=pointer]:
+            - /url: /cookies/
+        - button "English" [ref=f87e551] [cursor=pointer]
+      - separator [ref=f87e556]
+  - alert [ref=f87e557]

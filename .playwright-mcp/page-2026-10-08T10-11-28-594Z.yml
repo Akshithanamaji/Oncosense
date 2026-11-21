@@ -1,0 +1,442 @@
+- generic [active] [ref=f27e1]:
+  - generic [ref=f27e3]:
+    - navigation [ref=f27e6]:
+      - link [ref=f27e8] [cursor=pointer]:
+        - /url: /
+      - search [ref=f27e13]:
+        - generic [ref=f27e14]:
+          - button "Videos" [ref=f27e16] [cursor=pointer]
+          - searchbox "Search for free videos" [ref=f27e24]: pink ribbon awareness
+          - button [ref=f27e26] [cursor=pointer]
+      - generic [ref=f27e30]:
+        - link "Explore" [ref=f27e32] [cursor=pointer]:
+          - /url: /discover/
+        - link "License" [ref=f27e36] [cursor=pointer]:
+          - /url: /license/
+        - button [ref=f27e39] [cursor=pointer]
+        - button "Join" [ref=f27e42] [cursor=pointer]
+    - main [ref=f27e45]:
+      - generic [ref=f27e46]:
+        - generic [ref=f27e50]:
+          - paragraph [ref=f27e52] [cursor=pointer]: Any
+          - paragraph [ref=f27e57] [cursor=pointer]: Horizontal
+          - paragraph [ref=f27e62] [cursor=pointer]: Vertical
+          - paragraph [ref=f27e67] [cursor=pointer]: Square
+        - generic [ref=f27e71]:
+          - paragraph [ref=f27e73] [cursor=pointer]: Any
+          - paragraph [ref=f27e75] [cursor=pointer]: "0"
+          - paragraph [ref=f27e80] [cursor=pointer]: "1"
+          - paragraph [ref=f27e85] [cursor=pointer]: "2"
+          - paragraph [ref=f27e90] [cursor=pointer]: 3+
+        - generic [ref=f27e94]:
+          - paragraph [ref=f27e96] [cursor=pointer]: Any
+          - paragraph [ref=f27e101] [cursor=pointer]: Baby
+          - paragraph [ref=f27e106] [cursor=pointer]: Child
+          - paragraph [ref=f27e111] [cursor=pointer]: Teenager
+          - paragraph [ref=f27e116] [cursor=pointer]: Adult
+          - paragraph [ref=f27e121] [cursor=pointer]: Senior adult
+        - generic [ref=f27e124]:
+          - generic [ref=f27e125]:
+            - generic [ref=f27e126] [cursor=pointer]
+            - slider [ref=f27e128] [cursor=pointer]
+            - slider [ref=f27e129] [cursor=pointer]
+          - generic [ref=f27e130]:
+            - generic [ref=f27e131]:
+              - paragraph [ref=f27e132]: Minimum
+              - paragraph [ref=f27e133]: 5s
+            - generic [ref=f27e134]:
+              - paragraph [ref=f27e135]: Maximum
+              - paragraph [ref=f27e136]: 2m+
+        - generic [ref=f27e140]:
+          - paragraph [ref=f27e142] [cursor=pointer]: Any
+          - paragraph [ref=f27e147] [cursor=pointer]: "24"
+          - paragraph [ref=f27e152] [cursor=pointer]: "25"
+          - paragraph [ref=f27e157] [cursor=pointer]: "30"
+          - paragraph [ref=f27e162] [cursor=pointer]: "50"
+          - paragraph [ref=f27e167] [cursor=pointer]: 60+
+        - generic [ref=f27e171]:
+          - paragraph [ref=f27e173] [cursor=pointer]: Any
+          - paragraph [ref=f27e178] [cursor=pointer]: 1080p
+          - paragraph [ref=f27e183] [cursor=pointer]: 4K
+          - paragraph [ref=f27e188] [cursor=pointer]: 8K
+        - generic [ref=f27e192]:
+          - paragraph [ref=f27e194] [cursor=pointer]: Any
+          - paragraph [ref=f27e199] [cursor=pointer]: Last 24 hours
+          - paragraph [ref=f27e204] [cursor=pointer]: Last week
+          - paragraph [ref=f27e209] [cursor=pointer]: Last month
+          - paragraph [ref=f27e214] [cursor=pointer]: Last year
+        - main "main-content" [ref=f27e215]:
+          - generic [ref=f27e216]:
+            - heading "Free Pink Ribbon Awareness Videos" [level=1] [ref=f27e219]
+            - generic [ref=f27e222]:
+              - link "Photos 10K" [ref=f27e224] [cursor=pointer]:
+                - /url: /search/pink%20ribbon%20awareness/?orientation=landscape
+                - text: Photos
+                - generic [ref=f27e225]: 10K
+              - link "Videos 10K" [ref=f27e226] [cursor=pointer]:
+                - /url: /search/videos/pink%20ribbon%20awareness/?orientation=landscape
+                - text: Videos
+                - generic [ref=f27e227]: 10K
+              - link "Users 9.5K" [ref=f27e228] [cursor=pointer]:
+                - /url: /search/users/pink%20ribbon%20awareness/
+                - text: Users
+                - generic [ref=f27e229]: 9.5K
+            - generic [ref=f27e231]:
+              - generic [ref=f27e232]:
+                - button "Filters (1)" [ref=f27e233] [cursor=pointer]
+                - button [ref=f27e240] [cursor=pointer]
+              - separator [ref=f27e244]
+              - generic [ref=f27e248]:
+                - link [ref=f27e250] [cursor=pointer]:
+                  - /url: /search/videos/breast%20cancer%20awareness/
+                  - img "breast cancer awareness" [ref=f27e251]
+                  - generic [ref=f27e252]:
+                    - paragraph [ref=f27e253]: breast cancer awareness
+                    - paragraph [ref=f27e254]: 12K
+                - link [ref=f27e255] [cursor=pointer]:
+                  - /url: /search/videos/breast%20cancer/
+                  - img "breast cancer" [ref=f27e256]
+                  - generic [ref=f27e257]:
+                    - paragraph [ref=f27e258]: breast cancer
+                    - paragraph [ref=f27e259]: 5K
+                - link [ref=f27e260] [cursor=pointer]:
+                  - /url: /search/videos/pink%20aesthetic/
+                  - img "pink aesthetic" [ref=f27e261]
+                  - generic [ref=f27e262]:
+                    - paragraph [ref=f27e263]: pink aesthetic
+                    - paragraph [ref=f27e264]: 38K
+                - link [ref=f27e265] [cursor=pointer]:
+                  - /url: /search/videos/pink%20rose/
+                  - img "pink rose" [ref=f27e266]
+                  - generic [ref=f27e267]:
+                    - paragraph [ref=f27e268]: pink rose
+                    - paragraph [ref=f27e269]: 19K
+                - link [ref=f27e270] [cursor=pointer]:
+                  - /url: /search/videos/pink%20roses/
+                  - img "pink roses" [ref=f27e271]
+                  - generic [ref=f27e272]:
+                    - paragraph [ref=f27e273]: pink roses
+                    - paragraph [ref=f27e274]: 19K
+                - link [ref=f27e275] [cursor=pointer]:
+                  - /url: /search/videos/pink%20flowers/
+                  - img "pink flowers" [ref=f27e276]
+                  - generic [ref=f27e277]:
+                    - paragraph [ref=f27e278]: pink flowers
+                    - paragraph [ref=f27e279]: 38K
+                - link [ref=f27e280] [cursor=pointer]:
+                  - /url: /search/videos/mental%20health%20awareness/
+                  - img "mental health awareness" [ref=f27e281]
+                  - generic [ref=f27e282]:
+                    - paragraph [ref=f27e283]: mental health awareness
+                    - paragraph [ref=f27e284]: 48K
+                - link [ref=f27e285] [cursor=pointer]:
+                  - /url: /search/videos/pink%20flower/
+                  - img "pink flower" [ref=f27e286]
+                  - generic [ref=f27e287]:
+                    - paragraph [ref=f27e288]: pink flower
+                    - paragraph [ref=f27e289]: 38K
+                - link [ref=f27e290] [cursor=pointer]:
+                  - /url: /search/videos/pink%20sunset/
+                  - img "pink sunset" [ref=f27e291]
+                  - generic [ref=f27e292]:
+                    - paragraph [ref=f27e293]: pink sunset
+                    - paragraph [ref=f27e294]: 58K
+                - link [ref=f27e295] [cursor=pointer]:
+                  - /url: /search/videos/cancer/
+                  - img "cancer" [ref=f27e296]
+                  - generic [ref=f27e297]:
+                    - paragraph [ref=f27e298]: cancer
+                    - paragraph [ref=f27e299]: 4K
+                - link [ref=f27e300] [cursor=pointer]:
+                  - /url: /search/videos/health%20awareness/
+                  - img "health awareness" [ref=f27e301]
+                  - generic [ref=f27e302]:
+                    - paragraph [ref=f27e303]: health awareness
+                    - paragraph [ref=f27e304]: 46K
+                - link [ref=f27e305] [cursor=pointer]:
+                  - /url: /search/videos/hello%20kitty/
+                  - img "hello kitty" [ref=f27e306]
+                  - generic [ref=f27e307]:
+                    - paragraph [ref=f27e308]: hello kitty
+                    - paragraph [ref=f27e309]: 4K
+                - link [ref=f27e310] [cursor=pointer]:
+                  - /url: /search/videos/day%20of%20the%20dead/
+                  - img "day of the dead" [ref=f27e311]
+                  - generic [ref=f27e312]:
+                    - paragraph [ref=f27e313]: day of the dead
+                    - paragraph [ref=f27e314]: 94K
+                - img [ref=f27e315] [cursor=pointer]
+            - generic [ref=f27e318]:
+              - generic [ref=f27e320]:
+                - generic [ref=f27e321]:
+                  - article [ref=f27e325]:
+                    - link [ref=f27e326] [cursor=pointer]:
+                      - /url: /video/a-person-holding-a-pink-ribbon-7659133/
+                    - button "Play video preview" [ref=f27e331] [cursor=pointer]
+                  - article [ref=f27e339]:
+                    - link [ref=f27e340] [cursor=pointer]:
+                      - /url: /video/diabetes-product-and-symbol-over-a-pink-surface-6824288/
+                    - button "Play video preview" [ref=f27e345] [cursor=pointer]
+                  - article [ref=f27e353]:
+                    - link [ref=f27e354] [cursor=pointer]:
+                      - /url: /video/person-holding-a-knitted-ball-with-breast-design-5701152/
+                    - button "Play video preview" [ref=f27e359] [cursor=pointer]
+                  - article [ref=f27e367]:
+                    - link [ref=f27e368] [cursor=pointer]:
+                      - /url: /video/pink-mug-on-the-table-7763432/
+                    - button "Play video preview" [ref=f27e373] [cursor=pointer]
+                  - article [ref=f27e381]:
+                    - link [ref=f27e382] [cursor=pointer]:
+                      - /url: /video/blue-ribbon-as-symbol-for-world-diabetes-dayc-6824225/
+                    - button "Play video preview" [ref=f27e387] [cursor=pointer]
+                  - article [ref=f27e395]:
+                    - link [ref=f27e396] [cursor=pointer]:
+                      - /url: /video/blu-ribbon-as-symbol-of-world-diabetes-day-6824262/
+                    - button "Play video preview" [ref=f27e401] [cursor=pointer]
+                  - article [ref=f27e409]:
+                    - link [ref=f27e410] [cursor=pointer]:
+                      - /url: /video/untying-a-blouse-4169290/
+                    - button "Play video preview" [ref=f27e415] [cursor=pointer]
+                - generic [ref=f27e420]:
+                  - article [ref=f27e424]:
+                    - link [ref=f27e425] [cursor=pointer]:
+                      - /url: /video/three-women-standing-while-looking-at-camera-7659146/
+                    - button "Play video preview" [ref=f27e430] [cursor=pointer]
+                  - article [ref=f27e438]:
+                    - link [ref=f27e439] [cursor=pointer]:
+                      - /url: /video/a-person-s-hands-are-holding-a-needle-scissors-and-a-bottle-of-pills-6824289/
+                    - button "Play video preview" [ref=f27e444] [cursor=pointer]
+                  - article [ref=f27e452]:
+                    - link [ref=f27e453] [cursor=pointer]:
+                      - /url: /video/world-diabetes-day-to-promote-awareness-6824333/
+                    - button "Play video preview" [ref=f27e458] [cursor=pointer]
+                  - article [ref=f27e466]:
+                    - link [ref=f27e467] [cursor=pointer]:
+                      - /url: /video/diabetes-awareness-day-6941905/
+                    - button "Play video preview" [ref=f27e472] [cursor=pointer]
+                  - article [ref=f27e480]:
+                    - link [ref=f27e481] [cursor=pointer]:
+                      - /url: /video/young-woman-with-breast-cancer-awareness-t-shirt-5701761/
+                    - button "Play video preview" [ref=f27e486] [cursor=pointer]
+                  - article [ref=f27e494]:
+                    - link [ref=f27e495] [cursor=pointer]:
+                      - /url: /video/elegant-lily-arrangement-by-window-30422999/
+                    - button "Play video preview" [ref=f27e500] [cursor=pointer]
+                  - article [ref=f27e508]:
+                    - link [ref=f27e509] [cursor=pointer]:
+                      - /url: /video/close-up-shot-of-pink-face-masks-4150681/
+                    - button "Play video preview" [ref=f27e514] [cursor=pointer]
+                - generic [ref=f27e519]:
+                  - generic [ref=f27e521]:
+                    - generic [ref=f27e523]:
+                      - link "Create your own pink ribbon awareness content with Canva" [ref=f27e524] [cursor=pointer]:
+                        - /url: https://www.canva.com/features/ai-video-generator/?utm_source=pexels&utm_campaign=aigc_pexelscampaign&utm_medium=partner
+                      - link "Create your own pink ribbon awareness content with Canva" [ref=f27e526] [cursor=pointer]:
+                        - /url: https://www.canva.com/features/ai-video-generator/?utm_source=pexels&utm_campaign=aigc_pexelscampaign&utm_medium=partner
+                      - link "Create your own pink ribbon awareness content with Canva" [ref=f27e528] [cursor=pointer]:
+                        - /url: https://www.canva.com/features/ai-video-generator/?utm_source=pexels&utm_campaign=aigc_pexelscampaign&utm_medium=partner
+                      - link "Create your own pink ribbon awareness content with Canva" [ref=f27e530] [cursor=pointer]:
+                        - /url: https://www.canva.com/features/ai-video-generator/?utm_source=pexels&utm_campaign=aigc_pexelscampaign&utm_medium=partner
+                    - link [ref=f27e532] [cursor=pointer]:
+                      - /url: https://www.canva.com/features/ai-video-generator/?utm_source=pexels&utm_campaign=aigc_pexelscampaign&utm_medium=partner
+                      - paragraph [ref=f27e535]: Bring your ideas to life with Canva AI
+                    - link "Get started for free" [ref=f27e536] [cursor=pointer]:
+                      - /url: https://www.canva.com/features/ai-video-generator/?utm_source=pexels&utm_campaign=aigc_pexelscampaign&utm_medium=partner
+                  - generic [ref=f27e540]:
+                    - generic [ref=f27e541]:
+                      - heading "‌S‌p‌‌‌o‌n‌‌‌s‌‌o‌‌r‌‌e‌‌‌d‌ ‌‌‌V‌i‌d‌e‌o‌s‌" [level=4] [ref=f27e542]
+                      - link [ref=f27e543] [cursor=pointer]:
+                        - /url: https://www.pexels.com/r/eyJkZXN0IjoiaHR0cHM6Ly93d3cuaXN0b2NrcGhvdG8uY29tL3ZpZGVvcy9waW5rJTIwcmliYm9uJTIwYXdhcmVuZXNzP3V0bV9zb3VyY2U9cGV4ZWxzJnV0bV9tZWRpdW09YWZmaWxpYXRlJnV0bV9jYW1wYWlnbj1zcG9uc29yZWRfdmlkZW8mdXRtX2NvbnRlbnQ9c3JwX2lubGluZV9sb2dvJnV0bV90ZXJtPXBpbmslMjByaWJib24lMjBhd2FyZW5lc3MiLCJkYXRhIjp7ImV4cGVyaW1lbnRzIjp7fSwicGFnZV9sb2NhbGUiOiJlbi1VUyIsInBhZ2UiOiJzZWFyY2hfcmVzdWx0cyIsInBhZ2VfdmFyaWFudCI6InBob3RvcyIsImxvY2F0aW9uIjoiZ3JpZCIsImFkX3BhcnRuZXIiOiJnZXR0eSIsImFkX2Zvcm1hdCI6ImlubGluZSIsImFkX3BsYWNlbWVudCI6IjEwIiwiYWRfY3JlYXRpdmUiOiJ2aWRlb19zZWFyY2hfNCIsImFkX2FjdGlvbiI6ImNsaWNrIiwiYWRfaW1wcmVzc2lvbl9pZCI6ImU1OTYwYTc4LTdkNWItNGI5Ny1iMmM0LWNkMGM1MTBkODk3NSIsIm1lZGlhX3R5cGUiOiJ2aWRlbyIsInF1ZXJ5IjoicGluayByaWJib24gYXdhcmVuZXNzIn19/
+                    - generic [ref=f27e547]:
+                      - link [ref=f27e548] [cursor=pointer]:
+                        - /url: https://www.pexels.com/r/eyJkZXN0IjoiaHR0cHM6Ly93d3cuaXN0b2NrcGhvdG8uY29tL3ZpZGVvL3JlcHJlc2VudGluZy1ob3BlLWFuZC1yZWNvdmVyeS1hLXNtaWxpbmctZGlzYWJsZWQtYXNpYW4td29tYW4taG9sZHMtYS1waW5rLWJyZWFzdC1nbTIyNzgwODE5OTctNjkwMjExODkwP3V0bV9zb3VyY2U9cGV4ZWxzJnV0bV9tZWRpdW09YWZmaWxpYXRlJnV0bV9jYW1wYWlnbj1zcG9uc29yZWRfdmlkZW8mdXRtX2NvbnRlbnQ9c3JwX2lubGluZV9tZWRpYSZ1dG1fdGVybT1waW5rJTIwcmliYm9uJTIwYXdhcmVuZXNzIiwiZGF0YSI6eyJleHBlcmltZW50cyI6e30sInBhZ2VfbG9jYWxlIjoiZW4tVVMiLCJwYWdlIjoic2VhcmNoX3Jlc3VsdHMiLCJwYWdlX3ZhcmlhbnQiOiJwaG90b3MiLCJsb2NhdGlvbiI6ImdyaWQiLCJhZF9wYXJ0bmVyIjoiZ2V0dHkiLCJhZF9mb3JtYXQiOiJpbmxpbmUiLCJhZF9wbGFjZW1lbnQiOiIxMCIsImFkX2NyZWF0aXZlIjoidmlkZW9fc2VhcmNoXzQiLCJhZF9hY3Rpb24iOiJjbGljayIsImFkX2ltcHJlc3Npb25faWQiOiJlNTk2MGE3OC03ZDViLTRiOTctYjJjNC1jZDBjNTEwZDg5NzUiLCJtZWRpYV90eXBlIjoidmlkZW8iLCJxdWVyeSI6InBpbmsgcmliYm9uIGF3YXJlbmVzcyJ9fQ/
+                      - link [ref=f27e551] [cursor=pointer]:
+                        - /url: https://www.pexels.com/r/eyJkZXN0IjoiaHR0cHM6Ly93d3cuaXN0b2NrcGhvdG8uY29tL3ZpZGVvL2dyb3VwLW9mLXdvbWVuLXN0YW5kaW5nLWluLWNpcmNsZS1ob2xkaW5nLXBpbmstYnJlYXN0LWNhbmNlci1hd2FyZW5lc3MtcmliYm9ucy1nbTIyODU1Mzg3NTMtNjk3Mjc0MDI0P3V0bV9zb3VyY2U9cGV4ZWxzJnV0bV9tZWRpdW09YWZmaWxpYXRlJnV0bV9jYW1wYWlnbj1zcG9uc29yZWRfdmlkZW8mdXRtX2NvbnRlbnQ9c3JwX2lubGluZV9tZWRpYSZ1dG1fdGVybT1waW5rJTIwcmliYm9uJTIwYXdhcmVuZXNzIiwiZGF0YSI6eyJleHBlcmltZW50cyI6e30sInBhZ2VfbG9jYWxlIjoiZW4tVVMiLCJwYWdlIjoic2VhcmNoX3Jlc3VsdHMiLCJwYWdlX3ZhcmlhbnQiOiJwaG90b3MiLCJsb2NhdGlvbiI6ImdyaWQiLCJhZF9wYXJ0bmVyIjoiZ2V0dHkiLCJhZF9mb3JtYXQiOiJpbmxpbmUiLCJhZF9wbGFjZW1lbnQiOiIxMCIsImFkX2NyZWF0aXZlIjoidmlkZW9fc2VhcmNoXzQiLCJhZF9hY3Rpb24iOiJjbGljayIsImFkX2ltcHJlc3Npb25faWQiOiJlNTk2MGE3OC03ZDViLTRiOTctYjJjNC1jZDBjNTEwZDg5NzUiLCJtZWRpYV90eXBlIjoidmlkZW8iLCJxdWVyeSI6InBpbmsgcmliYm9uIGF3YXJlbmVzcyJ9fQ/
+                      - link [ref=f27e554] [cursor=pointer]:
+                        - /url: https://www.pexels.com/r/eyJkZXN0IjoiaHR0cHM6Ly93d3cuaXN0b2NrcGhvdG8uY29tL3ZpZGVvL3JlcHJlc2VudGluZy1ob3BlLWFuZC1yZWNvdmVyeS1hLXNtaWxpbmctZGlzYWJsZWQtYXNpYW4td29tYW4taG9sZHMtYS1waW5rLWJyZWFzdC1nbTIyNzgwODMwMTUtNjkwMjEyNjI3P3V0bV9zb3VyY2U9cGV4ZWxzJnV0bV9tZWRpdW09YWZmaWxpYXRlJnV0bV9jYW1wYWlnbj1zcG9uc29yZWRfdmlkZW8mdXRtX2NvbnRlbnQ9c3JwX2lubGluZV9tZWRpYSZ1dG1fdGVybT1waW5rJTIwcmliYm9uJTIwYXdhcmVuZXNzIiwiZGF0YSI6eyJleHBlcmltZW50cyI6e30sInBhZ2VfbG9jYWxlIjoiZW4tVVMiLCJwYWdlIjoic2VhcmNoX3Jlc3VsdHMiLCJwYWdlX3ZhcmlhbnQiOiJwaG90b3MiLCJsb2NhdGlvbiI6ImdyaWQiLCJhZF9wYXJ0bmVyIjoiZ2V0dHkiLCJhZF9mb3JtYXQiOiJpbmxpbmUiLCJhZF9wbGFjZW1lbnQiOiIxMCIsImFkX2NyZWF0aXZlIjoidmlkZW9fc2VhcmNoXzQiLCJhZF9hY3Rpb24iOiJjbGljayIsImFkX2ltcHJlc3Npb25faWQiOiJlNTk2MGE3OC03ZDViLTRiOTctYjJjNC1jZDBjNTEwZDg5NzUiLCJtZWRpYV90eXBlIjoidmlkZW8iLCJxdWVyeSI6InBpbmsgcmliYm9uIGF3YXJlbmVzcyJ9fQ/
+                      - link [ref=f27e557] [cursor=pointer]:
+                        - /url: https://www.pexels.com/r/eyJkZXN0IjoiaHR0cHM6Ly93d3cuaXN0b2NrcGhvdG8uY29tL3ZpZGVvL2Etc21pbGluZy1kaXNhYmxlZC1hc2lhbi13b21hbi1pbi1hLXdoZWVsY2hhaXItaG9sZHMtYS1waW5rLXJpYmJvbi1zeW1ib2xpemluZy1nbTIyNzgwODMwMDQtNjkwMjEyNjMwP3V0bV9zb3VyY2U9cGV4ZWxzJnV0bV9tZWRpdW09YWZmaWxpYXRlJnV0bV9jYW1wYWlnbj1zcG9uc29yZWRfdmlkZW8mdXRtX2NvbnRlbnQ9c3JwX2lubGluZV9tZWRpYSZ1dG1fdGVybT1waW5rJTIwcmliYm9uJTIwYXdhcmVuZXNzIiwiZGF0YSI6eyJleHBlcmltZW50cyI6e30sInBhZ2VfbG9jYWxlIjoiZW4tVVMiLCJwYWdlIjoic2VhcmNoX3Jlc3VsdHMiLCJwYWdlX3ZhcmlhbnQiOiJwaG90b3MiLCJsb2NhdGlvbiI6ImdyaWQiLCJhZF9wYXJ0bmVyIjoiZ2V0dHkiLCJhZF9mb3JtYXQiOiJpbmxpbmUiLCJhZF9wbGFjZW1lbnQiOiIxMCIsImFkX2NyZWF0aXZlIjoidmlkZW9fc2VhcmNoXzQiLCJhZF9hY3Rpb24iOiJjbGljayIsImFkX2ltcHJlc3Npb25faWQiOiJlNTk2MGE3OC03ZDViLTRiOTctYjJjNC1jZDBjNTEwZDg5NzUiLCJtZWRpYV90eXBlIjoidmlkZW8iLCJxdWVyeSI6InBpbmsgcmliYm9uIGF3YXJlbmVzcyJ9fQ/
+                    - link [ref=f27e560] [cursor=pointer]:
+                      - /url: https://www.pexels.com/r/eyJkZXN0IjoiaHR0cHM6Ly93d3cuaXN0b2NrcGhvdG8uY29tL3ZpZGVvcy9waW5rJTIwcmliYm9uJTIwYXdhcmVuZXNzP3V0bV9zb3VyY2U9cGV4ZWxzJnV0bV9tZWRpdW09YWZmaWxpYXRlJnV0bV9jYW1wYWlnbj1zcG9uc29yZWRfdmlkZW8mdXRtX2NvbnRlbnQ9c3JwX2lubGluZV9jb3Vwb25jb2RlJnV0bV90ZXJtPXBpbmslMjByaWJib24lMjBhd2FyZW5lc3MiLCJkYXRhIjp7ImV4cGVyaW1lbnRzIjp7fSwicGFnZV9sb2NhbGUiOiJlbi1VUyIsInBhZ2UiOiJzZWFyY2hfcmVzdWx0cyIsInBhZ2VfdmFyaWFudCI6InBob3RvcyIsImxvY2F0aW9uIjoiZ3JpZCIsImFkX3BhcnRuZXIiOiJnZXR0eSIsImFkX2Zvcm1hdCI6ImlubGluZSIsImFkX3BsYWNlbWVudCI6IjEwIiwiYWRfY3JlYXRpdmUiOiJ2aWRlb19zZWFyY2hfNCIsImFkX2FjdGlvbiI6ImNsaWNrIiwiYWRfaW1wcmVzc2lvbl9pZCI6ImU1OTYwYTc4LTdkNWItNGI5Ny1iMmM0LWNkMGM1MTBkODk3NSIsIm1lZGlhX3R5cGUiOiJ2aWRlbyIsInF1ZXJ5IjoicGluayByaWJib24gYXdhcmVuZXNzIn19/
+                      - img [ref=f27e563]:
+                        - generic [ref=f27e564]: Get 20% off with code PEXELS20 »
+                  - article [ref=f27e568]:
+                    - link [ref=f27e569] [cursor=pointer]:
+                      - /url: /video/girl-holding-a-sign-for-breast-cancer-awerness-5701760/
+                    - button "Play video preview" [ref=f27e574] [cursor=pointer]
+                  - article [ref=f27e582]:
+                    - link [ref=f27e583] [cursor=pointer]:
+                      - /url: /video/scrabble-tiles-that-says-autism-awareness-day-8709012/
+                    - button "Play video preview" [ref=f27e588] [cursor=pointer]
+                  - article [ref=f27e596]:
+                    - link [ref=f27e597] [cursor=pointer]:
+                      - /url: /video/a-person-creating-word-using-dice-letters-6941856/
+                    - button "Play video preview" [ref=f27e602] [cursor=pointer]
+                - generic [ref=f27e607]:
+                  - article [ref=f27e611]:
+                    - link [ref=f27e612] [cursor=pointer]:
+                      - /url: /video/pink-postcards-on-the-white-table-5701043/
+                    - button "Play video preview" [ref=f27e617] [cursor=pointer]
+                  - article [ref=f27e625]:
+                    - link [ref=f27e626] [cursor=pointer]:
+                      - /url: /video/young-woman-with-breast-cancer-awareness-t-shirt-5701755/
+                    - button "Play video preview" [ref=f27e631] [cursor=pointer]
+                  - article [ref=f27e639]:
+                    - link [ref=f27e640] [cursor=pointer]:
+                      - /url: /video/person-touching-the-knitted-breast-ball-5701151/
+                    - button "Play video preview" [ref=f27e645] [cursor=pointer]
+                  - article [ref=f27e653]:
+                    - link [ref=f27e654] [cursor=pointer]:
+                      - /url: /video/blue-ribbon-as-symbol-for-world-diabetes-dayc-6824224/
+                    - button "Play video preview" [ref=f27e659] [cursor=pointer]
+                  - article [ref=f27e667]:
+                    - link [ref=f27e668] [cursor=pointer]:
+                      - /url: /video/blue-ribbon-as-symbol-for-world-diabetes-dayc-6824258/
+                    - button "Play video preview" [ref=f27e673] [cursor=pointer]
+                  - article [ref=f27e681]:
+                    - link [ref=f27e682] [cursor=pointer]:
+                      - /url: /video/an-overhead-shot-of-a-diabetes-testing-kit-and-medicines-6941855/
+                    - button "Play video preview" [ref=f27e687] [cursor=pointer]
+                  - article [ref=f27e695]:
+                    - link [ref=f27e696] [cursor=pointer]:
+                      - /url: /video/young-woman-with-breast-cancer-awareness-t-shirt-5701766/
+                    - button "Play video preview" [ref=f27e701] [cursor=pointer]
+              - button "Load More" [ref=f27e707] [cursor=pointer]
+            - navigation [ref=f27e710]:
+              - generic [ref=f27e712]:
+                - link "1" [ref=f27e714]:
+                  - /url: /search/videos/pink%20ribbon%20awareness/?orientation=landscape
+                - link "2" [ref=f27e717] [cursor=pointer]:
+                  - /url: /search/videos/pink%20ribbon%20awareness/?orientation=landscape&page=2
+                - link "3" [ref=f27e720] [cursor=pointer]:
+                  - /url: /search/videos/pink%20ribbon%20awareness/?orientation=landscape&page=3
+                - link "4" [ref=f27e723] [cursor=pointer]:
+                  - /url: /search/videos/pink%20ribbon%20awareness/?orientation=landscape&page=4
+                - link "5" [ref=f27e726] [cursor=pointer]:
+                  - /url: /search/videos/pink%20ribbon%20awareness/?orientation=landscape&page=5
+                - link "6" [ref=f27e729] [cursor=pointer]:
+                  - /url: /search/videos/pink%20ribbon%20awareness/?orientation=landscape&page=6
+                - link "Next" [ref=f27e732] [cursor=pointer]:
+                  - /url: /search/videos/pink%20ribbon%20awareness/?orientation=landscape&page=2
+    - contentinfo [ref=f27e736]:
+      - separator [ref=f27e737]
+      - generic [ref=f27e738]:
+        - generic [ref=f27e739]:
+          - heading "Where stories come together." [level=2] [ref=f27e740]
+          - generic [ref=f27e741]:
+            - link "Download on iOS" [ref=f27e742] [cursor=pointer]:
+              - /url: https://itunes.apple.com/us/app/pexels/id1434330413/
+            - link "Download on Android" [ref=f27e745] [cursor=pointer]:
+              - /url: https://play.google.com/store/apps/details?id=com.pexels.app
+          - list [ref=f27e748]:
+            - listitem [ref=f27e749]:
+              - link "Instagram" [ref=f27e750] [cursor=pointer]:
+                - /url: https://www.instagram.com/pexels/
+            - listitem [ref=f27e753]:
+              - link "Threads" [ref=f27e754] [cursor=pointer]:
+                - /url: https://www.threads.net/@pexels/
+            - listitem [ref=f27e757]:
+              - link "YouTube" [ref=f27e758] [cursor=pointer]:
+                - /url: https://www.youtube.com/pexelsphotos/
+            - listitem [ref=f27e761]:
+              - link "TikTok" [ref=f27e762] [cursor=pointer]:
+                - /url: https://www.tiktok.com/@pexels/
+            - listitem [ref=f27e765]:
+              - link "LinkedIn" [ref=f27e766] [cursor=pointer]:
+                - /url: https://www.linkedin.com/company/pexels/
+            - listitem [ref=f27e769]:
+              - link "X" [ref=f27e770] [cursor=pointer]:
+                - /url: https://x.com/pexels/
+        - generic [ref=f27e773]:
+          - list [ref=f27e774]:
+            - heading "Pexels" [level=3] [ref=f27e775]
+            - listitem [ref=f27e776]:
+              - link "Free Stock Photos" [ref=f27e777] [cursor=pointer]:
+                - /url: /
+            - listitem [ref=f27e778]:
+              - link "Free Videos" [ref=f27e779] [cursor=pointer]:
+                - /url: /videos/
+            - listitem [ref=f27e780]:
+              - link "Popular searches" [ref=f27e781] [cursor=pointer]:
+                - /url: /popular-searches/
+            - listitem [ref=f27e782]:
+              - link "Collections" [ref=f27e783] [cursor=pointer]:
+                - /url: /discover/
+            - listitem [ref=f27e784]:
+              - link "Challenges" [ref=f27e785] [cursor=pointer]:
+                - /url: /challenges/
+            - listitem [ref=f27e786]:
+              - link "Leaderboard" [ref=f27e787] [cursor=pointer]:
+                - /url: /leaderboard/
+            - listitem [ref=f27e788]:
+              - link "Other plugins & apps" [ref=f27e789] [cursor=pointer]:
+                - /url: /pro/
+          - list [ref=f27e790]:
+            - heading "Company" [level=3] [ref=f27e791]
+            - listitem [ref=f27e792]:
+              - link "About" [ref=f27e793] [cursor=pointer]:
+                - /url: /about/
+            - listitem [ref=f27e794]:
+              - link "Blog" [ref=f27e795] [cursor=pointer]:
+                - /url: /blog/
+            - listitem [ref=f27e796]:
+              - link "Help Center" [ref=f27e797] [cursor=pointer]:
+                - /url: https://help.pexels.com/hc/en-us
+            - listitem [ref=f27e798]:
+              - link "Report content" [ref=f27e799] [cursor=pointer]:
+                - /url: /report/
+            - listitem [ref=f27e800]:
+              - link "Become a Hero" [ref=f27e801] [cursor=pointer]:
+                - /url: /hero/
+            - listitem [ref=f27e802]:
+              - link "Partner with Pexels" [ref=f27e803] [cursor=pointer]:
+                - /url: /become-a-partner/
+            - listitem [ref=f27e804]:
+              - link "Image & Video API" [ref=f27e805] [cursor=pointer]:
+                - /url: /api/
+            - listitem [ref=f27e806]: Sign Up
+        - list [ref=f27e807]:
+          - listitem [ref=f27e808]:
+            - heading "Free Stock Photos" [level=3] [ref=f27e809]
+          - listitem [ref=f27e810]:
+            - generic [ref=f27e812]:
+              - link "4K wallpaper" [ref=f27e814] [cursor=pointer]:
+                - /url: /search/4k%20wallpaper/
+              - link "Nature photos" [ref=f27e815] [cursor=pointer]:
+                - /url: /search/nature/
+              - link "Desktop wallpaper" [ref=f27e816] [cursor=pointer]:
+                - /url: /search/desktop%20wallpaper/
+              - link "Flower photos" [ref=f27e817] [cursor=pointer]:
+                - /url: /search/flowers/
+              - link "HD wallpaper" [ref=f27e818] [cursor=pointer]:
+                - /url: /search/hd%20wallpaper/
+              - link "Mobile wallpaper" [ref=f27e819] [cursor=pointer]:
+                - /url: /search/mobile%20wallpaper/
+              - link "Dark photos" [ref=f27e820] [cursor=pointer]:
+                - /url: /search/dark/
+              - link "Black and white photography" [ref=f27e821] [cursor=pointer]:
+                - /url: /search/black%20and%20white/
+              - link "Black background" [ref=f27e822] [cursor=pointer]:
+                - /url: /search/black%20background/
+              - link "Sunset photos" [ref=f27e823] [cursor=pointer]:
+                - /url: /search/sunset/
+              - link "Landscape photos" [ref=f27e824] [cursor=pointer]:
+                - /url: /search/landscape/
+              - link "Cat photos" [ref=f27e825] [cursor=pointer]:
+                - /url: /search/cat/
+      - generic [ref=f27e827]:
+        - generic [ref=f27e828]: © 2026 Pexels
+        - generic [ref=f27e830]:
+          - link "Terms of Use" [ref=f27e832] [cursor=pointer]:
+            - /url: /terms-of-service/
+          - link "Privacy Policy" [ref=f27e833] [cursor=pointer]:
+            - /url: /privacy-policy/
+          - link "License" [ref=f27e834] [cursor=pointer]:
+            - /url: /license/
+          - link "Imprint" [ref=f27e835] [cursor=pointer]:
+            - /url: /imprint/
+          - link "Cookies Policy" [ref=f27e836] [cursor=pointer]:
+            - /url: /cookies/
+        - button "English" [ref=f27e839] [cursor=pointer]
+      - separator [ref=f27e844]
+  - alert [ref=f27e845]

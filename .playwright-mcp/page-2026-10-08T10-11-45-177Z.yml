@@ -1,0 +1,315 @@
+- generic [active] [ref=f36e1]:
+  - generic [ref=f36e3]:
+    - navigation [ref=f36e6]:
+      - link [ref=f36e8] [cursor=pointer]:
+        - /url: /
+      - search [ref=f36e13]:
+        - generic [ref=f36e14]:
+          - button "Photos" [ref=f36e16] [cursor=pointer]
+          - searchbox "Search for free photos" [ref=f36e24]
+          - button [ref=f36e26] [cursor=pointer]
+      - generic [ref=f36e30]:
+        - link "Explore" [ref=f36e32] [cursor=pointer]:
+          - /url: /discover/
+        - link "License" [ref=f36e36] [cursor=pointer]:
+          - /url: /license/
+        - button [ref=f36e39] [cursor=pointer]
+        - button "Join" [ref=f36e42] [cursor=pointer]
+    - main [ref=f36e45]:
+      - separator [ref=f36e46]
+      - generic [ref=f36e47]:
+        - main [ref=f36e48]:
+          - separator [ref=f36e49]
+          - generic [ref=f36e50]:
+            - generic [ref=f36e51]:
+              - link [ref=f36e52] [cursor=pointer]:
+                - /url: /@cottonbro/
+                - img "cottonbro studio" [ref=f36e56]
+              - generic [ref=f36e57]:
+                - link [ref=f36e58] [cursor=pointer]:
+                  - /url: /@cottonbro/
+                  - heading "cottonbro studio" [level=5] [ref=f36e59]
+                - paragraph [ref=f36e60]:
+                  - text: 97.2B views
+                  - generic [ref=f36e61]: •
+                  - text: 264.1M downloads
+            - generic [ref=f36e62]:
+              - generic [ref=f36e63]:
+                - link "Add Text" [ref=f36e64] [cursor=pointer]:
+                  - /url: https://www.canva.com/content-partner/?utm_medium=acquisitions&utm_source=pexels&utm_campaign=predownload%20button&utm_content=edit%20in%20canva%20action%3Dadd_text_video&file-url=https%3A%2F%2Fvideos.pexels.com%2Fvideo-files%2F5701761%2F5701761-uhd_2732_1440_25fps.mp4&external-id=5701761&onboarding-flow=add-text-to-photo
+                - link "Convert to GIF" [ref=f36e69] [cursor=pointer]:
+                  - /url: https://www.canva.com/content-partner/?utm_medium=acquisitions&utm_source=pexels&utm_campaign=predownload%20button&utm_content=edit%20in%20canva%20action%3Dconvert_to_gif&file-url=https%3A%2F%2Fvideos.pexels.com%2Fvideo-files%2F5701761%2F5701761-uhd_2732_1440_25fps.mp4&external-id=5701761&onboarding-flow=convert-to-gif
+                - link "Edit" [ref=f36e76] [cursor=pointer]:
+                  - /url: https://www.canva.com/content-partner/?utm_medium=acquisitions&utm_source=pexels&utm_campaign=predownload%20button&utm_content=edit%20in%20canva&file-url=https%3A%2F%2Fvideos.pexels.com%2Fvideo-files%2F5701761%2F5701761-uhd_2732_1440_25fps.mp4&external-id=5701761
+              - generic [ref=f36e83]:
+                - button [ref=f36e84] [cursor=pointer]
+                - button "21" [ref=f36e88] [cursor=pointer]
+                - generic [ref=f36e93]:
+                  - link "Free download" [ref=f36e94] [cursor=pointer]:
+                    - /url: https://www.pexels.com/download/video/5701761/
+                  - button [ref=f36e98] [cursor=pointer]
+          - separator [ref=f36e103]
+        - generic [ref=f36e104]:
+          - generic [ref=f36e111]:
+            - link "cottonbro studio cottonbro studio check out our collections, grouped by topics. your donation creates inspiration😉 hello@omycotton.com" [ref=f36e112] [cursor=pointer]:
+              - /url: /@cottonbro/
+              - img "cottonbro studio" [ref=f36e116]
+              - generic [ref=f36e117]:
+                - heading "cottonbro studio" [level=5] [ref=f36e118]
+                - paragraph [ref=f36e120]:
+                  - generic [ref=f36e121]: check out our collections, grouped by topics. your donation creates inspiration😉 hello@omycotton.com
+            - generic [ref=f36e122]:
+              - button "Follow" [ref=f36e123] [cursor=pointer]
+              - link "Donate" [ref=f36e128] [cursor=pointer]:
+                - /url: https://www.paypal.com/cgi-bin/webscr?business=dasha%40omycotton.com&cmd=_donations&currency_code=USD&item_name=cottonbro+studio+-+Pexels&lc=US&return=https://pexels.com/video/young-woman-with-breast-cancer-awareness-t-shirt-5701761/
+          - generic [ref=f36e132]:
+            - generic [ref=f36e134]:
+              - generic [ref=f36e136]:
+                - paragraph [ref=f36e137]: License
+                - link [ref=f36e138] [cursor=pointer]:
+                  - /url: /license/
+                  - paragraph [ref=f36e139]: Free
+              - generic [ref=f36e142]:
+                - paragraph [ref=f36e143]: Dimensions
+                - paragraph [ref=f36e144]: 4096x2160
+              - generic [ref=f36e145]:
+                - paragraph [ref=f36e146]: Aspect Ratio
+                - paragraph [ref=f36e147]: 256:135
+              - generic [ref=f36e148]:
+                - paragraph [ref=f36e149]: Duration
+                - paragraph [ref=f36e150]: 30:18
+              - generic [ref=f36e151]:
+                - paragraph [ref=f36e152]: Date
+                - paragraph [ref=f36e153]: Oct 26, 2020
+              - generic [ref=f36e154]:
+                - paragraph [ref=f36e155]: Downloads
+                - paragraph [ref=f36e156]: 1.7K
+              - generic [ref=f36e157]:
+                - paragraph [ref=f36e158]: Views
+                - paragraph [ref=f36e159]: 641.6K
+              - generic [ref=f36e160]:
+                - paragraph [ref=f36e161]: Likes
+                - paragraph [ref=f36e162]: "21"
+            - generic [ref=f36e165]:
+              - button "More info" [ref=f36e166] [cursor=pointer]
+              - button "Share" [ref=f36e170] [cursor=pointer]
+              - link "Report media" [ref=f36e174] [cursor=pointer]:
+                - /url: /report/?slug=young-woman-with-breast-cancer-awareness-t-shirt-5701761
+          - generic [ref=f36e178]:
+            - paragraph [ref=f36e179]: Description
+            - heading "Young woman poses in pink for breast cancer awareness." [level=1] [ref=f36e180]
+          - separator [ref=f36e181]
+          - heading "More like this" [level=3] [ref=f36e182]
+          - generic [ref=f36e184]:
+            - link "Breast Cancer" [ref=f36e186] [cursor=pointer]:
+              - /url: /search/videos/breast%20cancer/
+            - link "Breast Cancer Awareness" [ref=f36e189] [cursor=pointer]:
+              - /url: /search/videos/breast%20cancer%20awareness/
+            - link "Breast" [ref=f36e192] [cursor=pointer]:
+              - /url: /search/videos/breast/
+            - link "Woman Dancing" [ref=f36e195] [cursor=pointer]:
+              - /url: /search/videos/woman%20dancing/
+            - link "Woman Standing" [ref=f36e198] [cursor=pointer]:
+              - /url: /search/videos/woman%20standing/
+            - link "Bald" [ref=f36e201] [cursor=pointer]:
+              - /url: /search/videos/bald/
+            - link "Person Standing" [ref=f36e204] [cursor=pointer]:
+              - /url: /search/videos/person%20standing/
+            - link "Person Smiling" [ref=f36e207] [cursor=pointer]:
+              - /url: /search/videos/person%20smiling/
+            - link "Confident Person" [ref=f36e210] [cursor=pointer]:
+              - /url: /search/videos/confident%20person/
+            - img [ref=f36e213] [cursor=pointer]
+          - generic [ref=f36e216]:
+            - generic [ref=f36e218]:
+              - generic [ref=f36e219]:
+                - article [ref=f36e223]:
+                  - link [ref=f36e224] [cursor=pointer]:
+                    - /url: /video/young-woman-with-breast-cancer-awareness-t-shirt-5701755/
+                  - button "Play video preview" [ref=f36e229] [cursor=pointer]
+                - article [ref=f36e237]:
+                  - link [ref=f36e238] [cursor=pointer]:
+                    - /url: /video/young-woman-juggling-5702126/
+                  - button "Play video preview" [ref=f36e243] [cursor=pointer]
+                - article [ref=f36e251]:
+                  - link [ref=f36e252] [cursor=pointer]:
+                    - /url: /video/a-beautiful-woman-dancing-8334867/
+                  - button "Play video preview" [ref=f36e257] [cursor=pointer]
+                - article [ref=f36e265]:
+                  - link [ref=f36e266] [cursor=pointer]:
+                    - /url: /video/young-woman-taking-medicine-5702125/
+                  - button "Play video preview" [ref=f36e271] [cursor=pointer]
+              - generic [ref=f36e276]:
+                - article [ref=f36e280]:
+                  - link [ref=f36e281] [cursor=pointer]:
+                    - /url: /video/young-woman-with-breast-cancer-awareness-t-shirt-5701764/
+                  - button "Play video preview" [ref=f36e286] [cursor=pointer]
+                - article [ref=f36e294]:
+                  - link [ref=f36e295] [cursor=pointer]:
+                    - /url: /video/girl-shaving-her-hair-5700087/
+                  - button "Play video preview" [ref=f36e300] [cursor=pointer]
+                - article [ref=f36e308]:
+                  - link [ref=f36e309] [cursor=pointer]:
+                    - /url: /video/woman-with-one-breast-removed-5701758/
+                  - button "Play video preview" [ref=f36e314] [cursor=pointer]
+                - article [ref=f36e322]:
+                  - link [ref=f36e323] [cursor=pointer]:
+                    - /url: /video/a-woman-smiling-at-the-camera-5700080/
+                  - button "Play video preview" [ref=f36e328] [cursor=pointer]
+              - generic [ref=f36e333]:
+                - generic [ref=f36e335]:
+                  - generic [ref=f36e337]:
+                    - link "Create your own video content with Canva" [ref=f36e338] [cursor=pointer]:
+                      - /url: https://www.canva.com/features/ai-video-generator/?utm_source=pexels&utm_campaign=aigc_pexelscampaign&utm_medium=partner
+                    - link "Create your own video content with Canva" [ref=f36e340] [cursor=pointer]:
+                      - /url: https://www.canva.com/features/ai-video-generator/?utm_source=pexels&utm_campaign=aigc_pexelscampaign&utm_medium=partner
+                    - link "Create your own video content with Canva" [ref=f36e342] [cursor=pointer]:
+                      - /url: https://www.canva.com/features/ai-video-generator/?utm_source=pexels&utm_campaign=aigc_pexelscampaign&utm_medium=partner
+                    - link "Create your own video content with Canva" [ref=f36e344] [cursor=pointer]:
+                      - /url: https://www.canva.com/features/ai-video-generator/?utm_source=pexels&utm_campaign=aigc_pexelscampaign&utm_medium=partner
+                  - link [ref=f36e346] [cursor=pointer]:
+                    - /url: https://www.canva.com/features/ai-video-generator/?utm_source=pexels&utm_campaign=aigc_pexelscampaign&utm_medium=partner
+                    - paragraph [ref=f36e349]: Bring your ideas to life with Canva AI
+                  - link "Get started for free" [ref=f36e350] [cursor=pointer]:
+                    - /url: https://www.canva.com/features/ai-video-generator/?utm_source=pexels&utm_campaign=aigc_pexelscampaign&utm_medium=partner
+                - article [ref=f36e356]:
+                  - link [ref=f36e357] [cursor=pointer]:
+                    - /url: /video/woman-flipping-her-hair-6915738/
+                  - button "Play video preview" [ref=f36e362] [cursor=pointer]
+              - generic [ref=f36e367]:
+                - article [ref=f36e371]:
+                  - link [ref=f36e372] [cursor=pointer]:
+                    - /url: /video/woman-posing-for-camera-6543968/
+                  - button "Play video preview" [ref=f36e377] [cursor=pointer]
+                - article [ref=f36e385]:
+                  - link [ref=f36e386] [cursor=pointer]:
+                    - /url: /video/woman-blowing-a-bubble-gum-6543955/
+                  - button "Play video preview" [ref=f36e391] [cursor=pointer]
+                - article [ref=f36e399]:
+                  - link [ref=f36e400] [cursor=pointer]:
+                    - /url: /video/a-woman-raising-her-hands-8347355/
+                  - button "Play video preview" [ref=f36e405] [cursor=pointer]
+            - button "Load More" [ref=f36e411] [cursor=pointer]
+      - separator [ref=f36e414]
+    - contentinfo [ref=f36e415]:
+      - separator [ref=f36e416]
+      - generic [ref=f36e417]:
+        - generic [ref=f36e418]:
+          - heading "Where stories come together." [level=2] [ref=f36e419]
+          - generic [ref=f36e420]:
+            - link "Download on iOS" [ref=f36e421] [cursor=pointer]:
+              - /url: https://itunes.apple.com/us/app/pexels/id1434330413/
+            - link "Download on Android" [ref=f36e424] [cursor=pointer]:
+              - /url: https://play.google.com/store/apps/details?id=com.pexels.app
+          - list [ref=f36e427]:
+            - listitem [ref=f36e428]:
+              - link "Instagram" [ref=f36e429] [cursor=pointer]:
+                - /url: https://www.instagram.com/pexels/
+            - listitem [ref=f36e432]:
+              - link "Threads" [ref=f36e433] [cursor=pointer]:
+                - /url: https://www.threads.net/@pexels/
+            - listitem [ref=f36e436]:
+              - link "YouTube" [ref=f36e437] [cursor=pointer]:
+                - /url: https://www.youtube.com/pexelsphotos/
+            - listitem [ref=f36e440]:
+              - link "TikTok" [ref=f36e441] [cursor=pointer]:
+                - /url: https://www.tiktok.com/@pexels/
+            - listitem [ref=f36e444]:
+              - link "LinkedIn" [ref=f36e445] [cursor=pointer]:
+                - /url: https://www.linkedin.com/company/pexels/
+            - listitem [ref=f36e448]:
+              - link "X" [ref=f36e449] [cursor=pointer]:
+                - /url: https://x.com/pexels/
+        - generic [ref=f36e452]:
+          - list [ref=f36e453]:
+            - heading "Pexels" [level=3] [ref=f36e454]
+            - listitem [ref=f36e455]:
+              - link "Free Stock Photos" [ref=f36e456] [cursor=pointer]:
+                - /url: /
+            - listitem [ref=f36e457]:
+              - link "Free Videos" [ref=f36e458] [cursor=pointer]:
+                - /url: /videos/
+            - listitem [ref=f36e459]:
+              - link "Popular searches" [ref=f36e460] [cursor=pointer]:
+                - /url: /popular-searches/
+            - listitem [ref=f36e461]:
+              - link "Collections" [ref=f36e462] [cursor=pointer]:
+                - /url: /discover/
+            - listitem [ref=f36e463]:
+              - link "Challenges" [ref=f36e464] [cursor=pointer]:
+                - /url: /challenges/
+            - listitem [ref=f36e465]:
+              - link "Leaderboard" [ref=f36e466] [cursor=pointer]:
+                - /url: /leaderboard/
+            - listitem [ref=f36e467]:
+              - link "Other plugins & apps" [ref=f36e468] [cursor=pointer]:
+                - /url: /pro/
+          - list [ref=f36e469]:
+            - heading "Company" [level=3] [ref=f36e470]
+            - listitem [ref=f36e471]:
+              - link "About" [ref=f36e472] [cursor=pointer]:
+                - /url: /about/
+            - listitem [ref=f36e473]:
+              - link "Blog" [ref=f36e474] [cursor=pointer]:
+                - /url: /blog/
+            - listitem [ref=f36e475]:
+              - link "Help Center" [ref=f36e476] [cursor=pointer]:
+                - /url: https://help.pexels.com/hc/en-us
+            - listitem [ref=f36e477]:
+              - link "Report content" [ref=f36e478] [cursor=pointer]:
+                - /url: /report/
+            - listitem [ref=f36e479]:
+              - link "Become a Hero" [ref=f36e480] [cursor=pointer]:
+                - /url: /hero/
+            - listitem [ref=f36e481]:
+              - link "Partner with Pexels" [ref=f36e482] [cursor=pointer]:
+                - /url: /become-a-partner/
+            - listitem [ref=f36e483]:
+              - link "Image & Video API" [ref=f36e484] [cursor=pointer]:
+                - /url: /api/
+            - listitem [ref=f36e485]: Sign Up
+        - list [ref=f36e486]:
+          - listitem [ref=f36e487]:
+            - heading "Free Stock Photos" [level=3] [ref=f36e488]
+          - listitem [ref=f36e489]:
+            - generic [ref=f36e491]:
+              - link "4K wallpaper" [ref=f36e493] [cursor=pointer]:
+                - /url: /search/4k%20wallpaper/
+              - link "Nature photos" [ref=f36e494] [cursor=pointer]:
+                - /url: /search/nature/
+              - link "Desktop wallpaper" [ref=f36e495] [cursor=pointer]:
+                - /url: /search/desktop%20wallpaper/
+              - link "Flower photos" [ref=f36e496] [cursor=pointer]:
+                - /url: /search/flowers/
+              - link "HD wallpaper" [ref=f36e497] [cursor=pointer]:
+                - /url: /search/hd%20wallpaper/
+              - link "Mobile wallpaper" [ref=f36e498] [cursor=pointer]:
+                - /url: /search/mobile%20wallpaper/
+              - link "Dark photos" [ref=f36e499] [cursor=pointer]:
+                - /url: /search/dark/
+              - link "Black and white photography" [ref=f36e500] [cursor=pointer]:
+                - /url: /search/black%20and%20white/
+              - link "Black background" [ref=f36e501] [cursor=pointer]:
+                - /url: /search/black%20background/
+              - link "Sunset photos" [ref=f36e502] [cursor=pointer]:
+                - /url: /search/sunset/
+              - link "Landscape photos" [ref=f36e503] [cursor=pointer]:
+                - /url: /search/landscape/
+              - link "Cat photos" [ref=f36e504] [cursor=pointer]:
+                - /url: /search/cat/
+      - generic [ref=f36e506]:
+        - generic [ref=f36e507]: © 2026 Pexels
+        - generic [ref=f36e509]:
+          - link "Terms of Use" [ref=f36e511] [cursor=pointer]:
+            - /url: /terms-of-service/
+          - link "Privacy Policy" [ref=f36e512] [cursor=pointer]:
+            - /url: /privacy-policy/
+          - link "License" [ref=f36e513] [cursor=pointer]:
+            - /url: /license/
+          - link "Imprint" [ref=f36e514] [cursor=pointer]:
+            - /url: /imprint/
+          - link "Cookies Policy" [ref=f36e515] [cursor=pointer]:
+            - /url: /cookies/
+        - button "English" [ref=f36e518] [cursor=pointer]
+      - separator [ref=f36e523]
+  - alert [ref=f36e524]

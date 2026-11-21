@@ -1,0 +1,188 @@
+{
+  "sample_size": 100,
+  "baseline": {
+    "accuracy": 0.72,
+    "sensitivity": 0.0
+  },
+  "experiments": {
+    "Brightness Shift": [
+      {
+        "step": "Darken (-30%)",
+        "accuracy": 0.73,
+        "sensitivity": 0.0,
+        "acc_drop": -0.01,
+        "mean_prob_shift": 0.2162,
+        "prediction_flips": 31,
+        "flip_rate_pct": 31.0
+      },
+      {
+        "step": "Darken (-15%)",
+        "accuracy": 0.84,
+        "sensitivity": 0.0,
+        "acc_drop": -0.12,
+        "mean_prob_shift": 0.2103,
+        "prediction_flips": 28,
+        "flip_rate_pct": 28.0
+      },
+      {
+        "step": "Baseline (100%)",
+        "accuracy": 0.72,
+        "sensitivity": 0.0,
+        "acc_drop": 0.0,
+        "mean_prob_shift": 0.0,
+        "prediction_flips": 0,
+        "flip_rate_pct": 0.0
+      },
+      {
+        "step": "Brighten (+15%)",
+        "accuracy": 0.92,
+        "sensitivity": 0.0,
+        "acc_drop": -0.2,
+        "mean_prob_shift": 0.2145,
+        "prediction_flips": 30,
+        "flip_rate_pct": 30.0
+      },
+      {
+        "step": "Brighten (+30%)",
+        "accuracy": 0.82,
+        "sensitivity": 0.0,
+        "acc_drop": -0.1,
+        "mean_prob_shift": 0.2254,
+        "prediction_flips": 38,
+        "flip_rate_pct": 38.0
+      }
+    ],
+    "Contrast Variation": [
+      {
+        "step": "Low Contrast (0.6x)",
+        "accuracy": 0.65,
+        "sensitivity": 0.0,
+        "acc_drop": 0.07,
+        "mean_prob_shift": 0.2148,
+        "prediction_flips": 29,
+        "flip_rate_pct": 29.0
+      },
+      {
+        "step": "Mild Contrast (0.8x)",
+        "accuracy": 0.79,
+        "sensitivity": 0.0,
+        "acc_drop": -0.07,
+        "mean_prob_shift": 0.2138,
+        "prediction_flips": 35,
+        "flip_rate_pct": 35.0
+      },
+      {
+        "step": "Baseline (1.0x)",
+        "accuracy": 0.72,
+        "sensitivity": 0.0,
+        "acc_drop": 0.0,
+        "mean_prob_shift": 0.0,
+        "prediction_flips": 0,
+        "flip_rate_pct": 0.0
+      },
+      {
+        "step": "High Contrast (1.2x)",
+        "accuracy": 0.92,
+        "sensitivity": 0.0,
+        "acc_drop": -0.2,
+        "mean_prob_shift": 0.2184,
+        "prediction_flips": 30,
+        "flip_rate_pct": 30.0
+      },
+      {
+        "step": "Extreme Contrast (1.4x)",
+        "accuracy": 0.77,
+        "sensitivity": 0.0,
+        "acc_drop": -0.05,
+        "mean_prob_shift": 0.227,
+        "prediction_flips": 35,
+        "flip_rate_pct": 35.0
+      }
+    ],
+    "Detector Gaussian Noise": [
+      {
+        "step": "None (sigma=0)",
+        "accuracy": 0.72,
+        "sensitivity": 0.0,
+        "acc_drop": 0.0,
+        "mean_prob_shift": 0.0,
+        "prediction_flips": 0,
+        "flip_rate_pct": 0.0
+      },
+      {
+        "step": "Low (sigma=0.03)",
+        "accuracy": 0.96,
+        "sensitivity": 0.0,
+        "acc_drop": -0.24,
+        "mean_prob_shift": 0.2149,
+        "prediction_flips": 28,
+        "flip_rate_pct": 28.0
+      },
+      {
+        "step": "Medium (sigma=0.06)",
+        "accuracy": 0.97,
+        "sensitivity": 0.0,
+        "acc_drop": -0.25,
+        "mean_prob_shift": 0.2145,
+        "prediction_flips": 27,
+        "flip_rate_pct": 27.0
+      },
+      {
+        "step": "High (sigma=0.10)",
+        "accuracy": 1.0,
+        "sensitivity": 0.0,
+        "acc_drop": -0.28,
+        "mean_prob_shift": 0.2138,
+        "prediction_flips": 28,
+        "flip_rate_pct": 28.0
+      },
+      {
+        "step": "Extreme (sigma=0.15)",
+        "accuracy": 0.97,
+        "sensitivity": 0.0,
+        "acc_drop": -0.25,
+        "mean_prob_shift": 0.2146,
+        "prediction_flips": 29,
+        "flip_rate_pct": 29.0
+      }
+    ],
+    "Motion / Optical Blur": [
+      {
+        "step": "Sharp (Baseline)",
+        "accuracy": 0.72,
+        "sensitivity": 0.0,
+        "acc_drop": 0.0,
+        "mean_prob_shift": 0.0,
+        "prediction_flips": 0,
+        "flip_rate_pct": 0.0
+      },
+      {
+        "step": "Mild Blur (kernel=3)",
+        "accuracy": 0.79,
+        "sensitivity": 0.0,
+        "acc_drop": -0.07,
+        "mean_prob_shift": 0.0785,
+        "prediction_flips": 9,
+        "flip_rate_pct": 9.0
+      },
+      {
+        "step": "Medium Blur (kernel=5)",
+        "accuracy": 0.82,
+        "sensitivity": 0.0,
+        "acc_drop": -0.1,
+        "mean_prob_shift": 0.1499,
+        "prediction_flips": 14,
+        "flip_rate_pct": 14.0
+      },
+      {
+        "step": "Heavy Blur (kernel=7)",
+        "accuracy": 0.79,
+        "sensitivity": 0.0,
+        "acc_drop": -0.07,
+        "mean_prob_shift": 0.1659,
+        "prediction_flips": 19,
+        "flip_rate_pct": 19.0
+      }
+    ]
+  }
+}

@@ -1,0 +1,324 @@
+- generic [active] [ref=f73e1]:
+  - generic [ref=f73e3]:
+    - navigation [ref=f73e6]:
+      - link [ref=f73e8] [cursor=pointer]:
+        - /url: /
+      - search [ref=f73e13]:
+        - generic [ref=f73e14]:
+          - button "Photos" [ref=f73e16] [cursor=pointer]
+          - searchbox "Search for free photos" [ref=f73e24]
+          - button [ref=f73e26] [cursor=pointer]
+      - generic [ref=f73e30]:
+        - link "Explore" [ref=f73e32] [cursor=pointer]:
+          - /url: /discover/
+        - link "License" [ref=f73e36] [cursor=pointer]:
+          - /url: /license/
+        - button [ref=f73e39] [cursor=pointer]
+        - button "Join" [ref=f73e42] [cursor=pointer]
+    - main [ref=f73e45]:
+      - separator [ref=f73e46]
+      - generic [ref=f73e47]:
+        - main [ref=f73e48]:
+          - separator [ref=f73e49]
+          - generic [ref=f73e50]:
+            - generic [ref=f73e51]:
+              - link [ref=f73e52] [cursor=pointer]:
+                - /url: /@tima-miroshnichenko/
+                - img "Tima Miroshnichenko" [ref=f73e56]
+              - generic [ref=f73e57]:
+                - link [ref=f73e58] [cursor=pointer]:
+                  - /url: /@tima-miroshnichenko/
+                  - heading "Tima Miroshnichenko" [level=5] [ref=f73e59]
+                - paragraph [ref=f73e60]:
+                  - text: 22.6B views
+                  - generic [ref=f73e61]: •
+                  - text: 80.5M downloads
+            - generic [ref=f73e62]:
+              - generic [ref=f73e63]:
+                - link "Add Text" [ref=f73e64] [cursor=pointer]:
+                  - /url: https://www.canva.com/content-partner/?utm_medium=acquisitions&utm_source=pexels&utm_campaign=predownload%20button&utm_content=edit%20in%20canva%20action%3Dadd_text_video&file-url=https%3A%2F%2Fvideos.pexels.com%2Fvideo-files%2F5453588%2F5453588-uhd_2560_1440_25fps.mp4&external-id=5453588&onboarding-flow=add-text-to-photo
+                - link "Convert to GIF" [ref=f73e69] [cursor=pointer]:
+                  - /url: https://www.canva.com/content-partner/?utm_medium=acquisitions&utm_source=pexels&utm_campaign=predownload%20button&utm_content=edit%20in%20canva%20action%3Dconvert_to_gif&file-url=https%3A%2F%2Fvideos.pexels.com%2Fvideo-files%2F5453588%2F5453588-uhd_2560_1440_25fps.mp4&external-id=5453588&onboarding-flow=convert-to-gif
+                - link "Edit" [ref=f73e76] [cursor=pointer]:
+                  - /url: https://www.canva.com/content-partner/?utm_medium=acquisitions&utm_source=pexels&utm_campaign=predownload%20button&utm_content=edit%20in%20canva&file-url=https%3A%2F%2Fvideos.pexels.com%2Fvideo-files%2F5453588%2F5453588-uhd_2560_1440_25fps.mp4&external-id=5453588
+              - generic [ref=f73e83]:
+                - button [ref=f73e84] [cursor=pointer]
+                - button "26" [ref=f73e88] [cursor=pointer]
+                - generic [ref=f73e93]:
+                  - link "Free download" [ref=f73e94] [cursor=pointer]:
+                    - /url: https://www.pexels.com/download/video/5453588/
+                  - button [ref=f73e98] [cursor=pointer]
+          - separator [ref=f73e103]
+        - generic [ref=f73e104]:
+          - region "video player" [ref=f73e113]:
+            - generic:
+              - generic:
+                - generic:
+                  - button "pause"
+              - generic:
+                - generic [ref=f73e118] [cursor=pointer]:
+                  - slider "seek" [ref=f73e122]: "0"
+                  - generic: en 0:00
+                - generic [ref=f73e123]:
+                  - generic:
+                    - button "pause" [ref=f73e124] [cursor=pointer]:
+                      - generic [ref=f73e132]:
+                        - generic [aria-hidden]:
+                          - generic: Pause
+                    - button "playback time" [ref=f73e133]: 0:00 / 0:17
+                    - button "Playback rate 1" [ref=f73e135] [cursor=pointer]:
+                      - generic: 1x
+                      - generic [ref=f73e136]:
+                        - generic [aria-hidden]: Playback rate
+                    - button "enter fullscreen mode" [ref=f73e137] [cursor=pointer]:
+                      - generic [ref=f73e144]:
+                        - generic [aria-hidden]:
+                          - generic: Enter fullscreen mode
+          - generic [ref=f73e146]:
+            - link "Tima Miroshnichenko Tima Miroshnichenko We distribute and create datasets for AI training 📹" [ref=f73e147] [cursor=pointer]:
+              - /url: /@tima-miroshnichenko/
+              - img "Tima Miroshnichenko" [ref=f73e151]
+              - generic [ref=f73e152]:
+                - heading "Tima Miroshnichenko" [level=5] [ref=f73e153]
+                - paragraph [ref=f73e155]:
+                  - generic [ref=f73e156]: We distribute and create datasets for AI training 📹
+            - generic [ref=f73e157]:
+              - button "Follow" [ref=f73e158] [cursor=pointer]
+              - link "Donate" [ref=f73e163] [cursor=pointer]:
+                - /url: https://www.paypal.com/cgi-bin/webscr?business=phillipsteshuk%40gmail.com&cmd=_donations&currency_code=USD&item_name=Tima+Miroshnichenko+-+Pexels&lc=US&return=https://pexels.com/video/young-doctor-looking-at-x-ray-image-5453588/
+          - generic [ref=f73e167]:
+            - generic [ref=f73e169]:
+              - generic [ref=f73e171]:
+                - paragraph [ref=f73e172]: License
+                - link [ref=f73e173] [cursor=pointer]:
+                  - /url: /license/
+                  - paragraph [ref=f73e174]: Free
+              - generic [ref=f73e177]:
+                - paragraph [ref=f73e178]: Dimensions
+                - paragraph [ref=f73e179]: 3840x2160
+              - generic [ref=f73e180]:
+                - paragraph [ref=f73e181]: Aspect Ratio
+                - paragraph [ref=f73e182]: 16:9
+              - generic [ref=f73e183]:
+                - paragraph [ref=f73e184]: Duration
+                - paragraph [ref=f73e185]: 30:18
+              - generic [ref=f73e186]:
+                - paragraph [ref=f73e187]: Date
+                - paragraph [ref=f73e188]: Sep 26, 2020
+              - generic [ref=f73e189]:
+                - paragraph [ref=f73e190]: Downloads
+                - paragraph [ref=f73e191]: 3.6K
+              - generic [ref=f73e192]:
+                - paragraph [ref=f73e193]: Views
+                - paragraph [ref=f73e194]: 1.3M
+              - generic [ref=f73e195]:
+                - paragraph [ref=f73e196]: Likes
+                - paragraph [ref=f73e197]: "26"
+            - generic [ref=f73e200]:
+              - button "More info" [ref=f73e201] [cursor=pointer]
+              - button "Share" [ref=f73e205] [cursor=pointer]
+              - link "Report media" [ref=f73e209] [cursor=pointer]:
+                - /url: /report/?slug=young-doctor-looking-at-x-ray-image-5453588
+          - generic [ref=f73e213]:
+            - paragraph [ref=f73e214]: Description
+            - heading "Doctor examines X-ray in a modern clinic; healthcare diagnosis focus." [level=1] [ref=f73e215]
+          - separator [ref=f73e216]
+          - heading "More like this" [level=3] [ref=f73e217]
+          - generic [ref=f73e219]:
+            - link "Radiology" [ref=f73e221] [cursor=pointer]:
+              - /url: /search/videos/radiology/
+            - link "Male Doctor" [ref=f73e224] [cursor=pointer]:
+              - /url: /search/videos/male%20doctor/
+          - generic [ref=f73e228]:
+            - generic [ref=f73e230]:
+              - generic [ref=f73e231]:
+                - article [ref=f73e235]:
+                  - link [ref=f73e236] [cursor=pointer]:
+                    - /url: /video/male-doctor-holding-x-ray-film-5453580/
+                  - button "Play video preview" [ref=f73e241] [cursor=pointer]
+                - article [ref=f73e249]:
+                  - link [ref=f73e250] [cursor=pointer]:
+                    - /url: /video/doctors-looking-at-an-xray-6130031/
+                  - button "Play video preview" [ref=f73e255] [cursor=pointer]
+                - article [ref=f73e263]:
+                  - link [ref=f73e264] [cursor=pointer]:
+                    - /url: /video/doctor-looking-at-an-x-ray-4316873/
+                  - button "Play video preview" [ref=f73e269] [cursor=pointer]
+                - article [ref=f73e277]:
+                  - link [ref=f73e278] [cursor=pointer]:
+                    - /url: /video/doctor-health-stethoscope-patient-4352123/
+                  - button "Play video preview" [ref=f73e283] [cursor=pointer]
+              - generic [ref=f73e288]:
+                - article [ref=f73e292]:
+                  - link [ref=f73e293] [cursor=pointer]:
+                    - /url: /video/man-looking-at-the-x-ray-result-5453579/
+                  - button "Play video preview" [ref=f73e298] [cursor=pointer]
+                - article [ref=f73e306]:
+                  - link [ref=f73e307] [cursor=pointer]:
+                    - /url: /video/female-doctor-looking-at-an-x-ray-4316922/
+                  - button "Play video preview" [ref=f73e312] [cursor=pointer]
+                - article [ref=f73e320]:
+                  - link [ref=f73e321] [cursor=pointer]:
+                    - /url: /video/young-doctors-discussing-x-ray-5453592/
+                  - button "Play video preview" [ref=f73e326] [cursor=pointer]
+                - article [ref=f73e334]:
+                  - link [ref=f73e335] [cursor=pointer]:
+                    - /url: /video/doctors-checking-an-x-ray-film-4352122/
+                  - button "Play video preview" [ref=f73e340] [cursor=pointer]
+              - generic [ref=f73e345]:
+                - generic [ref=f73e347]:
+                  - generic [ref=f73e349]:
+                    - link "Create your own video content with Canva" [ref=f73e350] [cursor=pointer]:
+                      - /url: https://www.canva.com/features/ai-video-generator/?utm_source=pexels&utm_campaign=aigc_pexelscampaign&utm_medium=partner
+                    - link "Create your own video content with Canva" [ref=f73e352] [cursor=pointer]:
+                      - /url: https://www.canva.com/features/ai-video-generator/?utm_source=pexels&utm_campaign=aigc_pexelscampaign&utm_medium=partner
+                    - link "Create your own video content with Canva" [ref=f73e354] [cursor=pointer]:
+                      - /url: https://www.canva.com/features/ai-video-generator/?utm_source=pexels&utm_campaign=aigc_pexelscampaign&utm_medium=partner
+                    - link "Create your own video content with Canva" [ref=f73e356] [cursor=pointer]:
+                      - /url: https://www.canva.com/features/ai-video-generator/?utm_source=pexels&utm_campaign=aigc_pexelscampaign&utm_medium=partner
+                  - link [ref=f73e358] [cursor=pointer]:
+                    - /url: https://www.canva.com/features/ai-video-generator/?utm_source=pexels&utm_campaign=aigc_pexelscampaign&utm_medium=partner
+                    - paragraph [ref=f73e361]: Bring your ideas to life with Canva AI
+                  - link "Get started for free" [ref=f73e362] [cursor=pointer]:
+                    - /url: https://www.canva.com/features/ai-video-generator/?utm_source=pexels&utm_campaign=aigc_pexelscampaign&utm_medium=partner
+                - article [ref=f73e368]:
+                  - link [ref=f73e369] [cursor=pointer]:
+                    - /url: /video/doctor-looking-at-an-mri-4316872/
+                  - button "Play video preview" [ref=f73e374] [cursor=pointer]
+              - generic [ref=f73e379]:
+                - article [ref=f73e383]:
+                  - link [ref=f73e384] [cursor=pointer]:
+                    - /url: /video/a-woman-checking-on-x-ray-film-4352129/
+                  - button "Play video preview" [ref=f73e389] [cursor=pointer]
+                - article [ref=f73e397]:
+                  - link [ref=f73e398] [cursor=pointer]:
+                    - /url: /video/female-doctor-looking-at-an-x-ray-4316868/
+                  - button "Play video preview" [ref=f73e403] [cursor=pointer]
+                - article [ref=f73e411]:
+                  - link [ref=f73e412] [cursor=pointer]:
+                    - /url: /video/a-person-checking-x-ray-film-6036766/
+                  - button "Play video preview" [ref=f73e417] [cursor=pointer]
+            - button "Load More" [ref=f73e423] [cursor=pointer]
+      - separator [ref=f73e426]
+    - contentinfo [ref=f73e427]:
+      - separator [ref=f73e428]
+      - generic [ref=f73e429]:
+        - generic [ref=f73e430]:
+          - heading "Where stories come together." [level=2] [ref=f73e431]
+          - generic [ref=f73e432]:
+            - link "Download on iOS" [ref=f73e433] [cursor=pointer]:
+              - /url: https://itunes.apple.com/us/app/pexels/id1434330413/
+            - link "Download on Android" [ref=f73e436] [cursor=pointer]:
+              - /url: https://play.google.com/store/apps/details?id=com.pexels.app
+          - list [ref=f73e439]:
+            - listitem [ref=f73e440]:
+              - link "Instagram" [ref=f73e441] [cursor=pointer]:
+                - /url: https://www.instagram.com/pexels/
+            - listitem [ref=f73e444]:
+              - link "Threads" [ref=f73e445] [cursor=pointer]:
+                - /url: https://www.threads.net/@pexels/
+            - listitem [ref=f73e448]:
+              - link "YouTube" [ref=f73e449] [cursor=pointer]:
+                - /url: https://www.youtube.com/pexelsphotos/
+            - listitem [ref=f73e452]:
+              - link "TikTok" [ref=f73e453] [cursor=pointer]:
+                - /url: https://www.tiktok.com/@pexels/
+            - listitem [ref=f73e456]:
+              - link "LinkedIn" [ref=f73e457] [cursor=pointer]:
+                - /url: https://www.linkedin.com/company/pexels/
+            - listitem [ref=f73e460]:
+              - link "X" [ref=f73e461] [cursor=pointer]:
+                - /url: https://x.com/pexels/
+        - generic [ref=f73e464]:
+          - list [ref=f73e465]:
+            - heading "Pexels" [level=3] [ref=f73e466]
+            - listitem [ref=f73e467]:
+              - link "Free Stock Photos" [ref=f73e468] [cursor=pointer]:
+                - /url: /
+            - listitem [ref=f73e469]:
+              - link "Free Videos" [ref=f73e470] [cursor=pointer]:
+                - /url: /videos/
+            - listitem [ref=f73e471]:
+              - link "Popular searches" [ref=f73e472] [cursor=pointer]:
+                - /url: /popular-searches/
+            - listitem [ref=f73e473]:
+              - link "Collections" [ref=f73e474] [cursor=pointer]:
+                - /url: /discover/
+            - listitem [ref=f73e475]:
+              - link "Challenges" [ref=f73e476] [cursor=pointer]:
+                - /url: /challenges/
+            - listitem [ref=f73e477]:
+              - link "Leaderboard" [ref=f73e478] [cursor=pointer]:
+                - /url: /leaderboard/
+            - listitem [ref=f73e479]:
+              - link "Other plugins & apps" [ref=f73e480] [cursor=pointer]:
+                - /url: /pro/
+          - list [ref=f73e481]:
+            - heading "Company" [level=3] [ref=f73e482]
+            - listitem [ref=f73e483]:
+              - link "About" [ref=f73e484] [cursor=pointer]:
+                - /url: /about/
+            - listitem [ref=f73e485]:
+              - link "Blog" [ref=f73e486] [cursor=pointer]:
+                - /url: /blog/
+            - listitem [ref=f73e487]:
+              - link "Help Center" [ref=f73e488] [cursor=pointer]:
+                - /url: https://help.pexels.com/hc/en-us
+            - listitem [ref=f73e489]:
+              - link "Report content" [ref=f73e490] [cursor=pointer]:
+                - /url: /report/
+            - listitem [ref=f73e491]:
+              - link "Become a Hero" [ref=f73e492] [cursor=pointer]:
+                - /url: /hero/
+            - listitem [ref=f73e493]:
+              - link "Partner with Pexels" [ref=f73e494] [cursor=pointer]:
+                - /url: /become-a-partner/
+            - listitem [ref=f73e495]:
+              - link "Image & Video API" [ref=f73e496] [cursor=pointer]:
+                - /url: /api/
+            - listitem [ref=f73e497]: Sign Up
+        - list [ref=f73e498]:
+          - listitem [ref=f73e499]:
+            - heading "Free Stock Photos" [level=3] [ref=f73e500]
+          - listitem [ref=f73e501]:
+            - generic [ref=f73e503]:
+              - link "4K wallpaper" [ref=f73e505] [cursor=pointer]:
+                - /url: /search/4k%20wallpaper/
+              - link "Nature photos" [ref=f73e506] [cursor=pointer]:
+                - /url: /search/nature/
+              - link "Desktop wallpaper" [ref=f73e507] [cursor=pointer]:
+                - /url: /search/desktop%20wallpaper/
+              - link "Flower photos" [ref=f73e508] [cursor=pointer]:
+                - /url: /search/flowers/
+              - link "HD wallpaper" [ref=f73e509] [cursor=pointer]:
+                - /url: /search/hd%20wallpaper/
+              - link "Mobile wallpaper" [ref=f73e510] [cursor=pointer]:
+                - /url: /search/mobile%20wallpaper/
+              - link "Dark photos" [ref=f73e511] [cursor=pointer]:
+                - /url: /search/dark/
+              - link "Black and white photography" [ref=f73e512] [cursor=pointer]:
+                - /url: /search/black%20and%20white/
+              - link "Black background" [ref=f73e513] [cursor=pointer]:
+                - /url: /search/black%20background/
+              - link "Sunset photos" [ref=f73e514] [cursor=pointer]:
+                - /url: /search/sunset/
+              - link "Landscape photos" [ref=f73e515] [cursor=pointer]:
+                - /url: /search/landscape/
+              - link "Cat photos" [ref=f73e516] [cursor=pointer]:
+                - /url: /search/cat/
+      - generic [ref=f73e518]:
+        - generic [ref=f73e519]: © 2026 Pexels
+        - generic [ref=f73e521]:
+          - link "Terms of Use" [ref=f73e523] [cursor=pointer]:
+            - /url: /terms-of-service/
+          - link "Privacy Policy" [ref=f73e524] [cursor=pointer]:
+            - /url: /privacy-policy/
+          - link "License" [ref=f73e525] [cursor=pointer]:
+            - /url: /license/
+          - link "Imprint" [ref=f73e526] [cursor=pointer]:
+            - /url: /imprint/
+          - link "Cookies Policy" [ref=f73e527] [cursor=pointer]:
+            - /url: /cookies/
+        - button "English" [ref=f73e530] [cursor=pointer]
+      - separator [ref=f73e535]
+  - alert [ref=f73e536]
